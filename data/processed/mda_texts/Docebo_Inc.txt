@@ -1,0 +1,3425 @@
+# Docebo Inc.
+# 来源：Annual MD&A - English.pdf (27c8106deba3a333)
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF 
+OPERATIONS FOR THE YEAR ENDED DECEMBER 31, 2022
+
+As used in this management’s discussion and analysis of financial condition and results of operations (“MD&A”), 
+unless  the  context  indicates  or  requires  otherwise,  all  references  to  the  “Company”,  “Docebo”,  “we”,  “us”  or 
+“our” refer to Docebo Inc., together with our subsidiaries, on a consolidated basis as constituted on December 31, 
+2022.
+
+This  MD&A  for  the  fourth  quarter  and  fiscal  years  ended  December  31,  2022  and  2021  should  be  read  in 
+conjunction with the Company’s audited consolidated financial statements and accompanying notes thereto for the 
+fourth  quarter  and  fiscal  years  ended  December  31,  2022  and  2021.  The  financial  information  presented  in  this 
+MD&A is derived from the Company’s audited consolidated financial statements for the fiscal year ended December 
+31,  2022  and  2021  which  have  been  prepared  in  accordance  with  International  Financial  Reporting  Standards 
+(“IFRS”)  as  issued  by  the  International  Accounting  Standards  Board  (“IASB”).  All  amounts  are  in  thousands  of 
+United States dollars except where otherwise indicated.
+
+This MD&A is dated as of March 8, 2023.
+
+Forward-looking Information
+
+This  MD&A  contains  “forward-looking  information”  and  “forward-looking  statements”  (collectively,  “forward-
+looking information”) within the meaning of applicable securities laws. Forward-looking information may relate to 
+our future financial outlook and anticipated events or results and may include information regarding our financial 
+position, business strategy, the ongoing impact of COVID-19, the war in Ukraine and inflation, including actions of 
+Central banks to contain it, on our business, growth strategies, addressable markets, budgets, operations, financial 
+results, taxes, dividend policy, plans and objectives. Particularly, information regarding our expectations of future 
+results,  performance,  achievements,  prospects  or  opportunities  or  the  markets  in  which  we  operate  is  forward-
+looking information.
+
+In  some  cases,  forward-looking  information  can  be  identified  by  the  use  of  forward-looking  terminology  such  as 
+“plans”,  “targets”,  “expects”,  “is  expected”,  “an  opportunity  exists”,  “budget”,  “scheduled”,  “estimates”, 
+“outlook”, “forecasts”, “projection”, “prospects”, “strategy”, “intends”, “anticipates”, “believes”, or variations 
+of such words and phrases or statements that certain actions, events or results “may”, “could”, “would”, “might” 
+or, “will”, “occur” or “be achieved”, and similar words or the negative of these terms and similar terminology. In 
+addition, any statements that refer to expectations, intentions, projections or other characterizations of future events 
+or circumstances contain forward-looking information. Statements containing forward-looking information are not 
+historical facts but instead represent management’s expectations, estimates and projections regarding future events 
+or circumstances.
+
+This  forward-looking  information  includes,  but  is  not  limited  to,  statements  regarding  the  Company’s  business; 
+future  financial  position  and  business  strategy;  the  learning  management  industry;  our  growth  rates  and  growth 
+strategies; addressable markets for our solutions; the achievement of advances in and expansion of our platform; 
+expectations regarding our revenue and the revenue generation potential of our platform and other products; our 
+business  plans  and  strategies;  and  our  competitive  position  in  our  industry.  This  forward-looking  information  is 
+based  on  our  opinions,  estimates  and  assumptions  in  light  of  our  experience  and  perception  of  historical  trends, 
+current  conditions  and  expected  future  developments,  as  well  as  other  factors  that  we  currently  believe  are 
+appropriate  and  reasonable  in  the  circumstances.  Despite  a  careful  process  to  prepare  and  review  the  forward-
+looking information, there can be no assurance that the underlying opinions, estimates and assumptions will prove 
+to  be  correct.  Certain  assumptions  include:  our  ability  to  build  our  market  share  and  enter  new  markets  and 
+industry  verticals;  our  ability  to  attract  and  retain  key  personnel;  our  ability  to  maintain  and  expand  geographic 
+scope; our ability to execute on our expansion plans; our ability to continue investing in infrastructure to support 
+our  growth;  our  ability  to  obtain  and  maintain  existing  financing  on  acceptable  terms;  our  ability  to  execute  on 
+profitability  initiatives;  currency  exchange  and  interest  rates;  the  impact  of  inflation  and  global  macroeconomic 
+conditions;  the  impact  of  competition;  the  severity,  duration  and  impacts  of  COVID-19  on  the  economy  and  our 
+business; our ability to respond to the changes and trends in our industry or the global economy; and the changes in 
+
+1
+
+laws, rules, regulations, and global standards are material factors made in preparing forward-looking information 
+and management’s expectations. 
+
+Forward-looking information is necessarily based on a number of opinions, estimates and assumptions that, while 
+considered by the Company to be appropriate and reasonable as of the date of this MD&A, are subject to known 
+and unknown risks, uncertainties, assumptions and other factors that may cause the actual results, level of activity, 
+performance  or  achievements  to  be  materially  different  from  those  expressed  or  implied  by  such  forward-looking 
+information, including but not limited to:
+
+•
+•
+•
+•
+•
+•
+
+•
+•
+
+•
+
+the Company’s ability to execute its growth strategies;
+the impact of changing conditions in the global corporate e-learning market;
+increasing competition in the global corporate e-learning market in which the Company operates;
+fluctuations in currency exchange rates and volatility in financial markets; 
+changes in the attitudes, financial condition and demand of our target market;
+the  Company’s  ability  to  operate  its  business  and  effectively  manage  its  growth  under  evolving 
+macroeconomic conditions, such as high inflation and recessionary environments;
+developments and changes in applicable laws and regulations;
+fluctuations in the length and complexity of the sales cycle for our platform, especially for sales to larger 
+enterprises; and 
+such other factors discussed in greater detail under the “Risk Factors” section of our Annual Information 
+Form dated March 8, 2023 (“AIF”), which is available under our profile on SEDAR at www.sedar.com. 
+
+If  any  of  these  risks  or  uncertainties  materialize,  or  if  the  opinions,  estimates  or  assumptions  underlying  the 
+forward-looking  information  prove  incorrect,  actual  results  or  future  events  might  vary  materially  from  those 
+anticipated  in  the  forward-looking  information.  The  opinions,  estimates  or  assumptions  referred  to  above  and 
+described in greater detail in “Summary of Factors Affecting our Performance” and in the “Risk Factors” section 
+of our AIF, should be considered carefully by prospective investors.
+
+Although  we  have  attempted  to  identify  important  risk  factors  that  could  cause  actual  results  to  differ  materially 
+from those contained in forward-looking information, there may be other risk factors not presently known to us or 
+that we presently believe are not material that could also cause actual results or future events to differ materially 
+from  those  expressed  in  such  forward-looking  information.  There  can  be  no  assurance  that  such  information  will 
+prove  to  be  accurate,  as  actual  results  and  future  events  could  differ  materially  from  those  anticipated  in  such 
+information. No forward-looking statement is a guarantee of future results. Accordingly, you should not place undue 
+reliance on forward-looking information, which speaks only as of the date made. The forward-looking information 
+contained in this MD&A represents our expectations as of the date specified herein, and are subject to change after 
+such date. However, we disclaim any intention or obligation or undertaking to update or revise any forward-looking 
+information whether as a result of new information, future events or otherwise, except as required under applicable 
+securities laws.
+
+All of the forward-looking information contained in this MD&A is expressly qualified by the foregoing cautionary 
+statements.
+
+Additional information relating to Docebo, including our AIF, can be found on SEDAR at www.sedar.com.
+
+Overview
+
+At Docebo, our mission is to redefine the way enterprises, including their internal and external workforces, partners 
+and  customers,  learn  by  applying  new  technologies  to  the  traditional  corporate  Learning  Management  System 
+(“LMS”) market. Founded in 2005, we provide an easy-to-use, highly configurable and affordable learning platform 
+with the end-to-end capabilities and critical functionality needed to train internal and external workforces, partners 
+and  customers.  Our  solution  allows  our  customers  to  take  control  of  their  desired  training  strategies  and  retain 
+institutional knowledge, while providing efficient course delivery, tracking of learning progress, advanced reporting 
+tools and analytics. Our robust platform helps our customers centralize a broad range of learning materials from peer 
+enterprises and learners into one LMS to expedite and enrich the learning process, increase productivity and grow 
+teams uniformly.
+
+2
+
+Our platform is now used by almost 3,400 companies of all sizes, providing access to learners situated around the 
+world  in  a  variety  of  languages.  Our  clients  range  from  select  small  local  businesses,  with  a  focus  on  mid-sized 
+enterprises,  to  large  multi-nationals,  including  service,  financial,  technology  and  resource-based  companies  and 
+consulting  firms.  We  have  registered  offices  in  Toronto,  Canada,  Athens,  Georgia  (USA),  Biassono,  Italy,  Dubai, 
+United  Arab  Emirates,  London,  England,  Paris,  France,  Frankfurt,  Germany,  Melbourne,  Australia,  and  Dublin, 
+Ireland. Our platform is sold primarily through a direct sales force located in several of these offices. We also have 
+some relationships with resellers and other channel partners, such as human resource and payroll services providers.
+
+Docebo  offers  a  learning  suite  which  currently  includes:  (i)  “Docebo  Learn  LMS”,  (ii)  “Docebo  Shape”,  (iii) 
+“Docebo Content”, (iv) “Docebo Learning Impact”, (v) “Docebo Learning Analytics”, (vi) “Docebo Connect” and 
+(vii) “Docebo Flow”. 
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Docebo  Learn  LMS  is  a  cloud-based  learning  platform  that  allows  learning  administrators  to  deliver 
+scalable and flexible personalized learning experiences, from formal training to social learning, to multiple 
+internal, external and blended audiences.
+
+Docebo Shape is an AI-based learning content creation tool that enables users to turn internal and external 
+resources  into  engaging,  multilingual  microlearning  content  to  share  across  their  business  in  minutes, 
+without needing months to master the tool.
+
+Docebo Content allows learning administrators to unlock the industry’s best-learning content and get high-
+quality, off-the-shelf learning content in front of your learners. Learning administrators can select the most 
+impactful  e-learning  content  by  partnering  with  a  Docebo  Content  specialist  to  help  curate  the  right 
+resources.
+
+Docebo Learning Impact is a learning measurement tool that enables learning administrators to prove and 
+improve  the  impact  of  their  training  programs  and  validate  their  company’s  investment  in  learning  with 
+optimized questionnaires, learning benchmarks and actionable next steps.
+
+Docebo Learning Analytics allows learning administrators to prove their learning programs are powering 
+their business; connecting learning data to business results.
+
+Docebo  Connect  enables  organizations  to  seamlessly  connect  Docebo  to  any  custom  tech  stack,  making 
+integrations faster and more effective. 
+
+Docebo  Flow  is  a  product  that  allows  businesses  to  directly  inject  learning  into  other  software 
+environments, helping organizations to create contextual in-product training and learning experience.
+
+Additional  modules  can  also  be  purchased  with  the  LMS  platform  including:  “Docebo  for  Salesforce”,  “Docebo 
+Embed (OEM)”, “Docebo Mobile App Publisher”, “Docebo Extended Enterprise”, and “Docebo Discover, Coach & 
+Share”. Docebo for Salesforce is a native integration that leverages Salesforce’s API and technology architecture to 
+produce  a  learning  experience  that  remains  uniform  no  matter  the  use-case.  Docebo  Embed  (OEM)  eliminates 
+disjointed  learner  experiences,  long  development  cycles  and  ineffective  partner  models  by  allowing  original 
+equipment  manufacturers  (“OEMs”)  to  embed  and  re-sell  the  Docebo  learning  suite  as  a  part  of  their  software, 
+including  HCM,  risk  management  and  retail/hospitality  SaaS  product  suites.  Docebo’s  Mobile  App  Publisher 
+product  allows  companies  to  create  their  own  branded  version  of  the  award-winning  “Docebo  Go.Learn”  mobile 
+learning application and publish it as their own in Apple’s App Store, the Google Play Store or in their own Apple 
+Store for Enterprise. Docebo Extended Enterprise breeds customer education, partner enablement, and retention by 
+allowing customers to train multiple external audiences with a single LMS solution. Lastly, Docebo Discover, Coach 
+& Share enhances the learning experience by going beyond the limits of formal training by bringing social learning 
+into their LMS to create a culture of social learning.
+
+We generate revenue primarily from the provision of access to our platform, which is typically provided on the basis 
+of an annual subscription fee and prepaid on a quarterly or annual basis. We offer our customers the flexibility to 
+
+3
+
+choose annual or multi-year contract terms, with the majority of our enterprise customers choosing three years. This 
+results in a relatively smooth revenue curve with good visibility into near-term revenue growth. We typically enter 
+into subscription agreements with our customers, with pricing based on the number of active users, with minimum 
+user commitment levels, in a measured time period, and the number of modules requested by the customer. Our goal 
+is  to  continue  to  grow  revenues  arising  from  our  existing  customer  base  as  well  as  adding  new  subscription 
+customers to our platform. Our business does not have significant seasonal attributes, although historically the sales 
+in the fourth quarter have tended to be slightly stronger than the first three. The Company operates on a global basis 
+and  for  this  reason  has  decided  to  report  its  consolidated  financial  results  in  U.S.  dollars  notwithstanding  that  the 
+Company’s  functional  currency  is  the  Canadian  dollar.  The  Company  does  not  currently  hedge  its  exposure  to 
+currencies different than its functional currency.
+
+The Company’s shares are listed under the symbol “DCBO” on both the Toronto Stock Exchange, as of October 8, 
+2019,  following  the  completion  of  its  public  offering  in  Canada  (the  “TSX  IPO”)  and  the  Nasdaq  Global  Select 
+Market (the “Nasdaq”), as of December 3, 2020, following the completion of its initial public offering in the United 
+States (the “Nasdaq IPO” and together with the TSX IPO, the “IPOs”).
+
+Non-IFRS Measures and Reconciliation of Non-IFRS Measures
+
+This  MD&A  makes  reference  to  certain  non-IFRS  measures  including  key  performance  indicators  used  by 
+management and typically used by our competitors in the software-as-a-service (“SaaS”) industry. These measures 
+are  not  recognized  measures  under  IFRS  and  do  not  have  a  standardized  meaning  prescribed  by  IFRS  and  are 
+therefore not necessarily comparable to similar measures presented by other companies. Rather, these measures are 
+provided as additional information to complement those IFRS measures by providing further understanding of our 
+results  of  operations  from  management’s  perspective.  Accordingly,  these  measures  should  not  be  considered  in 
+isolation nor as a substitute for analysis of our financial information reported under IFRS. These non-IFRS measures  
+are used to provide investors with alternative measures of our operating performance and liquidity and thus highlight 
+trends in our business that may not otherwise be apparent when relying solely on IFRS measures. We also believe 
+that  securities  analysts,  investors  and  other  interested  parties  frequently  use  non-IFRS  measures,  including  SaaS 
+industry metrics, in the evaluation of companies in the SaaS industry. Management also uses non-IFRS measures to 
+facilitate operating performance comparisons from period to period, the preparation of annual operating budgets and 
+forecasts  and  to  determine  components  of  executive  compensation.  The  non-IFRS  measures  referred  to  in  this 
+MD&A include “Annual Recurring Revenue”, “Average Contract Value”, “Net Dollar Retention Rate”, “Adjusted 
+EBITDA”, “Adjusted Net Income (Loss)”, “Adjusted Net Income (Loss) per Share - Basic and Diluted” “Working 
+Capital” and “Free Cash Flow”.
+
+Key Performance Indicators
+
+We  recognize  subscription  revenues  ratably  over  the  term  of  the  subscription  period  under  the  provisions  of  our 
+agreements with customers. The terms of our agreements, combined with high customer retention rates, provides us 
+with a significant degree of visibility into our near-term revenues. Management uses a number of metrics, including 
+the ones identified below, to measure the Company’s performance and customer trends, which are used to prepare 
+financial plans and shape future strategy. Our key performance indicators may be calculated in a manner different 
+than similar key performance indicators used by other companies.
+
+•
+
+Annual  Recurring  Revenue:  We  define  Annual  Recurring  Revenue  as  the  annualized  equivalent  value  of  the 
+subscription  revenue  of  all  existing  contracts  (including  OEM  contracts)  as  at  the  date  being  measured, 
+excluding non-recurring revenues from implementation, support and maintenance fees. Our customers generally 
+enter into one to three year contracts which are non-cancellable or cancellable with penalty. Accordingly, our 
+calculation of Annual Recurring Revenue assumes that customers will renew the contractual commitments on a 
+periodic  basis  as  those  commitments  come  up  for  renewal.  Subscription  agreements  may  be  subject  to  price 
+increases upon renewal reflecting both inflationary increases and the additional value provided by our solutions. 
+In addition to the expected increase in subscription revenue from price increases over time, existing customers 
+may  subscribe  for  additional  features,  learners  or  services  during  the  term.  We  believe  that  this  measure 
+provides  a  fair  real-time  measure  of  performance  in  a  subscription-based  environment.  Annual  Recurring 
+Revenue  provides  us  with  visibility  for  consistent  and  predictable  growth  to  our  cash  flows.  Our  strong  total 
+
+4
+
+revenue  growth  coupled  with  increasing  Annual  Recurring  Revenue  indicates  the  continued  strength  in  the 
+expansion of our business and will continue to be our focus on a go-forward basis.
+
+•
+
+•
+
+Average Contract Value: Average Contract Value is calculated as total Annual Recurring Revenue divided by 
+the number of active customers. All references to the number of customers or companies we serve is based on 
+contracted customers, including underlying OEM customers.
+
+Net  Dollar  Retention  Rate:  We  believe  that  our  ability  to  retain  and  expand  a  customer  relationship  is  an 
+indicator of the stability of our revenue base and long-term value of our customers. We assess our performance 
+in this area using a metric we refer to as Net Dollar Retention Rate. We compare the aggregate subscription fees 
+contractually  committed  for  a  full  month  under  all  customer  agreements  (the  “Total  Contractual  Monthly 
+Subscription Revenue”) of our total customer base (excluding OEM partners with revenue share agreements) as 
+of the beginning of each month to the Total Contractual Monthly Subscription Revenue of the same group at the 
+end of the month. The Net Dollar Retention Rate includes the effect, on a dollar-weighted value basis, of our 
+subscriptions  that  expand,  renew,  contract,  or  attrit,  but  excludes  the  Total  Contractual  Monthly  Subscription 
+Revenue from new customers during the years. 
+
+Annual Recurring Revenue, Average Contract Value and Net Dollar Retention Rate for the years ended December 
+31, 2022 and 2021, were as follows:
+
+Annual Recurring Revenue (in millions of US dollars)
+
+Average Contract Value (in thousands of US dollars)
+
+Net Dollar Retention Rate
+
+Adjusted EBITDA
+
+2022
+
+157.1
+
+46.3
+
+109%
+
+2021
+
+117.7
+
+42.0
+
+113%
+
+Change 
+
+Change %
+
+39.4
+
+4.3
+
+(4)%
+
+33.5%
+
+10.2%
+
+(4)%
+
+Adjusted  EBITDA  is  defined  as  net  income  (loss)  excluding  income  taxes,  net  finance  (income)  expense, 
+depreciation  and  amortization,  loss  on  disposal  of  assets  (if  applicable),  share-based  compensation  and  related 
+payroll  taxes,  other  income,  foreign  exchange  gains  and  losses,  acquisition  related  compensation  and  transaction 
+related expenses.
+
+The  IFRS  measure  most  directly  comparable  to  Adjusted  EBITDA  presented  in  our  financial  statements  is  net 
+income (loss).
+
+The following table reconciles Adjusted EBITDA to net income (loss) for the periods indicated:
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+Net income (loss) for the period
+Finance (income) expense, net(1)
+Depreciation and amortization(2)
+
+Income tax expense
+Share-based compensation(3)
+Other income(4)
+Foreign exchange loss (gain)(5)
+Acquisition related compensation(6)
+Transaction related expenses(7)
+Adjusted EBITDA
+
+Adjusted EBITDA as a percentage of total revenue
+
+2022
+
+$
+
+1,600 
+
+(1,835) 
+
+602 
+
+181 
+
+1,089 
+
+(21) 
+
+564 
+
+80 
+
+— 
+
+2,260 
+
+ 5.8 %
+
+2021
+
+$
+
+(1,428) 
+
+(38) 
+
+555 
+
+(1,459) 
+
+599 
+
+(21) 
+
+98 
+
+102 
+
+60 
+
+(1,532) 
+
+ (5.1) %
+
+2022
+
+$
+
+7,018 
+
+(3,512) 
+
+2,333 
+
+764 
+
+4,834 
+
+(85) 
+
+(11,112) 
+
+948 
+
+101 
+
+1,289 
+
+ 0.9 %
+
+2021
+
+$
+
+(13,601) 
+
+65 
+
+2,019 
+
+172 
+
+2,261 
+
+(85) 
+
+473 
+
+408 
+
+319 
+
+(7,969) 
+
+ (7.6) %
+
+(1)
+
+Finance (income) expense, net, is primarily related to interest income earned on the net proceeds from the IPOs as the funds are invested in 
+highly liquid short-term interest-bearing marketable securities which is offset by interest expenses incurred on lease obligations, contingent 
+consideration and the Credit Facility (as defined herein).
+
+5
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Depreciation  and  amortization  expense  is  primarily  related  to  depreciation  expense  on  right-of-use  assets  (“ROU  assets”),  property  and 
+equipment and acquired intangible assets. 
+
+These expenses represent non-cash expenditures recognized in connection with the issuance of share-based compensation to our employees 
+and directors and cash payroll taxes paid on gains earned by option holders when stock options are exercised.
+
+Other income is primarily comprised of rental income from subleasing office space.
+
+These non-cash gains and losses relate to foreign exchange translation. 
+
+These costs represent acquisition related retention incentives associated with the achievement of both yearly performance milestones and 
+continued employment for employees of the acquiree.
+
+These expenses relate to professional, legal, consulting, accounting and other fees related to acquisition activities that would otherwise have 
+not been incurred and are not considered an expense indicative of continuing operations.
+
+Adjusted Net Income (Loss) and Adjusted Income (Loss) per Share - Basic and Diluted
+
+Adjusted Net Income (Loss) is defined as net income (loss) excluding amortization of intangible assets, share-based 
+compensation  and  related  payroll  taxes,  acquisition  related  compensation,  transaction  related  expenses,  foreign 
+exchange loss (gain), and income tax (recovery) expense. 
+
+Adjusted Net Income (Loss) per share - basic and diluted is defined as Adjusted Net Income (Loss) divided by the 
+weighted average number of common shares (basic and diluted).  
+
+The IFRS measure most directly comparable to Adjusted Net Income (Loss) presented in our financial statements is 
+net income (loss).
+
+The following table reconciles net income (loss) to Adjusted Net Income (Loss) for the periods indicated:
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+Net income (loss) for the period
+
+Amortization of intangible assets
+
+Share-based compensation
+
+Acquisition related compensation
+
+Transaction related expenses
+
+Foreign exchange loss (gain)
+Income tax (recovery) expense related to adjustments(1)
+Adjusted net income (loss)
+
+Weighted average number of common shares - basic
+
+Weighted average number of common shares - diluted
+
+Adjusted net income (loss) per share - basic
+
+Adjusted net income (loss) per share - diluted
+(1) 
+
+2022
+
+$
+
+1,600 
+
+81 
+
+1,089 
+
+80 
+
+— 
+
+564 
+
+(24)   
+
+3,390 
+
+2021
+
+$
+
+(1,428) 
+
+91 
+
+599 
+
+102 
+
+60 
+
+98 
+
+15 
+
+(463) 
+
+2022
+
+$
+
+7,018 
+
+333 
+
+4,834 
+
+948 
+
+101 
+
+(11,112)   
+
+174 
+
+2,296 
+
+2021
+
+$
+
+(13,601) 
+
+373 
+
+2,261 
+
+408 
+
+319 
+
+473 
+
+24 
+
+(9,743) 
+
+33,087,982
+
+34,064,465
+
+32,934,282
+
+32,934,282
+
+33,067,716
+
+34,041,754
+
+32,867,801
+
+32,867,801
+
+0.10  
+
+0.10  
+
+(0.01) 
+
+(0.01) 
+
+0.07 
+
+0.07 
+
+(0.30) 
+
+(0.30) 
+
+This line item reflects income tax expense on taxable adjustments using the tax rate of the applicable jurisdiction.
+
+See  “Liquidity,  Capital  Resources  and  Financing  -  Working  Capital”  and  “Liquidity,  Capital  Resources  and 
+Financing - Free Cash Flow” in this MD&A for an explanation of Working Capital and Free Cash Flow (and, in the 
+case of Free Cash Flow, a reconciliation of such measure to the most directly comparable IFRS measure presented in 
+our financial statements). 
+
+Summary of Factors Affecting Our Performance
+
+6
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We believe that the growth and future success of our business depends on many factors, including those described 
+below.  While  each  of  these  factors  presents  significant  opportunities  for  our  business,  they  also  pose  important 
+challenges, some of which are discussed below and in the “Risk Factors” section of the AIF.   
+
+Market adoption of our SaaS platform
+
+We intend to continue to drive adoption of our SaaS platform by scaling our solutions to meet the needs of both new 
+and existing customers. We believe that there is significant potential to increase penetration of our total addressable 
+market  and  attract  new  customers.  We  plan  to  do  this  by  further  developing  our  products  and  services  as  well  as 
+continuing to invest in marketing strategies tailored to attract new businesses to our platform, both in our existing 
+geographies  and  new  markets  around  the  world.  We  plan  to  continue  to  invest  in  our  platform  to  expand  our 
+customer  base  and  drive  market  adoption.  The  success  of  our  operations  may  fluctuate  as  we  make  these 
+investments.
+
+Up-selling with existing customers
+
+Our  existing  customers  represent  a  significant  opportunity  to  up-sell  additional  functionality  with  limited 
+incremental  sales  and  marketing  expense.  We  plan  to  continually  invest  in  product  development  and  sales  and 
+marketing to add additional solutions to our platform as well as increase the usage and awareness of our platform. 
+Our  future  revenue  growth  and  our  ability  to  achieve  and  maintain  profitability  is  dependent  upon  our  ability  to 
+maintain existing customer relationships and to continue to expand our customers’ use of our platform.
+
+The length and complexity of our sales cycle may fluctuate significantly which could result in significant fluctuations 
+in revenues being recognized from quarter to quarter
+
+The  decision  by  a  customer  to  use  our  platform  may  involve  a  comprehensive  implementation  process  across  the 
+customer's network or networks. As a result, use of our platform and any related professional services may entail a 
+significant  commitment  of  resources  by  prospective  customers,  accompanied  by  the  attendant  risks  and  delays 
+frequently associated with significant technology implementation projects. Given the investment and commitment of 
+resources  required  by  an  organization  to  implement  our  platform,  in  particular  of  larger  enterprise  customers,  our 
+sales  cycle  may  be  longer  compared  to  other  companies  within  our  industry,  as  well  as  companies  in  other 
+industries.  If  there  is  a  reduction  in  information  technology  spending,  due  to  weak  economic  conditions  or 
+otherwise,  it  may  take  several  months,  or  even  several  quarters,  for  marketing  opportunities  to  materialize. 
+Additionally,  due  in  part  to  the  effects  of  the  recent  macroeconomic  uncertainty,  we  have  experienced  and  may 
+continue  to  experience  longer  sales  cycles  for  new  customers  and  existing  customer  expansions,  as  existing  and 
+potential customers have increased scrutiny on information technology spending and budgets.
+
+Scaling our sales and marketing team
+
+Our ability to achieve significant growth in future revenue will largely depend upon the effectiveness of our sales 
+and marketing efforts. The majority of our sales and marketing efforts are accomplished in-house and we believe the 
+strength of our sales and marketing team is critical to our success. We have invested, and intend to continue to invest 
+meaningfully, in the expansion of our sales force and consequently, we anticipate that our headcount will continue to 
+increase as a result of these investments.
+
+Foreign currency
+
+The  Company’s  functional  currency  is  Canadian  dollars,  the  functional  currency  for  our  subsidiaries  is  the  local 
+currency  of  the  country  the  foreign  operation  is  located  in  and  our  presentation  currency  is  the  U.S.  dollar.  Our 
+results of operations are converted from our functional currency to U.S. dollars using the average foreign exchange 
+rates for each period presented. As a result, our results of operations will be adversely impacted by a decrease in the 
+value  of  the  U.S.  dollar  relative  to  the  Euro  and  Canadian  dollar.  See  “Risk  Factors”  section  of  our  AIF  for  a 
+discussion on exchange rate fluctuations and their potential negative effect on our results of operations.
+
+7
+
+Natural disasters, public health crises, political crises, or other catastrophic events
+
+Our  business  and  financial  condition  have  been,  and  we  believe  will  continue  to  be,  impacted  by    adverse  and 
+uncertain macroeconomic conditions, including higher inflation, higher interest rates, and supply chain challenges, 
+and fluctuations or volatility in  capital markets or foreign currency exchange rates, the COVID-19 pandemic, and 
+geopolitical events such as the ongoing conflict between Russia and Ukraine. In particular, we have experienced in 
+certain instances, and we believe we will continue to experience, longer sales cycles or generally increased scrutiny 
+on  spending  from  existing  and  potential  customers  due  to  macroeconomic  uncertainty.  We  cannot  be  certain  how 
+long these uncertain macroeconomic conditions and the resulting effects on our industry, our business strategy, and 
+customers will persist. 
+
+If  we  fail  to  retain  key  employees  or  to  recruit  qualified  technical  and  sales  personnel,  our  business  could  be 
+harmed. 
+
+We  believe  that  our  success  depends  on  the  continued  employment  of  our  senior  management  and  other  key 
+employees. In addition, because our future success is dependent on our ability to continue to enhance and introduce 
+new  platform  features,  we  are  heavily  dependent  on  our  ability  to  attract  and  retain  qualified  personnel  with  the 
+requisite  education,  background,  and  industry  experience.  As  we  expand  our  business,  our  continued  success  will 
+also depend, in part, on our ability to attract and retain qualified sales, marketing, and operational personnel capable 
+of supporting a larger and more diverse customer base. We and our competitors continue to face significant turnover 
+in our employee base. Qualified individuals are in high demand in our industry, and we may incur significant costs 
+to attract and retain them. The loss of the services of a significant number of our technology or sales personnel could 
+be disruptive to our business development efforts or customer relationships. In addition, if any of our key employees 
+join  a  competitor  or  decides  to  otherwise  compete  with  us,  we  may  experience  a  material  disruption  of  our 
+operations  and  business  strategy,  which  may  cause  us  to  lose  customers  or  increase  operating  expenses  and  may 
+divert our attention as we seek to recruit replacements for the departed employees. Further, changes we make to our 
+current  and  future  work  environments  (including  in  connection  with  COVID-19,  such  as  remote  or  in-office 
+environments and health and safety matters) may not meet the needs or expectations of our employees or may be 
+perceived  as  less  favourable  compared  to  other  companies’  policies,  which  could  negatively  impact  our  ability  to 
+hire and retain qualified personnel. Our future work strategy and continued efforts related to employee onboarding, 
+training  and  development  and  retention  may  not  be  successful.  Further,  our  future  work  strategy  is  continuing  to 
+evolve and may not meet the needs of our existing and potential future employees and they may prefer work models 
+offered by other companies.
+
+Key Components of Results of Operations
+
+Docebo  has  always  been  operated  and  managed  as  a  single  economic  entity,  notwithstanding  the  fact  that  it  has 
+operations in several different countries. There is one management team that directs the activities of all aspects of 
+the Company and it is managed globally through global department heads. As a result, we believe that we have one 
+operating segment, being the consolidated company. Over time, this may change as the Company grows and when 
+this occurs we will reflect the change in our reporting practice.  
+
+Revenue
+
+We generate revenue from the following two primary sources:
+
+•
+
+Recurring  Subscriptions  to  Our  Learning  Platform  and  Related  Products.  Our  customers  enter  into 
+agreements that provide for recurring subscription fees. The majority of the customer agreements currently 
+being entered into have a term of one to three years and are non-cancellable or cancellable with penalty. 
+Subscription  revenue  per  contract  will  vary  depending  upon  the  particular  products  that  each  customer 
+subscribes  for,  the  number  and  type  of  learners  intended  to  utilize  the  platform  and  the  term  of  the 
+agreement.  Subscription  revenue  is  typically  recognized  evenly  over  the  enforceable  term  of  a  contract, 
+commencing on the in-service date. 
+
+8
+
+•
+
+Professional Services. Our customers generally require support in implementing our product and training 
+their learners. This support can include system integration, application integration, learner training and any 
+required process-change analysis. Normally, these services are purchased at the same time as the original 
+customer agreement is completed and while they are usually delivered during the 60-120 days immediately 
+following the effective date of the customer agreement, timing can vary. As a result, unlike the recognition 
+of recurring subscription revenue, the recognition of professional service revenue can be recorded unevenly 
+from period to period. When customer agreements are renewed, there is not typically a need for additional 
+professional services so as overall revenue increases over time, the percentage of revenue that is generated 
+from professional services will decrease. Revenues derived from professional services are recognized over 
+the term that the service is provided.
+
+Our  agreements  generally  do  not  contain  any  cancellation  or  refund  provisions  without  penalty,  other  than  in  the 
+case of our default.
+
+Cost of Revenue
+
+Cost of revenue is comprised of costs related to provisioning and hosting our learning platform and related products, 
+the delivery of professional services, and customer support. Significant expenses included in cost of revenue include 
+employee salaries and benefits expenses, web hosting fees, third party service fees, and software costs. Share-based 
+compensation and depreciation and amortization are excluded.
+
+Operating Expenses
+
+Our primary operating expenses are as follows:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+General  and  Administrative.  General  and  administrative  expenses  consist  of  employee  salaries  and  benefits 
+expenses  for  our  finance,  legal,  administrative,  human  resources,  and  information  technology  and  security 
+teams.  These  costs  also  include  consulting  and  professional  service  fees,  transaction  costs  related  to  our 
+acquisitions,  software,  travel,  general  office  and  administrative  expenses,  credit  impairment  losses,  as  well  as 
+public company costs including directors and officers liability insurance.
+
+Sales and Marketing. Sales and marketing expenses are comprised primarily of employee salaries and benefits 
+expenses  for  our  sales  and  marketing  teams,  amortization  of  contract  acquisition  costs,  software,  travel  and 
+advertising and marketing events. We intend to continue to grow our sales and marketing teams to support our 
+growth strategy.
+
+Research and Development. Research and development expenses are comprised primarily of employee salaries 
+and  benefits  for  our  product  and  innovation-related  functions  (net  of  tax  credits),  consulting  and  professional 
+fees, software, travel and web hosting fees. Our research and development team is focused on both continuous 
+improvement of our existing learning platform, as well as developing new product modules and features. In the 
+immediate  future,  as  Docebo’s  growth  continues,  we  expect  our  research  and  development  costs  to  increase 
+proportionately, however, over time we believe it is reasonable to expect that they will decline as a percentage 
+of revenue.
+
+Share-based  Compensation.  Share-based  compensation  expenses  are  comprised  of  the  value  of  stock  options 
+granted to employees expensed over the vesting period of the options, deferred share units (“DSUs”), restricted 
+stock units (“RSUs”) and shares issued pursuant to the Employee Share Purchase Plan (“ESPP”). In addition, 
+the Company’s board of directors may fix, from time to time, a portion of the total compensation (including an 
+annual retainer) paid by the Company to a director in a calendar year for service on the Board (the “Director 
+Fees”) and directors may elect to receive a portion of their total compensation (including cash retainer) in the 
+form of DSUs.
+
+Foreign Exchange (Gain) Loss. Foreign exchange (gain) loss primarily relates to translation of monetary assets 
+and  liabilities  denominated  in  foreign  currencies  being  translated  into  functional  currencies  at  the  foreign 
+exchange rate applicable at the end of each period.
+
+9
+
+•
+
+Depreciation  and  Amortization.  Depreciation  and  amortization  expense  primarily  relates  to  depreciation  on 
+property  and  equipment,  and  amortization  of  ROU  assets  and  intangible  assets.  Property  and  equipment  are 
+comprised  of  furniture  and  office  equipment,  leasehold  improvements  and  land  and  building.  ROU  assets  are 
+comprised of capitalized leases. Intangible assets are comprised of acquired intangible assets.
+
+Other Expenses
+
+•
+
+•
+
+Finance  (Income)  Expense,  net.  These  costs  include  interest  on  lease  obligations,  accretion  of  interest  on 
+contingent consideration, amortization of financing costs and interest on the former credit facility from Toronto-
+Dominion Bank (the “Credit Facility”), bank fees less interest income.
+
+Other Income. Other income is primarily comprised of rental income from subleasing office space.
+
+Results of Operations
+
+The following table outlines our consolidated statements of income (loss) and comprehensive income (loss) for the 
+periods indicated:
+
+Revenue
+
+Cost of revenue 
+
+Gross profit
+
+Operating expenses
+
+General and administrative
+
+Sales and marketing
+
+Research and development
+
+Share-based compensation
+
+Foreign exchange loss (gain)
+
+Depreciation and amortization
+
+Operating (loss) income
+
+Finance income, net
+
+Other income
+
+Income (loss) before income taxes
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+2022
+
+$
+
+38,955 
+
+7,507 
+
+31,448 
+
+7,387 
+
+15,504 
+
+6,377 
+
+1,089 
+
+564 
+
+602 
+
+31,523 
+
+(75)   
+
+(1,835)   
+
+(21)   
+
+1,781 
+
+2021
+
+$
+
+29,801 
+
+6,087 
+
+23,714 
+
+7,265 
+
+12,638 
+
+5,505 
+
+599 
+
+98 
+
+555 
+
+26,660 
+
+(2,946) 
+
+(38) 
+
+(21) 
+
+(2,887) 
+
+2022
+
+$
+
+142,912 
+
+28,178 
+
+114,734 
+
+30,183 
+
+59,654 
+
+24,778 
+
+4,713 
+
+(11,112) 
+
+2,333 
+
+110,549 
+
+4,185 
+
+(3,512) 
+
+(85) 
+
+7,782 
+
+2021
+
+$
+
+104,242 
+
+20,786 
+
+83,456 
+
+28,443 
+
+43,346 
+
+20,363 
+
+2,261 
+
+473 
+
+2,019 
+
+96,905 
+
+(13,449) 
+
+65 
+
+(85) 
+
+(13,429) 
+
+Income tax expense
+
+181 
+
+(1,459) 
+
+764 
+
+172 
+
+Net income (loss) for the year
+
+1,600 
+
+(1,428) 
+
+7,018 
+
+(13,601) 
+
+Other comprehensive (income) loss
+
+Item that may be reclassified subsequently to income:
+
+Exchange (gain) loss on translation of foreign operations
+
+Item not subsequently reclassified to income:
+
+Actuarial (gain) loss
+
+(697)   
+
+(252)   
+
+(949)   
+
+81 
+
+80 
+
+161 
+
+11,936 
+
+(252) 
+
+11,684 
+
+(494) 
+
+80 
+
+(414) 
+
+Comprehensive income (loss)
+
+2,549 
+
+(1,589) 
+
+(4,666) 
+
+(13,187) 
+
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Income (loss) per share - basic
+
+Income (loss) per share - diluted
+
+Weighted average number of common shares outstanding - 
+
+0.05
+
+0.05
+
+(0.04)
+
+(0.04)
+
+0.21
+
+0.21
+
+(0.41)
+
+(0.41)
+
+basic
+
+33,087,982 
+
+32,934,282 
+
+33,067,716 
+
+32,867,801 
+
+Weighted average number of common shares outstanding - 
+
+diluted
+
+34,064,465 
+
+32,934,282 
+
+34,041,754 
+
+32,867,801 
+
+Review of Operations for the three months and fiscal year ended December 31, 2022  
+
+Revenue
+
+Subscription Revenue
+
+Professional Services
+
+Total Revenue
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+2021
+
+Change
+
+Change
+
+2021
+
+Change
+
+Change
+
+2022
+
+$
+
+36,274 
+
+2,681 
+
+38,955 
+
+$
+
+27,460 
+
+2,341 
+
+29,801 
+
+$
+
+8,814 
+
+340 
+
+9,154 
+
+%
+
+2022
+
+$
+
+ 32 %  
+
+131,597 
+
+ 15 %  
+
+11,315 
+
+ 31 %  
+
+142,912 
+
+104,242 
+
+$
+
+95,936 
+
+8,306 
+
+$
+
+35,661 
+
+3,009 
+
+38,670 
+
+%
+
+ 37 %
+
+ 36 %
+
+ 37 %
+
+Total  revenue  increased  by  $9.2  million  or  31%  for  the  three  months  ended  December  31,  2022  compared  to  the 
+three months ended December 31, 2021 and increased by $38.7 million or 37% for the fiscal year ended December 
+31, 2022 compared to the fiscal year ended December 31, 2021. The increase in both periods was primarily due to 
+growth  in  our  customer  base,  as  well  as  up-selling  to  existing  customers,  as  the  number  of  customers  rose  from 
+2,805  as  at  December  31,  2021  to  3,394  as  at  December  31,  2022  and  the  Average  Contract  Value  per  customer 
+increased  from  approximately  $42  thousand  as  at  December  31,  2021  to  approximately  $46  thousand  as  at 
+December  31,  2022.  Average  Contract  Value  is  not  a  recognized  measure  under  IFRS.  See  “Non-IFRS  Measures 
+and Reconciliation of Non-IFRS Measures”.
+
+Subscription revenue increased by $8.8 million or 32% for the three months ended December 31, 2022 compared to 
+the  three  months  ended  December  31,  2021  and  increased  by  $35.7  million  or  37%  for  the  fiscal  year  ended 
+December 31, 2022  compared to the fiscal year ended December 31, 2021. The increase in both periods was due to 
+initial revenues from customers who did not contribute to subscription revenue during the prior period, and growth 
+from existing customers. 
+
+Professional  services  revenue  increased  by  $0.3  million  or  15%  for  the  three  months  ended  December  31,  2022 
+compared to the three months ended December 31, 2021 and increased by $3.0 million or 36% for the fiscal year 
+ended December 31, 2022 compared to the fiscal year ended December 31, 2021. The increase in both periods was 
+primarily  due  to  the  addition  of  new  customers  as  well  as  expanded  adoption  by  existing  customers  where 
+implementation and training services were required. 
+
+Cost of Revenue
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+Cost of revenue
+
+Percentage of total revenue
+
+2022
+
+$
+
+7,507 
+
+ 19.3 %
+
+$
+
+6,087 
+
+ 20.4 %
+
+$
+
+1,420 
+
+%
+
+2022
+
+$
+
+ 23 %  
+
+28,178 
+
+20,786 
+
+ 19.7 %
+
+ 19.9 %
+
+2021
+
+Change
+
+Change
+
+2021
+
+Change
+
+Change
+
+$
+
+$
+
+7,392 
+
+%
+
+ 36 %
+
+Cost of revenue increased by $1.4 million or 23% for the three months ended December 31, 2022 compared to the 
+three months ended December 31, 2021 and increased by $7.4 million or 36% for the fiscal year ended December 
+31, 2022  compared to the fiscal year ended December 31, 2021. The period over period increases in cost of revenue 
+were  primarily  driven  by  the  Company’s  continued  investment  in  headcount  related  to  customer  success  and 
+
+11
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+implementation to support the delivery of new customer implementations. Web hosting fees and third party service 
+fees also increased as a result of higher revenues.
+
+Gross Profit
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+Gross profit
+
+31,448 
+
+23,714 
+
+Percentage of total revenue
+
+ 80.7 %
+
+ 79.6 %
+
+2022
+
+$
+
+2021
+
+Change
+
+Change
+
+2021
+
+Change
+
+Change
+
+$
+
+$
+
+7,734 
+
+%
+
+$
+
+$
+
+ 33 %   114,734 
+
+83,456 
+
+31,278 
+
+ 80.3 %
+
+ 80.1 %
+
+%
+
+ 37 %
+
+2022
+
+$
+
+Gross  profit  for  the  three  months  ended  December  31,  2022  increased  by  $7.7  million  or  32.6%  and  increased  to 
+80.7% of revenue compared to 79.6% for the three months ended December 31, 2021. Gross profit for the fiscal year 
+ended  December  31,  2022  increased  by  $31.3  million  or  37.5%  and  generally  remained  flat  at  80.3%  of  revenue 
+compared to 80.1% for the fiscal year ended December 31, 2021.
+
+Operating Expenses
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+2021
+
+Change
+
+Change
+
+2021
+
+Change
+
+Change
+
+General and administrative
+
+Sales and marketing
+
+Research and development
+
+Share-based compensation
+
+Foreign exchange loss (gain)
+
+Depreciation and amortization  
+
+2022
+
+$
+
+7,387 
+
+15,504 
+
+6,377 
+
+1,089 
+
+564 
+
+602 
+
+$
+
+7,265 
+
+12,638 
+
+5,505 
+
+599 
+
+98 
+
+555 
+
+$
+
+122 
+
+2,866 
+
+872 
+
+490 
+
+466 
+
+47 
+
+%
+
+ 2 %  
+
+ 23 %  
+
+ 16 %  
+
+ 82 %  
+
+2022
+
+$
+
+30,183 
+
+59,654 
+
+24,778 
+
+4,713 
+
+ 476 %  
+
+(11,112)   
+
+ 8 %  
+
+2,333 
+
+$
+
+28,443 
+
+43,346 
+
+20,363 
+
+2,261 
+
+473 
+
+2,019 
+
+$
+
+1,740 
+
+16,308 
+
+4,415 
+
+2,452 
+
+%
+
+ 6 %
+
+ 38 %
+
+ 22 %
+
+ 108 %
+
+(11,585) 
+
+ (2,449) %
+
+314 
+
+ 16 %
+
+ 14 %
+
+Total operating expenses
+
+31,523 
+
+26,660 
+
+4,863 
+
+ 18 %  
+
+110,549 
+
+96,905 
+
+13,644 
+
+General and Administrative Expenses
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+General and administrative
+
+7,387 
+
+7,265 
+
+ 2 %  
+
+30,183 
+
+28,443 
+
+2021
+
+Change
+
+Change
+
+2021
+
+Change
+
+Change
+
+2022
+
+$
+
+$
+
+$
+
+122 
+
+%
+
+2022
+
+$
+
+$
+
+$
+
+1,740 
+
+%
+
+ 6 %
+
+Percentage of total revenue
+
+ 19.0 %
+
+ 24.4 %
+
+ 21.1 %
+
+ 27.3 %
+
+General  and  administrative  expenses  increased  by  $0.1  million  or  2%  for  the  three  months  ended  December  31, 
+2022 compared to the three months ended December 31, 2021 and increased by $1.7 million or 6% for the fiscal 
+year ended December 31, 2022 compared to the fiscal year ended December 31, 2021. For the three months ended 
+December  31,  2022,  general  and  administrative  expenses  remained  consistent,  as  increases  in  employee 
+compensation  related  expenses  were  offset  by  cost  optimization  efforts.  For  the  fiscal  year  ended  December  31, 
+2022, the increase was primarily due to higher employee compensation-related expenses, as well as software and IT 
+licensing costs in connection with an increase in personnel required to support the Company’s growing operations. 
+Additionally, the reopening of our global offices resulted in higher office and travel expenditures. Our general and 
+administrative expenses as a percentage of total revenue decreased from 24.4% to 19.0% for the three months ended 
+December 31, 2021 and  December 31, 2022, respectively, and decreased from 27.3% to 21.1% for the fiscal year 
+ended December 31, 2021 and December 31, 2022, respectively.
+
+12
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sales and Marketing Expenses
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+2022
+
+$
+
+2021
+
+Change
+
+Change
+
+2021
+
+Change
+
+Change
+
+%
+
+$
+
+$
+
+2022
+
+$
+
+$
+
+$
+
+2,866 
+
+%
+
+ 38 %
+
+Sales and marketing
+
+15,504 
+
+12,638 
+
+ 23 %  
+
+59,654 
+
+43,346 
+
+16,308 
+
+Percentage of total revenue
+
+ 39.8 %
+
+ 42.4 %
+
+ 41.7 %
+
+ 41.6 %
+
+Sales  and  marketing  expenses  increased  by  $2.9  million  or  23%  for  the  three  months  ended  December  31,  2022 
+compared to the three months ended December 31, 2021 and increased by $16.3 million or 38% for the fiscal year 
+ended December 31, 2022 compared to the fiscal year ended December 31, 2021. The increase was primarily due to 
+an  increase  in  personnel  on  the  sales  and  marketing  teams  to  support  the  Company’s  growing  customer  base  and 
+sales  expansion  in  new  markets.  The  increase  in  sales  and  marketing  expenses  also  included  an  increase  in 
+marketing and advertising costs, as well as an increase in sales-related travel costs. We will continue to grow our 
+sales  and  marketing  team  and  incrementally  invest  in  advertising  and  marketing  events  for  so  long  as  we  can 
+efficiently increase our revenue base. Our sales and marketing expenses as a percentage of total revenue decreased 
+from  42.4%  to  39.8%  for  the  three  months  ended  December  31,  2021  and  December  31,  2022,  respectively,  and 
+increased from 41.6% to 41.7% for the fiscal year ended December 31, 2021 and December 31, 2022, respectively.
+
+Our  sales  and  marketing  expenses  as  a  percentage  of  total  revenue  will  fluctuate  quarterly  within  any  given  year 
+based  on  the  timing  of  advertising  and  marketing  events;  therefore,  expressing  sales  and  marketing  expenses  as  a 
+percentage of total revenue for any given quarter is not necessarily indicative of annual results. As we grow, these 
+fluctuations  in  sales  and  marketing  expenses  as  a  percentage  of  total  revenue  which  are  attributable  to  the 
+fluctuations in the timing of advertising and marketing events will moderate. 
+
+Research and Development Expenses
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+Research and development
+
+6,377 
+
+5,505 
+
+ 16 %  
+
+24,778 
+
+20,363 
+
+2021
+
+Change
+
+Change
+
+2021
+
+Change
+
+Change
+
+2022
+
+$
+
+$
+
+$
+
+872 
+
+%
+
+2022
+
+$
+
+$
+
+$
+
+4,415 
+
+%
+
+ 22 %
+
+Percentage of total revenue
+
+ 16.4 %
+
+ 18.5 %
+
+ 17.3 %
+
+ 19.5 %
+
+Research  and  development  expenses  increased  by  $0.9  million  or  16%  for  the  three  months  ended  December  31, 
+2022 compared to the three months ended December 31, 2021 and increased by $4.4 million or 22% for the fiscal 
+year ended December 31, 2022 compared to the fiscal year ended December 31, 2021. The increase was driven by 
+the  Company’s  continued  focus  on  maintaining  and  improving  its  existing  platform  and  the  development  of  new 
+products, which also resulted in higher personnel costs due to an increase in headcount. These increases were offset 
+by favourable year-over-year changes in foreign exchange rates, which resulted in a lower research and development 
+expense as a percentage of revenue when compared to the prior year comparative periods. On an absolute basis, we 
+expect that research and development expenses will likely continue to grow as the Company maintains its efforts to 
+keep its product at the leading edge of learning technology but will likely decrease as a percentage of revenue over 
+time. Our research and development expenses as a percentage of total revenue decreased from 18.5% to 16.4% for 
+the  three  months  ended  December  31,  2021  and  December  31,  2022,  respectively,  and  decreased  from  19.5%  to 
+17.3% for the fiscal year ended December 31, 2021 and December 31, 2022, respectively.
+
+13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Share-Based Compensation
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+Share-based compensation
+
+Percentage of total revenue
+
+2022
+
+$
+
+1,089 
+
+ 2.8 %
+
+$
+
+599 
+
+ 2.0 %
+
+$
+
+490 
+
+%
+
+2022
+
+$
+
+ 82 %  
+
+4,713 
+
+2,261 
+
+ 3.3 %
+
+ 2.2 %
+
+2021
+
+Change
+
+Change
+
+2021
+
+Change
+
+Change
+
+$
+
+$
+
+2,452 
+
+%
+
+ 108 %
+
+Share-based compensation expense increased by $0.5 million or 82% for the three months ended December 31, 2022 
+compared to the three months ended December 31, 2021 and increased by $2.5 million or 108% for the fiscal year 
+ended December 31, 2022 as compared to the fiscal year ended December 31, 2021. The increase is driven by stock 
+options and RSUs granted during the year along with quarterly DSU expenses and expenses incurred related to the 
+ESPP. 
+
+Foreign Exchange Loss (Gain)
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+Foreign exchange loss (gain)
+
+Percentage of total revenue
+
+2022
+
+$
+
+564 
+
+ 1.4 %
+
+2021
+
+Change
+
+Change
+
+$
+
+98 
+
+ 0.3 %
+
+$
+
+466 
+
+%
+
+2022
+
+$
+
+ 476 %  
+
+(11,112) 
+
+ (7.8) %
+
+2021
+
+Change
+
+Change
+
+$
+
+473 
+
+ 0.5 %
+
+$
+
+%
+
+(11,585) 
+
+ (2,449) %
+
+Foreign  exchange  loss  (gain)  primarily  relates  to  translation  of  monetary  assets  and  liabilities  denominated  in 
+foreign currencies into functional currencies at the foreign exchange rate applicable at the end of each period. The 
+Company  invested  the  proceeds  from  the  TSX  IPO,  the  bought  deal  offering  of  common  shares  of  the  Company 
+which  closed  on  August  27,  2020  (the  “Bought  Deal”)  and  the  Nasdaq  IPO  in  cash  equivalents  denominated  in 
+United States dollars. As a result of the movement of the United States dollar in comparison to the Canadian dollar, 
+the Company’s functional currency, an unrealized foreign exchange loss was recorded for the three months ended 
+December 31, 2022 while an unrealized gain was recorded for the year ended December 31, 2022 which represents a 
+significant portion of the movement during the periods. 
+
+Depreciation and Amortization
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+Depreciation and amortization  
+
+Percentage of total revenue
+
+2022
+
+$
+
+602 
+
+ 1.5 %
+
+$
+
+555 
+
+ 1.9 %
+
+$
+
+47 
+
+2022
+
+$
+
+%
+
+$
+
+ 8 %  
+
+2,333 
+
+2,019 
+
+ 1.6 %
+
+ 1.9 %
+
+2021
+
+Change
+
+Change
+
+2021
+
+Change
+
+Change
+
+$
+
+314 
+
+%
+
+ 16 %
+
+Depreciation and amortization expense increased by 8% for the three months ended December 31, 2022 compared to 
+the  three  months  ended  December  31,  2021  and  increased  by  $0.3  million  or  16%  for  the  fiscal  year  ended 
+December  31,  2022  compared  to  the  fiscal  year  ended  December  31,  2021.  The  increase  in  depreciation  and 
+amortization expense is primarily due to the purchase of furniture and office equipment, and office lease extensions 
+to support the expansion of the business.
+
+14
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Operating (Income) Expense
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+2022
+
+$
+
+(1,835)   
+
+(21)   
+
+Finance (income) expense, net
+
+Other income
+
+Finance (Income) Expense, net
+
+2021
+
+Change
+
+Change
+
+$
+
+%
+
+2022
+
+$
+
+(1,797) 
+
+ 4,729 %  
+
+(3,512)   
+
+2021
+
+Change
+
+Change
+
+$
+
+65 
+
+$
+
+%
+
+(3,577) 
+
+ (5,503) %
+
+— 
+
+ — %  
+
+(85)   
+
+(85)   
+
+— 
+
+ — %
+
+$
+
+(38)   
+
+(21)   
+
+Finance  (income)  expense,  net,  increased  by  $1.8  million  or  4728.9%  for  the  three  months  ended  December  31, 
+2022  compared  to  the  three  months  ended  December  31,  2021  and  increased  by  $3.6  million  or  5503.1%  for  the 
+fiscal year ended December 31, 2022 compared to the fiscal year ended December 31, 2021 due to an increase in 
+interest income earned on cash and cash equivalents that include short-term investments in highly liquid marketable 
+securities, having a term to maturity of one year or less, and earning interest income, as a result of higher interest 
+rates.
+
+Other Income
+
+Other  income  is  primarily  comprised  of  rental  income  from  subleasing  office  space  and  has  remained  flat  period 
+over period.
+
+Selected Annual Information 
+
+Revenue
+
+Net earnings (loss) for the year
+
+Net earnings (loss) attributable to equity owners of the Company
+
+Earnings (loss) per share - basic
+
+Earnings (loss) per share - diluted
+
+Total assets
+
+Total liabilities
+
+Revenue
+
+Fiscal 2022 Compared to Fiscal 2021
+
+2022
+
+$
+
+142,912 
+
+7,018 
+
+7,018 
+
+0.21 
+
+0.21 
+
+283,669 
+
+91,458 
+
+2021
+
+$
+
+104,242 
+
+(13,601)   
+
+(13,601)   
+
+(0.41)   
+
+(0.41)   
+
+268,222 
+
+77,566 
+
+2020
+
+$
+
+62,917 
+
+(8,016) 
+
+(8,016) 
+
+(0.28) 
+
+(0.28) 
+
+254,244 
+
+53,938 
+
+See  “Management’s  Discussion  and  Analysis  of  Financial  Condition  and  Results  of  Operations  -  Results  of 
+Operations” for a more detailed discussion of the 2022-2021 year-over-year changes in revenue. 
+
+Fiscal 2021 Compared to Fiscal 2020
+
+For  the  fiscal  years  ended  December  31,  2021  and  2020,  revenues  were  $104.2  million  and  $62.9  million, 
+respectively,  an  increase  of  $41.3  million  or  66%.  The  significant  revenue  increase  was  primarily  attributed  to 
+revenue  from  new  customers,  as  well  as  up-selling  to  existing  customers,  as  the  number  of  customers  rose  from 
+2,179  as  at  December  31,  2020  to  2,805  as  at  December  31,  2021  and  the  Average  Contract  Value  per  customer 
+increased  from  approximately  $34  thousand  as  at  December  31,  2020  to  approximately  $42  thousand  as  at 
+December 31, 2021. Subscription revenue increased from $57.4 million to $95.9 million or 67% for the fiscal year 
+ended December 31, 2021 as compared to the fiscal year ended December 31, 2020 driven by initial revenues from 
+customers  who  did  not  contribute  to  subscription  revenue  during  the  prior  period,  and  growth  from  existing 
+customers. Revenue from professional services increased by $2.8 million or 51% for the fiscal year ended December 
+31, 2021 as compared to the fiscal year ended December 31, 2020 driven by the addition of new customers as well 
+as expanded adoption by existing customers where implementation and training services were required.
+
+15
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net Income (Loss)
+
+Fiscal 2022 Compared to Fiscal 2021
+
+See  “Management’s  Discussion  and  Analysis  of  Financial  Condition  and  Results  of  Operations  -  Results  of 
+Operations” for a more detailed discussion of the 2022-2021 year-over-year changes in net income (loss). 
+
+Fiscal 2021 Compared to Fiscal 2020
+
+For  the  years  ended  December  31,  2021  and  2020,  net  loss  was  $13.6  million  and  $8.0  million,  respectively. 
+Notwithstanding the significant increase in revenue in each period, the Company also incurred substantial increases 
+in  operating  expenses  to  support  the  continued  revenue  growth  which  resulted  in  the  reported  net  losses.  The 
+increase in operating expenses were primarily due to higher salaries and benefits related to an increase in headcount, 
+and other operating costs required to support the Company’s growing operations.
+
+Total Assets
+
+Fiscal 2022 Compared to Fiscal 2021
+
+Total assets increased by $15.4 million or 6% in fiscal 2022 compared to fiscal 2021. The main driver of this amount 
+was  an    increase  in  trade  and  other  receivables  of  $9.8  million  due  to  the  increase  in  revenue  and  timing  of 
+collections  from  customers.  In  addition,  contract  costs  increased  by  $5.5  million  as  a  result  of  higher  deferred 
+commission costs driven by strong revenue growth while cash and cash equivalents increased by $1.0 million. 
+
+Fiscal 2021 Compared to Fiscal 2020
+
+Total  assets  increased  by  $13.9  million  or  5%  in  fiscal  2021  compared  to  fiscal  2020.  The  main  drivers  of  the 
+increase  were  prepaids  and  deposits  and  trade  and  other  receivables,  which  increased  by  $4.1  million  and  $12.0 
+million,  respectively.  Prepaids  and  deposits  increased  due  to  the  prepayment  of  Directors  and  Officers  liability 
+premiums and software purchases while the increase in trade and other receivables was driven by revenue growth. 
+Contract costs increased by $2.4 million as a result of higher deferred commission costs driven by strong revenue 
+growth.  These  increases  were  offset  by  a  reduction  in  cash  and  cash  equivalents  of  $4.3  million  used  to  support 
+operating activities. 
+
+Total Liabilities
+
+Fiscal 2022 Compared to Fiscal 2021
+
+Total liabilities increased by $13.9 million or 18% in fiscal 2022 compared to fiscal 2021. The main drivers of this 
+amount  were  an  increase  in  deferred  revenue  of  $11.6  million  as  we  expanded  our  customer  base  and  renewed 
+existing customers, and an increase in trade and other payables of $3.2 million attributed to higher expenditures to 
+support the Company’s growth. 
+
+Fiscal 2021 Compared to Fiscal 2020
+
+Total liabilities increased by $23.6 million or 44% in fiscal 2021 compared to fiscal 2020. The main drivers of the 
+increase were trade and other payables and deferred revenue, increasing $6.7 million and $16.4 million, respectively. 
+The  increase  in  trade  and  other  payables  was  attributed  to  higher  expenditures  to  support  the  Company’s  growth 
+while  the  corresponding  growth  in  revenue  resulted  in  an  increase  of  deferred  revenue  based  on  the  timing  of 
+billings. 
+
+Quarterly Results of Operations  
+
+16
+
+The  following  table  sets  forth  selected  unaudited  quarterly  statements  of  operations  data  for  each  of  the  eight 
+quarters ended March 31, 2021 to ended December 31, 2022. The information for each of these quarters has been 
+prepared on the same basis as the audited annual financial statements for the year ended December 31, 2022. This 
+data  should  be  read  in  conjunction  with  our  audited  annual  financial  statements  for  the  year  ended  December  31, 
+2022. These quarterly operating results are not necessarily indicative of our operating results for a full year or any 
+future period.
+
+(In thousands of US dollars, 
+except per share data)
+
+Revenue
+
+Net income (loss) before taxes
+
+Net income (loss) attributable to 
+
+equity owners of the Company  
+
+Q4 2022
+
+Q3 2022
+
+Q2 2022
+
+Q1 2022
+
+Q4 2021
+
+Q3 2021
+
+Q2 2021
+
+Q1 2021
+
+Three months ended
+
+$
+
+38,955 
+
+1,781 
+
+$
+
+36,966 
+
+10,369 
+
+$
+
+34,936 
+
+2,462 
+
+$
+
+$
+
+$
+
+$
+
+$
+
+32,055 
+
+29,801 
+
+27,068 
+
+25,631 
+
+21,742 
+
+(6,830)   
+
+(2,887)   
+
+1,456 
+
+(6,397)   
+
+(5,601) 
+
+1,600 
+
+10,274 
+
+2,103 
+
+(6,959)   
+
+(1,428)   
+
+Income (loss) per share - basic 
+
+Income (loss) per share - diluted
+
+0.05 
+
+0.05 
+
+0.31 
+
+0.30 
+
+0.06 
+
+0.06 
+
+(0.21)   
+
+(0.21)   
+
+(0.04)   
+
+(0.04)   
+
+Revenue
+
+661 
+
+0.02 
+
+0.02 
+
+(7,190)   
+
+(5,644) 
+
+(0.22)   
+
+(0.22)   
+
+(0.17) 
+
+(0.17) 
+
+Our  total  quarterly  revenue  increased  sequentially  for  all  periods  presented  which  was  primarily  attributable  to 
+revenue  from  new  customers,  strong  revenue  retention  and  up-selling  from  existing  customers,  and  delivery  of 
+professional  services  to  customers.  We  cannot  provide  assurance  that  this  pattern  of  sequential  growth  in  revenue 
+will continue.
+
+Net Income (Loss)
+
+Net income (loss) has improved relative to preceding periods. The income generated was primarily attributable to an 
+unrealized  gain  in  foreign  exchange  due  to  the  weakening  of  the  Canadian  dollar  coupled  with  higher  revenue 
+growth while operating costs have remained relatively consistent as a percentage of revenue period over period.
+
+Liquidity, Capital Resources and Financing
+
+Overview
+
+The  general  objectives  of  our  capital  management  strategy  are  to  preserve  our  capacity  to  continue  operating, 
+provide benefits to our stakeholders and provide an adequate return on investment to our shareholders by selling our 
+platform and services at a price that is commensurate with the level of operating risk we assume. We thus determine 
+the total amount of capital required consistent with risk levels. This capital structure is adjusted on a timely basis 
+depending on changes in the economic environment and risks of the underlying assets. We are not subject to any 
+externally imposed capital requirements.
+
+Working Capital
+
+Our  primary  source  of  cash  flow  is  revenue  from  operations  and  equity  capital  raises  totaling  $225.4  million 
+including net proceeds from the IPOs and the Bought Deal. Our approach to managing liquidity is to ensure, to the 
+extent  possible,  that  we  always  have  sufficient  liquidity  to  meet  our  liabilities  as  they  become  due.  We  do  so  by 
+monitoring cash flow and performing budget-to-actual analysis on a regular basis.
+
+Working Capital as at December 31, 2022 and 2021 was $178.7 million and $182.6 million, respectively. Working 
+Capital is defined as current assets, excluding the current portion of the net investment in finance lease and contract 
+costs, minus current liabilities, excluding borrowings, if any, and the current portion of contingent consideration and 
+lease  obligations.  Working  Capital  is  not  a  recognized  measure  under  IFRS.  See  “Non-IFRS  Measures  and 
+Reconciliation of Non-IFRS Measures”. 
+
+17
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The following table represents the Company’s Working Capital position as at December 31: 
+
+Current assets
+
+Less: Current portion of net investment in finance lease
+
+Less: Current portion of contract costs
+
+Current assets, net of net investment in finance lease and contract costs
+
+Current liabilities
+
+Less: Current portion of contingent consideration
+
+Less: Current portion of lease obligations
+
+Current liabilities, net of borrowings, contingent consideration and lease obligations
+
+Working capital
+
+2022
+
+$
+
+263,585 
+
+(174)   
+
+(2,778)   
+
+260,633 
+
+84,362 
+
+(1,083)   
+
+(1,374)   
+
+81,905 
+
+178,728 
+
+2021
+
+$
+
+251,588 
+
+(99) 
+
+(1,390) 
+
+250,099 
+
+69,272 
+
+(467) 
+
+(1,311) 
+
+67,494 
+
+182,605 
+
+Our principal cash requirements are for Working Capital. Given our existing cash and cash equivalents, along with 
+net proceeds obtained from our capital raises as described above, we believe there is sufficient liquidity to meet our 
+current  and  short-term  growth  requirements  in  addition  to  our  long-term  strategic  objectives,  and  as  a  result  we 
+terminated the Credit Facility on June 1, 2021.
+
+Cash Flows
+
+The  following  table  presents  cash  and  cash  equivalents  as  at  December  31,  2022  and  2021,  and  cash  flows  from 
+operating, investing, and financing activities for the years ended December 31, 2022 and 2021:
+
+Cash and cash equivalents
+
+Net cash provided by (used in):
+
+Operating activities
+
+Investing activities
+
+Financing activities
+
+Effect of foreign exchange on cash and cash equivalents
+
+Net increase (decrease) in cash and cash equivalents
+
+Cash Flows from (Used in) Operating Activities
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+2022
+
+$
+
+2021
+
+$
+
+2022
+
+$
+
+2021
+
+$
+
+216,293 
+
+215,323 
+
+216,293 
+
+215,323 
+
+2,193 
+
+(221)   
+
+1,049 
+
+539 
+
+3,560 
+
+(30) 
+
+(146) 
+
+454 
+
+(447) 
+
+(169) 
+
+2,288 
+
+(2,152)   
+
+1,579 
+
+(745)   
+
+970 
+
+(3,254) 
+
+(1,145) 
+
+422 
+
+(358) 
+
+(4,335) 
+
+Cash flows from operating activities for the three months ended December 31, 2022 were $2.2 million compared to 
+cash flows used in operating  activities of approximately nil for the three months ended December 31, 2021. The 
+$2.2 million generated from operating activities reflects net income of $1.6 million, offset by $0.7 million in non-
+cash  expenses  and  $0.1  million  used  for  changes  in  Working  Capital  accounts.  Non-cash  expenses  primarily 
+consisted  of  share-based  compensation,  depreciation  and  amortization,  income  tax  expense,  partially  offset  by 
+foreign currency gains and interest income. Cash used in Working Capital accounts was principally a function of a 
+$5.4  million  increase  in  trade  and  other  accounts  receivable  due  to  the  timing  of  collections  from  customers,  and 
+payments of $1.6 million of deferred contract costs, which consisted primarily of sales commissions. The cash used 
+in Working Capital accounts was partially offset by a $4.2 million increase in deferred revenue, as we expanded our 
+customer base and renewed existing customers, and a $2.9 million increase in trade and other payables. 
+
+Cash flows from operating activities for the  fiscal year ended December 31, 2022 were $2.3 million compared to 
+cash flows used in operating activities of $3.3 million for the fiscal year ended December 31, 2021. The $2.3 million 
+generated from operating activities reflects net income of $7.0 million, offset by  $7.3 million in non-cash expenses 
+and  $2.5  million  generated  by  changes  in  Working  Capital  accounts.  Non-cash  expenses  primarily  consisted  of 
+share-based compensation, depreciation and amortization, income tax expense, partially offset by foreign currency 
+
+18
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+gains and interest income. Cash generated by changes in Working Capital accounts was principally a function of a 
+$12.7 million increase in deferred revenue, as we expanded our customer based and renewed existing customers, and 
+a $4.4 million increase in trade and other payables. The cash generated by Working Capital accounts was partially 
+offset  by  a  $8.9  million  increase  in  trade  and  other  accounts  receivable  due  to  the  timing  of  collections  from 
+customers, and payments of $5.6 million of deferred contract costs, which consisted primarily of sales commissions.
+
+Cash Flows Used in Investing Activities
+
+Cash flows used in investing activities for the three months ended December 31, 2022 were $0.2 million compared 
+to  $0.1  million  for  the  three  months  ended  December  31,  2021.  Cash  outflows  for  investing  activities  relate  to 
+investments in property and equipment to support headcount growth. 
+
+Cash flows used in investing activities for the fiscal year ended December 31, 2022 were $2.2 million compared to 
+$1.1 million for the fiscal year ended December 31, 2021. Cash outflows for investing activities were higher due to 
+the approximately $1.0 million business acquisition of Skillslive Edu Pty Ltd. in January 2022. 
+
+Cash Flows from Financing Activities
+
+Cash flows from financing activities for the three months ended December 31, 2022 were $1.0 million compared to 
+$0.5 million for the three months ended December 31, 2021. Cash flows from financing activities were higher due to 
+an increase in interest income earned on cash and cash equivalents due to higher interest rates. 
+
+Cash flows from financing activities for the  fiscal year ended December 31, 2022 were $1.6 million compared to 
+$0.4 million for the fiscal year ended December 31, 2021. Cash flows from financing activities were higher due to 
+an increase in interest income earned on cash and cash equivalents due to higher interest rates and proceeds from the 
+share issuance under the ESPP, offset by lower proceeds from the exercise of stock options. 
+
+Free Cash Flow
+
+Free Cash Flow is defined as cash from (used in) operating activities less additions to property and equipment and 
+intangible  assets.  Free  Cash  Flow  is  not  a  recognized  measure  under  IFRS.  See  “Non-IFRS  Measures  and 
+Reconciliation of Non-IFRS Measures”. The IFRS measure most directly comparable to Free Cash Flow presented 
+in our financial statements is cash flow from (used in) operating activities. 
+
+The following table reconciles our cash flow from (used in) operating activities to Free Cash Flow: 
+
+Cash flow from (used in) operating activities
+
+Additions to property and equipment
+
+Free Cash Flow
+
+Free Cash Flow as a percentage of total revenue
+
+Three months ended December 31,
+
+Fiscal year ended December 31,
+
+2022
+
+$
+
+2,193 
+
+(221) 
+
+1,972 
+
+ 5.1 %
+
+2021
+
+$
+
+(30) 
+
+(146) 
+
+(176) 
+
+ (0.6) %
+
+2022
+
+$
+
+2,288 
+
+(1,081) 
+
+1,207 
+
+2021
+
+$
+
+(3,254) 
+
+(1,145) 
+
+(4,399) 
+
+ 0.8 %
+
+ (4.2) %
+
+Use of Proceeds from the Nasdaq IPO and the Bought Deal
+
+As a result of the Bought Deal, the Company raised net proceeds of $18.1 million. These proceeds have been placed 
+in  cash  and  cash  equivalents  that  include  short-term  investments  in  highly  liquid  marketable  securities,  having  a 
+term to maturity of one year or less. The Company’s use of proceeds from the Bought Deal has not changed from the 
+disclosure set forth in the “Use of Proceeds” section of our short form prospectus dated August 24, 2020 to the date 
+of this MD&A.
+
+Additionally,  as  a  result  of  the  Nasdaq  IPO,  the  Company  raised  net  proceeds  of  $154.9  million.  These  proceeds 
+have  been  placed  in  cash  and  cash  equivalents  that  include  short-term  investments  in  highly  liquid  marketable 
+securities, having a term to maturity of one year or less. The Company’s use of proceeds from the Nasdaq IPO has 
+
+19
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+not  changed  from  the  disclosure  set  forth  in  the  “Use  of  Proceeds”  section  of  our  prospectus  supplement  dated 
+December 2, 2020 to the short form base shelf prospectus dated October 22, 2020 to the date of this MD&A.
+
+Contractual Obligations
+
+We  have  contractual  obligations  with  a  variety  of  expiration  dates.  The  table  below  outlines  our  contractual 
+obligations as at December 31, 2022: 
+
+Accounts payable and accrued liabilities
+Lease obligations1
+Contingent consideration2
+
+Total
+
+Payments due by period
+
+< 1 Year
+
+1 to 3 Years
+
+> 4 Years
+
+$
+
+26,025 
+
+1,791 
+
+1,083 
+
+28,899 
+
+$
+
+— 
+
+2,072 
+
+1,177 
+
+3,249 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Total
+
+$
+
+26,025 
+
+3,863 
+
+2,260 
+
+32,148 
+
+1  Included in the lease obligations are short term leases and variable lease payments for operating and finance leases. Lease obligations primarily 
+relate to office space and equipment leases. The remaining lease terms are between one and four years. See Note 5 of our audited consolidated 
+financial statements for further details regarding leases.
+
+2  On  October  30,  2020,  Docebo  acquired  all  of  the  issued  and  outstanding  shares  of  forMetris  Société  par  Actions  Simplifiée.  Contingent 
+consideration  comprises  earn-out  payments  due  to  sellers  for  meeting  certain  revenue  conditions  over  the  three  years  following  the  date  of 
+acquisition.
+
+Off-Balance Sheet Arrangements
+
+We have not entered into off-balance sheet arrangements. Except for operating leases not recognized as ROU assets 
+under  IFRS  16,  all  of  our  liabilities  and  commitments  are  reflected  as  part  of  our  statement  of  financial  position. 
+From time to time, we may be contingently liable with respect to litigation and claims that arise in the normal course 
+of operations.
+
+Related Party Transactions
+
+In  the  ordinary  course  of  business,  we  may  provide  services  (including  our  Platform)  to,  and  enter  into  contracts 
+with, related parties on terms similar to those offered to non-related parties. We have no related party transactions, 
+other than those noted in Note 19 in our audited consolidated financial statements.
+
+Financial Instruments and Other Instruments
+
+Credit Risk
+
+Generally, the carrying amount in our consolidated statement of financial position exposed to credit risk, net of any 
+applicable provisions for losses, represents the maximum amount exposed to credit risk.
+
+Our credit risk is primarily attributable to our cash and cash equivalents and trade and other receivables. We do not 
+require  guarantees  from  our  customers.  Credit  risk  with  respect  to  cash  and  cash  equivalents  is  managed  by 
+maintaining balances only with high credit quality financial institutions.
+
+Due to our diverse customer base, there is no particular concentration of credit risk related to our trade and other 
+receivables. Moreover, balances for trade and other receivables are managed and analyzed on an ongoing basis to 
+ensure allowances for doubtful accounts are established and maintained at an appropriate amount.
+
+We estimate anticipated losses from doubtful accounts based upon the expected collectability of all trade and other 
+receivables,  which  estimate  takes  into  account  the  number  of  days  past  due,  collection  history,  identification  of 
+specific  customer  exposure  and  current  economic  trends.  An  impairment  loss  on  trade  and  other  receivables  is 
+calculated as the difference between the carrying amount and the present value of the estimated future cash flow. 
+
+20
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impairment losses are charged to general and administrative expense in the consolidated statements of (loss) income 
+and comprehensive loss. Receivables for which an impairment provision was recognized are written off against the 
+corresponding provision when they are deemed uncollectible. Impairment losses for trade receivables are based on 
+the  expected  credit  loss  model.  The  Company  applies  the  simplified  approach  to  impairment  for  trade  and  other 
+receivables  by  recognizing  lifetime  expected  losses  on  initial  recognition  through  both  the  analysis  of  historical 
+defaults and a reassessment of counterparty credit risk in revenue contracts on an annual basis. 
+
+The maximum exposure to credit risk at the date hereof is the carrying value of each class of receivables mentioned 
+above. We do not hold any collateral as security.
+
+Foreign Currency Risk
+
+We  are  exposed  to  currency  risk  due  to  financial  instruments  denominated  in  foreign  currencies.  The  Company’s 
+primary  exposure  with  respect  to  foreign  currencies  is  from  U.S.  dollar  denominated  cash  and  cash  equivalents, 
+trade and other receivables, trade and other payables and borrowings in entities whose functional currency is other 
+than  U.S.  dollars.  The  net  carrying  value  of  these  U.S.  denominated  balances  held  in  entities  with  Euro  and 
+Canadian  dollars  as  their  functional  currency  as  at  December  31,  2022  and  2021  presented  in  U.S.  dollars  is  as 
+follows:
+
+Cash and cash equivalents
+
+Trade and other receivables
+
+Trade and other payables
+
+2022
+
+EUR
+
+$
+
+586 
+
+1,096 
+
+(166)   
+
+1,516 
+
+CAD
+
+$
+
+185,343 
+
+1,615 
+
+(1,748) 
+
+185,210 
+
+2021
+
+EUR
+
+$
+
+776 
+
+1,060 
+
+(303)   
+
+1,533 
+
+CAD
+
+$
+
+187,559 
+
+1,532 
+
+(206) 
+
+188,885 
+
+A 1% strengthening of the above currencies against the US dollar would have a corresponding increase (decrease) in 
+net  income  (loss)  by  the  amounts  shown  below.  The  sensitivity  associated  with  a  1%  weakening  of  a  particular 
+currency would be equal and opposite. This assumes that each currency moves in isolation. 
+
+2022
+
+2021
+
+EUR
+
+$
+
+15 
+
+14 
+
+CAD
+
+$
+
+1,852 
+
+2,403 
+
+Total
+
+$
+
+1,867 
+
+2,417 
+
+We have not entered into arrangements to hedge our exposure to currency risk.
+
+Inflation Risk
+
+We  do  not  believe  that  inflation  has  had  a  material  effect  on  our  business,  financial  condition  or  results  of 
+operations.  If  our  costs  were  to  become  subject  to  significant  inflationary  pressures,  we  may  not  be  able  to  fully 
+offset such higher costs through price increases. Our inability or failure to do so could harm our business, financial 
+condition and results of operations
+
+Critical Accounting Policies and Estimates
+
+The  preparation  of  our  consolidated  financial  statements  in  conformity  with  IFRS  requires  management  to  make 
+estimates  and  assumptions  that  affect  the  amounts  reported  in  the  consolidated  financial  statements  and 
+accompanying  notes.  We  review  these  estimates  on  an  ongoing  basis  based  on  management’s  best  knowledge  of 
+current  events  and  actions  that  we  may  undertake  in  the  future.  Actual  results  could  differ  from  these  estimates. 
+Areas requiring the most significant estimates and judgments which are deemed critical are outlined below. 
+
+21
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Revenue Recognition
+
+Revenue recognition requires judgment and the use of estimates, especially in evaluating the various non-standard 
+terms and conditions in our contracts with customers as to their effect on reported revenue. 
+
+The  Company  derives  its  revenues  from  two  main  sources:  subscription  and  professional  services  revenue,  which 
+includes  services  such  as  initial  project  management  and  training  and  integration.  Professional  services  do  not 
+include significant customization to, or development of, the software. Revenue is recognized by applying the five-
+step framework under IFRS 15 Revenue from contracts with customers, as described in Note 3 of our audited annual 
+consolidated financial statements for the year ended December 31, 2022. 
+
+The  Company  enters  into  significant  revenue  contracts  with  certain  large  enterprise  customers  that  contain  non-
+standard terms and conditions, pricing and promised services. Significant management judgement can be required to 
+assess the impact of these items on the amount and timing of revenue recognition for these contracts including the 
+determination  of  performance  obligations,  calculation  of  transaction  price,  allocation  of  transaction  price  across 
+performance obligations, and timing of revenue recognition.
+
+Outstanding Share Information
+
+We  are  currently  authorized  to  issue  an  unlimited  number  of  common  shares.  As  of  the  date  hereof,  32,922,740 
+common shares, 1,338,953 stock options, 89,084 DSUs and 100,117 RSUs are issued and outstanding.
+
+Foreign Currency Exchange (“FX”) Rates
+
+Although  our  functional  currency  is  the  Canadian  dollar,  we  have  elected  to  report  our  financial  results  in  U.S. 
+dollars to improve the comparability of our financial results with our peers. Reporting our financial results in U.S. 
+dollars also reduces the impact of foreign currency exchange fluctuations in the Company’s reported amounts, as our 
+transactions denominated in U.S. dollars are significantly larger than Canadian dollars or Euros.
+
+Our  consolidated  financial  position  and  operating  results  have  been  translated  to  U.S.  dollars  applying  FX  rates 
+outlined in the table below. FX rates are expressed as the amount of U.S. dollars required to purchase one Canadian 
+dollar. FX rates represent the daily closing rate published by Thomson Reuters.
+
+Period
+
+Three months ended December 31, 2021
+
+Three months ended December 31, 2022
+
+Consolidated Statement of 
+Financial Position
+
+Consolidated Statement of Income 
+(Loss) and Comprehensive Loss
+
+Current Rate
+
+$0.7859
+
+$0.7370
+
+Average Rate
+
+$0.7939
+
+$0.7358
+
+Disclosure Controls and Procedures and Internal Controls over Financial Reporting
+
+Management of the Company, under the supervision of the Chief Executive Officer and Chief Financial Officer, is 
+responsible  for  establishing  and  maintaining  disclosure  controls  and  procedures  (as  defined  under  applicable 
+Canadian securities laws and by the United States Securities and Exchange Commission (“SEC”) in Rule 13a-15(e) 
+under  the  Securities  Exchange  Act  of  1934,  as  amended  (the  “Exchange  Act”)  for  the  Company  to  ensure  that 
+material  information  relating  to  the  Company,  including  its  consolidated  subsidiaries,  that  is  required  to  be  made 
+known to the Chief Executive Officer and Chief Financial Officer by others within the Company and disclosed by 
+the Company in reports filed or submitted by it under the Exchange Act is (i) recorded, processed, summarized and 
+reported within the time periods specified in the SEC’s rules and forms; and (ii) accumulated and communicated to 
+the  Company’s  management,  including  its  Chief  Executive  Officer  and  Chief  Financial  Officer,  to  allow  timely 
+decisions  regarding  required  disclosure.  We,  including  the  Chief  Executive  Officer  and  Chief  Financial  Officer, 
+have evaluated the effectiveness of the Company’s disclosure controls and procedures as of December 31, 2022 and 
+have concluded that the Company’s disclosure controls and procedures were effective as of December 31, 2022. 
+
+22
+
+The Company’s management is responsible for establishing and maintaining adequate internal control over financial 
+reporting. Internal control over financial reporting is a process designed by, or under the supervision of, the Chief 
+Executive Officer and the Chief Financial Officer and effected by the Company’s Board of Directors, management 
+and  other  personnel  to  provide  reasonable  assurance  regarding  the  reliability  of  financial  reporting  and  the 
+preparation  of  financial  statements  for  external  purposes  in  accordance  with  International  Financial  Reporting 
+Standards as issued by the International Accounting Standards Board. 
+
+Management assessed the effectiveness of the Company’s internal control over financial reporting as of December 
+31, 2022, based on the criteria set forth in Internal Control – Integrated Framework (2013) issued by the Committee 
+of Sponsoring Organizations of the Treadway Commission. 
+
+Based  on  this  assessment,  management  concluded  that,  as  of  December  31,  2022,  the  Company’s  internal  control 
+over financial reporting was effective. In addition, management determined that there were no material weaknesses 
+in the Company’s internal control over financial reporting as of December 31, 2022. 
+
+There have been no changes to the Company’s internal controls over financial reporting during the quarter and year 
+ended  December  31,  2022  that  have  materially  affected,  or  are  reasonably  likely  to  materially  affect,  its  internal 
+controls over financial reporting. 
+
+23

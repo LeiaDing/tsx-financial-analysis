@@ -1,0 +1,4387 @@
+# Lightspeed Commerce Inc.
+# 来源：Annual MD&A - English.pdf (e0b5cef9b60f2234)
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION 
+AND RESULTS OF OPERATIONS
+
+As used in this management’s discussion and analysis ("MD&A"), unless the context indicates or requires otherwise, all 
+references to the "Company", "Lightspeed", "we", "us" or "our" refer to Lightspeed Commerce Inc. together with our subsidiaries, 
+on a consolidated basis as constituted on March 31, 2023.
+
+This MD&A dated May 18, 2023, for the three months ended March 31, 2023 and 2022 and the years ended March 31, 2023 
+("Fiscal 2023") and 2022 ("Fiscal 2022"), should be read in conjunction with the Company’s audited consolidated financial 
+statements and the notes related thereto for the years ended March 31, 2023 and 2022, included elsewhere in this annual report. 
+The financial information presented in this MD&A is derived from the Company’s audited annual consolidated financial 
+statements for Fiscal 2023 and Fiscal 2022, which have been prepared in accordance with International Financial Reporting 
+Standards ("IFRS") as issued by the International Accounting Standards Board ("IASB"). All amounts are in U.S. dollars except 
+where otherwise indicated.
+
+We have prepared this MD&A with reference to National Instrument 51-102 "Continuous Disclosure Obligations" of the 
+Canadian Securities Administrators. Under the U.S./Canada Multijurisdictional Disclosure System, we are permitted to prepare 
+this MD&A in accordance with Canadian disclosure requirements, which requirements are different than those of the United 
+States.
+
+Additional information relating to Lightspeed, including our most recently completed Annual Information Form and our Annual 
+Report on Form 40-F for the fiscal year ended March 31, 2023, is available on our website at investors.lightspeedhq.com and can 
+be found on SEDAR at www.sedar.com and EDGAR at www.sec.gov.
+
+Forward-looking Information
+
+This MD&A contains "forward-looking information" and "forward-looking statements" (collectively, "forward-looking 
+information") within the meaning of applicable securities laws. Forward-looking information may relate to our financial outlook 
+and anticipated events or results and may include information regarding our financial position, business strategy, growth 
+strategies, addressable markets, budgets, operations, financial results, taxes, dividend policy, plans and objectives. Particularly, 
+information regarding our expectations of future results, performance, achievements, prospects or opportunities or the markets in 
+which we operate; macroeconomic conditions such as increasing inflationary pressures, interest rates, instability in the banking 
+sector and global economic uncertainty; our expectations regarding the costs, timing and impact of our cost reduction initiatives; 
+events such as the ongoing COVID-19 pandemic (the "COVID-19 Pandemic") and the Russian invasion of Ukraine; and 
+expectations regarding industry and consumer spending trends, our growth rates, the achievement of advances in and expansion of 
+our platform, our revenue and the revenue generation potential of our payment-related and other solutions, the impact of our 
+decision to sell our POS and payments solutions as one unified platform, our gross margins and future profitability, acquisition 
+outcomes and synergies, the impact of legal proceedings, the impact of foreign currency fluctuations on our results of operations, 
+our business plans and strategies and our competitive position in our industry is forward-looking information. 
+
+In some cases, forward-looking information can be identified by the use of forward-looking terminology such as "plans", 
+"targets", "expects" or "does not expect", "is expected", "an opportunity exists", "budget", "scheduled", "estimates", "outlook", 
+"forecasts", "projection", "prospects", "strategy", "intends", "anticipates" or "does not anticipate", "believes", or variations of such 
+words and phrases or statements that certain actions, events or results "may", "could", "would", "might", "will", "will be taken", 
+"occur" or "be achieved", the negative of these terms and similar terminology. In addition, any statements that refer to 
+expectations, intentions, projections or other characterizations of future events or circumstances contain forward-looking 
+information. Statements containing forward-looking information are not historical facts but instead represent management’s 
+expectations, estimates and projections regarding future events or circumstances. 
+
+This forward-looking information and other forward-looking information are based on our opinions, estimates and assumptions in 
+light of our experience and perception of historical trends, current conditions and expected future developments, as well as other 
+factors that we currently believe are appropriate and reasonable in the circumstances as at the date of the forward-looking 
+information. Despite a careful process to prepare and review the forward-looking information, there can be no assurance that the 
+underlying opinions, estimates and assumptions will prove to be correct. Certain assumptions made in respect of our ability to 
+build our market share and enter new markets and industry verticals; our ability to attract, develop and retain key personnel; our 
+ability to manage hardware component shortages and supply chain risk and the impact of shortages in the supply chain on our 
+customers; our ability to maintain and expand geographic scope; our ability to execute on our expansion plans; our ability to 
+execute on our cost reduction initiatives; our ability to continue investing in infrastructure and implement scalable controls, 
+
+(1)
+
+systems and processes to support our growth; our ability to prevent and manage information security breaches or other cyber-
+security threats; our ability to protect our intellectual property rights and the risk of claims by third parties of intellectual property 
+infringement; the impact of class actions and other litigation claims; the pricing of our offerings; our ability to successfully sell 
+our POS and payments solutions as one unified platform to both new and existing customers; our ability to successfully integrate 
+the companies we have acquired and to derive the benefits we expect from the acquisition thereof; our ability to obtain and 
+maintain existing financing on acceptable terms; currency exchange and interest rates, including inflation; seasonality in our 
+business and in the business of our customers; the impact of competition; the changes and trends in our industry or the global 
+economy, including changes in consumer spending; goodwill impairments and the possibility of future impairments; and the 
+changes in laws, rules, regulations, and global standards are material factors in preparing forward-looking information and 
+management’s expectations.
+
+Forward-looking information is necessarily based on a number of opinions, estimates and assumptions that we considered 
+appropriate and reasonable as of the date such statements are made, is subject to known and unknown risks, uncertainties, 
+assumptions and other factors that may cause the actual results, level of activity, performance or achievements to be materially 
+different from those expressed or implied by such forward-looking information, including but not limited to the factors described 
+in the "Summary of Factors Affecting our Performance" section of this MD&A, in the "Risk Factors" section of our Annual 
+Information Form dated May 18, 2023, and in our other filings with the Canadian securities regulatory authorities and the U.S. 
+Securities and Exchange Commission, all of which are available under our profiles on SEDAR at www.sedar.com and on 
+EDGAR at www.sec.gov.
+
+If any of these risks or uncertainties materialize, or if the opinions, estimates or assumptions underlying the forward-looking 
+information prove incorrect, actual results or future events might vary materially from those anticipated in the forward-looking 
+information. The opinions, estimates or assumptions referred to above and described in greater detail in this MD&A should be 
+considered carefully by prospective investors. 
+
+Although we have attempted to identify important risk factors that could cause actual results to differ materially from those 
+contained in forward-looking information, there may be other risk factors not presently known to us or that we presently believe 
+are not material that could also cause actual results or future events to differ materially from those expressed in such forward-
+looking information. There can be no assurance that such information will prove to be accurate, as actual results and future events 
+could differ materially from those anticipated in such information. No forward-looking information is a guarantee of future 
+results. Accordingly, you should not place undue reliance on forward-looking information, which speaks only as of the date made. 
+The forward-looking information contained in this MD&A represents our expectations as of the date hereof or as of the date it is 
+otherwise stated to be made, as applicable, and is subject to change after such date. However, we disclaim any intention or 
+obligation or undertaking to update or revise any forward-looking information whether as a result of new information, future 
+events or otherwise, except as required under applicable securities laws.
+
+All of the forward-looking information contained in this MD&A is expressly qualified by the foregoing 
+cautionary statements.
+
+This MD&A includes certain trademarks, including "Lightspeed", "Flame Design", "NuORDER" and other trademarks, which are 
+protected under applicable intellectual property laws and are our property. Solely for convenience, our trademarks referred to in 
+this MD&A may appear without the ® or ™ symbol, but such references are not intended to indicate, in any way, that we will not 
+assert, to the fullest extent under applicable law, our rights to these trademarks.
+
+Additional information relating to Lightspeed, including our most recently completed Annual Information Form, can be found on 
+SEDAR at www.sedar.com and EDGAR at www.sec.gov.
+
+Overview
+
+Lightspeed offers a cloud-based commerce platform that connects suppliers, merchants and consumers while enabling omni-
+channel experiences. Our software platform provides our customers with the critical functionality they need to engage with 
+consumers, manage their operations, accept payments, and grow their businesses. We serve customers globally, empowering 
+single- and multi-location retailers, restaurants, golf course operators and other companies to compete successfully in an omni-
+channel market environment by engaging with consumers across online, mobile, social, and physical channels. We primarily 
+target small and medium-sized businesses ("SMBs") with our easy to use and cost efficient solutions. The majority of our revenue 
+is recurring or reoccurring and we have a track-record of growing revenue per customer over time. 
+
+(2)
+
+Our cloud platform is designed around three interrelated elements: omni-channel consumer experience, a comprehensive back-
+office operations management suite to improve our customers’ efficiency and insight, and the facilitation of payments. Key 
+functionalities of our platform include full omni-channel capabilities, point of sale ("POS"), product and menu management, 
+employee and inventory management (including ordering), analytics and reporting, multi-location connectivity, order-ahead and 
+curbside pickup functionality, loyalty, customer management and tailored financial solutions such as Lightspeed Payments and 
+Lightspeed Capital. By delivering our solutions through the cloud, we enable merchants to reduce dependency on the brick and 
+mortar channel and interact with customers anywhere (in store, online, mobile and social), gain a deeper understanding of their 
+customers and operations by tracking activity and key metrics across all channels, and update inventory, run analytics, change 
+menus, send promotions and otherwise manage their business operations from any location.
+
+Our flagship solutions include Lightspeed Restaurant, a unified hospitality commerce offering, and Lightspeed Retail, a 
+groundbreaking retail commerce offering that unites advanced POS, payments, and eCommerce into one cohesive and powerful 
+solution. In addition, Lightspeed eCommerce allows merchants to enhance omnichannel reach and increase selling flexibility, 
+including through social media platforms and digital marketplaces. Our new flagship solutions are seeing strong reception from 
+customers globally. NuORDER by Lightspeed, once fully integrated, will provide customers with greater supplier access and 
+inventory visibility, automate manual ordering, consolidate supplier portals into the POS, streamline omni-channel operations by 
+making it easy to import product details and photos into the POS, and ensure use of supplier approved brand names and images. 
+Going deep into verticals will also create opportunities for us to monetize our data up and down the supply chain. In Fiscal 2023, 
+we announced the initial launch of Lightspeed B2B, our B2B offering, to several key North American verticals: fashion, outdoor, 
+bikes and sporting goods. We believe our continued investment in Lightspeed B2B represents an opportunity for us to distinguish 
+ourselves from competitors. 
+
+Being the commerce platform puts us in a prime position for payment processing and allows us to collect transaction-related data 
+insights. After excluding Customer Locations attributable to the Ecwid eCommerce standalone product, our payments solutions 
+are now available to the majority of our Customer Locations. Our transaction-based revenue was $399.6 million for Fiscal 2023, 
+an increase of 51% from the $264.0 million in transaction-based revenue for Fiscal 2022. This was primarily driven by increased 
+customer adoption of our payments solutions resulting in an increase of 81% in GPV1 compared to Fiscal 2022. As of the 
+beginning of the fiscal year ending March 31, 2024 ("Fiscal 2024"), we are now selling our POS and payments solutions together 
+as one unified offering. We believe embedded payments results in the best experience for customers by improving consistency 
+and reliability, streamlining support and billing, and enhancing opportunities for them to avail themselves of innovative product 
+functionality. We are helping our customers by offering free hardware and implementation, helping with contract buy-outs and 
+offering competitive rates. As a result of this initiative, we will require our eligible new and existing customers to adopt our 
+payments solutions. We believe processing additional GTV for new and existing customers through our payments solutions will 
+help advance our growth strategies and enable us to reduce complexity in our business. In addition, this initiative will help reduce 
+the costs of supporting a variety of third party payment processors.
+
+Our platform is built to scale with our customers, supporting them as they open new locations, and offering increasingly 
+sophisticated solutions as their business requirements become more complex. Our platform helps SMBs avoid having to piece 
+together multiple, and often disjointed, applications from various providers to leverage the technology they need to run and grow 
+their businesses. Our ecosystem of development, channel and installation partners further reinforces the scalability of our 
+solutions, making them customizable and extensible. We work alongside our customers through their business journey by 
+providing industry-leading onboarding and support services, and fundamentally believe that our success is directly connected to 
+their success.
+
+To further complement our core cloud solutions, we offer a merchant cash advance program called Lightspeed Capital. This 
+program provides cash advances to eligible merchants and is designed to help them with overall business growth and cash 
+management. Merchants use these cash advances to manage their cash flows, to buy inventory, and to invest in marketing, 
+amongst other things.
+
+We sell our solutions primarily through our direct sales force in North America, Europe, the UK, Australia and New Zealand, 
+supplemented by indirect channels in other countries around the world. Our platform is well-suited for various types of SMBs, 
+particularly single- and multi-location retailers with complex operations, such as those with a high product count, diverse 
+inventory needs or a service component, golf course operators and hospitality customers.
+
+1  Refer to the section entitled "Key Performance Indicators".
+
+(3)
+
+Excluding the impact of Customer Locations attributable to the Ecwid eCommerce standalone product, which Customer 
+Locations carry a lower ARPU1, the monthly ARPU of our Customer Locations was approximately $335 per Customer Location 
+as at March 31, 2023 as compared to approximately $270 per Customer Location as at March 31, 2022. 
+
+As at March 31, 2023, excluding Customer Locations attributable to the Ecwid eCommerce standalone product, we had 
+approximately 168,000 Customer Locations1 in over 100 countries. While our total number of Customer Locations experienced 
+more gradual growth in Fiscal 2023 than in prior years, the number of our Customer Locations processing over $500,000/year2 
+continued to increase. We remain focused on attracting the right customer profile, particularly Customer Locations with a higher 
+GTV and more complex needs, merchants which we believe are ideally suited for our industry-leading solutions. For Fiscal 2023, 
+GPV was $14.7 billion compared to $8.1 billion for Fiscal 2022, representing growth of 81%. For Fiscal 2023, our cloud-based 
+software-as-a-service platform processed GTV of $87.1 billion, which represents growth of 18% relative to $74.0 billion of GTV 
+processed during Fiscal 2022, despite many retail verticals exhibiting lower average year-over-year GTV. For the three months 
+ended March 31, 2023 compared to three months ended March 31, 2022, our cloud-based software-as-a-service platform 
+processed GPV of $3.8 billion compared to $2.2 billion, representing growth of 70% and GTV1 of $20.2 billion compared to 
+$18.4 billion, representing growth of 10%, which is an indication of our success in penetrating our customer base with our 
+payments solutions. 
+
+For Fiscal 2023 compared to Fiscal 2022, our omni-channel retail GTV growth was 14% and our hospitality GTV growth was 
+22% (3% and 20%, respectively for the three months ended March 31, 2023 compared to three months ended March 31, 2022). 
+After excluding the impact of any acquisitions that occurred since the end of the prior comparable period so as to provide a 
+consistent basis of comparison, organic GTV growth for Fiscal 2023 compared to Fiscal 2022 was 16%, which growth was driven 
+by a 9% increase in GTV from omni-channel retail customers and an increase in hospitality GTV of 22% (10%, 3% and 20%, 
+respectively for the three months ended March 31, 2023 compared to three months ended March 31, 2022). In Fiscal 2023, we 
+observed many retail verticals exhibiting lower year-over-year GTV, likely owing to challenging economic conditions and 
+reduction in consumer spending. For greater clarity, where an acquisition occurred part way through the prior comparable period, 
+such acquisition's contributions in the current period are included for purposes of calculating organic GTV only to the extent of 
+the same months they were included in the prior comparable period. All growth for the three months ended March 31, 2023 was 
+organic as no acquisitions had occurred since the end of the prior comparable period.
+
+Excluding Customer Locations attributable to the Ecwid eCommerce standalone product, our approximately 168,000 Customer 
+Locations as at March 31, 2023 are located approximately 51% in North America and 49% across the rest of the world and the 
+split of these Customer Locations between retail and hospitality represents approximately 62% and 38% of our total Customer 
+Locations, respectively. Despite the Ecwid acquisition adding a significant number of lower ARPU Customer Locations to our 
+overall customer base, our attention continues to be focused on serving the complex SMBs, particularly high GTV customers, to 
+which our solutions are particularly well-suited and we believe that leveraging Ecwid's platform as our flagship eCommerce 
+offering will enable these businesses to enhance their omnichannel reach and increase their selling flexibility.
+
+We believe we have a distinct leadership position in SMB commerce given our scale, breadth of capabilities, and diversity of 
+customers. We generate revenue primarily from the sale of cloud-based software subscriptions and our payments solutions. We 
+offer pricing plans designed to meet the needs of our current and prospective customers that enable Lightspeed solutions to scale 
+with SMBs as they grow. Our subscription plans vary from monthly plans to one-year and multi-year terms. We have also 
+integrated our software with various third party payment processors who pay us a revenue share of the payment processing 
+revenue for customers we refer to them. These arrangements generally predate the availability of our payments solutions in the 
+various markets we serve.
+
+Our total revenue has increased to $730.5 million for Fiscal 2023 from $548.4 million for Fiscal 2022, representing year-over-
+year growth of 33%. For Fiscal 2023, subscription revenue accounted for 41% of our total revenues (45% for Fiscal 2022), and 
+transaction-based revenue accounted for 55% of our total revenues (48% for Fiscal 2022). Despite the impact of challenges and 
+uncertainty in the macroeconomic environment, for Fiscal 2023, we had an annual net retention rate1 of approximately 110%.
+
+After excluding the impact of any acquisitions that occurred since the end of the prior comparable period so as to provide a 
+consistent basis of comparison, organic subscription and transaction-based revenue growth for Fiscal 2023 compared to Fiscal 
+2022 was 31% (28% for the three months ended March 31, 2023 compared to the three months ended March 31, 2022). For 
+greater clarity, where an acquisition occurred part way through the prior comparable period, such acquisition's contributions in the 
+
+2 Excluding Customer Locations and GTV attributable to the Ecwid eCommerce standalone product, Lightspeed Golf and 
+NuORDER by Lightspeed product. A Customer Location's GTV per year is calculated by annualizing the GTV for the months in 
+which the Customer Location is actively processing in the last twelve months.
+
+(4)
+
+current period are included for purposes of calculating organic subscription and transaction-based revenue growth only to the 
+extent of the same months they were included in the prior comparable period. All growth for the three months ended March 31, 
+2023 was organic as no acquisitions had occurred since the end of the prior comparable period. 
+
+In addition, we offer a variety of hardware and other services to provide value-added support to our merchants and supplement 
+our subscription and transaction-based revenue solutions. These revenues are generally one-time revenues associated with the sale 
+of hardware with which our solutions integrate and the sale of professional services in support of the installation and 
+implementation of our solutions. For Fiscal 2023, this revenue accounted for 4% of our total revenue (7% for Fiscal 2022).
+
+We plan to continue making deliberate investments to drive future growth. We believe that our future success depends on a 
+number of factors, including our ability to expand our market share, build on the successes of our payments and tailored financial 
+solutions, add more solutions to our platform, expand our presence within verticals, and our ability to selectively pursue and to 
+integrate value-enhancing acquisitions.
+
+During the three months ended March 31, 2023, we announced a reorganization to streamline the Company's operating model 
+while continuing to focus on disciplined growth. This new structure represents the next deliberate step to integrate all of our 
+acquired companies and products now that we have successfully launched our flagship products in both retail and hospitality. The 
+reorganization included the reduction of approximately 300 roles. We plan to continue to hire core go-to-market and development 
+roles that support disciplined growth.
+
+We believe that we have significant opportunity to continue to expand ARPU given the number of customers adopting more  
+Lightspeed products over time and that our continued investments will increase our revenue base, improve the retention of this 
+base and strengthen our ability to increase sales to our customers. We have not been profitable to date. If we are unable to 
+successfully implement our growth strategies and cost reduction initiatives, we may not be able to achieve profitability. For Fiscal 
+2023 and Fiscal 2022, we incurred an operating loss of $1,099.0 million and $318.3 million, respectively. The operating loss for 
+Fiscal 2023 increased primarily due to a non-cash goodwill impairment charge of $748.7 million. Our cash flows used in 
+operating activities for Fiscal 2023 were $125.3 million, and our Adjusted Cash Flows Used in Operating Activities3 were $96.0 
+million compared to $87.2 million and $61.3 million, respectively, for Fiscal 2022. 
+
+Sustainability
+
+Sustainability is embedded in our guiding principles, and we are working towards a sustainable future and a greener economy. As 
+part of this commitment, we have taken steps to help our customers' reduce their carbon footprint. We partner with Sustainably 
+Run on a Carbon Free Dining program. The partnership gives our customers' diners the ability to offset the carbon emissions 
+associated with their purchase by planting trees and provides our customers with sustainable credits towards purchasing 
+Lightspeed products. The program has resulted in the planting of over 1.3 million trees. In addition to offsetting carbon emissions, 
+these trees provide food, income and education for the communities sponsored to plant the trees. We also partner with TravelPerk 
+to offset carbon emissions for our business travel by airplane, automobile, and train. We choose to partner with companies that are 
+also environmentally conscientious. Most of our solutions are powered by Amazon Web Services ("AWS") and Google Cloud 
+platforms. Google Cloud is 100% powered by renewable energy and AWS has committed to powering its operations with 100% 
+renewable energy by 2025.
+
+Lightspeed is also a place of diversity, equity and inclusion, and it has been since our Executive Chair Dax Dasilva founded the 
+Company in Montreal’s Gay Village in 2005. The first four Lightspeed employees were all from the LGBTQ2S+ community and, 
+based on the 2023 annual DEI engagement survey, 10% of our employees identify as LGBTQ2S+. Our commitment to a diverse 
+and inclusive workplace can be seen at all levels of our Company, including our Employee-led Networks for women, LGBTQ2S+ 
+community members and BIPOC community members. Furthermore, the board of directors has committed to a target of at least 
+37.5% of women in its membership and is actively recruiting new members with this goal in mind. We believe in creating value 
+across our ecosystem, including by ensuring meaningful wealth creation opportunities for all employees. All permanent 
+employees are granted an equity stake in the Company upon hire, ensuring employees’ interests are aligned with those of our 
+shareholders.
+
+Macroeconomic Conditions including COVID-19
+
+There continues to be uncertainty in the macroeconomic environment, including with respect to increasing inflationary pressures, 
+changes in consumer spending, instability in the banking sector, exchange rate fluctuations and increases of interest rates as well 
+
+3Refer to the section entitled "Non-IFRS Measures and Ratios and Reconciliation of Non-IFRS Measures and Ratios".
+
+(5)
+
+as with respect to the duration and magnitude of the COVID-19 Pandemic and the ability to control resurgences and new variants 
+worldwide. This macroeconomic uncertainty makes it difficult to assess the future impact these events and conditions will have on 
+our customer base, the end markets we serve and the resulting effect on our business and operations, both in the short term and in 
+the long term. 
+
+Despite these ongoing risks and uncertainties, we continue to believe there is an accelerated need for our solutions in the retail and 
+hospitality industries as SMBs look to augment traditional in-person selling models with online and digital strategies, operate with 
+fewer employees to manage labor shortages by automating time-consuming tasks, and find new efficiencies and insights into their 
+business. A large portion of our market is currently served by legacy on-premise systems that are expensive, complicated, 
+outdated, and poorly equipped to help SMBs adapt to this immediate need. This represents a significant opportunity for us to 
+continue to fuel adoption of our solutions. We believe our growth, despite a challenging macroeconomic environment, is an 
+ongoing indicator of this continued shift to cloud-based solutions. Lightspeed believes it is well-positioned to capitalize on this 
+opportunity and will continue to leverage its privileged position at the point of sale to also seize our payments opportunity.
+
+Seizing our payments opportunity means monetizing a larger portion of our customers’ GTV, which for Fiscal 2023 was $87.1 
+billion up 18% from the $74.0 billion we processed in Fiscal 2022. We expect changes in consumer spending or other 
+macroeconomic conditions in the various geographies in which we operate to continue to cause variability in our GTV; however, 
+we believe our diversity in customer verticals and geographies we serve will continue to be a strong asset of the business. 
+
+Additionally, the Russian invasion of Ukraine has created and is expected to continue to create further global economic 
+uncertainty. We do not have any significant operations, customers or supplier relationships in Russia, Belarus or Ukraine, and 
+have ceased our selling activities to new customers in Russia and Belarus. All of our intellectual property and customer data is 
+located outside of the region. We do have personnel in Russia who were brought on via our acquisition of Ecwid, and as part of 
+our business continuity plans have relocated many outside of Russia to mitigate any reliance on the region. The United States 
+State Department has issued a warning that one of the potential escalations that may result in connection with the war in Ukraine 
+and in response to the increased sanctions announced by many countries against Russia, could be an increased risk of cyber-
+security attacks to the networks and operations of companies operating from countries that have participated in sanctions against 
+Russia. We take that concern very seriously and have increased our own efforts to monitor our networks and information 
+technology infrastructure for any signs of such attacks. We will continue to monitor the situation closely, but to date we have not 
+experienced any disruptions in our business operations as a result thereof.
+
+We continue to monitor the impact of macroeconomic events and conditions on our business, financial condition and operations, 
+as further discussed below. Refer to the section of this MD&A entitled "Summary of Factors Affecting Our Performance", to the 
+"Risk Factors" section of our most recent Annual Information Form, and to our other filings with Canadian securities regulatory 
+authorities and the U.S. Securities and Exchange Commission, all of which can be found on SEDAR at www.sedar.com and on 
+EDGAR at www.sec.gov, for a discussion about the risks with which we are faced. 
+
+Key Performance Indicators
+
+We monitor the following key performance indicators to help us evaluate our business, measure our performance, identify trends 
+affecting our business, formulate business plans and make strategic decisions. These key performance indicators are also used to 
+provide investors with supplemental measures of our operating performance and thus highlight trends in our core business that 
+may not otherwise be apparent when relying solely on IFRS measures and ratios. We also believe that securities analysts, 
+investors and other interested parties frequently use industry metrics in the evaluation of issuers. Our key performance indicators 
+may be calculated in a manner different than similar key performance indicators used by other companies.
+
+Average Revenue Per User. "Average Revenue Per User" or "ARPU" represents the total subscription revenue and 
+transaction-based revenue of the Company in the period divided by the number of Customer Locations of the Company in 
+the period. We use this measure as we believe it provides a helpful supplemental indicator of our progress in growing the 
+revenue that we derive from our customer base. When excluding Customer Locations attributable to the Ecwid eCommerce 
+standalone product, which Customer Locations carry a lower ARPU, the monthly ARPU of our Customer Locations 
+increased by 24% to approximately $335 per Customer Location as at March 31, 2023 compared to approximately $270 
+per Customer Location as at March 31, 2022. When including Customer Locations attributable to the Ecwid eCommerce 
+standalone product, our customers generated monthly ARPU of approximately $145 per Customer Location as at 
+March 31, 2022 and approximately $181 as at March 31, 2023. For greater clarity, the number of Customer Locations of 
+the Company in the period is calculated by taking the average number of Customer Locations throughout the period.
+
+(6)
+
+Customer Locations. "Customer Location" means a billing merchant location for which the term of services have not 
+ended, or with which we are negotiating a renewal contract, and, in the case of NuORDER, a brand with a direct or indirect 
+paid subscription for which the terms of services have not ended or in respect of which we are negotiating a subscription 
+renewal. A single unique customer can have multiple Customer Locations including physical and eCommerce sites and in 
+the case of NuORDER, multiple subscriptions. We use this measure as we believe that our ability to increase the number of 
+Customer Locations with a high GTV per year served by our platform is an indicator of our success in terms of market 
+penetration and growth of our business. A Customer Location's GTV per year is calculated by annualizing the GTV for the 
+months in which the Customer Location was actively processing in the last twelve months. During the three months ended 
+March 31, 2023, the number of our Customer Locations processing over $500,000/year continued to increase. Excluding 
+Customer Locations attributable to the Ecwid eCommerce standalone product, our Customer Locations were approximately 
+168,000 as at March 31, 2023 compared to approximately 163,000 as at March 31, 2022. Customer Locations attributable 
+to the Ecwid eCommerce standalone product were approximately 158,000 as at March 31, 2023, compared to 
+approximately 160,000 as at March 31, 2022. 
+
+Gross Payment Volume. "Gross Payment Volume" or "GPV" means the total dollar value of transactions processed, 
+excluding amounts processed through the NuORDER solution, in the period through our payments solutions in respect of 
+which we act as the principal in the arrangement with the customer, net of refunds, inclusive of shipping and handling, duty 
+and value-added taxes. We use this measure as we believe that growth in our GPV demonstrates the extent to which we 
+have scaled our payments solutions. As the number of Customer Locations using our payments solutions grows, 
+particularly those with a high GTV, we will generate more GPV and see higher transaction-based revenue. For the three 
+months ended March 31, 2023, GPV was $3.8 billion compared to $2.2 billion for the three months ended March 31, 2022, 
+representing growth of 70%. For Fiscal 2023, GPV was $14.7 billion compared to $8.1 billion for Fiscal 2022, representing 
+growth of 81%. We have excluded amounts processed through the NuORDER solution from our GPV because they 
+represent business-to-business volume rather than business-to-consumer volume and we do not currently have a robust 
+payments solution for business-to-business volume. 
+
+Gross Transaction Volume. "Gross Transaction Volume" or "GTV" means the total dollar value of transactions 
+processed through our cloud-based software-as-a-service platform, excluding amounts processed through the NuORDER 
+solution, in the period, net of refunds, inclusive of shipping and handling, duty and value-added taxes. We use this measure 
+as we believe GTV is an indicator of the success of our customers and the strength of our platform. GTV does not represent 
+revenue earned by us. For the three months ended March 31, 2023, GTV was $20.2 billion compared to $18.4 billion for 
+the three months ended March 31, 2022, representing growth of 10%. In the three months ended March 31, 2023, we 
+observed lower year-over-year GTV in many retail verticals likely owing to challenging economic conditions and reduction 
+in customer spending. For Fiscal 2023, GTV was $87.1 billion compared to $74.0 billion for Fiscal 2022, representing 
+growth of 18%. We have excluded amounts processed through the NuORDER solution from our GTV because they 
+represent business-to-business volume rather than business-to-consumer volume and we do not currently have a robust 
+payments solution for business-to-business volume.
+
+Net Retention Rate. "Net Retention Rate" or "NRR". We use this measure as we believe that our ability to retain and 
+expand the revenues generated from our existing customers is an indicator of the long-term value of our customer 
+relationships. We track our performance in this area by measuring our NRR, which is calculated by firstly identifying a 
+cohort of customers, or the "Base Customers", in a particular month, or the "Base Month". Billings include billings of 
+subscriptions fees and billings of fees from our payments solutions in respect of which we act as the principal in the 
+arrangement with the customer. We then divide the Billings for the Base Customers in the same month of the subsequent 
+year, or the "Comparison Month", by the Billings in the Base Month to derive a monthly NRR. This by definition, does not 
+include any customers added to our platform between the Base Month and the Comparison Month. We measure the annual 
+NRR by taking a weighted average of the monthly NRR over the trailing twelve months. NRR excludes customers 
+attributable to the Ecwid eCommerce standalone product. Despite the impact of challenges and uncertainty in the 
+macroeconomic environment, for Fiscal 2023, we had an annual NRR of approximately 110%. In previous fiscal years, we 
+have disclosed a net dollar retention rate which was calculated as of the end of each month by considering the cohort of 
+customers on our commerce platforms as of the beginning of the month and dividing our subscription and transaction-
+based revenues attributable to this cohort in the then-current month by total subscription and transaction-based revenue 
+attributable to this cohort in the immediately preceding month. Net Retention Rate is a different measure than net dollar 
+retention rate. We believe that Net Retention Rate more clearly demonstrates whether we are successful in retaining and 
+expanding revenue generated from our existing customers than net dollar retention rate because the longer intervening 
+period between the months compared in calculating Net Retention Rate is more statistically significant and controls for 
+factors such as seasonality.
+
+(7)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-IFRS Measures and Ratios and Reconciliation of Non-IFRS Measures and Ratios
+
+The information presented within this MD&A includes certain non-IFRS financial measures such as "Adjusted EBITDA", 
+"Adjusted Income (Loss)", and "Adjusted Cash Flows Used in Operating Activities" and the non-IFRS ratio "Adjusted Income 
+(Loss) per Share - Basic and Diluted". These measures and ratios are not recognized measures and ratios under IFRS and do not 
+have a standardized meaning prescribed by IFRS and are therefore unlikely to be comparable to similar measures and ratios 
+presented by other companies. Rather, these measures and ratios are provided as additional information to complement those 
+IFRS measures and ratios by providing further understanding of our results of operations from management’s perspective. 
+Accordingly, these measures and ratios should not be considered in isolation nor as a substitute for analysis of our financial 
+information reported under IFRS. These non-IFRS measures and ratios are used to provide investors with supplemental measures 
+and ratios of our operating performance and thus highlight trends in our core business that may not otherwise be apparent when 
+relying solely on IFRS measures and ratios. We also believe that securities analysts, investors and other interested parties 
+frequently use non-IFRS measures and ratios in the evaluation of issuers. Our management also uses non-IFRS measures and 
+ratios in order to facilitate operating performance comparisons from period to period, to prepare annual operating budgets and 
+forecasts and to determine components of management compensation.
+
+Adjusted EBITDA
+
+Adjusted EBITDA is defined as net loss excluding interest, taxes, depreciation and amortization, or EBITDA, as adjusted for 
+share-based compensation and related payroll taxes, compensation expenses relating to acquisitions completed, foreign exchange 
+gains and losses, transaction-related costs, restructuring, litigation provisions and goodwill impairment. We believe that Adjusted 
+EBITDA provides a useful supplemental measure of the Company’s operating performance, as it helps illustrate underlying trends 
+in our business that could otherwise be masked by the effect of the income or expenses that are not indicative of the core 
+operating performance of our business. The following table reconciles net loss to Adjusted EBITDA for the periods indicated:
+
+(In thousands of US dollars)
+
+Net loss
+Share-based compensation and related payroll taxes(1)
+Depreciation and amortization(2)
+Foreign exchange loss (gain)(3)
+Net interest income(2)
+Acquisition-related compensation(4)
+Transaction-related costs(5)
+Restructuring(6)
+Goodwill impairment(7)
+Litigation provisions(8)
+Income tax expense (recovery)
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+2023
+$
+
+2022
+$
+
+2023
+$
+
+2022
+$
+
+(74,468) 
+15,967 
+28,380 
+297 
+(9,654) 
+5,746 
+2,323 
+25,549 
+— 
+229 
+1,283 
+
+(114,517) 
+41,625 
+29,972 
+29 
+(1,014) 
+20,433 
+872 
+606 
+— 
+576 
+1,679 
+
+ (1,070,009) 
+123,667 
+115,261 
+(199) 
+(24,812) 
+41,792 
+5,834 
+28,683 
+748,712 
+1,409 
+(4,219) 
+
+(288,433) 
+109,066 
+104,548 
+611 
+(2,988) 
+50,491 
+9,653 
+803 
+— 
+1,655 
+(26,921) 
+
+Adjusted EBITDA
+
+(4,348) 
+
+(19,739) 
+
+(33,881) 
+
+(41,515) 
+
+(1)
+
+(2)
+
+(3)
+
+These expenses represent non-cash expenditures recognized in connection with issued stock options and other awards under our 
+equity incentive plans to our employees and directors, and cash related payroll taxes given that they are directly attributable to 
+share-based compensation; they can include estimates and are therefore subject to change. For the three months and fiscal year 
+ended March 31, 2023, excluding $5,637 of share-based compensation expense acceleration that was classified as restructuring, 
+share-based compensation expense was $15,685 and $123,530, respectively (March 2022 - expense of $41,934 and $108,916), and 
+related payroll taxes were an expense of $282 and $137, respectively (March 2022 - recovery of $309 and an expense of $150). 
+These amounts are included in direct cost of revenues, general and administrative expenses, research and development expenses and 
+sales and marketing expenses (see note 8 of the audited annual consolidated financial statements for additional details). These 
+expenses exclude share-based compensation classified as restructuring, which has been included in the restructuring expense.
+
+In connection with the accounting standard IFRS 16 - Leases, for the three months ended March 31, 2023, net loss includes 
+depreciation of $2,025 related to right-of-use assets, interest expense of $278 on lease liabilities, and excludes an amount of $2,322 
+relating to rent expense ($2,032, $288, and $2,111, respectively, for the three months ended March 31, 2022). For Fiscal 2023, net 
+loss includes depreciation of $8,244 related to right-of-use assets, interest expense of $1,075 on lease liabilities, and excludes an 
+amount of $8,712 relating to rent expense ($7,743, $1,204, and $8,133, respectively, for Fiscal 2022).
+
+These non-cash gains and losses relate to foreign exchange translation. 
+
+(8)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4)
+
+(5)
+
+These costs represent a portion of the consideration paid to acquired businesses that is contingent upon the ongoing employment 
+obligations for certain key personnel of such acquired businesses, and/or on certain performance criteria being achieved.
+
+These expenses relate to professional, legal, consulting, accounting, advisory, and other fees relating to our public offerings and 
+acquisitions that would otherwise not have been incurred. These costs are included in general and administrative expenses and sales 
+and marketing expenses.
+
+(6) Certain functions and the associated management structure were reorganized to realize synergies and ensure organizational agility. 
+During the three months ended March 31, 2023, we announced a reorganization to streamline the Company's operating model while 
+continuing to focus on disciplined growth. The expenses associated with this reorganization were recorded as a restructuring charge 
+(see note 24 of the audited annual consolidated financial statements for additional details).
+
+(7)
+
+(8)
+
+This amount represents a non-cash goodwill impairment charge (see note 16 of the audited annual consolidated financial statements 
+for additional details).
+
+These amounts represent provisions taken and other costs, such as legal fees, incurred in respect of certain litigation matters, net of 
+amounts covered by insurance and indemnifications. These amounts do not include provisions taken and other costs incurred in 
+respect of litigation matters of a nature that we consider normal to our business. These amounts are included in general and 
+administrative expenses.
+
+Adjusted Loss and Adjusted Loss per Share - Basic and Diluted
+Adjusted Loss is defined as net loss excluding amortization of intangibles, as adjusted for share-based compensation and related 
+payroll taxes, compensation expenses relating to acquisitions completed, transaction-related costs, restructuring, litigation 
+provisions, deferred income taxes and goodwill impairment. We use this measure as we believe excluding amortization of 
+intangibles and certain other non-cash or non-operational expenditures provides a helpful supplementary indicator of our business 
+performance as it allows for more accurate comparability across periods. Adjusted Loss per Share - Basic and Diluted is defined 
+as Adjusted Loss divided by the weighted average number of common shares (basic and diluted). We use Adjusted Loss per Share 
+- Basic and Diluted to provide a helpful supplemental indicator of the performance of our business on a per share (basic and 
+diluted) basis. The following table reconciles net loss to Adjusted Loss for the periods indicated:
+
+(In thousands of US dollars, except number of shares and per 
+share amounts)
+
+Net loss
+Share-based compensation and related payroll taxes(1)
+Amortization of intangible assets
+Acquisition-related compensation(2)
+Transaction-related costs(3)
+Restructuring(4)
+Goodwill impairment(5)
+Litigation provisions(6)
+Deferred income tax expense (recovery)
+
+Adjusted Loss
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+2023
+$
+
+(74,468)   
+15,967 
+24,620 
+5,746 
+2,323 
+25,549 
+— 
+229 
+(368)   
+
+2022
+$
+
+2023
+$
+
+(114,517)   
+41,625 
+26,151 
+20,433 
+872 
+606 
+— 
+576 
+1,397 
+
+(1,070,009)   
+123,667 
+101,546 
+41,792 
+5,834 
+28,683 
+748,712 
+1,409 
+(6,688)   
+
+2022
+$
+
+(288,433) 
+109,066 
+91,812 
+50,491 
+9,653 
+803 
+— 
+1,655 
+(28,024) 
+
+(402)   
+
+(22,857)   
+
+(25,054)   
+
+(52,977) 
+
+Weighted average number of Common Shares – basic 
+and diluted(7)
+
+ 151,774,467 
+
+ 148,473,309 
+
+ 150,404,130 
+
+ 141,580,917 
+
+Net loss per share – basic and diluted
+Adjusted Loss per Share – Basic and Diluted
+
+(0.49)   
+
+(0.00)
+
+(0.77)   
+
+(0.15)   
+
+(7.11)   
+
+(0.17)   
+
+(2.04) 
+
+(0.37) 
+
+(1)
+
+(2)
+
+These expenses represent non-cash expenditures recognized in connection with issued stock options and other awards under our 
+equity incentive plans to our employees and directors, and cash related payroll taxes given that they are directly attributable to 
+share-based compensation; they can include estimates and are therefore subject to change. For the three months and fiscal year 
+ended March 31, 2023, excluding $5,637 of share-based compensation expense acceleration that was classified as restructuring, 
+share-based compensation expense was $15,685 and $123,530, respectively (March 2022 - expense of $41,934 and $108,916), and 
+related payroll taxes were an expense of $282 and $137, respectively (March 2022 - recovery of $309 and an expense of $150). 
+These amounts are included in direct cost of revenues, general and administrative expenses, research and development expenses and 
+sales and marketing expenses (see note 8 of the audited annual consolidated financial statements for additional details). These 
+expenses exclude share-based compensation classified as restructuring, which has been included in the restructuring expense.
+
+These costs represent a portion of the consideration paid to acquired businesses that is contingent upon the ongoing employment 
+obligations for certain key personnel of such acquired businesses, and/or on certain performance criteria being achieved.
+
+(9)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3)
+
+These expenses relate to professional, legal, consulting, accounting, advisory, and other fees relating to our public offerings and 
+acquisitions that would otherwise not have been incurred. These costs are included in general and administrative expenses and sales 
+and marketing expenses.
+
+(4) Certain functions and the associated management structure were reorganized to realize synergies and ensure organizational agility. 
+
+During the three months ended March 31, 2023, we announced a reorganization to streamline the Company's operating model while 
+continuing to focus on disciplined growth. The expenses associated with this reorganization were recorded as a restructuring charge 
+(see note 24 of the audited annual consolidated financial statements for additional details).
+
+(5)
+
+(6)
+
+(7)
+
+This amount represents a non-cash goodwill impairment charge (see note 16 of the audited annual consolidated financial statements 
+for additional details).
+
+These amounts represent provisions taken and other costs, such as legal fees, incurred in respect of certain litigation matters, net of 
+amounts covered by insurance and indemnifications. These amounts do not include provisions taken and other costs incurred in 
+respect of litigation matters of a nature that we consider normal to our business. These amounts are included in general and 
+administrative expenses.
+
+In periods where we reported an Adjusted Loss, as a result of the Adjusted Losses incurred, all potentially-dilutive securities have 
+been excluded from the calculation of Adjusted Loss per Share - Diluted because including them would be anti-dilutive. Adjusted 
+Loss per Share - Diluted is the same as Adjusted Loss per Share - Basic in these periods where we incurred an Adjusted Loss. 
+
+Adjusted Cash Flows Used in Operating Activities
+
+Adjusted Cash Flows Used in Operating Activities is defined as cash flows used in operating activities as adjusted for the 
+payment of payroll taxes on share-based compensation, the payment of compensation expenses relating to acquisitions completed, 
+the payment of transaction-related costs, the payment of restructuring costs, the payment of amounts related to litigation 
+provisions net of amounts received as insurance and indemnification proceeds and the payment of amounts related to capitalized 
+internal development costs. We use this measure as we believe including or excluding certain inflows and outflows provides a 
+helpful supplemental indicator to investors on our business performance in regard to the Company's ability to generate cash flows. 
+An explanation of the Adjusted Cash Flows Used in Operating Activities can be found in the "Liquidity and Capital Resources" 
+section of this MD&A. The following table reconciles cash flows used in operating activities to Adjusted Cash Flows Used in 
+Operating Activities for the periods indicated:
+
+(In thousands of US dollars)
+
+Cash flows used in operating activities
+Payroll taxes related to share-based compensation(1)
+Acquisition-related compensation(2)
+Transaction-related costs(3)
+Restructuring(4)
+Litigation provisions(5)
+Capitalized internal development costs(6)
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+2023
+$
+
+(41,587)   
+820 
+2,547 
+(2,621)   
+15,230 
+209 
+(1,519)   
+
+2022
+$
+
+(11,342)   
+156 
+746 
+431 
+501 
+(366)   
+— 
+
+2023
+$
+
+(125,284)   
+1,705 
+8,590 
+1,888 
+17,722 
+3,306 
+(3,894)   
+
+2022
+$
+
+(87,218) 
+4,953 
+7,839 
+12,208 
+1,590 
+(654) 
+— 
+
+Adjusted Cash Flows Used in Operating Activities
+
+(26,921)   
+
+(9,874)   
+
+(95,967)   
+
+(61,282) 
+
+(1)
+
+(2)
+
+(3)
+
+These amounts represent the cash inflow and outflow of payroll taxes on our issued stock options and other awards under our equity 
+incentive plans to our employees and directors.
+
+These amounts represent the cash outflow of a portion of the consideration paid to acquired businesses that is associated with the 
+ongoing employment obligations for certain key personnel of such acquired businesses, and/or on certain performance criteria being 
+achieved.
+
+These amounts represent the cash outflows, and inflows due to timing differences, related to professional, legal, consulting, 
+accounting, advisory, and other fees relating to our public offerings and acquisitions that would otherwise not have been incurred. 
+These amounts also include adjustments related to the settlement of transaction-related costs of the targets that were outside the 
+regular course of business for our acquisitions and which were assumed as liabilities on the relevant acquisition dates.  
+
+(4) Certain functions and the associated management structure were reorganized to realize synergies and ensure organizational agility. 
+During the three months ended March 31, 2023, we announced a reorganization to streamline the Company's operating model while 
+continuing to focus on disciplined growth. The expenses associated with this reorganization were recorded as a restructuring charge 
+(see note 24 of the audited annual consolidated financial statements for additional details).
+
+(5)
+
+These amounts represent the cash inflow and outflow in respect of provisions taken, and other costs such as legal fees incurred, in 
+respect of certain litigation matters, net of amounts received as insurance and indemnification proceeds. These cash inflows and 
+
+(10)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+outflows do not include cash inflows and outflows in respect of litigation matters of a nature that we consider normal to our 
+business.
+
+(6)
+
+These amounts represent the cash outflows associated with capitalized internal development costs. These amounts are included 
+within the cash flows used in investing activities section of the audited annual consolidated statements of cash flows. If these costs 
+were not capitalized as an intangible asset, they would be part of our cash flows used in operating activities. There were no 
+capitalized internal development costs in the fiscal year ended March 31, 2022. 
+
+Outlook
+
+A discussion of management's expectations as to the Company's outlook for the three months ending June 30, 2023 and fiscal year 
+ending March 31, 2024 is contained in the Company's press release dated May 18, 2023 under the heading "Financial Outlook". 
+The press release is available on SEDAR at www.sedar.com and on EDGAR at www.sec.gov. Information contained in, or 
+otherwise accessed through, such press release is not deemed part of this MD&A and such press release and information is not 
+incorporated by reference herein.
+
+Summary of Factors Affecting our Performance
+
+We believe that the growth and future success of our business depends on many factors, including those described below. While 
+each of these factors presents significant opportunities for our business, they also pose important challenges, some of which are 
+discussed below, in the "Risk Factors" section of our most recent Annual Information Form, and in our other filings with the 
+Canadian securities regulatory authorities and the U.S. Securities and Exchange Commission, all of which can be found on 
+SEDAR at www.sedar.com and on EDGAR at www.sec.gov.
+
+Market Adoption of our Platform
+
+We intend to continue to drive adoption of our advanced commerce platform by scaling our solutions to meet the needs of both 
+new and existing customers of all types and sizes, with our focus being on complex high GTV customers. We believe that there is 
+significant potential to increase penetration of our total addressable market and attract new customers and that this potential has 
+become even greater due to the accelerating need for SMBs to move away from legacy on-premise systems towards cloud-based 
+omni-channel solutions. We plan to do this by further developing our products and services, embedding ourselves up and down 
+the supply chain within the ecosystem of verticals as well as continuing to invest in marketing strategies tailored to attract new 
+businesses to our platform, both in our existing geographies and new markets around the world. We also intend to selectively 
+evaluate opportunities to offer our solutions to businesses operating in industry verticals that we do not currently serve. We plan 
+to continue to invest in our platform to drive market adoption, particularly of our payments solutions, and our operating cash 
+flows may fluctuate and our profitability may be impacted as we make these investments. Our market is large, evolving, highly-
+fragmented, competitive and has low barriers to entry in many of the countries in which we operate. Our competitors range from 
+large, well-established vendors to smaller, earlier-stage ones. We expect competition to intensify in the future, particularly as 
+industry consolidation occurs and as large, well-established vendors increasingly service more complex customers or shift their 
+focus to in-person shopping and services. Our focus will be on selling our flagship products globally, as we believe two core 
+offerings will reduce complexity, help improve go-to-market momentum and help deliver stronger performance.
+
+Customer Adoption of our Payments Solutions
+
+After excluding Customer Locations attributable to the Ecwid eCommerce standalone product, our payments solutions are now 
+available to the majority of our Customer Locations. We believe that our payments solutions will continue to be an increasingly 
+important part of our business as we continue to increase their availability throughout our customer base and across our core 
+geographies. Our payments solutions are designed to be transparent and easy to understand, and we have priced our solutions at 
+market competitive rates based on a percentage of GTV electronically processed through our platform. We continue to see 
+increased adoption of our payment processing solutions, which are the largest driver of revenue growth for the Company. As an 
+increasing proportion of our revenue is generated from our payments solutions, we believe that while our total revenues may 
+grow, our gross margins will decrease over time due to the lower gross margin profile of our transaction-based revenue stream 
+relative to the higher gross margin profile of our subscription revenue stream. As of the beginning of Fiscal 2024, we are now 
+selling our POS and payments solutions together as one unified offering. We believe embedded payments results in the best 
+experience for customers by improving consistency and reliability, streamlining support and billing, and enhancing opportunities 
+for them to avail themselves of innovative product functionality. We are helping our customers by offering free hardware and 
+implementation, helping with contract buy-outs and offering competitive rates. As a result of this initiative, we will require our 
+eligible new and existing customers to adopt our payments solutions. We believe processing additional GTV for new and existing 
+
+(11)
+
+customers through our payments solutions will help advance our growth strategies and enable us to reduce complexity in our 
+business. In addition, this initiative will help reduce the costs of supporting a variety of third party payment processors.
+
+Cross-selling and Up-selling with Existing Customers
+
+Our existing customers represent a significant opportunity to cross-sell and up-sell products and services with significantly lower 
+sales and marketing expense. We use a "land and expand" approach, with many of our customers initially deploying our platform 
+for a specific use case. Once they realize the benefits and wide functionality of our platform, they can expand the number of use 
+cases including services such as Lightspeed Advanced Insights, Lightspeed Payments and Lightspeed Capital. We plan to 
+continually invest in product development, and in sales and marketing, to add more solutions to our platform and to increase the 
+usage and awareness of our solutions. Such investments include integrating Lightspeed B2B to enable inventory ordering straight 
+from our merchants’ POS, and to provide brands with data insights on consumers and trends to optimize manufacturing and 
+distribution. Our future revenue growth and our ability to achieve and maintain profitability is dependent upon our ability to 
+maintain existing customer relationships and to continue to expand our customers’ use of our comprehensive suite of solutions. 
+
+Economic Conditions and Resulting Consumer Spending Trends
+
+Our performance is subject to worldwide economic conditions and global events, including political, economic, social and 
+environmental risks that may impact our operations or our customers’ operations. Such conditions and events may adversely 
+affect consumer confidence, consumer spending, consumer discretionary income or changes in consumer purchasing habits. 
+Deterioration in general economic conditions, including any rise in unemployment rates, inflation and increases in interest rates, 
+have adversely affected and may continue to adversely affect consumer spending, consumer debt levels and credit and debit card 
+usage, and as a result, have adversely affected our financial performance by reducing the number of transactions or average 
+purchase amount of transactions processed using our payments solutions. Deterioration in general economic conditions may also 
+cause financial institutions to restrict credit lines to cardholders or limit the issuance of new cards to mitigate cardholder credit 
+concerns, which could further reduce the number or average purchase amount of transactions processed using our payments 
+solutions. Many of the customers that use our platform are SMBs and many are also in the entrepreneurial stage of their 
+development. SMBs may be disproportionately affected by the aforementioned economic conditions or economic downturns, 
+especially if they sell discretionary goods. SMBs may also be disproportionately affected by other economic conditions, including 
+labor shortages and global supply chain issues. SMBs frequently have limited budgets and may choose to allocate their spending 
+to items other than our platform, especially in times of economic uncertainty or recessions. Economic and geopolitical 
+uncertainties, including those related to the COVID-19 Pandemic, variants of the COVID-19 virus, and Russia's invasion of 
+Ukraine may further amplify such risks.
+
+Economic downturns have and may continue to adversely impact retail and hospitality sales, which could result in us processing 
+lower payments volumes and customers who use our platform going out of business or deciding to stop using our services in order 
+to conserve cash. Moreover, our customers that run restaurants or customers in certain of our retail verticals operate in industries 
+which are intensely competitive and subject to heightened exposure to economic conditions affecting consumer discretionary 
+spending, resulting in overall risk and a rate of failure that are typically greater than for businesses generally. 
+
+Weakening economic conditions may also adversely affect third parties, including suppliers and partners, with whom we have 
+entered into relationships and upon whom we depend in order to operate and grow our business. Uncertain and adverse economic 
+conditions may also lead to increased write-offs of our trade receivables, and refunds and chargebacks or potential losses to our 
+merchant cash advance program, any of which could adversely affect our business.
+
+COVID-19 Pandemic 
+
+The future impact of the COVID-19 Pandemic on our business, financial condition and results of operations remains uncertain. 
+Measures attempting to contain and mitigate the effects of the virus such as travel restrictions, self-isolation measures, mandatory 
+closures of non-essential services and businesses, physical distancing practices, and the resulting effect on the operations of and 
+spending by merchants, brands and consumers including supply chain issues have disrupted and may in the future disrupt our 
+normal operations and impact our employees, vendors, partners, and our customers and their consumers. The degree to which 
+COVID-19 will continue to affect our business, operating results and financial condition will depend on highly uncertain and 
+unpredictable future developments.
+
+The COVID-19 Pandemic has impacted and may in the future impact our customers, including their GTV, overall demand for our 
+services, and anticipated subscription pauses and churn rates due to business closures and temporary business shutdowns. It has 
+also limited, and may in the future limit, their ability to obtain inventory or ingredients and supplies, to generate sales, or to make 
+
+(12)
+
+timely payments to us. COVID-19 has also caused heightened uncertainty in the global economy. Slowdowns in economic 
+growth, particularly where they reduce consumer spending, have negatively impacted and may continue to negatively impact our 
+customers and our results of operations. Uncertain and adverse economic conditions may also lead to increased write-offs of our 
+trade receivables, and refunds and chargebacks or potential losses for our merchant cash advance program and may require us to 
+recognize an impairment related to our non-financial assets in our financial statements. See the risk factor in our Annual 
+Information Form titled "We have in the past suffered losses due to goodwill impairment and may in the future suffer losses due to 
+impairment charges" for more information.
+
+Uncertainty in the global economy and market volatility has been and may in the future be exacerbated by new variants and 
+mutations of the COVID-19 virus. Continued capital markets volatility may cause further declines in the price of our subordinate 
+voting shares, increasing the risk that further securities class action lawsuits may be instituted against us.
+
+The COVID-19 Pandemic and related restrictions may also disrupt or delay the ability of employees to work, cause delays or 
+disruptions in services provided by our vendors, increase our vulnerability and that of our partners and service providers to 
+security breaches, denial of service attacks or other hacking or phishing attacks, or cause other unpredictable events. The duration, 
+severity and ongoing impacts of the COVID-19 Pandemic may also have the effect of heightening many of the other risks 
+described herein, in our most recent Annual Information Form and in our filings with Canadian securities regulatory authorities 
+and the U.S. Securities and Exchange Commission. Additionally, although we have attempted to identify the COVID-19-related 
+risks faced by our business, the uncertainty and lack of predictability around the COVID-19 Pandemic means there may be other 
+risks not presently known to us or that we presently believe are not material that could also affect our business, financial condition 
+and results of operations. While it remains difficult to estimate the overall severity, extent or duration of the COVID-19 
+Pandemic, to the extent it materially adversely affects our employees, customers, vendors, partners and/or other stakeholders, it 
+may also have a material adverse effect on our business, financial condition or results of operations.
+
+Scaling our Sales and Marketing Team
+
+Our ability to achieve significant growth in future revenue will largely depend upon the effectiveness of our sales and marketing 
+efforts, both domestically and internationally. The majority of our sales and marketing efforts are accomplished in-house, and we 
+believe the strength of our sales and marketing team is critical to our success. We have invested and intend to continue to invest 
+meaningfully in terms of expanding our sales force, and consequently, we anticipate that our headcount will continue to increase 
+as a result of these investments. To complement this strategy, we have begun to invest in outbound-led lead generation, 
+particularly in our U.S. markets and for complex merchants and restaurateurs with high annual GTV. In certain instances, we have 
+supplemented this approach with field sales teams.
+
+Retaining and Motivating Qualified Personnel
+
+Our future success depends, in part, on our ability to continue to attract and retain highly skilled personnel. Our ability to identify, 
+hire, develop, motivate and retain qualified personnel will directly affect our ability to maintain and grow our business, and such 
+efforts will require significant time, expense and attention. Our ability to continue to attract and retain highly skilled personnel, 
+specifically employees with technical and engineering skills and employees with high levels of experience in designing and 
+developing software and internet-related services, will be critical to our future success and demand and competition for such talent 
+is high. We are also substantially dependent on our direct sales force to obtain new customers and increase sales to existing 
+customers. There is significant competition for sales personnel with the skills and technical knowledge that we require. Our ability 
+to achieve significant revenue growth will depend, in large part, on our success in recruiting, training, and retaining a sufficient 
+number of sales personnel to support our growth. While we have in the past issued, and intend to continue to issue, options, 
+restricted share units or other equity awards as key components of our overall compensation, employee attraction and retention 
+efforts, we are required under IFRS to recognize shared-based compensation expense in our operating results for employee share-
+based compensation under our equity grant programs which may increase the pressure to limit share-based compensation. See the 
+risk factor in our Annual Information Form titled "If we are unable to hire, retain and motivate qualified personnel, our business 
+will suffer" for more information.
+
+International Sales
+
+We believe that global demand for our platform will continue to increase as SMBs seek out end-to-end solutions with omni-
+channel capabilities to enable their businesses to thrive and succeed in an increasingly complex operating environment. 
+Accordingly, we believe there is a significant opportunity to grow our international business. We have invested, and plan to 
+continue to opportunistically invest, ahead of this potential demand in personnel and marketing, and to make selective acquisitions 
+to support our international growth. For each new geography where we expand or seek to expand, we focus on understanding the 
+
+(13)
+
+needs of the local market and invest to develop relationships and our products, as well as understanding and complying with 
+applicable local regulatory and compliance frameworks.
+
+Seasonality
+
+We believe our transaction-based revenues will continue to represent an increasing proportion of our overall revenue mix over 
+time as a result of the continued customer adoption of our payments solutions, and we expect seasonality of our quarterly results 
+to continue to increase. We expect our overall revenues to continue to become increasingly correlated with respect to the GTV 
+processed by our customers through our platform.
+
+Foreign Currency
+
+Exchange rate fluctuations may negatively affect our results of operations. Our presentation and functional currency is the U.S. 
+dollar. We derive the largest portion of our revenues in U.S. dollars and the largest proportion of our expenses in U.S. dollars. 
+Exchange rate fluctuations have and may continue to negatively affect our revenue as our software subscriptions are generally 
+billed in the local currency of the country in which the customer is located, and the underlying GPV (from which we earn 
+transaction-based revenue) is also expected to be denominated in local currency. To the extent that we have significant revenues 
+denominated in foreign currencies, any strengthening of the U.S. dollar would reduce our revenues as measured in U.S. dollars. 
+Our head office and a significant portion of our employees are located in Canada, along with additional presence in Europe, 
+Australia and New Zealand. A large amount of our expenses are incurred in Canadian dollars and Euros with a smaller proportion 
+of expenses incurred in other foreign currencies. As a result, our expenses may be adversely impacted by a decrease in the value 
+of the U.S. dollar relative to these currencies but primarily the Canadian dollar and the Euro. 
+
+During Fiscal 2022, we adopted a hedging program to mitigate the impact of foreign currency fluctuations on future cash flows 
+and expenses by entering into foreign exchange forward contracts which we have designated as cash flow hedges. Our hedging 
+program does not mitigate the impact of foreign currency fluctuations on our revenue. We do not have foreign exchange forward 
+contracts in place with respect to all currencies in which we currently do business but may, from time to time, enter into additional 
+foreign exchange forward contracts in respect of other foreign currencies. Currency hedging entails a risk of illiquidity and, to the 
+extent the applicable foreign currency fluctuates in value against the U.S. dollar, the use of hedges could result in losses greater 
+than if the hedging had not been used. There can be no assurance that our hedging strategies, if any, will be effective in the future 
+or that we will be able to enter into foreign exchange forward contracts on satisfactory terms. See the "Risk Factors" section of 
+our most recent Annual Information Form, which can be found on SEDAR at www.sedar.com and on EDGAR at www.sec.gov, 
+for a discussion on exchange rate fluctuations.
+
+Selective Pursuit of Acquisitions 
+
+We have complemented our organic growth strategies by taking a targeted and opportunistic approach to acquisitions, identifying 
+acquisition targets with a view to accelerating our product roadmap, increasing our market penetration, going deep into verticals 
+and creating value for our shareholders. Throughout our history, we have accrued significant sales and marketing expertise, which 
+we leverage to facilitate our continued global expansion both organically and in integrating the companies we acquire. 
+
+We believe that we remain well-positioned to continue to grow organically around the globe and to selectively pursue new 
+acquisitions given our experience and scale. However, such acquisitions and investments could divert management’s attention, 
+result in operating difficulties due to a lack of timely and proper completion or integration, or otherwise disrupt our operations and 
+adversely affect our business, operating results or financial position, regardless of whether such acquisitions and investments are 
+ultimately completed. 
+
+Goodwill Impairment
+
+We have incurred a non-cash impairment charge for goodwill and may incur further impairment charges which would negatively 
+impact our operating results. We account for goodwill impairment in accordance with IAS 36, Impairment of Assets, which 
+among other things, requires that goodwill be tested for impairment at least annually. During the three months ended December 
+31, 2022, there were changes in macroeconomic conditions and our share price and market capitalization decreased. This led to 
+the carrying amount of our net assets exceeding our market capitalization as at December 31, 2022. This triggered an impairment 
+test to be performed on the Company's goodwill for our operating segment (the "Segment") which is the level at which 
+management monitors goodwill. The timing of this test also aligned with our annual impairment test of goodwill. Our test as at 
+December 31, 2022 resulted in a non-cash impairment charge of $748.7 million related to goodwill during the three months ended 
+December 31, 2022 as the terminal value multiple was negatively impacted by the macroeconomic conditions and our share price 
+decrease, and our revenue growth rate was negatively impacted by the macroeconomic impact on our customer's sales. 
+
+(14)
+
+If the carrying value of the Segment is below the Segment's recoverable amount in the future, we may have to recognize further 
+goodwill impairment losses in our results of operations in future periods. This could impair our ability to achieve profitability in 
+the future. Goodwill is more susceptible to impairment risk if business operating results or economic conditions deteriorate. We 
+are required to perform our next annual goodwill impairment analysis on December 31, 2023, or earlier should there be a 
+goodwill impairment trigger before then. For additional information, refer to note 16 of our audited annual consolidated financial 
+statements for Fiscal 2023.
+
+Key Components of Results of Operations
+
+Revenues 
+
+Subscription Revenue
+
+We principally generate subscription-based revenue through the sale of subscriptions to our software solutions. We offer pricing 
+plans designed to meet the needs of our current and prospective customers that enable our solutions to scale with customers as 
+they grow. Our subscription plans are sold as monthly, one-year or multi-year plans. Subscription plans for our cloud-based 
+solutions include maintenance and support. Customers purchase subscription plans directly from us or through our channel 
+partners. In addition to the core subscriptions outlined above, customers can purchase add-on services such as delivery, advanced 
+insights, accounting and inventory management, amongst others. In addition, we generate revenues through revenue sharing
+agreements from our partners.
+
+Transaction-based Revenue
+
+We generate transaction-based revenues by providing our customers with the functionality to accept payments from consumers. 
+Such revenues come in the form of transaction fees and represent a percentage of GTV processed by our customers through our 
+offered solutions. We generate transaction-based revenues from our payments solutions as well as our revenue sharing agreements 
+with our integrated payment partners. The revenue sharing arrangements mainly predate the availability of Lightspeed Payments 
+and are also the result of inherited revenue streams from some of our acquisitions. Since we do not act as the principal in these 
+arrangements, we recognize revenue from these streams at the net amount retained by us in accordance with IFRS. It also means 
+we generally earn inferior economics as a result when compared to payments solutions in respect of which we act as principal 
+given that we have less control of the underlying customer relationship. We have, on multiple occasions, been able to leverage our 
+increased scale to renegotiate our relationships with our payments partners resulting in better payments economics overall. In 
+addition, we have contracted with a number of third-party vendors that sell products to the same customers as the Company. We 
+refer customers to these vendors and earn a referral fee. We also earn revenues from Lightspeed Capital, a merchant cash advance 
+("MCA") program pursuant to which we purchase a designated amount of future receivables at a discount, and the customer 
+remits a fixed percentage of their daily sales to us, until the outstanding balance has been fully remitted. 
+
+Our payments solutions allow our customers to accept electronic payments in-store, through connected terminals and online. After 
+excluding Customer Locations attributable to the Ecwid eCommerce standalone product, our payments solutions are now 
+available to the majority of our Customer Locations. Offering embedded payments functionality is highly complementary to the 
+platform we offer our customers today and will allow us to monetize a greater portion of the $87.1 billion in GTV processed in 
+Fiscal 2023. 
+
+Hardware and Other Revenue
+
+These revenues are generally one-time revenues associated with the sale of hardware with which our solutions integrate and the 
+sale of professional services in support of the installation and implementation of our solutions. We generate revenues through the 
+sale of POS peripheral hardware such as our tablets, customer facing display, receipt printers, networking hardware, cash drawers, 
+payment terminals, servers, stands, bar-code scanners, and an assortment of accessories.
+
+Although our software solutions are intended to be turnkey solutions that can be used by the customer as delivered, we provide 
+professional services to our customers in some circumstances in the form of on-site installations and implementations. These 
+implementation services are typically delivered through our internal integrations team or through a network of certified partners. 
+Additionally, from time to time we earn one-time fees for integration work performed pursuant to certain strategic partnerships. 
+
+(15)
+
+Direct Cost of Revenues
+
+Subscription Cost of Revenue
+
+Cost of subscription revenue primarily includes salaries and other employee related costs for a subset of the support team, costs 
+associated with hosting infrastructure for our services and certain corporate overhead allocations. Significant expenses include 
+costs of our support including total salaries and benefits, share-based compensation and related payroll taxes, data center capacity 
+costs, professional fees and other third-party direct costs such as customer support and royalties and amounts paid to third-party 
+cloud service providers.
+
+Transaction-based Cost of Revenue
+
+Transaction-based cost of revenue primarily includes direct costs when transactions are processed using our payments solutions, 
+direct costs related to our merchant cash advance program, salaries and other employee related costs, including share-based 
+compensation and related payroll taxes, for a subset of the support team, and certain corporate overhead allocations. The direct 
+costs include costs of interchange and network assessment fees, processing fees, and bank settlement fees to third-party payment 
+processors and financial institutions involved in settlement.
+
+Hardware and Other Cost of Revenue
+
+Cost of these revenues primarily includes costs associated with our hardware solutions, such as the cost of acquiring the hardware 
+inventory, including hardware purchase price, expenses associated with third-party fulfillment companies, shipping and handling 
+and inventory adjustments, expenses related to costs of professional services provided to customers, salaries and other employee 
+related costs, including share-based compensation and related payroll taxes, and other corporate overhead allocations.
+
+Operating Expenses 
+
+General and Administrative
+
+General and administrative expenses consist of salaries and other employee related costs, including share-based compensation and 
+related payroll taxes, for finance, accounting, legal, administrative, human resources, as well as financial services. These expenses 
+also consist of expenses related to information technology, information systems, information security, and corporate data 
+employees which expenses are partially allocated to research and development, sales and marketing, and direct cost of revenues. 
+General and administrative expenses also include other professional fees, transaction-related costs related to our acquisitions, 
+litigation costs, costs associated with internal systems and general corporate expenses. As a public company in the United States, 
+it is expensive for us to obtain director and officer liability insurance, and we continue to have to manage trade-offs between 
+accepting reduced coverage or incurring higher costs to continue or expand our coverage, although changes to the laws and 
+regulations governing insurance coverage for companies domiciled in Quebec have had a favorable impact on certain of our 
+premiums. In the longer term, we expect general and administrative expenses to decrease as a percentage of total revenues as we 
+focus on processes, systems and controls to enable our internal support functions to scale with the growth of our business. 
+
+Research and Development
+
+Research and development expenses consist primarily of salaries and other employee related costs, including share-based 
+compensation and related taxes, for product-related functions including product management, core development, data, product 
+design and development and other corporate overhead allocations. We continue to invest our research and development efforts on 
+developing added features and solutions, as well as increasing the functionality and enhancing the ease of use of our platform. 
+These expenses give rise to tax credits primarily from the Canadian Federal Scientific Research and Experimental Development 
+Program and the Tax Credit for the Development of e-business, or "SR&ED" and "e-business" tax credits, respectively. Although 
+the Company's e-business tax credits are mostly refundable, a portion of e-business tax credits is non-refundable and is carried 
+forward to reduce future Quebec income taxes payable and SR&ED tax credits are non-refundable and are carried forward to 
+reduce future federal income taxes payable. Given the Company’s recent losses in Canada, these non-refundable SR&ED credits 
+and e-business credits have not been recognized in the financial statements. Upon recognition, they will reduce research and 
+development expenses. Although not immediately, given that we are still scaling our technology group in line with anticipated 
+growth, we expect research and development expenses to decline in proportion to total revenue as we achieve additional 
+economies of scale from our expansion. The Company recognizes internal development costs as intangible assets only when 
+certain criteria are met (refer to note 3 of the audited annual consolidated financial statements for more details).
+
+(16)
+
+Sales and Marketing
+
+Sales and marketing expenses consist primarily of selling and marketing costs and salaries and other employee related costs, 
+including share-based compensation and related payroll taxes, for sales and business development and marketing. Other costs 
+within sales and marketing include costs of acquisition of new customers, travel-related expenses and corporate overhead 
+allocations. We plan to continue to expand sales and marketing efforts to attract new customers, retain existing customers and 
+increase revenues from both new and existing customers. Over time, we expect sales and marketing expenses will decline as a 
+percentage of total revenues as we achieve additional economies of scale from our expansion and as we sell more of our 
+technology suite, including our payments solutions, to our existing customer base.
+
+Acquisition-related Compensation
+
+Acquisition-related compensation expenses represent the portion of the consideration paid to acquired businesses which is 
+contingent upon the ongoing employment or service obligations for certain key personnel of such acquired businesses, and/or on 
+certain performance criteria being achieved. This portion of the purchase price is amortized over the related service period for 
+those key personnel.
+
+(17)
+
+Results of Operations
+
+The following table outlines our consolidated statements of loss for the three months and the fiscal years ended March 31, 2023 
+and 2022:
+
+(In thousands of US dollars, except per share amounts)
+
+Revenues
+Subscription 
+Transaction-based 
+Hardware and other 
+
+Total revenues
+
+Direct cost of revenues
+Subscription 
+Transaction-based 
+Hardware and other
+
+Total cost of revenues
+
+Gross profit
+
+Operating expenses
+General and administrative
+Research and development
+Sales and marketing
+Depreciation of property and equipment
+Depreciation of right-of-use assets
+Foreign exchange loss (gain)
+Acquisition-related compensation
+Amortization of intangible assets
+Restructuring
+Goodwill impairment
+
+Total operating expenses
+
+Operating loss
+
+Net interest income
+
+Loss before income taxes
+
+Income tax expense (recovery)
+Current
+Deferred
+
+Total income tax expense (recovery)
+
+Net loss
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+2023
+$
+
+76,215   
+99,568   
+8,445   
+
+2022
+$
+
+70,542 
+66,729 
+9,287 
+
+2023
+$
+
+2022
+$
+
+298,763   
+399,552   
+32,191   
+
+248,430 
+264,044 
+35,898 
+
+184,228   
+
+146,558 
+
+730,506   
+
+548,372 
+
+19,036   
+66,539   
+11,692   
+
+20,657 
+43,822 
+12,426 
+
+80,064   
+271,035   
+47,446   
+
+72,192 
+159,432 
+45,575 
+
+97,267   
+
+76,905 
+
+398,545   
+
+277,199 
+
+86,961   
+
+69,653 
+
+331,961   
+
+271,173 
+
+22,139   
+30,805   
+56,884   
+1,735   
+2,025   
+297   
+5,746   
+24,620   
+25,549   
+—   
+
+28,240 
+36,837 
+67,388 
+1,789 
+2,032 
+29 
+20,433 
+26,151 
+606 
+— 
+
+105,939   
+140,442   
+250,371   
+5,471   
+8,244   
+(199)  
+41,792   
+101,546   
+28,683   
+748,712   
+
+95,253 
+121,150 
+216,659 
+4,993 
+7,743 
+611 
+50,491 
+91,812 
+803 
+— 
+
+169,800   
+
+183,505 
+
+1,431,001   
+
+589,515 
+
+(82,839)  
+
+(113,852)   
+
+(1,099,040)  
+
+(318,342) 
+
+9,654   
+
+1,014 
+
+24,812   
+
+2,988 
+
+(73,185)  
+
+(112,838)   
+
+(1,074,228)  
+
+(315,354) 
+
+1,651   
+(368)  
+
+1,283   
+
+282 
+1,397 
+
+1,679 
+
+2,469   
+(6,688)  
+
+1,103 
+(28,024) 
+
+(4,219)  
+
+(26,921) 
+
+(74,468)  
+
+(114,517)   
+
+(1,070,009)  
+
+(288,433) 
+
+Net loss per share – basic and diluted
+
+(0.49)  
+
+(0.77)   
+
+(7.11)  
+
+(2.04) 
+
+(18)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The following table outlines share-based compensation and the related payroll taxes associated with these expenses included in 
+the results of operations for the three months and the fiscal years ended March 31, 2023 and 2022:
+
+(In thousands of US dollars)
+
+Direct cost of revenues
+
+General and administrative
+
+Research and development
+
+Sales and marketing
+
+Restructuring
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+2023
+$
+
+835   
+
+3,533   
+
+4,491   
+
+7,108   
+
+5,637   
+
+2022
+$
+
+2,149 
+
+10,736 
+
+10,319 
+
+18,421 
+
+— 
+
+2023
+$
+
+6,945   
+
+33,963   
+
+35,504   
+
+47,255   
+
+5,637   
+
+2022
+$
+
+6,345 
+
+26,377 
+
+29,705 
+
+46,639 
+
+— 
+
+Total share-based compensation and related costs
+
+21,604   
+
+41,625 
+
+129,304   
+
+109,066 
+
+For the three months and fiscal year ended March 31, 2023, excluding $5,637 of share-based compensation expense acceleration that was 
+classified as restructuring, the share-based compensation expense was $15,685 and $123,530, respectively (March 2022 - expense of $41,934 
+and $108,916), and the related payroll taxes were an expense of $282 and $137, respectively (March 2022 - recovery of $309 and expense of 
+$150). 
+
+The increase in share-based compensation and related payroll taxes in Fiscal 2023 was primarily driven by the issuance of stock 
+options and awards to new and existing employees, including those from our acquisitions, to our Chief Executive Officer 
+("CEO"), Chief Operating Officer ("COO") and Chief Financial Officer ("CFO") in connection with their respective promotions 
+to these positions towards the end of Fiscal 2022, and to key personnel and executives as retention incentives in a competitive job 
+market. The decrease in share-based compensation and related costs in the three months ended March 31, 2023 was primarily due 
+to the forfeitures of awards of employees who were included in the restructuring during the quarter, and a reduction in the expense 
+for PSUs issued to the founders of NuORDER in the three months ended March 31, 2022. 
+
+Results of Operations for the Three Months and Fiscal Years Ended March 31, 2023 and 2022
+
+Revenues
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+(In thousands of US dollars, except 
+percentages)
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+Revenues
+
+Subscription 
+
+Transaction-based 
+
+Hardware and other 
+
+Total revenues
+
+Percentage of total revenues
+
+Subscription 
+
+Transaction-based
+
+Hardware and other
+
+Total
+
+Subscription Revenue
+
+  76,215 
+
+  70,542 
+
+  99,568 
+
+  66,729 
+
+5,673 
+
+32,839 
+
+ 8.0 
+
+ 298,763 
+
+ 248,430 
+
+50,333 
+
+ 49.2 
+
+ 399,552 
+
+ 264,044 
+
+  135,508 
+
+ 20.3 
+
+ 51.3 
+
+  8,445 
+
+  9,287 
+
+(842) 
+
+ (9.1) 
+
+  32,191 
+
+  35,898 
+
+(3,707) 
+
+ (10.3) 
+
+ 184,228 
+
+ 146,558 
+
+37,670 
+
+ 25.7 
+
+ 730,506 
+
+ 548,372 
+
+  182,134 
+
+ 33.2 
+
+ 41.4 %
+
+ 54.0 %
+
+ 4.6 %
+
+ 48.1 %
+
+ 45.5 %
+
+ 6.4 %
+
+ 100 %
+
+ 100 %
+
+ 40.9 %
+
+ 54.7 %
+
+ 4.4 %
+
+ 45.3 %
+
+ 48.2 %
+
+ 6.5 %
+
+ 100 %
+
+ 100 %
+
+Subscription revenue for the three months ended March 31, 2023 increased by $5.7 million or 8% as compared to the three 
+months ended March 31, 2022. The increase was primarily due to growth in our subscription customer base, including Customer 
+
+(19)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Locations processing over $500,000/year, adoption of our new flagship solutions and customers adopting additional modules of 
+our platform. The increase in revenue was offset by lower exchange rates on currencies other than U.S. dollars in the quarter.
+
+Subscription revenue for Fiscal 2023 increased by $50.3 million or 20% as compared to Fiscal 2022. The increase was primarily 
+due to growth in our subscription customer base, including Customer Locations processing over $500,000/year and Customer 
+Locations from the acquisitions of NuORDER and Ecwid, adoption of our new flagship solutions, and customers adopting 
+additional modules of our platform. The increase in revenue was offset by lower exchange rates on currencies other than U.S. 
+dollars in the period. 
+
+Transaction-based Revenue 
+
+Transaction-based revenue for the three months ended March 31, 2023 increased by $32.8 million or 49% as compared to the 
+three months ended March 31, 2022. The increase was primarily due to continued adoption of our payments solutions which led 
+to an increase in GPV of 70% from $2.2 billion to $3.8 billion. 
+
+Transaction-based revenue for Fiscal 2023 increased by $135.5 million or 51% as compared to Fiscal 2022. The increase was 
+primarily due to continued adoption of our payments solutions which led to an increase in GPV of 81% from $8.1 billion to 
+$14.7 billion. 
+
+Hardware & Other Revenue
+
+Hardware and other revenue for the three months ended March 31, 2023 decreased by $0.8 million or 9% as compared to the three 
+months ended March 31, 2022 due to additional discounts and incentives provided during the three months ended March 31, 2023 
+in order to encourage new business given the competitive nature of our industry. Lower exchange rates on currencies other than 
+U.S. dollars in the quarter also contributed to the decrease in revenue.
+
+Hardware and other revenue for Fiscal 2023 decreased by $3.7 million or 10% as compared to Fiscal 2022 due to additional 
+discounts and incentives provided during Fiscal 2023 in order to encourage new business given the competitive nature of our 
+industry. Lower exchange rates on currencies other than U.S. dollars in the period also contributed to the decrease in revenue.
+
+Direct Cost of Revenues
+
+(In thousands of US dollars, except 
+percentages)
+
+Direct cost of revenues
+
+Subscription 
+
+Transaction-based
+
+Hardware and other 
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+  19,036 
+
+  20,657 
+
+  66,539 
+
+  43,822 
+
+(1,621) 
+
+22,717 
+
+ (7.8) 
+
+  80,064 
+
+  72,192 
+
+7,872 
+
+ 51.8 
+
+ 271,035 
+
+ 159,432 
+
+  111,603 
+
+  11,692 
+
+  12,426 
+
+(734) 
+
+ (5.9) 
+
+  47,446 
+
+  45,575 
+
+1,871 
+
+ 10.9 
+
+ 70.0 
+
+ 4.1 
+
+ 43.8 
+
+Total costs of revenues
+
+  97,267 
+
+  76,905 
+
+20,362 
+
+ 26.5 
+
+ 398,545 
+
+ 277,199 
+
+  121,346 
+
+Percentage of revenue
+
+Subscription 
+
+Transaction-based
+
+Hardware and other
+
+Total
+
+Subscription Cost of Revenue
+
+ 25.0 %
+
+ 66.8 %
+
+ 29.3 %
+
+ 65.7 %
+
+ 138.4 %  133.8 %
+
+ 52.8 %
+
+ 52.5 %
+
+ 26.8 %
+
+ 67.8 %
+
+ 29.1 %
+
+ 60.4 %
+
+ 147.4 %  127.0 %
+
+ 54.6 %
+
+ 50.5 %
+
+Subscription cost of revenue for the three months ended March 31, 2023 decreased by $1.6 million or 8% as compared to the 
+three months ended March 31, 2022. Included in subscription cost of revenue for the three months ended March 31, 2023 was 
+$0.7 million in share-based compensation and related payroll taxes, compared to $1.7 million in the three months ended 
+March 31, 2022. The remainder of the decrease of $0.6 million was primarily due to a decrease in salary and other employee-
+
+(20)
+
+ 
+ 
+ 
+ 
+ 
+ 
+related costs of $2.0 million offset by higher hosting costs of $0.9 million associated with supporting a greater number of 
+Customer Locations utilizing our platform, including Customer Locations processing over $500,000/year, higher royalties of $0.3 
+million and higher professional fees and other costs of $0.2 million.
+
+Subscription cost of revenue for Fiscal 2023 increased by $7.9 million or 11% as compared to Fiscal 2022. Included in 
+subscription cost of revenue for Fiscal 2023 was $5.7 million in share-based compensation and related payroll taxes, compared to 
+$5.0 million in Fiscal 2022. The remainder of the increase of $7.2 million was primarily due to higher salary and other employee-
+related costs of $1.0 million, higher hosting costs of $3.7 million associated with supporting a greater number of Customer 
+Locations utilizing our platform, including Customer Locations processing over $500,000/year and Customer Locations from the 
+acquisitions of NuORDER and Ecwid, higher royalties of $1.6 million and higher professional fees and other costs of $0.9 
+million.
+
+Transaction-based Cost of Revenue
+
+Transaction-based cost of revenue for the three months ended March 31, 2023 increased by $22.7 million or 52% as compared to 
+the three months ended March 31, 2022. The increase was primarily due to direct costs related to higher revenue from our 
+payments solutions compared to the three months ended March 31, 2022. 
+
+Transaction-based cost of revenue for Fiscal 2023 increased by $111.6 million or 70% as compared to Fiscal 2022. The increase 
+was primarily due to direct costs related to higher revenue from our payments solutions compared to Fiscal 2022. 
+
+Hardware and Other Cost of Revenue
+
+Direct cost of hardware and other revenue for the three months ended March 31, 2023 decreased by $0.7 million or 6% as 
+compared to the three months ended March 31, 2022 mainly due to lower salary and other employee-related costs of $0.2 million 
+and lower hardware costs of $0.6 million for the period. The negative margins were due to discounts and incentives provided in 
+order to encourage new business given the competitive nature of our industry.
+
+Direct cost of hardware and other revenue for Fiscal 2023 increased by $1.9 million or 4% as compared to Fiscal 2022 mainly due 
+to higher salary and other employee-related costs of $1.0 million and increased hardware costs of $1.0 million for the period. The 
+negative margins were due to discounts and incentives provided in order to encourage new business given the competitive nature 
+of our industry.
+
+Gross Profit
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+(In thousands of US dollars, except 
+percentages)
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+Gross profit
+
+  86,961 
+
+  69,653 
+
+17,308 
+
+ 24.8 
+
+ 331,961 
+
+ 271,173 
+
+60,788 
+
+ 22.4 
+
+Percentage of total revenues
+
+ 47.2 %
+
+ 47.5 %
+
+ 45.4 %
+
+ 49.5 %
+
+Gross profit for the three months ended March 31, 2023 increased by $17.3 million or 25% compared to the three months ended 
+March 31, 2022. The increase was primarily due to growth in our subscription and transaction-based revenue as a result of more 
+Customer Locations using our platform, including Customer Locations processing over $500,000/year, the adoption of our new 
+flagship solutions and an increase in the GTV processed by our customers through our platform. A higher proportion of 
+transaction-based revenue in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022 
+reduced gross profit as a percentage of revenue. Our gross profit benefited from $0.8 million in savings in salary and other 
+employee-related costs due to the restructuring we announced during the three months ended March 31, 2023.
+
+Gross profit for Fiscal 2023 increased by $60.8 million or 22% compared to Fiscal 2022. The increase was primarily due to 
+growth in our subscription and transaction-based revenue as a result of more Customer Locations using our platform, including 
+Customer Locations processing over $500,000/year, the adoption of our new flagship solutions, an increase in the GTV processed 
+by our customers through our platform, and the impact of our acquisitions of NuORDER and Ecwid, partially offset by lower 
+
+(21)
+
+ 
+ 
+margins in hardware and other revenue. A higher proportion of transaction-based revenue in Fiscal 2023 as compared to Fiscal 
+2022 reduced gross profit as a percentage of revenue.
+
+Operating Expenses
+
+General and Administrative
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+(In thousands of US dollars, except 
+percentages)
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+General and administrative
+
+  22,139 
+
+  28,240 
+
+(6,101) 
+
+ (21.6) 
+
+ 105,939 
+
+  95,253 
+
+10,686 
+
+ 11.2 
+
+Percentage of total revenues
+
+ 12.0 %
+
+ 19.3 %
+
+ 14.5 %
+
+ 17.4 %
+
+General and administrative expenses for the three months ended March 31, 2023 decreased by $6.1 million or 22% compared to 
+the three months ended March 31, 2022. Included in general and administrative expenses for the three months ended March 31, 
+2023 is $3.5 million of share-based compensation expense and related payroll taxes, $2.3 million in transaction-related costs and 
+$0.2 million related to provisions and other costs incurred in respect of certain litigation matters, net of amounts covered by 
+insurance and indemnification proceeds, compared to $10.7 million, $0.6 million and $0.6 million, respectively, in the three 
+months ended March 31, 2022. When excluding share-based compensation and related payroll taxes, transaction-related costs and 
+provisions and other costs incurred in respect of certain litigation matters, net of amounts covered by insurance and 
+indemnification proceeds, general and administrative expenses decreased by $0.3 million driven by a decrease of $0.3 million 
+from lower salary and other employee-related costs which includes $1.0 million in savings from the restructuring announced 
+during the three months ended March 31, 2023, a decrease of $0.7 million related to professional fees and other expenses and a 
+decrease of $0.7 million in D&O insurance, offset by a $1.4 million increase in bad debt expense which is expected as our 
+revenue continues to increase and as we grow our merchant cash advance business. Our general and administrative expenses as a 
+percentage of revenue decreased from 19% to 12% from the three months ended March 31, 2022 to the three months ended 
+March 31, 2023. 
+
+General and administrative expenses for Fiscal 2023 increased by $10.7 million or 11% compared to Fiscal 2022. Included in 
+general and administrative expenses for Fiscal 2023 is $34.0 million of share-based compensation expense and related payroll 
+taxes, $5.1 million in transaction-related costs and $1.4 million related to provisions and other costs incurred in respect of certain 
+litigation matters, net of amounts covered by insurance and indemnification proceeds, compared to $26.4 million, $8.4 million 
+and $1.7 million, respectively, in Fiscal 2022. When excluding share-based compensation and related payroll taxes, transaction-
+related costs and provisions and other costs incurred in respect of certain litigation matters, net of amounts covered by insurance 
+and indemnification proceeds, general and administrative expenses increased by $6.7 million driven by higher salary and other 
+employee-related costs of $7.1 million, which includes $0.2 million from the acquisitions of NuORDER and Ecwid, and a $2.6 
+million increase in bad debt expense, offset by a $2.1 million decrease in D&O insurance and a $0.9 million decrease in 
+professional fees and other expenses. Our general and administrative expenses as a percentage of revenue decreased from 17% to 
+15% from Fiscal 2022 to Fiscal 2023. 
+
+Research and Development
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+(In thousands of US dollars, except 
+percentages)
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+Research and development
+
+  30,805 
+
+  36,837 
+
+(6,032) 
+
+ (16.4) 
+
+ 140,442 
+
+ 121,150 
+
+19,292 
+
+ 15.9 
+
+Percentage of total revenues
+
+ 16.7 %
+
+ 25.1 %
+
+ 19.2 %
+
+ 22.1 %
+
+Research and development expenses for the three months ended March 31, 2023 decreased by $6.0 million or 16% compared to 
+the three months ended March 31, 2022. Included in research and development expenses for the three months ended March 31, 
+
+(22)
+
+ 
+ 
+ 
+ 
+2023 is $4.5 million of share-based compensation expense and related payroll taxes compared to $10.3 million in the three months 
+ended March 31, 2022. When excluding share-based compensation and related payroll taxes, research and development expenses 
+decreased by $0.2 million driven by lower salary and other employee-related costs of $1.1 million which includes $2.2 million in 
+savings from the restructuring announced during the three months ended March 31, 2023 offset by an increase in salary and other 
+employee-related costs of employees working on our flagship products, and $0.4 million related to a decrease in hosting costs, 
+offset by $1.3 million related to an increase in professional fees and other expenses. Our research and development costs as a 
+percentage of revenue decreased from 25% to 17% from the three months ended March 31, 2022 to the three months ended 
+March 31, 2023. 
+
+Research and development expenses for Fiscal 2023 increased by $19.3 million or 16% compared to Fiscal 2022. Included in 
+research and development expenses for Fiscal 2023 is $35.5 million of share-based compensation expense and related payroll 
+taxes compared to $29.7 million in Fiscal 2022. When excluding share-based compensation and related payroll taxes, research 
+and development expenses increased by $13.5 million driven by higher salary and other employee-related costs of $6.9 million, 
+which includes $5.1 million from the acquisitions of NuORDER and Ecwid, $0.4 million related to an increase in hosting costs 
+and $6.2 million related to an increase in professional fees and other expenses. Our research and development costs as a 
+percentage of revenue decreased from 22% to 19% from Fiscal 2022 to Fiscal 2023.
+
+Sales and Marketing
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+(In thousands of US dollars, except 
+percentages)
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+Sales and marketing
+
+  56,884 
+
+  67,388 
+
+(10,504) 
+
+ (15.6) 
+
+ 250,371 
+
+ 216,659 
+
+33,712 
+
+ 15.6 
+
+Percentage of total revenues
+
+ 30.9 %
+
+ 46.0 %
+
+ 34.3 %
+
+ 39.5 %
+
+Sales and marketing expenses for the three months ended March 31, 2023 decreased by $10.5 million or 16% as compared to the 
+three months ended March 31, 2022. Included in sales and marketing expenses for the three months ended March 31, 2023 is $7.1 
+million of share-based compensation expense and related payroll taxes and nil transaction-related costs compared to $18.4 million 
+and $0.3 million, respectively, in the three months ended March 31, 2022. When excluding share-based compensation and related 
+payroll taxes and transaction-related costs, sales and marketing expenses increased by $1.1 million driven by higher salary and 
+other employee-related costs of $5.3 million which includes $2.0 million in savings from the restructuring announced during the 
+three months ended March 31, 2023 offset by an increase in salary and other employee-related costs including employees selling 
+our flagship products, offset by $0.1 million related to a decrease in professional fees and other expenses and a $4.1 million 
+decrease in other investments in sales and marketing. Our sales and marketing costs as a percentage of revenue decreased from 
+46% to 31% from the three months ended March 31, 2022 to the three months ended March 31, 2023. 
+
+Sales and marketing expenses for Fiscal 2023 increased by $33.7 million or 16% as compared to Fiscal 2022. Included in sales 
+and marketing expenses for Fiscal 2023 is $47.3 million of share-based compensation expense and related payroll taxes and $0.7 
+million in transaction-related costs compared to $46.6 million and $1.2 million, respectively, in Fiscal 2022. When excluding 
+share-based compensation and related payroll taxes and transaction-related costs, sales and marketing expenses increased by 
+$33.6 million driven by higher salary and other employee-related costs of $22.2 million which includes $5.3 million from the 
+acquisitions of NuORDER and Ecwid, $7.4 million incurred for other investments in sales and marketing including marketing 
+acquisition and growth spend and trade shows, $3.3 million related to our annual sales, customer and partner summit which we 
+had provided in a virtual format in the prior comparable period and brought back to in person during the three months ended June 
+30, 2022, and $0.7 million related to an increase in professional fees and other expenses. Our sales and marketing costs as a 
+percentage of revenue decreased from 40% to 34% from Fiscal 2022 to Fiscal 2023.
+
+(23)
+
+ 
+ 
+Depreciation
+
+(In thousands of US dollars, except 
+percentages)
+
+Depreciation of property and 
+equipment
+
+Depreciation of right-of-use assets
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+1,735 
+
+2,025 
+
+3,760 
+
+1,789 
+
+2,032 
+
+3,821 
+
+(54) 
+
+(7) 
+
+(61) 
+
+ (3.0) 
+
+  5,471 
+
+  4,993 
+
+ (0.3) 
+
+  8,244 
+
+  7,743 
+
+ (1.6) 
+
+  13,715 
+
+  12,736 
+
+478 
+
+501 
+
+979 
+
+ 9.6 
+
+ 6.5 
+
+ 7.7 
+
+Percentage of total revenues
+
+ 2.0 %
+
+ 2.6 %
+
+ 1.9 %
+
+ 2.3 %
+
+Depreciation of property and equipment and right-of-use assets for the three months ended March 31, 2023 decreased by 2% as 
+compared to the three months ended March 31, 2022. The decrease in the depreciation of property and equipment results mainly 
+from fully depreciated fixed assets in the last 12 months offset by additions to property and equipment. The consistent 
+depreciation of right-of-use assets is mainly the result of signing new lease commitments offset by lease terminations in the last 
+12 months.
+
+Depreciation of property and equipment expenses for Fiscal 2023 increased by $0.5 million or 10% as compared to Fiscal 2022. 
+The increase in the depreciation of property and equipment results from additions to property and equipment made throughout the 
+last 12 months. The increase in the depreciation of right-of-use assets of $0.5 million or 6% is mainly the result of leases obtained 
+through the acquisition of NuORDER and new lease commitments offset by lease terminations in the last 12 months.
+
+Foreign Exchange Loss (Gain) 
+
+(In thousands of US dollars, except 
+percentages)
+
+Foreign exchange loss (gain)
+
+Three months ended 
+March 31,
+
+2023
+$
+
+297 
+
+2022
+$
+
+29 
+
+Fiscal year ended 
+March 31,
+
+Change
+$
+
+Change
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+268 
+
+ 924.1 
+
+(199) 
+
+611 
+
+(810) 
+
+ (132.6) 
+
+Percentage of total revenues
+
+ 0.2 %
+
+ 0.0 %
+
+ 0.0 %
+
+ 0.1 %
+
+Foreign exchange loss for the three months ended March 31, 2023 increased as compared to the three months ended March 31, 
+2022. The foreign exchange difference went from a foreign exchange loss for the fiscal year ended March 31, 2022 to a foreign 
+exchange gain for the fiscal year ended March 31, 2023. Foreign exchange gains and losses arise as we have financial assets and 
+liabilities outstanding in currencies other than the U.S. dollar, our functional currency. Items included in our results are measured 
+in U.S. dollars and foreign currency transactions are translated into U.S. dollars using the exchange rates prevailing at the date of 
+the transactions or when items are re-measured with resulting gains and losses subsequently recognized. 
+
+Acquisition-related Compensation
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+(In thousands of US dollars, except 
+percentages)
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+Acquisition-related compensation
+
+5,746 
+
+  20,433 
+
+(14,687) 
+
+ (71.9) 
+
+  41,792 
+
+  50,491 
+
+(8,699) 
+
+ (17.2) 
+
+Percentage of total revenues
+
+ 3.1 %
+
+ 13.9 %
+
+ 5.7 %
+
+ 9.2 %
+
+(24)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acquisition-related compensation expense for the three months ended March 31, 2023 decreased by $14.7 million or 72% 
+compared to the three months ended March 31, 2022. The decrease is due to lower deferred compensation from our acquisitions 
+of Ecwid and NuORDER, which have both been partially settled. The majority of this acquisition-related compensation is tied to 
+ongoing employment obligations in connection with certain of our acquisitions. This acquisition-related compensation was not 
+included in the total purchase consideration, but rather was treated as an acquisition-related compensation expense for post-
+combination services.
+
+Acquisition-related compensation expense for Fiscal 2023 decreased by $8.7 million or 17% compared to Fiscal 2022. The 
+decrease is due to lower deferred compensation from our acquisitions of NuORDER, iKentoo, Kounta and Gastrofix, which have 
+all been either partially or fully settled, offset by additional deferred compensation from Ecwid. The majority of this acquisition-
+related compensation is tied to ongoing employment obligations in connection with certain of our acquisitions. This acquisition-
+related compensation was not included in the total purchase consideration, but rather was treated as an acquisition-related 
+compensation expense for post-combination services.
+
+Amortization of Intangible Assets
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+(In thousands of US dollars, except 
+percentages)
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+Amortization of intangible assets
+
+  24,620 
+
+  26,151 
+
+(1,531) 
+
+ (5.9) 
+
+ 101,546 
+
+  91,812 
+
+9,734 
+
+ 10.6 
+
+Percentage of total revenues
+
+ 13.4 %
+
+ 17.8 %
+
+ 13.9 %
+
+ 16.7 %
+
+Amortization of intangible assets for the three months ended March 31, 2023 decreased by $1.5 million or 6% as compared to the 
+three months ended March 31, 2022. The decrease in amortization relates primarily to the Chronogolf customer relationships and 
+the Kounta and Gastrofix software technology intangible assets which are fully amortized as at March 31, 2023.
+
+Amortization of intangible assets for Fiscal 2023 increased by $9.7 million or 11% as compared to Fiscal 2022. The increase in 
+amortization relates primarily to intangibles acquired through the NuORDER and Ecwid acquisitions offset by a decrease in 
+amortization relating to the Chronogolf customer relationships and the Kounta and Gastrofix software technology intangible 
+assets.
+
+Restructuring
+
+(In thousands of US dollars, except 
+percentages)
+
+Restructuring
+
+Three months ended 
+March 31,
+
+2023
+$
+
+  25,549 
+
+2022
+$
+
+606 
+
+Fiscal year ended 
+March 31,
+
+Change
+$
+
+Change
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+24,943 
+
+ 4,116.0 
+
+  28,683 
+
+803 
+
+27,880 
+
+ 3,472.0 
+
+Percentage of total revenues
+
+ 13.9 %
+
+ 0.4 %
+
+ 3.9 %
+
+ 0.1 %
+
+During the three months ended March 31, 2023, we announced a reorganization to streamline the Company's operating model 
+while continuing to focus on disciplined growth. This new structure represents the next deliberate step to integrate all of our 
+acquired companies and products now that we have successfully launched our flagship products in both retail and hospitality. The 
+reorganization included the reduction of approximately 300 roles. We plan to continue to hire core go-to-market and development 
+roles that support disciplined growth. The expenses associated with this plan were recorded as a restructuring charge. The 
+restructuring expense consists of severance costs, the acceleration of share-based compensation and the acceleration of 
+acquisition-related compensation (see note 24 of the audited annual consolidated financial statements for additional details). 
+
+(25)
+
+ 
+ 
+ 
+ 
+ 
+ 
+Goodwill Impairment
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+(In thousands of US dollars, except 
+percentages)
+
+Goodwill impairment
+
+2023
+$
+
+— 
+
+2022
+$
+
+— 
+
+Change
+$
+
+Change
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+— 
+
+ 0.0 
+
+ 748,712 
+
+— 
+
+  748,712 
+
+ 100.0 
+
+Percentage of total revenues
+
+ 0.0 %
+
+ 0.0 %
+
+ 102.5 %
+
+ 0.0 %
+
+An impairment test of goodwill was completed as at December 31, 2022 using a fair value less costs of disposal model. This test 
+demonstrated a non-cash impairment charge of $748.7 million related to goodwill during the three months ended December 31, 
+2022. We reassessed the key assumptions used in the December 31, 2022 test as at March 31, 2023 and found no reduction in the 
+terminal value multiple, no increase in the discount rate and no decrease in the revenue growth rate. A reduction in the terminal 
+value multiple, an increase in the discount rate or a decrease in the revenue growth rate could cause additional impairment in the 
+future (see note 16 of the audited annual consolidated financial statements for additional details).
+
+Other Income
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+(In thousands of US dollars, except 
+percentages)
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+Net interest income
+
+  9,654 
+
+  1,014 
+
+8,640 
+
+ 852.1 
+
+  24,812 
+
+  2,988 
+
+21,824 
+
+ 730.4 
+
+Percentage of total revenues
+
+ 5.2 %
+
+ 0.7 %
+
+ 3.4 %
+
+ 0.5 %
+
+Net interest income relates to interest income earned in the period on cash and cash equivalents of $26.9 million during Fiscal 
+2023 offset by the interest arising from the loan drawdown made in connection with the acquisition of Gastrofix in January 2020, 
+as well as interest expense on both the lease liabilities and acquisition-related compensation which expenses combined totaled 
+$2.1 million of interest expense for Fiscal 2023. Net interest income for Fiscal 2023 increased by $21.8 million or 730% as 
+compared to Fiscal 2022 due to an increase in interest income earned on cash and cash equivalents of $21.0 million related to 
+higher interest rates and a decrease in interest expense of $0.8 million due primarily to the full repayment of the balance of our 
+stand-by acquisition term loan on July 6, 2022.
+
+Income Taxes
+
+(In thousands of US dollars, except 
+percentages)
+
+Income tax expense (recovery)
+
+Current
+
+Deferred
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change 
+%
+
+2023
+$
+
+2022
+$
+
+Change
+$
+
+Change
+%
+
+  1,651 
+
+282 
+
+1,369 
+
+ 485.5 
+
+  2,469 
+
+  1,103 
+
+(368) 
+
+  1,397 
+
+(1,765) 
+
+ (126.3) 
+
+  (6,688) 
+
+  (28,024) 
+
+1,366 
+
+21,336 
+
+ 123.8 
+
+ (76.1) 
+
+Total income tax expense (recovery)
+
+  1,283 
+
+  1,679 
+
+(396) 
+
+ (23.6) 
+
+  (4,219) 
+
+  (26,921) 
+
+22,702 
+
+ (84.3) 
+
+Percentage of total revenues
+
+Current
+
+Deferred
+
+Total
+
+ 0.9 %
+
+ (0.2) %
+
+ 0.7 %
+
+ 0.2 %
+
+ 1.0 %
+
+ 1.2 %
+
+ 0.3 %
+
+ (0.9) %
+
+ 0.2 %
+
+ (5.1) %
+
+ (0.6) %
+
+ (4.9) %
+
+(26)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Income tax expense for the three months ended March 31, 2023 decreased by $0.4 million or 24% as compared to the three 
+months ended March 31, 2022. The decrease is due to lower deferred income taxes of $1.8 million offset by an increase in current 
+income tax expense of $1.4 million. The current income tax expense for the three months ended March 31, 2023 primarily relates 
+to additional income taxes related to one of our acquisitions and a taxable income position in certain European subsidiaries. The 
+deferred income tax recovery for the three months ended March 31, 2023 mainly relates to timing differences on share-based 
+compensation and other temporary deductible differences while the deferred income tax expense in the three months ended 
+March 31, 2022 mainly relates to the impact of the recognition of a deferred tax liability related to acquired intangibles.
+
+Income tax recovery for Fiscal 2023 decreased by $22.7 million or 84% as compared to Fiscal 2022. The decrease is mainly due 
+to a decrease in deferred income tax recovery of $21.3 million in Fiscal 2023 compared to Fiscal 2022. The deferred income tax 
+recovery in Fiscal 2022 was primarily due to the recognition of a deferred tax asset on loss carry-forwards to offset the net 
+deferred tax liability of NuORDER and Ecwid as they joined Lightspeed's United States consolidated tax group while the deferred 
+income tax recovery in Fiscal 2023 is primarily due to the amortization of acquired intangible assets and increases in loss carry-
+forwards during the period.
+
+Selected Annual Information
+
+(In thousands of US dollars, except per share data)
+
+Total revenues
+
+Net loss 
+
+Loss per share – basic and diluted
+
+Total assets
+
+Total long-term liabilities
+
+Fiscal year ended March 31,
+
+2023
+$
+
+2022
+$
+
+2021
+$
+
+730,506   
+
+548,372   
+
+221,728 
+
+(1,070,009)   
+
+(288,433)   
+
+(124,278) 
+
+(7.11)   
+
+(2.04)   
+
+(1.18) 
+
+2,668,732   
+
+3,619,980   
+
+2,105,319 
+
+20,826   
+
+62,839   
+
+57,634 
+
+See “Results of Operations” in this MD&A for a more detailed discussion of the year-over-year changes in revenues and net loss.
+
+Total Assets
+
+Fiscal 2023 Compared to Fiscal 2022
+
+Total assets decreased by $951.2 million or 26% from Fiscal 2022 to Fiscal 2023 with cash and cash equivalents accounting for 
+$153.5 million of the decrease primarily due to the repayment of the balance outstanding under our stand-by acquisition term loan 
+of $30.0 million and cash spent on operating activities of $125.3 million. Goodwill decreased by $753.7 million due to a non-cash 
+impairment charge of $748.7 million and a $5.0 million decrease due to foreign currency differences on translation of foreign 
+operations. The lease right-of-use assets and intangibles accounted for $4.6 million and $98.1 million of the decrease respectively, 
+primarily due to the depreciation and amortization taken during the period. The decrease in total assets was offset by an increase 
+in trade and other receivables of $38.6 million which is primarily due to growing trade receivables and merchant cash advances in 
+addition to higher research and development tax credits receivables and accrued interest. In addition, the decrease in total assets 
+was offset by an increase in other short term and long term assets of $1.5 million and $10.1 million, respectively, primarily related 
+to an increase in commission and contract assets and a long-term investment of $1.5 million in an entity supporting local 
+businesses, an increase in property and equipment of $3.0 million and an increase in inventory of $5.3 million. 
+
+Fiscal 2022 Compared to Fiscal 2021
+
+Total assets increased by $1,514.7 million or 72% from the fiscal year ended March 31, 2021 ("Fiscal 2021") to Fiscal 2022 with 
+cash accounting for $146.5 million of the increase primarily due to our August 2021 public offering, offset by cash spent in the 
+Vend, NuORDER and Ecwid acquisitions. Goodwill increased by $1,132.4 million and intangibles by $175.1 million, net of 
+amortization and exchange differences, related primarily to the acquisitions of Vend, NuORDER and Ecwid. Trade and other 
+receivables accounted for $21.0 million of the increase which is primarily due to receivables assumed in our recent acquisitions, 
+an increase in acquisition-related receivables from the sellers of our acquisitions which includes indemnification assets and 
+working capital adjustments, and growing trade receivables and merchant cash advances given the growth of our business. The 
+lease right-of-use assets accounted for $4.3 million of the increase mainly due to the leases assumed through our acquisitions and 
+
+(27)
+
+ 
+ 
+ 
+ 
+ 
+other new leases entered into in the period, property and equipment accounted for $8.1 million of the increase mainly due to an 
+increase in leasehold improvements, other long term assets accounted for $9.9 million of the increase, and inventory accounted for 
+$6.0 million of the increase. In addition, other current assets accounted for $11.4 million of the increase due to a D&O insurance 
+prepayment, other assets obtained through our acquisitions as well as a deposit made in connection with our merchant cash 
+advance business.  
+
+Total Liabilities
+
+Fiscal 2023 Compared to Fiscal 2022
+
+Total liabilities decreased by $49.4 million or 22% from Fiscal 2022 to Fiscal 2023 driven by a decrease in current liabilities of 
+$7.4 million and a decrease in long-term liabilities of $42.0 million. The main drivers of the decrease in current liabilities were a 
+decrease in accrued compensation and benefits of $2.7 million, a decrease in lease liabilities of $1.0 million, a decrease in trade 
+payables of $2.3 million and a decrease in acquisition-related payables of $5.2 million offset by an increase in deferred revenue of 
+$2.9 million.  The main drivers of the decrease in long-term liabilities were the repayment of the balance outstanding under our 
+stand-by acquisition term loan of $30.0 million, a decrease in lease liabilities of $4.5 million and a decrease of $6.8 million in 
+deferred tax liabilities.
+
+Fiscal 2022 Compared to Fiscal 2021
+
+Total current liabilities increased by $44.5 million from Fiscal 2021 to Fiscal 2022. The main drivers of this amount were an 
+increase in the deferred revenue of $22.1 million, an increase in accounts payable and accrued liabilities of $13.3 million, an 
+increase in lease liabilities of $2.5 million and an increase in income taxes payable of $6.6 million. The variance in the current 
+liabilities was partially due to the acquisitions of Vend, NuORDER and Ecwid as well as the growth of the Company. Total long-
+term liabilities increased by $5.2 million from Fiscal 2021 to Fiscal 2022. The main drivers of this amount were an increase of 
+$5.5 million in deferred tax liabilities and an increase in lease liabilities of $2.5 million, offset by a decrease in deferred revenue 
+of $0.7 million and a decrease in accrued payroll taxes on share-based compensation of $2.1 million.
+
+(28)
+
+Quarterly Results of Operations
+
+The following table sets forth selected quarterly statements of operations data for each of the eight quarters ended March 31, 2023 
+in accordance with IFRS. This data should be read in conjunction with our audited annual consolidated financial statements and 
+the notes related thereto. These quarterly operating results are not necessarily indicative of our operating results for a full year or 
+any future period.
+
+(In thousands of US dollars, 
+except per share amounts)
+
+Revenues
+Direct cost of revenues
+
+Gross profit
+
+Operating expenses
+General and administrative
+Research and development
+Sales and marketing
+Depreciation of property and equipment
+Depreciation of right-of-use assets
+Foreign exchange loss (gain)
+Acquisition-related compensation
+Amortization of intangible assets
+Restructuring
+Goodwill impairment
+
+Jun. 30, 
+2021
+$
+
+Sept. 30, 
+2021
+$
+
+Three months ended
+Jun. 30, 
+2022
+$
+
+Mar. 31, 
+2022
+$
+
+Dec. 31, 
+2021
+$
+
+Sept. 30, 
+2022
+$
+
+Dec. 31, 
+2022
+$
+
+Mar. 31, 
+2023
+$
+
+ 115,920   133,218   152,676   146,558   173,882   183,699   188,697   184,228 
+  58,347    68,272    73,675    76,905    96,357   102,230   102,691    97,267 
+
+  57,573    64,946    79,001    69,653    77,525    81,469    86,006    86,961 
+
+  22,277    23,081    21,655    28,240    30,239    25,132    28,429    22,139 
+  22,216    30,092    32,005    36,837    35,636    36,596    37,405    30,805 
+  42,270    51,693    55,308    67,388    68,645    64,337    60,505    56,884 
+1,735 
+2,025 
+297 
+5,746 
+  17,013    22,797    25,851    26,151    25,876    25,684    25,366    24,620 
+1,324    25,549 
+— 
+
+1,188   
+2,063   
+29   
+9,032    19,012    20,433    17,103    12,653   
+
+869   
+1,625   
+249   
+2,014   
+
+1,327   
+2,109   
+(968)  
+6,290   
+
+603   
+—   748,712   
+
+1,221   
+2,047   
+443   
+
+1,789   
+2,032   
+29   
+
+1,020   
+2,008   
+6   
+
+1,315   
+2,078   
+327   
+
+1,207   
+—   
+
+197   
+—   
+
+606   
+—   
+
+—   
+—   
+
+—   
+—   
+
+Total operating expenses
+
+ 108,730   139,729   157,551   183,505   182,417   168,285   910,499   169,800 
+
+Operating loss
+Net interest income
+
+  (51,157)   (74,783)   (78,550)  (113,852)  (104,892)   (86,816)  (824,493)   (82,839) 
+9,654 
+
+4,851   
+
+8,300   
+
+1,014   
+
+1,029   
+
+2,007   
+
+226   
+
+719   
+
+Loss before income taxes
+
+  (50,931)   (74,064)   (77,521)  (112,838)  (102,885)   (81,965)  (816,193)   (73,185) 
+
+Income tax expense (recovery)
+Current
+Deferred
+
+630   
+
+96   
+(2,224)   (15,072)   (12,125)  
+
+95   
+
+282   
+1,397   
+
+264   
+(2,353)  
+
+516   
+(2,538)  
+
+38   
+(1,429)  
+
+1,651 
+(368) 
+
+Total income tax expense (recovery)
+
+(1,594)   (14,977)   (12,029)  
+
+1,679   
+
+(2,089)  
+
+(2,022)  
+
+(1,391)  
+
+1,283 
+
+Net loss
+
+  (49,337)   (59,087)   (65,492)  (114,517)  (100,796)   (79,943)  (814,802)   (74,468) 
+
+Net loss per share – basic and diluted  
+
+(0.38)  
+
+(0.43)  
+
+(0.44)  
+
+(0.77)  
+
+(0.68)  
+
+(0.53)  
+
+(5.39)  
+
+(0.49) 
+
+Revenues
+
+Our overall revenues continue to grow as we grow our global customer base and increase solution adoption amongst existing 
+customers, particularly high GTV customers. Our total quarterly revenue increased successively for all periods presented (except 
+for the three month periods ended March 31, 2022 and March 31, 2023) mainly due to increases in subscription and transaction-
+based revenue from existing and new customers, including increased adoption of our payments solutions and other add-ons, as 
+well as the acquisitions of Vend, NuORDER and Ecwid. The decrease in revenues in the three month periods ended March 31, 
+2022 and March 31, 2023 were primarily due to the impact of seasonality on our revenues as a result of the increased adoption of 
+our payments solution, and transaction-based revenues comprising an increasingly larger proportion of our revenue mix. The three 
+months ended December 31 is historically our seasonally strongest quarter for transaction-based revenue due to the holiday 
+season, while the three months ended March 31 is historically our weakest GTV quarter which caused a sequential decline in our 
+revenues for the three months ended March 31, 2022 and the three months ended March 31, 2023 compared to the three months 
+ended December 31, 2021 and the three months ended December 31, 2022, respectively.
+
+(29)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Direct Cost of Revenues
+
+Our total direct cost of revenues increased successively for all periods presented (except for the three months ended March 31, 
+2023). The aggregate increase within the periods presented was primarily due to increased costs associated with supporting a 
+greater number of Customer Locations utilizing our platform, an increase in the number of customers on our payments solutions 
+given the higher direct costs associated with transaction-based revenues, as well as the corresponding increase resulting from the 
+acquisitions of Vend, NuORDER and Ecwid. The decrease in direct cost of revenues for the three months ended March 31, 2023 
+is aligned with the decrease in revenues within the period, and includes a decrease in share-based compensation and $0.8 million 
+in savings in salary and other employee-related costs due to the restructuring we announced during the three months ended March 
+31, 2023.
+
+Gross Profit
+
+Our total quarterly gross profit increased successively for all periods presented (except for the three months ended March 31, 
+2022) as we grow our global customer base and increase solution adoption amongst existing customers, particularly high GTV 
+customers. Our gross profit has declined as a percentage of revenue due to the success of our payments solutions as customers 
+using these solutions carry higher direct costs compared to our subscription business. We expect this trend to continue in future 
+periods, and to be partially offset by the increase in our capital business that carries a significantly higher margin.
+
+Operating Expenses
+
+Total operating expenses increased successively for all periods presented (except for the three months ended June 30, 2022, 
+September 30, 2022, and March 31, 2023) primarily due to higher sales and marketing and other costs to support a larger 
+customer base, including those from our acquisitions of Vend, NuORDER and Ecwid. The large increase in the three months 
+ended December 31, 2022 was due to the goodwill impairment charge taken during the period, which resulted in relatively lower 
+operating expenses for the three months ended March 31, 2023. The decrease in operating expenses in the three months ended 
+June 30, 2022 was mainly due to a decrease in acquisition-related compensation. The decrease in operating expenses in the three 
+months ended September 30, 2022 was mainly due to a decrease in general and administrative expenses related to lower share-
+based compensation, salary costs and litigation costs, a decrease in sales and marketing expenses related to lower share-based 
+compensation and the costs related to the sales, customer and partner summit incurred during the three months ended June 30, 
+2022, and a decrease in acquisition-related compensation. The decrease in operating expenses in the three months ended March 
+31, 2023 was primarily due to the goodwill impairment charge taken during the previous period, a decrease in share-based 
+compensation and salary costs, as well as $5.1 million in savings in salary and other employee-related costs due to the 
+restructuring we announced during the three months ended March 31, 2023.
+
+See "Results of Operations" in this MD&A for a more detailed discussion of the year-over-year changes in revenues and net loss.
+
+Liquidity and Capital Resources
+
+Overview
+
+The general objectives of our capital management strategy reside in the preservation of our capacity to continue operating, in 
+providing benefits to our stakeholders and in providing an adequate return on investment to our shareholders by selling our 
+services at a price commensurate with the level of operating risk assumed by us. We thus determine the total amount of capital 
+required consistent with risk levels. This capital structure is adjusted on a timely basis depending on changes in the economic 
+environment and risks of the underlying assets. We are not subject to any externally imposed capital requirements. 
+
+Credit Facility
+
+We had credit facilities with the Canadian Imperial Bank of Commerce ("CIBC"), which included a $25 million demand 
+revolving operating credit facility (the "Revolver") and a $50 million stand-by acquisition term loan, $20 million of which was 
+uncommitted (the "Acquisition Facility", and together with the Revolver, the "Credit Facilities"). The Acquisition Facility was 
+drawn for $30 million in January 2020 for the acquisition of Lightspeed POS Germany GmbH (formerly Gastrofix GmbH) and 
+was set to mature 60 months thereafter. On July 6, 2022, we repaid in full the balance outstanding under the Acquisition Facility, 
+including all accrued and unpaid interest, and the Acquisition Facility was terminated. Prior to the repayment, excluding 
+unamortized financing costs, the balance drawn on the Acquisition Facility was $30 million. 
+
+(30)
+
+On October 28, 2022, we amended the Revolver to, among other things, reduce the size of the Revolver to $5 million and 
+facilitate greater operating flexibility (the "Amended Revolver"). The Amended Revolver is available for letters of credit or letters 
+of guarantee for general corporate and working capital purposes. The Amended Revolver is subject to certain general covenants, 
+including making available audited annual consolidated financial statements, and is secured by the material assets of the 
+Company. We were in compliance with covenants as at March 31, 2023. 
+
+Working Capital 
+
+Our primary source of cash flow has been from raising capital totaling $2,193 million since the fiscal year ended March 31, 2016. 
+Our approach to managing liquidity is to ensure, to the extent possible, that we always have sufficient liquidity to meet our 
+liabilities as they become due. We do so by monitoring cash flows and performing budget-to-actual analysis on a regular basis. 
+Our principal cash requirements are for working capital and acquisitions we may execute. Working capital surplus as at March 31, 
+2023 was $783.9 million. Given our existing cash, the Amended Revolver and available financing, we believe there is sufficient 
+liquidity to meet our current and short-term growth requirements in addition to our long-term strategic objectives. 
+
+Base Shelf Prospectus
+
+On May 18, 2023, pursuant to "well-known seasoned issuer" blanket orders of the Canadian Securities Administrators, we filed a 
+new short form base shelf prospectus (the “Base Prospectus”) with the securities commissions in each of the provinces and 
+territories of Canada and a corresponding shelf registration statement on Form F-10 with the U.S. Securities and Exchange 
+Commission (the “Registration Statement”). The Base Prospectus and the Registration Statement allows Lightspeed and certain of 
+its security holders to offer subordinate voting shares, preferred shares, debt securities, warrants, subscription receipts, units, or 
+any combination thereof, in amounts, at prices and on terms to be set forth in one or more shelf prospectus supplements during the 
+25-month period that the Base Prospectus is effective. 
+
+Cash Flows
+
+The following table presents cash and cash equivalents as at March 31, 2023 and 2022, and cash flows from or used in operating, 
+investing, and financing activities for three months and the fiscal years ended March 31, 2023 and 2022:
+
+(In thousands of US dollars)
+
+Three months ended 
+March 31,
+
+Fiscal year ended 
+March 31,
+
+2023
+$
+
+2022
+$
+
+2023
+$
+
+2022
+$
+
+Cash and cash equivalents
+
+800,154   
+
+953,654 
+
+800,154   
+
+953,654 
+
+Cash flows from (used in):
+Operating activities
+Investing activities
+Financing activities
+Effect of foreign exchange on cash and cash equivalents
+
+(41,587)  
+5,953   
+(2,376)  
+46   
+
+(11,342)   
+(199)   
+(1,715)   
+251 
+
+(125,284)  
+8,817   
+(35,411)  
+(1,622)  
+
+(87,218) 
+(563,931) 
+798,057 
+(404) 
+
+Net increase (decrease) in cash and cash equivalents
+
+(37,964)  
+
+(13,005)   
+
+(153,500)  
+
+146,504 
+
+Cash Flows used in Operating Activities
+
+Cash flows used in operating activities for the three months ended March 31, 2023 were $41.6 million compared to $11.3 million 
+for the three months ended March 31, 2022. For the three months ended March 31, 2023, Adjusted Cash Flows Used in Operating 
+Activities4 were $26.9 million compared to Adjusted Cash Flows Used in Operating Activities4 of $9.9 million for the three 
+months ended March 31, 2022. This $17.0 million increase is primarily due to working capital movements including $12.6 
+million of additional merchant cash advances made, a decrease in tax credits received, and timing differences related to current 
+receivables and payables.
+
+Cash flows used in operating activities for Fiscal 2023 were $125.3 million compared to $87.2 million for Fiscal 2022. For Fiscal 
+2023, Adjusted Cash Flows Used in Operating Activities4 were $96.0 million compared to Adjusted Cash Flows Used in 
+
+4 Refer to the section entitled "Non-IFRS Measures and Ratios and Reconciliation of Non-IFRS Measures and Ratios"
+
+(31)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operating Activities4 of $61.3 million for Fiscal 2022. This $34.7 million increase is primarily due to working capital movements 
+including $19.2 million of additional merchant cash advances made, a decrease in deferred revenue of $2.5 million, a decrease in 
+tax credits received, timing differences related to current receivables and payables, and an increase in cash used in operating 
+activities related to our acquisitions of NuORDER and Ecwid, offset by a decrease of $3.8 million in D&O insurance paid related 
+to being a public company in the U.S. and an outflow of $5.0 million for a deposit made in Fiscal 2021 in connection with our 
+merchant cash advance business, with the same deposit being returned during Fiscal 2022.
+
+Cash Flows from (used in) Investing Activities
+
+Cash flows from investing activities for the three months ended March 31, 2023 were $6.0 million compared to cash flows used in 
+investing activities of $0.2 million for the three months ended March 31, 2022. The movement in cash flows relating to investing 
+activities was primarily due to an increase of $8.1 million in interest income received offset by a decrease of $1.5 million from 
+cash outflows associated with capitalized internal development costs related to the Lightspeed B2B network.
+
+Cash flows from investing activities for Fiscal 2023 were $8.8 million compared to cash flows used in investing activities of 
+$563.9 million for Fiscal 2022. The movement in cash flows relating to investing activities was primarily due to the cash paid for 
+the acquisition of Vend in April 2021, NuORDER in July 2021 and Ecwid in October 2021 and an increase of $17.7 million in 
+interest income received offset by a decrease of $3.9 million from cash outflows associated with capitalized internal development 
+costs related to the Lightspeed B2B network.
+
+Cash Flows from (used in) Financing Activities
+
+Cash flows used in financing activities for the three months ended March 31, 2023 were $2.4 million compared to $1.7 million in 
+the three months ended March 31, 2022. The movement in cash flows relating to financing activities was mainly due to a decrease 
+of $0.2 million in proceeds from the exercise of stock options under our equity incentive plans and an increase of $0.6 million 
+from the payment of lease liabilities and movement in restricted lease deposits.
+
+Cash flows used in financing activities for Fiscal 2023 were $35.4 million compared to cash flows from financing activities of 
+$798.1 million in Fiscal 2022. The movement in cash flows relating to financing activities was mainly due to having raised $789.4 
+million in funds in our August 2021 public offering, net of share issuance costs, the repayment of the $30.0 million balance 
+outstanding under the Acquisition Facility in July 2022 and a decrease of $12.8 million in proceeds from the exercise of stock 
+options under our equity incentive plans.
+
+We believe that our current cash balance, available financing, cash flows from operations and credit available under the Amended 
+Revolver are adequate for the Company’s future operating cash needs. 
+
+Contractual Obligations
+
+We have contractual obligations with a variety of expiration dates. The table below outlines our contractual obligations as at 
+March 31, 2023:
+
+(In thousands of US dollars)
+
+Accounts payable and accrued liabilities
+
+Other long-term liabilities
+Lease obligations(1)
+Material unconditional purchase obligations(2)
+
+< 1
+Year
+
+68,827   
+
+—   
+
+9,723   
+
+32,077   
+
+Payments due by period
+
+1 to 3 
+Years
+
+—   
+
+1,026   
+
+14,858   
+
+54,441   
+
+4 to 5 
+Years
+
+—   
+
+—   
+
+8,401   
+
+31,000   
+
+>5
+Years
+
+—   
+
+—   
+
+6,979   
+
+Total
+
+68,827 
+
+1,026 
+
+39,961 
+
+—   
+
+117,518 
+
+Total contractual obligations
+
+110,627   
+
+70,325   
+
+39,401   
+
+6,979   
+
+227,332 
+
+(1)
+
+Included in the lease obligations are short term leases and variable lease payments for our share of tenant operating expenses and taxes. 
+Lease obligations relate primarily to our office space. The lease terms are between one and seven years. See note 13 to the audited annual 
+consolidated financial statements for further details regarding leases.
+
+(2) We are subject to non-cancelable service agreements with service providers and payment processors subject to minimum spend 
+
+commitments.
+
+(32)
+
+ 
+ 
+ 
+ 
+ 
+Off-Balance Sheet Arrangements
+
+We have no material off-balance sheet arrangements, other than low value and short-term leases, and other purchase obligations 
+as disclosed under "Contractual Obligations". From time to time, we may be contingently liable with respect to litigation and 
+claims that arise in the normal course of operations.
+
+Related Party Transactions
+
+We have no material related party transactions, other than those noted in our audited annual consolidated financial statements.
+
+The executive compensation expense for the top five key management personnel is as follows for Fiscal 2023 and Fiscal 2022:
+
+(In thousands of US dollars)
+
+Short-term employee benefits and termination benefits
+
+Share-based payments
+
+Fiscal year ended March 31,
+
+2023
+$
+
+3,242
+
+20,331
+
+2022
+$
+
+2,914
+
+21,251
+
+Total compensation paid to key management personnel
+
+23,573   
+
+24,165 
+
+Financial Instruments and Other Instruments
+
+Credit and Concentration Risk
+
+Generally, the carrying amount of our financial assets in our consolidated balance sheet exposed to credit risk, net of any 
+applicable provisions for losses, represents the maximum amount exposed to credit risk. 
+
+Our credit risk is primarily attributable to our cash and cash equivalents and trade and other receivables. We do not require 
+guarantees from our customers. Credit risk with respect to cash and cash equivalents is managed by maintaining balances only 
+with high credit quality financial institutions. We do not hold any collateral as security.
+
+Due to our diverse customer base, there is no particular concentration of credit risk related to our trade receivables. Moreover, 
+balances for trade receivables are managed and analyzed on an ongoing basis to ensure our loss allowance is established and 
+maintained at an appropriate amount. 
+
+We maintain a loss allowance for a portion of trade receivables when collection becomes doubtful on the basis described in note 3 
+of our audited annual consolidated financial statements. Our allowance for expected credit losses ("ECL") includes forward-
+looking factors specific to the debtors and the economic environment.
+
+In Fiscal 2023, potential effects from uncertainty in the macroeconomic environment on our credit risk have been considered and 
+have resulted in an increase to our allowance for ECLs from what the allowance would have been without factoring in these 
+effects. We continue to monitor macroeconomic conditions and any resulting impacts on our credit risk.
+
+Liquidity Risk
+
+We are exposed to the risk of being unable to honor our financial commitments by the deadlines set, under the terms of such 
+commitments and at a reasonable price. We manage our liquidity risk by forecasting cash flows from operations and anticipated 
+investing and financing activities. We have $800.2 million of cash and cash equivalents as well as the Amended Revolver 
+available as at March 31, 2023, demonstrating our liquidity and ability to pay financial liabilities as they become due. The 
+Company's business, financial condition and operations were not significantly impacted by the failure of Silicon Valley Bank. 
+Only de minimis cash and cash equivalent balances were held with Silicon Valley Bank as at March 31, 2023.
+
+Foreign Exchange Risk
+
+We are exposed to foreign exchange risk due to financial instruments denominated in foreign currencies. The main currencies 
+which expose us to foreign exchange risk due to financial instruments denominated in foreign currencies are the Canadian dollar, 
+the Euro, the British pound sterling, the Australian dollar, the Swiss franc and the New Zealand dollar. We have a policy to 
+
+(33)
+
+ 
+mitigate our exposure to foreign currency exchange risk by entering into derivative instruments. We have entered into multiple 
+foreign exchange forward contracts, which are generally for a term of less than one-year. Our currency pair used for cash flow 
+hedges is U.S. dollar / Canadian dollar. We do not use derivative instruments for speculative purposes. The notional principal of 
+our foreign exchange contracts was approximately $109.2 million CAD as at March 31, 2023 (March 31, 2022 - $26.0 million 
+CAD). 
+
+The following table provides a summary of our foreign exchange exposures, after taking into account relevant foreign exchange 
+forward contracts, expressed in thousands of U.S. dollars:
+
+2023
+
+CAD
+$
+
+EUR
+$
+
+AUD
+$
+
+GBP
+$
+
+CHF
+$
+
+Other
+$
+
+Total
+$
+
+Cash and cash equivalents and restricted cash
+
+3,336   
+
+5,828   
+
+2,078   
+
+1,907   
+
+1,456   
+
+1,537   
+
+16,142 
+
+Trade and other receivables
+
+3,716   
+
+9,004   
+
+8,199   
+
+1,680   
+
+1,074   
+
+1,883   
+
+25,556 
+
+Accounts payable and accrued liabilities
+
+(10,615)   
+
+(8,948)   
+
+(3,604)   
+
+(1,561)   
+
+(1,294)   
+
+(3,333)   
+
+(29,355) 
+
+Other long-term liabilities
+
+Lease liabilities
+
+(231)   
+
+(267)   
+
+(68)   
+
+(119)   
+
+(48)   
+
+(5)   
+
+(738) 
+
+(11,805)   
+
+(3,258)   
+
+(1,870)   
+
+(4,085)   
+
+(866)   
+
+(211)   
+
+(22,095) 
+
+Net financial position exposure
+
+(15,599)   
+
+2,359   
+
+4,735   
+
+(2,178)   
+
+322   
+
+(129)   
+
+(10,490) 
+
+Interest Rate Risk
+
+Interest rate risk is the risk that changes in interest rates will negatively impact earnings and cash flows. Certain of our cash earns 
+interest. Our trade and other receivables, accounts payable and accrued liabilities, and lease liabilities do not bear interest. We are 
+not exposed to material interest rate risk.
+
+Share Price Risk
+
+Accrued payroll taxes on share-based compensation (social costs) are payroll taxes associated with share-based compensation that 
+we are subject to in various countries in which we operate. Social costs are accrued at each reporting period based on inputs 
+including, but not limited to, the number of stock options and share awards outstanding, the vesting of the stock options and share 
+awards, the exercise price, and our share price. Changes in the accrual are recognized in direct cost of revenues and operating 
+expenses. An increase in share price will increase the accrual for social costs, and a decrease in share price will result in a 
+decrease in the accrual for social costs, all other things being equal, including the number of stock options and share awards 
+outstanding and exercise price remaining constant.
+
+Inflation Risk 
+
+We are subject to inflation risk that could have a material effect on our business, financial condition or results of operations. If our 
+costs were to become subject to significant inflationary pressures, we may not be able to fully offset such higher costs through 
+price increases. Our inability or failure to do so could harm our business, financial condition and results of operations. If inflation 
+continues to increase, it will likely affect our expenses, including, but not limited to, increased costs to offer our solutions and 
+employee compensation expenses. Furthermore, our customers are also subject to risks associated with inflationary pressures that 
+have and may continue to impact their business and financial condition. Such risks include a reduction in consumer spending and 
+credit or debit card usage, which would negatively impact our financial performance because the number of transactions 
+processed using our payment solutions would decrease, as would the average purchase amount of each transaction.
+
+Critical Accounting Policies and Estimates
+
+The preparation of our audited annual consolidated financial statements in conformity with IFRS requires management to make 
+judgements, estimates and assumptions that affect the amounts reported in the audited annual consolidated financial statements 
+and accompanying notes. We review these estimates on an ongoing basis based on management’s best knowledge of current 
+events and actions that we may undertake in the future. Actual results could differ from these estimates. Uncertainty about these 
+assumptions and estimates could result in outcomes that require a material adjustment to the carrying amount of assets or 
+liabilities affected in future periods. Key estimates and assumptions are outlined below. Management has determined that we 
+operate in a single operating and reportable segment. 
+
+(34)
+
+ 
+ 
+ 
+ 
+ 
+ 
+Revenue Recognition
+
+The identification of revenue-generating contracts with customers, the identification of performance obligations, the 
+determination of the transaction price and allocations between identified performance obligations, the use of the appropriate 
+revenue recognition method for each performance obligation and the measure of progress for performance obligations satisfied 
+over time are the main aspects of the revenue recognition process, all of which require the exercise of judgment and use of 
+assumptions. We follow the guidance provided in IFRS 15 – Appendix B, Principal versus Agent Considerations for determining 
+whether revenue should be recognized based on the gross amount of consideration paid by the customer or the net amount of 
+consideration retained by us. This determination is a matter of judgment that depends on the facts and circumstances of each 
+arrangement.
+
+Impairment of Non-financial Assets
+
+Our impairment test for goodwill is based on internal estimates of fair value less costs of disposal calculations and uses valuation 
+models such as the discounted cash flow model. Key assumptions on which management has based its determination of fair value 
+less costs of disposal include an estimated discount rate, terminal value multiple, and estimated revenue growth rate. These 
+estimates, including the methodology used, the identification of cash-generating units and allocation of goodwill, can have a 
+material impact on the respective values and ultimately the amount of any goodwill impairment. Whenever property and 
+equipment, lease right-of-use assets, and intangible assets are tested for impairment, the determination of the assets’ recoverable 
+amount involves the use of estimates by management and can have a material impact on the respective values and ultimately the 
+amount of any impairment. 
+
+During the three months ended December 31, 2022, there were changes in macroeconomic conditions and our share price and 
+market capitalization decreased. This led to the carrying amount of our net assets exceeding our market capitalization as at 
+December 31, 2022. This triggered an impairment test to be performed on the Company's goodwill for our Segment, as defined in 
+note 3 of the audited annual consolidated financial statements, which is the level at which management monitors goodwill. Our 
+test as at December 31, 2022 resulted in a non-cash impairment charge of $748.7 million related to goodwill during the three 
+months ended December 31, 2022 as the terminal value multiple was negatively impacted by the macroeconomic conditions and 
+our share price decrease, and our revenue growth rate was negatively impacted by the macroeconomic impact on our customer's 
+sales. 
+
+If the carrying value of our Segment is below our recoverable amount in the future, we may have to recognize further goodwill 
+impairment losses in our results of operations in future periods. This could impair our ability to achieve profitability in the future. 
+Goodwill is more susceptible to impairment risk if business operating results or economic conditions deteriorate. We reassessed 
+as at March 31, 2023 the key assumptions used in the December 31, 2022 test and found no reduction in the terminal value 
+multiple, no increase in the discount rate and no decrease in the revenue growth rate. A reduction in the terminal value multiple, 
+an increase in the discount rate or a decrease in the revenue growth rate could cause additional impairment in the future. We are 
+required to perform our next annual goodwill impairment analysis on December 31, 2023, or earlier should there be a goodwill 
+impairment trigger before then. For additional information, refer to note 16 of our audited annual consolidated financial 
+statements for Fiscal 2023.
+
+Business Combinations
+
+We follow the acquisition method to account for business combinations. The acquisition method of accounting requires that assets 
+acquired and liabilities assumed be recorded at their estimated fair values on the date of a business acquisition. The excess of the 
+purchase price over the estimated fair value is recorded as goodwill. Such valuations require management to make significant 
+estimates, assumptions, and judgments, especially with respect to intangible assets and contingent consideration. For intangible 
+assets, we develop the fair value by using appropriate valuation techniques which are generally based on a forecast of the total 
+expected future net discounted cash flows, and key assumptions generally consist of the future performance of the related assets, 
+the discount rate, the attrition rate, the royalty rates, and the payments attach rate. Contingent consideration is measured at fair 
+value using a discounted cash flow model.
+
+Recoverability of Deferred Tax Assets and Current and Deferred Income Taxes and Tax Credits
+
+Uncertainties exist with respect to the interpretation of complex tax regulations and the amount and timing of future taxable 
+income. We establish provisions based on reasonable estimates for possible consequences of audits by the tax authorities. The 
+amount of such provisions is based on various factors, such as experience of previous tax audits and differing interpretations of 
+tax regulations by the taxable entity and the responsible tax authority. 
+
+(35)
+
+Deferred income tax assets are recognized for unused tax losses and deductible temporary differences to the extent it is probable 
+that taxable income will be available against which the losses and deductible temporary differences can be utilized. 
+Management’s judgment is required to determine the amount of deferred income tax assets that can be recognized, based upon the 
+likely timing and the level of future taxable income together with future tax planning strategies. 
+
+Share-Based Compensation
+
+We measure the cost of equity-settled transactions with employees by reference to the fair value of the related instruments at the 
+date at which they are granted. Estimating fair value for share-based payments requires determining the most appropriate 
+valuation model for a grant, which depends on the terms and conditions of the grant. This also requires making assumptions and 
+determining the most appropriate inputs to the valuation model including the expected life of the option, volatility, interest rate 
+and dividend yield.
+
+Provisions
+
+We are involved in litigation and claims from time to time. There can be no assurance that these litigations and claims will be 
+resolved without costly litigation nor in a manner that does not adversely impact the financial position and operating results of the 
+Company. Provisions are recognized when the Company has a present legal or constructive obligation as a result of a past event, it 
+is probable that an outflow of resources embodying economic benefits will be required to settle the obligation, and a reliable 
+estimate can be made of the amount of the obligation. In determining the probability of a loss and consequently determining a 
+reasonable estimate, management is required to use significant judgment. Assumptions applied reflect the most probable set of 
+economic conditions and planned courses of action by the Company at the time, but these too may differ over time. Given the 
+uncertainties associated with any litigation, the actual outcome can be different from our estimates and could adversely affect the 
+financial position and operating results of the Company. 
+
+New Accounting Pronouncements
+
+From time to time, new accounting pronouncements are issued by the IASB or other standards-setting bodies, and are adopted as 
+of the specified effective date. 
+
+New and amended standards and interpretations adopted
+
+The IASB has issued amendments to IAS 16 Property, Plant and Equipment to prohibit deducting from the cost of an item of 
+property, plant and equipment any proceeds from selling items produced before that asset is available for use. The amendments 
+also clarify the meaning of "testing whether an asset is functioning properly". The IASB also issued an amendment to IAS 37 
+Provisions, Contingent Liabilities and Contingent Assets to clarify the cost of fulfilling a contract in assessing whether a contract 
+is onerous. These amendments to IAS 16 and IAS 37 are effective for annual periods beginning on or after January 1, 2022, with 
+early application permitted. We have adopted these amendments as of April 1, 2022. There was no impact on our accounting 
+policies or the audited annual consolidated financial statements as a result of adopting such amendments. There were no other 
+IFRS or International Financial Reporting Interpretations Committee (IFRIC) interpretations effective as of April 1, 2022 that had 
+a material impact on our accounting policies or the audited annual consolidated financial statements. 
+
+New and amended standards and interpretations issued not yet effective
+
+At the date of authorization of these financial statements, we have not yet applied the following new and revised IFRS Standards 
+that have been issued but are not yet effective. 
+
+The IASB has issued IFRS 17 Insurance Contracts standardizing how to recognize, measure, present and disclose insurance 
+contracts, amendments to IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors clarifying how to distinguish 
+changes in accounting policies from changes in accounting estimates, amendments to IAS 1 Presentation of Financial Statements 
+requiring companies to disclose their material accounting policy information and amendments to IAS 12 Income Taxes requiring 
+companies to recognize deferred tax on particular transactions that, on initial recognition, give rise to equal amounts of taxable 
+and deductible temporary differences. The new IFRS 17 standard and these amendments to IAS 8, IAS 1 and IAS 12 are effective 
+for annual periods beginning on or after January 1, 2023, with early application permitted. The IASB has also issued amendments 
+to IAS 1 Presentation of Financial Statements affecting the presentation of liabilities as current or non-current in the statement of 
+financial position and requiring companies to disclose their material accounting policy information and they have also issued 
+ammendments to IFRS 16 Leases to include variable payments when measuring a lease liability arising from a sale-and-leaseback 
+
+(36)
+
+transaction. These amendments to IAS 1 and IFRS 16 are effective for annual periods beginning on or after January 1, 2024, with 
+early application permitted.
+
+We do not expect that the adoption of the standards listed above will have a material impact on the financial statements in future 
+periods.
+
+Outstanding Share Information
+
+Lightspeed is a publicly traded company listed under the symbol "LSPD" on both the Toronto Stock Exchange ("TSX") and the 
+New York Stock Exchange ("NYSE"). Our authorized share capital consists of (i) an unlimited number of Subordinate Voting 
+Shares and (ii) an unlimited number of preferred shares, issuable in series, of which 151,368,643 Subordinate Voting Shares and 
+no preferred shares were issued and outstanding as of May 16, 2023.
+
+As of May 16, 2023, there were 521,474 options outstanding under the Company’s Amended and Restated 2012 Stock Option 
+Plan, as amended (of which 521,474 were vested as of such date), 8,300,252 options outstanding under the Company’s Third 
+Amended and Restated Omnibus Incentive Plan, as amended (the "Omnibus Plan") (of which 2,890,962 were vested as of such 
+date) and 104,167 options outstanding which were issued in compliance with an allowance under the rules of the TSX as 
+inducements for executive officers to enter into contracts of full-time employment with the Company ("Inducement Grants") (of 
+which 104,167 were vested as of such date). Each such option is or will become exercisable for one Subordinate Voting Share.
+
+As of May 16, 2023, there were 277,433 options outstanding under the ShopKeep Inc. Amended and Restated 2011 Stock Option 
+and Grant Plan (of which 276,521 were vested as of such date), which plan the Company assumed on closing of its acquisition of 
+ShopKeep on November 25, 2020. Each option is or will become exercisable for one Subordinate Voting Share. 
+
+As of May 16, 2023, there were 75,869 DSUs outstanding under the Company’s Omnibus Plan. Each such DSU will, upon the 
+holder thereof ceasing to be a director, executive officer, employee or consultant of the Company in accordance with the Omnibus 
+Plan, be settled at the discretion of the board through (a) the delivery of shares issued from treasury or purchased on the open 
+market, (b) cash, or (c) a combination of cash and shares.
+
+As of May 16, 2023, there were 5,367,041 RSUs outstanding under the Company’s Omnibus Plan (of which 1,030,451 were 
+vested as of such date) and 273 RSUs outstanding which were Inducement Grants (of which 273 were vested as of such date). 
+Each such RSU, upon vesting, may be settled at the discretion of the board through (a) the delivery of shares issued from treasury 
+or purchased on the open market, (b) cash, or (c) a combination of cash and shares.
+
+As of May 16, 2023, there were 524,310 PSUs outstanding under the Company’s Omnibus Plan (of which none were vested as of 
+such date). Each such PSU, upon vesting, may be settled at the discretion of the board through (a) the delivery of shares issued 
+from treasury or purchased on the open market, (b) cash, or (c) a combination of cash and shares.
+
+Disclosure Controls and Procedures and Internal Control Over Financial Reporting
+
+Disclosure Controls and Procedures
+
+Disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as 
+amended, "DC&P") are designed to provide reasonable assurance that information required to be disclosed in reports filed with 
+the Securities and Exchange Commission are recorded, processed, summarized and reported in a timely fashion. The disclosure 
+controls and procedures are designed to ensure that information required to be disclosed by the Company in such reports is then 
+accumulated and communicated to the Company’s management to ensure timely decisions regarding required disclosure. 
+Management regularly reviews disclosure controls and procedures; however, they cannot provide an absolute level of assurance 
+because of the inherent limitations in control systems to prevent or detect all misstatements due to error or fraud. The CEO and 
+the CFO, along with management, have evaluated and concluded that the Company’s disclosure controls and procedures as at  
+March 31, 2023 were effective.
+
+Management's Annual Report on Internal Control over Financial Reporting 
+
+Management of the Company, under the supervision of the CEO and the CFO, is responsible for establishing and maintaining 
+adequate internal control over financial reporting. Internal control over financial reporting is designed to provide reasonable 
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in 
+accordance with IFRS as issued by the IASB.
+
+(37)
+
+Management, including the CEO and CFO, have assessed the effectiveness of the Company's internal control over financial 
+reporting in accordance with Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring 
+Organizations of the Treadway Commission ("COSO"). Based on this assessment, management, including the CEO and CFO, 
+have determined that the Company's internal control over financial reporting was effective as at March 31, 2023.
+
+Attestation Report of the Independent Registered Public Accounting Firm
+
+The effectiveness of the Company's internal control over financial reporting as at March 31, 2023 has been audited by 
+PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in their opinion on the audited annual 
+consolidated financial statements for March 31, 2023.
+
+Changes in Internal Control over Financial Reporting
+
+The CEO and the CFO have evaluated, or caused to be evaluated under their supervision, whether or not there were changes to its 
+internal controls over financial reporting during the period ended March 31, 2023 that have materially affected, or are reasonably 
+likely to materially affect the Company’s internal controls over financial reporting. No such changes were identified through their 
+evaluation.
+
+Limitations of Controls and Procedures
+
+Management, including the CEO and CFO, believes that any disclosure controls and procedures or internal controls over financial 
+reporting, no matter how well conceived and operated, can provide only reasonable, not absolute assurance that the objectives of 
+the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the 
+benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, they 
+cannot provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been prevented 
+or detected. These inherent limitations include that judgments in decision-making can be faulty, and that breakdowns can occur 
+because of simple errors or mistakes. Additionally, controls can be circumvented by the individual acts of some persons, by 
+collusion of two or more people, or by unauthorized override of the control. The design of any system of controls is also based in 
+part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in 
+achieving its stated goals under all potential future conditions. Accordingly, because of the inherent limitations in a cost-effective 
+control system, misstatements due to error or fraud may occur and not be detected.
+
+(38)

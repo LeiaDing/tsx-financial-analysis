@@ -1,0 +1,4373 @@
+# Nuvei Corporation
+# 来源：Annual MD&A - English.pdf (472614d782ddf32b)
+
+EXHIBIT 99.2
+
+Management’s Discussion & Analysis
+Nuvei Corporation
+
+Years ended December 31, 2022 and 2021
+
+(in thousands of US dollars)
+
+                         
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS 
+
+OF OPERATIONS FOR THE YEAR ENDED DECEMBER 31, 2022 
+
+As  used  in  this  management’s  discussion  and  analysis  of  financial  condition  and  results  of  operations 
+(“MD&A”),  unless  the  context  indicates  or  requires  otherwise,  all  references  to  the  “Company”,  “Nuvei”,  “we”, 
+“us” or “our” refer to Nuvei Corporation together with our subsidiaries, on a consolidated basis.
+
+This  MD&A  dated  March  8,  2023,  should  be  read  in  conjunction  with  the  Company’s  audited  annual 
+consolidated  financial  statements,  along  with  the  related  notes  thereto  for  the  year  ended  December  31,  2022 
+(the  “Consolidated  Financial  Statements”).  The  financial  information  presented  in  this  MD&A  is  derived  from 
+the  Consolidated  Financial  Statements  which  have  been  prepared  in  accordance  with  International  Financial 
+Reporting Standards (“IFRS”) as issued by the International Accounting Standards Board (“IASB”). All amounts 
+are in US dollars except where otherwise indicated. Additionally, tables included in this MD&A are presented in 
+thousands of US dollars, unless otherwise indicated. This MD&A is presented as of the date of the Consolidated 
+Financial Statements and is current to that date unless otherwise stated.
+
+We  have  prepared  this  MD&A  with  reference  to  National  Instrument  51-102  –  Continuous  Disclosure 
+Obligations  of  the  Canadian  Securities  Administrators.  Under  the  U.S./Canada  Multijurisdictional  Disclosure 
+System, we are permitted to prepare this MD&A in accordance with Canadian disclosure requirements, which 
+requirements are different than those of the United States.
+
+FORWARD-LOOKING INFORMATION 
+
+This MD&A contains “forward-looking information” and “forward-looking statements” (collectively, “forward-
+looking  information”)  within  the  meaning  of  applicable  securities  laws.  Such  forward-looking  information  may 
+include,  without  limitation,  information  with  respect  to  our  objectives  and  the  strategies  to  achieve  these 
+objectives,  as  well  as  information  with  respect  to  our  beliefs,  plans,  expectations,  anticipations,  estimates  and 
+intentions. This forward-looking information is identified by the use of terms and phrases such as “may”, “would”, 
+“should”,  “could”,  “expect”,  “intend”,  “estimate”,  “anticipate”,  “plan”,  “foresee”,  “believe”,  or  “continue”,  the 
+negative of these terms and similar terminology, including references to assumptions, although not all forward-
+looking information contains these terms and phrases. Particularly, statements relating to the Paya Transaction, 
+including  expectations  regarding  anticipated  cost  savings  and  synergies  and  the  strength,  complementarity  and 
+compatibility  with  Nuvei's  business;  information  regarding  our  expectations  of  future  results,  performance, 
+achievements,  prospects  or  opportunities  or  the  markets  in  which  we  operate,  expectations  regarding  industry 
+trends  and  the  size  and  growth  rates  of  addressable  markets,  our  business  plans  and  growth  strategies, 
+addressable market opportunity for our solutions, expectations regarding growth and cross-selling opportunities 
+and  intention  to  capture  an  increasing  share  of  addressable  markets,  the  costs  and  success  of  our  sales  and 
+marketing efforts, intentions to expand existing relationships, further penetrate verticals, enter new geographical 
+markets,  expand  into  and  further  increase  penetration  of  international  markets,  intentions  to  selectively  pursue 
+and successfully integrate acquisitions, and expected acquisition outcomes and benefits, future investments in our 
+business and anticipated capital expenditures, our intention to continuously innovate, differentiate and enhance 
+our  platform  and  solutions,  expected  pace  of  ongoing  legislation  of  regulated  activities  and  industries,  our 
+competitive strengths and competitive position in our industry, expectations regarding our revenue, revenue mix 
+and the revenue generation potential of our solutions, expectations regarding our margins and future profitability, 
+and  the  future  impact  of  the  COVID-19  pandemic  is  forward-looking  information.  Economic  and  geopolitical 
+uncertainties, including regional conflicts and wars, including potential impacts of sanctions, may also heighten 
+the impact of certain factors described herein.
+
+In  addition,  any  statements  that  refer  to  expectations,  intentions,  projections  or  other  characterizations  of 
+future  events  or  circumstances  contain  forward-looking  information.  Statements  containing  forward-looking 
+information are not historical facts but instead represent management’s expectations, estimates and projections 
+regarding future events or circumstances. 
+
+Forward-looking  information  is  based  on  management's  beliefs  and  assumptions  and  on  information 
+currently available to management, regarding, among other things, assumptions related to the Paya Transaction 
+(including the Company's ability to retain and attract new business, achieve synergies and strengthen its market 
+position  arising  from  successful  integration  plans  relating  to  the  Paya  Transaction);  the  Company's  ability  to 
+otherwise  complete  the  integration  of  the  Paya  business  within  anticipated  time  periods  and  at  expected  cost 
+levels;  the  Company's  ability  to  attract  and  retain  key  employees  in  connection  with  the  Paya  Transaction; 
+
+2
+
+management's  estimates  and  expectations  in  relation  to  future  economic  and  business  conditions  and  other 
+factors  in  relation  to  the  Paya  Transaction  and  resulting  impact  on  growth  in  various  financial  metrics; 
+assumptions  regarding  foreign  exchange  rate,  competition,  political  environment  and  economic  performance  of 
+each region where the Company operates; the realization of the expected strategic, financial and other benefits of 
+the Paya Transaction in the timeframe anticipated; and the absence of significant undisclosed costs or liabilities 
+associated with the Paya Transaction; and general economic conditions and the competitive environment within 
+our industry, including the following assumptions: (a) the Company will continue to effectively execute against its 
+key strategic growth priorities, without any material adverse impact from macroeconomic headwinds on its or its 
+customers' business, financial condition, financial performance, liquidity nor any significant reduction in demand 
+for its products and services, (b) the economic conditions in our core markets, geographies and verticals, including 
+resulting consumer spending and employment, remaining at close to current levels, (c) assumptions as to foreign 
+exchange rates and interest rates, including inflation, (d) the Company's continued ability to manage its growth 
+effectively,  (e)  the  Company  will  continue  to  attract  and  retain  key  talent  and  personnel  required  to  achieve  its 
+plans and strategies, including sales, marketing, support and product and technology operations, in each case both 
+domestically and internationally, (f) the Company’s ability to successfully identify, complete, integrate and realize 
+the  expected  benefits  of,  acquisitions  (including  Paya)  and  manage  the  associated  risks,  as  well  as  future 
+acquisitions, (g) the absence of adverse changes in legislative or regulatory matters, (h) the Company’s continued 
+ability  to  upskill  and  modify  its  compliance  capabilities  as  regulations  change  or  as  the  Company  enters  new 
+markets, (i) the Company’s liquidity and capital resources, including its ability to secure debt or equity financing 
+on  satisfactory  terms,  and  (j)  the  absence  of  adverse  changes  in  current  tax  laws.  Unless  otherwise  indicated, 
+forward-looking information does not give effect to the potential impact of any mergers, acquisitions, divestitures 
+or  business  combinations  that  may  be  announced  or  closed  after  the  date  hereof.  Although  the  forward-looking 
+information contained herein is based upon what we believe are reasonable assumptions, investors are cautioned 
+against  placing  undue  reliance  on  this  information  since  actual  results  may  vary  from  the  forward-looking 
+information.
+
+Forward-looking  information  involves  known  and  unknown  risks  and  uncertainties,  many  of  which  are 
+beyond our control, that could cause actual results to differ materially from those that are disclosed in or implied 
+by such forward-looking information. These risks and uncertainties include, but are not limited to, the risk factors 
+described in greater detail under “Risk Factors” of the Company’s annual information form (the “AIF”) such as: 
+risks  associated  with  the  Paya  Transaction  (including  our  inability  to  successfully  integrate  the  Paya  business; 
+legal  proceedings  instituted  related  to  the  Paya  Transaction  and  the  impact  of  significant  demands  placed  on 
+management  as  a  result  thereof;  the  potential  failure  to  realize  anticipated  benefits  from  the  Paya  Transaction; 
+potential undisclosed costs or liabilities associated with the Paya Transaction, which may be significant; impact of 
+acquisition-related expenses; the failure to retain Paya’s personnel and clients following the acquisition and risks 
+associated with the loss and ongoing replacement of key personnel); risks relating to our business and industry, 
+such  as  the  ongoing  COVID-19  pandemic  and  the  Russian  invasion  of  Ukraine,  including  the  resulting  global 
+economic uncertainty and measures and sanctions taken in response thereto; declining level of volume activity in 
+certain verticals, including digital assets, and the resulting negative impact on the demand for, and prices of, our 
+products  and  services;  changes  in  foreign  currency  exchange  rates,  inflation,  interest  rates,  consumer  spending 
+trends  and  other  macroeconomic  factors  affecting  our  customers  and  our  results  of  operations;  the  rapid 
+developments and change in our industry; intense competition both within our industry and from other payments 
+providers; challenges implementing our growth strategy; challenges to expand our product portfolio and market 
+reach; challenges in expanding into new geographic regions internationally and continuing our growth within our 
+markets;  challenges  in  retaining  existing  clients,  increasing  sales  to  existing  clients  and  attracting  new  clients; 
+managing our growth effectively; difficulty to maintain the same rate of revenue growth as our business matures 
+and to evaluate our future prospects; history of net losses and additional significant investments in our business; 
+our  level  of  indebtedness;  risks  associated  with  past  and  future  acquisitions;  challenges  related  to  a  significant 
+number of our customers being small-and-medium sized businesses (“SMBs”); concentration of our revenue from 
+payment  services;  compliance  with  the  requirements  of  payment  networks;  challenges  related  to  the 
+reimbursement  of  chargebacks  from  our  customers;  our  bank  accounts  being  located  in  multiple  territories  and 
+relying on banking partners to maintain those accounts; the impact of the United Kingdom’s departure from the 
+European  Union;  decline  in  the  use  of  electronic  payment  methods;  loss  of  key  personnel  or  difficulties  hiring 
+qualified personnel; deterioration in the quality of the products and services offered; impairment of a significant 
+portion  of  intangible  assets  and  goodwill;  increasing  fees  from  payment  networks;  challenges  related  to  general 
+economic  and  geopolitical  conditions,  business  cycles  and  credit  risks  of  our  clients;  reliance  on  third-party 
+partners  to  sell  some  of  our  products  and  services;  misappropriation  of  end-user  transaction  funds  by  our 
+
+3
+
+employees;  frauds  by  customers,  their  customers  or  others,  coverage  of  our  insurance  policies;  the  degree  of 
+effectiveness of our risk management policies and procedures in mitigating our risk exposure; the integration of a 
+variety of operating systems, software, hardware, web browsers and networks in our services; the costs and effects 
+of  pending  and  future  litigation;  various  claims  such  as  wrongful  hiring  of  an  employee  from  a  competitor, 
+wrongful  use  of  confidential  information  of  third  parties  by  our  employees,  consultants  or  independent 
+contractors  or  wrongful  use  of  trade  secrets  by  our  employees  of  their  former  employers;  challenges  to  secure 
+financing  on  favorable  terms  or  at  all;  challenges  from  seasonal  fluctuations  on  our  operating  results;  risks 
+associated with less than full control rights of one of our subsidiaries; changes in accounting standards; estimates 
+and assumptions in the application of accounting policies; occurrence of a natural disaster, a widespread health 
+epidemic  or  pandemic  or  other  events;  impacts  of  climate  change;  challenges  related  to  our  holding  company 
+structure,  as  well  as  risks  relating  to  intellectual  property  and  technology,  risks  relating  to  regulatory  and  legal 
+proceedings and risks relating to our Subordinate Voting Shares.
+
+Consequently, all of the forward-looking information contained herein is qualified by the foregoing cautionary 
+statements, and there can be no guarantee that the results or developments that we anticipate will be realized or, 
+even if substantially realized, that they will have the expected consequences or effects on our business, financial 
+condition or results of operation. Unless otherwise noted or the context otherwise indicates, the forward-looking 
+information  contained  herein  represents  our  expectations  as  of  the  date  hereof  or  as  of  the  date  it  is  otherwise 
+stated to be made, as applicable, and is subject to change after such date. However, we disclaim any intention or 
+obligation  or  undertaking  to  update  or  amend  such  forward-looking  information  whether  as  a  result  of  new 
+information, future events or otherwise, except as may be required by applicable law.
+
+Overview
+
+We  are  a  global  payment  company  providing  payment  technology  and  solutions  to  businesses  across  North 
+America,  Europe,  Asia  Pacific,  Middle  East  and  Africa  ("MEA")  and  Latin  America.  We  believe  we  are 
+differentiated  by  our  proprietary  technology  platform,  which  is  purpose-built  for  high-growth  eCommerce, 
+integrated  payments  and  business  to  business  ("B2B").  Our  platform  enables  customers  to  pay  and/or  accept 
+payments worldwide regardless of their customers’ location, device or preferred payment method. Our solutions 
+span the entire payments stack and include a fully integrated payments engine with global processing capabilities, 
+a turnkey solution for frictionless payment experiences and a broad suite of data-driven business intelligence tools 
+and risk management services. Through a single integration, we provide seamless and secure pay-in and payout 
+capabilities, connecting our customers with their customers in over 200 markets worldwide, with local acquiring 
+in 47 of those markets. With support for more than 600 alternative payment methods (“APMs”), and nearly 150 
+currencies, our customers can capture every payment opportunity that comes their way. In short, we provide the 
+payment technology and intelligence our customers need to succeed locally and globally, through one integration 
+– propelling them further, faster.
+
+While global commerce continues to pivot online, eCommerce channels are converging and creating new and 
+fast-growing opportunities for businesses of all sizes. Rapidly scaling across these commerce channels, however, 
+can  be  complex  and  costly  for  businesses  that  rely  on  multiple  providers  in  each  local  market.  For  example, 
+customers  may  use  disparate  and  varied  systems  for  gateway  services,  payment  processing,  online  fraud 
+prevention,  business  intelligence  and  more,  creating  operational  distractions  and  workflow  challenges,  which 
+result  in  additional  costs  and  financial  inefficiencies.  In  parallel,  consumers  expect  a  consistent  and  frictionless 
+transaction  experience  across  all  channels  whether  from  a  mobile  device  or  computer.  As  a  result,  we  believe 
+businesses increasingly seek payment providers such as Nuvei who have a unified approach and can offer end-to-
+end solutions to help them navigate this complex environment.
+
+We  sell  and  distribute  our  solutions  globally  through  three  primary  channels:  direct  sales,  indirect  sales  for 
+SMBs and eCommerce integrated technology partners and platforms. Our approach to distribution is designed to 
+enable us to efficiently market our payments and technology solutions at scale and is customized by both region 
+and  vertical  to  optimize  sales.  By  relying  on  our  local  sales  teams  and  eCommerce  resellers  who  act  as  trusted 
+technology  providers  to  our  customers,  we  believe  we  are  able  to  serve  more  customers  globally  and  grow  with 
+them as they grow their businesses and expand into new markets. We focus on the needs of our customers and 
+how  we  can  help  them  grow  their  sales,  and  in  turn  our  volume,  with  them.  Due  to  the  scalable  nature  of  our 
+business model and the inherent operating leverage, increases in volume drive profitable revenue growth.
+
+Our  revenue  is  primarily  based  on  sales  volume  generated  from  our  customers’  daily  sales  and  through 
+various  transaction  and  subscription-based  fees  for  our  modular  technology.  Modular  technology  includes,  for 
+
+4
+
+example, gateway, global processing, APMs, currency management, global payouts, fraud risk management, card 
+issuing, open banking, data reporting, reconciliation tools, in addition to a long list of value-add capabilities. Our 
+revenue  is  largely  recurring  due  to  the  mission-critical  nature  of  our  product  and  service  offerings  and  deep 
+integration  of  our  payments  technology  into  our  customers’  enterprise  resource  planning  systems.  Additionally, 
+our model has delivered rapid growth in eCommerce revenue. We believe the depth and breadth of our payment 
+capabilities help our customers establish and expand their presence in emerging commerce channels across many 
+markets.  This  enables  us  to  develop  long-standing  relationships  with  our  customers,  which  in  turn  drive  strong 
+retention and significant cross-selling opportunities.
+
+Financial Highlights for the Three Months Ended December 31, 2022 Compared to 2021:
+
+•
+
+•
+
+Total volume(a) increased by 28% to $40.3 billion from $31.5 billion;
+
+◦
+
+◦
+
+eCommerce represented 91% of Total volume(a);
+Total  volume  growth  at  constant  currency(a)  was  33%  with  Total  volume  at  constant  currency(a) 
+increasing to $41.8 billion from $31.5 billion;
+Revenue increased 4% to $220.3 million from $211.9 million;
+
+◦
+
+◦
+
+Revenue was impacted unfavorably by changes in foreign currency exchange rates year-over-year 
+and by volatility in the digital assets and cryptocurrencies vertical;
+Revenue growth at constant currency(b) was 10% with Revenue at constant currency(b) increasing 
+to $232.5 million from $211.9 million;
+
+• Net income decreased by 24% to $9.4 million from $12.3 million;
+•
+
+Adjusted EBITDA(b) decreased by 6% to $85.7 million from $91.5 million;
+Adjusted net income(b) decreased by 4% to $68.0 million from $70.6 million;
+
+•
+• Net income per diluted share decreased to $0.06 from $0.07; 
+•
+
+Adjusted net income per diluted share(b) was unchanged at $0.47 ;
+Adjusted EBITDA less capital expenditures(b) decreased by 13% to $71.2 million from $81.8 million;	and,
+Share repurchases totaled 1,892,075 shares for total cash consideration of $57.5 million.
+
+•
+
+•
+
+Financial Highlights for the Year Ended December 31, 2022 Compared to 2021:
+
+•
+
+Total volume(a) increased by 34% to $127.7 billion from $95.6 billion;
+
+◦
+
+◦
+
+eCommerce represented 89% of Total volume(a);
+Total  volume  growth  at  constant  currency(a)  was  39%  with  Total  volume  at  constant  currency(a) 
+increasing to $132.7 billion from $95.6 billion;
+
+•
+
+Revenue increased 16% to $843.3 million from $724.5 million;
+
+◦
+
+◦
+
+Revenue was impacted unfavorably by changes in foreign currency exchange rates year-over-year 
+by $40.5 million;
+Revenue growth at constant currency(b) was 22% with Revenue at constant currency increasing to 
+$883.9 million from $724.5 million;
+
+• Net  income  decreased  by  42%  to  $62.0  million  from  $107.0  million,    primarily  due  to  a  $85.9  million 
+
+•
+
+increase in share-based payments;
+Adjusted EBITDA(b) increased by 11% to $351.3 million from $317.2 million;
+Adjusted net income(b) increased by 10% to $274.2 million from $248.6 million;
+
+•
+• Net income per diluted share decreased by 45% to $0.39 from $0.71;
+•
+
+•
+
+Adjusted net income per diluted share(b) increased by 10% to $1.86 from $1.69; 
+Adjusted EBITDA less capital expenditures(b) increased by 4% to $303.0 million from $290.1 million; and,
+• Cash  and  cash  equivalents  balance  of  $752  million  at  December  31,  2022  compared  to  $749  million  at 
+December  31,  2021.  Share  repurchases  totaled  3,660,743  shares  for  total  cash  consideration  of  $167 
+million. Nuvei used $616 million of its cash and cash equivalents subsequent to year-end to fund the Paya 
+acquisition.
+
+5
+
+(a) Total volume and Total volume at constant currency do not represent revenue earned by the Company, but rather the total dollar value of 
+transactions processed by merchants under contractual agreement with the Company. See "Non-IFRS and Other Financial Measures".
+(b) Revenue  at  constant  currency,  Revenue  growth  at  constant  currency,  Adjusted  EBITDA,  Adjusted  net  income,  Adjusted  net  income  per 
+diluted share and Adjusted EBITDA less capital expenditures are non-IFRS financial measures and non-IFRS ratios. These measures are 
+not recognized measures under IFRS and do not have standardized meanings prescribed by IFRS and therefore may not be comparable to 
+similar measures presented by other companies. See “Non-IFRS and Other Financial Measures”.
+
+Paya acquisition
+
+On February 22, 2023, Nuvei acquired all of the issued and outstanding common shares of Paya Holdings Inc 
+("Paya"), for a total cash consideration of approximately $1.3 billion, comprised of cash on hand and cash from 
+our  New  revolving  facility  (as  defined  below).  Paya  is  a  leading  provider  of  integrated  payment  and  commerce 
+solutions in the United States. This acquisition is expected to accelerate our integrated payment strategy, diversify 
+our  business  into  key  high-growth  non-cyclical  verticals  with  large  addressable  end  markets  and  enhance  the 
+execution of our growth plan. Paya has filed, with the Securities and Exchange Commission, its Annual Report on 
+Form 10-K for the year ended December 31, 2022 on February 21, 2023.
+
+Credit facilities
+
+On February 22, 2023, the Company entered into a new secured pari passu first lien reducing revolving credit 
+facility  ("New  revolving  facility")  of  $800  million.  Until  the  delivery  of  the  Company's  unaudited  interim 
+consolidated  financial  statements  for  the  quarter  ending  September  30,  2023,  borrowings  under  the  New 
+revolving  facility  bear  interest,  at  our  option,  at  either  (a)  Term  SOFR  (including  a  10  bps  credit  spread 
+adjustment) plus a margin of 300 bps or (b) an alternate base rate  plus a margin of 200 basis points. Thereafter, 
+borrowings under the New revolving facility will bear interest, at our option, at either (a) Term SOFR (including a 
+10  bps  credit  spread  adjustment)  plus  a  margin  ranging  from  250  basis  points  to  325  basis  points  or  (b)  an 
+alternate base rate plus a margin ranging from 150 to 225 basis points, in each case, based on a first lien leverage 
+ratio.  Commencing on June 30, 2023, the commitments in respect of the New revolving facility will automatically 
+be permanently reduced by $10 million on the last day of each fiscal quarter.  The maturity of  the New revolving 
+facility is September 28, 2025.
+
+Normal Course Issuer Bid
+
+On  March  7,  2022,  the  Board  approved  a  normal  course  issuer  bid  ("NCIB")  to  purchase  for  cancellation  a 
+maximum  of  6,617,416  Subordinate  Voting  Shares,  representing  approximately  10%  of  the  Company’s  
+Subordinate  Voting  Shares  as  at  February  28,  2022.  The  Company  is  authorized  to  make  purchases  under  the 
+NCIB  during  the  period  from  March  10,  2022  to  March  9,  2023  in  accordance  with  the  requirements  of  the 
+Toronto Stock Exchange ("TSX") and the Nasdaq Global Select Market ("Nasdaq") and applicable securities laws. 
+We also entered into an automatic securities purchase plan ("ASPP") with a securities broker in order to allow for 
+the  purchase  of  Subordinate  Voting  Shares  under  the  NCIB  during  the  Company's  blackout  periods.  Under  the 
+ASPP, the broker had the authorization to repurchase Subordinate Voting Shares, without consultation with the 
+Company,  subject  to  pre-defined  share  price  and  other  limitations  imposed  by  the  Company  and  subject  to  the 
+rules and policies of TSX and Nasdaq and applicable securities laws, such as a daily purchase restriction. During 
+the  twelve  months  ended  December  31,  2022,  the  Company  repurchased  and  cancelled  3,660,743  Subordinate 
+Voting Shares for a total consideration, including transaction costs, of $166.6 million.
+
+Impact of COVID-19 on our Operations
+
+In March 2020, the World Health Organization declared the COVID-19 outbreak a pandemic. The spread of 
+COVID-19 has caused us to modify our business practices to help minimize the risk of the virus to our employees, 
+our partners, our merchants and their customers, and the communities in which we participate. In response to the 
+COVID-19  pandemic,  we  adopted  a  “people-first”  approach,  prioritizing  the  health  and  safety  of  our  employees 
+and local communities and quickly enabled our employees to work remotely, implemented travel restrictions for 
+all  non-essential  business  and  shifted  company  events  to  virtual-only  experiences.  The  negative  impact  of  the 
+COVID-19 pandemic to date on our business and the results disclosed in our Consolidated Financial Statements 
+has been limited by our strong presence in eCommerce(a) (representing approximately 89% of  Total volume(a) for 
+the year ended December 31, 2022) which helped mitigate any negative impact of the pandemic on our operations. 
+
+6
+
+There  continues  to  be  uncertainty  regarding  the  overall  severity,  extent  and  duration  of  the  COVID-19 
+pandemic,  please  refer  to  the  section  entitled  “Risks  Relating  to  Our  Business  and  Industry  –  The  global 
+economic uncertainty and market volatility resulting from the COVID-19 pandemic and the measures taken in 
+response thereto, have adversely affected, and may continue to adversely affect our business and future results 
+of operations and financial condition, and this adverse effect could be material” of our AIF, for additional detail 
+on how COVID-19 may impact our future results.
+(a) See "Non-IFRS and Other Financial Measures".
+
+Non-IFRS and Other Financial Measures
+
+Our  Consolidated  Financial  Statements  have  been  prepared  in  accordance  with  IFRS  as  issued  by  the 
+International Accounting Standards Board. The information presented in this MD&A includes non-IFRS financial 
+measures,  non-IFRS  financial  ratios  and  supplementary  financial  measures,  namely  Revenue  at  constant 
+currency, Revenue growth at constant currency, Organic revenue at constant currency, Organic revenue growth at 
+constant  currency,  Adjusted  EBITDA,  Adjusted  net  income,  Adjusted  net  income  per  basic  share,  Adjusted  net 
+income  per  diluted  share,  Adjusted  EBITDA  less  capital  expenditures,  Total  volume,  Total  volume  at  constant 
+currency, Total organic volume at constant currency and eCommerce volume. These measures are not recognized 
+measures  under  IFRS  and  do  not  have  standardized  meanings  prescribed  by  IFRS  and  therefore  may  not  be 
+comparable to similar measures presented by other companies. Rather, these measures are provided as additional 
+information to complement IFRS measures by providing further understanding of our results of operations from 
+our perspective. Accordingly, these measures should not be considered in isolation nor as a substitute for analysis 
+of  the  Company’s  financial  statements  reported  under  IFRS.  These  measures  are  used  to  provide  investors  with 
+additional  insight  of  our  operating  performance  and  thus  highlight  trends  in  Nuvei’s  business  that  may  not 
+otherwise be apparent when relying solely on IFRS measures. We also believe that securities analysts, investors 
+and  other  interested  parties  frequently  use  these  non-IFRS  and  other  financial  measures  in  the  evaluation  of 
+issuers.  We  also  use  these  measures  in  order  to  facilitate  operating  performance  comparisons  from  period  to 
+period,  to  prepare  annual  operating  budgets  and  forecasts  and  to  determine  components  of  management 
+compensation.  We  believe  these  measures  are  important  additional  measures  of  our  performance,  primarily 
+because they and similar measures are used widely among others in the payment technology industry as a means 
+of evaluating a company’s underlying operating performance. 
+
+Non-IFRS Financial Measures
+
+Revenue at constant currency: Revenue at constant currency means revenue adjusted for the impact of 
+foreign  currency  exchange  fluctuations.  This  measure  helps  provide  insight  on  comparable  revenue  growth  by 
+removing  the  effect  of  changes  in  foreign  currency  exchange  rates  year-over-year.  Foreign  currency  exchange 
+impact  in  the  current  period  is  calculated  using  prior  period  quarterly  average  exchange  rates  applied  to  the 
+current period foreign currency amounts.
+
+Organic revenue at constant currency: Organic revenue at constant currency means revenue excluding 
+the revenue attributable to acquired businesses for a period of 12 months following their acquisition and excluding 
+revenue  attributable  to  divested  businesses,  adjusted  for  the  impact  of  foreign  currency  exchange  fluctuations. 
+Foreign  currency  exchange  impact  in  the  current  period  is  calculated  using  prior  period  quarterly  average 
+exchange  rates  applied  to  the  current  period  foreign  currency  amounts.  This  measure  helps  provide  insight  on 
+organic and acquisition-related growth and presents useful information about comparable revenue growth.
+
+Adjusted EBITDA: We use Adjusted EBITDA as a means to evaluate operating performance, by eliminating 
+the impact of non-operational or non-cash items. Adjusted EBITDA is defined as net income (loss) before finance 
+costs (recovery), finance income, depreciation and amortization, income tax expense, acquisition, integration and 
+severance  costs,  share-based  payments  and  related  payroll  taxes,  loss  (gain)  on  foreign  currency  exchange,  and 
+legal settlement and other. 
+
+Adjusted  EBITDA  less  capital  expenditures:  We  use  Adjusted  EBITDA  less  capital  expenditures 
+(acquisition  of  intangible  assets  and  property  and  equipment)  as  a  supplementary  indicator  of  our  operating 
+performance. In the third quarter of 2022, we retrospectively modified the label of this measure from "Free cash 
+flow" in order to more clearly reflect its composition.
+
+Adjusted  net  income:  We  use  Adjusted  net  income  as  an  indicator  of  business  performance  and 
+profitability with our current tax and capital structure. Adjusted net income is defined as net income (loss) before 
+
+7
+
+acquisition,  integration  and  severance  costs,  share-based  payments  and  related  payroll  taxes,  loss  (gain)  on 
+foreign  currency  exchange,  amortization  of  acquisition-related  intangible  assets,  and  the  related  income  tax 
+expense  or  recovery  for  these  items.  Adjusted  net  income  also  excludes  change  in  redemption  value  of  liability-
+classified  common  and  preferred  shares,  change  in  fair  value  of  share  repurchase  liability  and  accelerated 
+amortization of deferred transaction costs and legal settlement and other.
+
+Non-IFRS Financial Ratios
+
+Revenue growth at constant currency: Revenue growth at constant currency means the year-over-year 
+change in Revenue at constant currency divided by reported revenue in the prior period. We use Revenue growth 
+at  constant  currency  to  provide  better  comparability  of  revenue  trends  year-over-year,  without  the  impact  of 
+fluctuations in foreign currency exchange rates.
+
+Organic revenue growth at constant currency: Organic revenue growth at constant currency means the 
+year-over-year  change  in  Organic  revenue  at  constant  currency  divided  by  comparable  Organic  revenue  in  the 
+prior  period.  We  use  Organic  revenue  growth  at  constant  currency  to  provide  better  comparability  of  revenue 
+trends  year-over-year,  without  the  impact  of  acquisitions,  divestitures  and  fluctuations  in  foreign  currency 
+exchanges rates.
+
+Adjusted net income per basic share and per diluted share: We use Adjusted net income per basic 
+share and per diluted share as an indicator of performance and profitability of our business on a per share basis. 
+Adjusted  net  income  per  basic  share  and  per  diluted  share  means  Adjusted  net  income  less  net  income 
+attributable  to  non-controlling  interest  divided  by  the  basic  and  diluted  weighted  average  number  of  common 
+shares  outstanding  for  the  period.  The  number  of  share-based  awards  used  in  the  diluted  weighted  average 
+number  of  common  shares  outstanding  in  the  Adjusted  net  income  per  diluted  share  calculation  is  determined 
+using the treasury stock method as permitted under IFRS.
+
+8
+
+Supplementary Financial Measures
+
+We  monitor  the  following  key  performance  indicators  to  help  us  evaluate  our  business,  measure  our 
+performance, identify trends affecting our business, formulate business plans and make strategic decisions. Our 
+key  performance  indicators  may  be  calculated  in  a  manner  that  differs  from  similar  key  performance  indicators 
+used by other companies.
+
+Total volume and eCommerce volume: We believe Total volume and eCommerce volume are indicators 
+of performance of our business. Total volume and similar measures are used widely among others in the payments 
+industry as a means of evaluating a company’s performance. We define Total volume as the total dollar value of 
+transactions processed in the period by customers under contractual agreement with us. eCommerce volume is the 
+portion  of  Total  volume  for  which  the  transaction  did  not  occur  at  a  physical  location.  Total  volume  and 
+eCommerce volume do not represent revenue earned by us. Total volume includes acquiring volume, where we are 
+in  the  flow  of  funds  in  the  settlement  transaction  cycle,  gateway/technology  volume,  where  we  provide  our 
+gateway/technology services but are not in the flow of funds in the settlement transaction cycle, as well as the total 
+dollar value of transactions processed relating to APMs and payouts. Since our revenue is primarily sales volume 
+and  transaction-based,  generated  from  merchants’  daily  sales  and  through  various  fees  for  value-added  services 
+provided to our customers, fluctuations in Total volume will generally impact our revenue. 
+
+Total  volume  at  constant  currency:  Total  volume  at  constant  currency  is  used  as  an  indicator  of 
+performance  of  our  business  on  a  more  comparable  foreign  currency  exchange  basis.  Total  volume  at  constant 
+currency  means  Total  volume  adjusted  for  the  impact  of  foreign  currency  exchange  fluctuations.  This  measure 
+helps provide better comparability of business trends year-over-year, without the impact of fluctuations in foreign 
+currency exchange rates. Foreign currency exchange impact in the current period is calculated using prior period 
+quarterly average exchange rates applied to the current period foreign currency amounts.
+
+Total  organic  volume  at  constant  currency:  Total  organic  volume  at  constant  currency  is  used  as  an 
+indicator  of  performance  of  our  business  on  a  more  comparable  basis.  This  measure  helps  provide  insight  on 
+organic and acquisition-related growth and presents useful information about comparable Total volume growth. 
+Total  organic  volume  at  constant  currency  means  Total  volume  excluding  Total  volume  attributable  to  acquired 
+businesses  for  a  period  of  12  months  following  their  acquisition  and  excluding  Total  volume  attributable  to 
+divested businesses, adjusted for the impact of foreign currency exchange fluctuations. Foreign currency exchange 
+impact  in  the  current  period  is  calculated  using  prior  period  quarterly  average  exchange  rates  applied  to  the 
+current period foreign currency amounts.
+
+9
+
+Reconciliation  of  Adjusted  EBITDA  and  Adjusted  EBITDA  Less  Capital  Expenditures  to  Net 
+Income 
+
+The  following  table  reconciles  Adjusted  EBITDA  and  Adjusted  EBITDA  less  capital  expenditures  to  net 
+
+income for the periods indicated: 
+
+(In thousands of US dollars)
+
+Net income
+
+Finance cost
+
+Finance income
+
+Depreciation and amortization
+
+Income tax expense
+Acquisition, integration and severance costs(a)
+Share-based payments and related payroll taxes(b)
+Loss (gain) on foreign currency exchange
+Legal settlement and other(c)
+Adjusted EBITDA
+
+Acquisition of property and equipment, and intangible 
+
+assets
+
+Adjusted EBITDA less capital expenditures
+
+(a) These expenses relate to: 
+
+Three months ended
+December 31
+
+Years ended
+December 31
+
+2022
+
+$
+
+9,352 
+
+9,214 
+
+2021
+
+$
+
+12,339 
+
+5,001 
+
+2022
+
+$
+
+61,955 
+
+22,841 
+
+(7,267)   
+
+(550)   
+
+(13,694)   
+
+21,734 
+
+5,746 
+
+6,923 
+
+35,546 
+
+4,663 
+
+25,938 
+
+7,535 
+
+8,773 
+
+34,674 
+
+101,492 
+
+25,582 
+
+28,413 
+
+139,309 
+
+(2,486)   
+
+(15,752)   
+
+(226)   
+
+230 
+
+1,171 
+
+2021
+
+$
+
+107,045 
+
+16,879 
+
+(2,859) 
+
+90,828 
+
+24,916 
+
+25,831 
+
+54,919 
+
+(513) 
+
+188 
+
+85,685 
+
+91,454 
+
+351,317 
+
+317,234 
+
+(14,511)   
+
+71,174 
+
+(9,642)   
+
+(48,322)   
+
+(27,169) 
+
+81,812 
+
+302,995 
+
+290,065 
+
+(i) professional, legal, consulting, accounting and other fees and expenses related to our acquisition activities and financing activities. For 
+the  three  months  and  year  ended  December  31,  2022,  those  expenses  were  $6.9  million  and  $13.1  million  ($4.3  million  and  $14.7 
+million for the three months and year ended December 31, 2021). These costs are presented in the professional fees line item of selling, 
+general and administrative expenses. 
+
+(ii) acquisition-related compensation was nil and $14.3 million for the three months and year ended December 31, 2022 and $4.5 million 
+and $10.8 million for the three months and year ended December 31, 2021. These costs are presented in the employee compensation 
+line item of selling, general and administrative expenses. 
+
+(iii)change in deferred purchase consideration for previously acquired businesses.  No amount was recognized in the three months ended 
+December 31, 2022 and a gain of $1.0 million was recognized for the year ended December 31, 2022, and nil for 2021. These amounts 
+are presented in the contingent consideration adjustment line item of selling, general and administrative expenses.
+
+(iv) severance and integration expenses, which were nil and $2.0 million for the three months and year ended December 31, 2022 (nil and 
+$0.3  million  for  the  three  months  and  year  ended  December  31,  2021).  These  expenses  are  presented  in  selling,  general  and 
+administrative expenses. 
+
+(b) These expenses represent expenses recognized in connection with stock options and other awards issued under share-based plans as well 
+as related payroll taxes that are directly attributable to share-based payments. For the three months and year ended December 31, 2022, 
+the expenses consisted of non-cash share-based payments of $35.4 million and $139.1 million ($32.9 million and $53.2 million for three 
+months and year ended December 31, 2021), $0.1 million and $0.2 million for related payroll taxes ($1.7 million for the three months and 
+year ended December 31, 2021).
+
+(c) This line item primarily represents legal settlements and associated legal costs, as well as non-cash gains, losses and provisions and certain 
+
+other costs. These costs are presented in selling, general and administrative expenses.
+
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reconciliation  of  Revenue  at  Constant  Currency  and  Revenue  Growth  at  Constant  Currency  to 
+Revenue
+
+The  following  table  reconciles  Revenue  to  Revenue  at  constant  currency  and  Revenue  growth  at  constant 
+
+currency for the period indicated:
+
+Three months ended
+December 31, 2022
+
+Three months ended
+December 31, 2021
+
+(In thousands of US 
+dollars except for 
+percentages)
+
+Revenue as reported
+
+Foreign currency 
+exchange impact on 
+revenue
+
+Revenue at constant 
+currency
+
+$
+
+$
+
+$
+
+Revenue as reported
+
+$
+
+Revenue 
+growth
+
+Revenue 
+growth at 
+constant 
+currency
+
+Revenue
+
+220,339 
+
+12,201 
+
+232,540 
+
+211,875 
+
+ 4  %
+
+ 10  %
+
+Year ended
+December 31, 2022
+
+Year ended
+December 31, 2021
+
+(In thousands of US 
+dollars except for 
+percentages)
+
+Revenue as reported
+
+Foreign currency 
+exchange impact on 
+revenue
+
+Revenue at constant 
+currency
+
+$
+
+$
+
+$
+
+Revenue as reported
+
+$
+
+Revenue 
+growth
+
+Revenue 
+growth at 
+constant 
+currency
+
+Revenue
+
+843,323 
+
+40,533 
+
+883,856 
+
+724,526 
+
+ 16  %
+
+ 22  %
+
+Reconciliation  of  Organic  Revenue  at  Constant  Currency  and  Organic  Revenue  Growth  at 
+Constant Currency to Revenue
+
+The following table reconciles Revenue to Organic revenue at constant currency and Organic revenue growth 
+
+at constant currency for the period indicated:
+
+Three months ended
+December 31, 2022
+
+Three months ended
+December 31, 2021
+
+Revenue 
+from 
+acquisitions 
+(a)
+
+Revenue 
+from 
+divestitures
+
+Foreign 
+currency 
+exchange 
+impact on 
+organic 
+revenue
+
+Organic 
+revenue at 
+constant 
+currency
+
+Revenue as 
+reported
+
+Revenue 
+from 
+divestitures
+
+Comparable 
+organic 
+revenue
+
+Revenue 
+growth
+
+Organic 
+revenue 
+growth at 
+constant 
+currency
+
+$
+
+— 
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+— 
+
+12,201 
+
+  232,540 
+
+  211,875 
+
+— 
+
+  211,875 
+
+ 4  %
+
+ 10  %
+
+(In thousands of 
+US dollars 
+except for 
+percentages)
+
+Revenue as 
+reported
+
+$
+
+Revenue
+
+  220,339 
+
+Year ended
+December 31, 2022
+
+Year ended
+December 31, 2021
+
+(In thousands of 
+US dollars 
+except for 
+percentages)
+
+Revenue 
+from 
+acquisitions 
+(a)
+
+Revenue 
+from 
+divestitures
+
+Revenue as 
+reported
+
+Foreign 
+currency 
+exchange 
+impact on 
+organic 
+revenue
+
+Organic 
+revenue at 
+constant 
+currency
+
+Revenue as 
+reported
+
+Revenue 
+from 
+divestitures
+
+Comparable 
+organic 
+revenue
+
+Revenue 
+growth
+
+Organic 
+revenue 
+growth at 
+constant 
+currency
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+Revenue
+
+  843,323 
+
+  (37,608)   
+
+— 
+
+  38,913 
+
+  844,628 
+
+  724,526 
+
+— 
+
+  724,526 
+
+ 16  %
+
+ 17  %
+
+(a) We acquired Mazooma Technical Services Inc. ("Mazooma") on August 3, 2021, and SimplexCC Ltd. ("Simplex") and Paymentez LLC 
+("Paymentez") on September 1, 2021.
+
+11
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reconciliation of Adjusted Net Income and Adjusted Net Income per Basic Share and per Diluted 
+Share to Net Income
+
+The following table reconciles net income to Adjusted net income to  for the periods indicated: 
+
+(In thousands of US dollars except for share and per share 
+
+amounts)
+
+Net income
+Change in fair value of share repurchase liability 
+Amortization of acquisition-related intangible assets(a)
+Acquisition, integration and severance costs(b)
+Share-based payments and related payroll taxes(c)
+Loss (gain) on foreign currency exchange
+Legal settlement and other(d)
+Adjustments
+Income tax expense related to adjustments(e)
+Adjusted net income
+
+Three months ended
+December 31
+
+Years ended
+December 31
+
+2022
+
+$
+
+2021
+
+$
+
+2022
+
+$
+
+2021
+
+$
+
+9,352 
+
+12,339 
+
+61,955 
+
+107,045 
+
+— 
+
+14,957 
+
+6,923 
+
+35,546 
+
+4,663 
+
+— 
+
+22,828 
+
+8,773 
+
+34,674 
+
+(5,710)   
+
+83,861 
+
+28,413 
+
+139,309 
+
+(2,486)   
+
+(15,752)   
+
+— 
+
+78,979 
+
+25,831 
+
+54,919 
+
+(513) 
+
+188 
+
+(226)   
+
+61,863 
+
+230 
+
+64,019 
+
+1,171 
+
+231,292 
+
+159,404 
+
+(3,179)   
+
+(5,784)   
+
+(19,061)   
+
+(17,867) 
+
+68,036 
+
+70,574 
+
+274,186 
+
+248,582 
+
+Net income attributable to non-controlling interest
+
+(1,312)   
+
+(1,531)   
+
+(5,223)   
+
+(4,752) 
+
+Adjusted net income attributable to the common 
+shareholders of the Company
+
+66,724 
+
+69,043 
+
+268,963 
+
+243,830 
+
+Weighted average number of common shares outstanding
+
+Basic
+
+Diluted
+
+  140,633,277 
+
+  142,698,569 
+
+141,555,788 
+
+139,729,116 
+
+142,681,178 
+
+  147,640,841 
+
+  144,603,485 
+
+  144,441,502 
+
+Adjusted net income per share attributable to 
+common shareholders of the Company(f)
+Basic
+
+Diluted
+
+0.47 
+
+0.47 
+
+0.48 
+
+0.47 
+
+1.90 
+
+1.86 
+
+1.75 
+
+1.69 
+
+(a) This line item relates to amortization expense taken on intangible assets created from the purchase price adjustment process on acquired 
+
+companies and businesses and resulting from a change in control of the Company. 
+
+(b) These expenses relate to: 
+
+(i) professional, legal, consulting, accounting and other fees and expenses related to our acquisition activities and financing activities. For 
+the  three  months  and  year  ended  December  31,  2022,  those  expenses  were  $6.9  million  and  $13.1  million  ($4.3  million  and  $14.7 
+million for the three months and year ended December 31, 2021). These costs are presented in the professional fees line item of selling, 
+general and administrative expenses.  
+
+(ii) acquisition-related compensation was nil and $14.3 million for the three months and year ended December 31, 2022 and $4.5 million 
+and $10.8 million for the three months and year ended December 31, 2021. These costs are presented in the employee compensation 
+line item of selling, general and administrative expenses.    
+
+(iii)change in deferred purchase consideration for previously acquired businesses.  No amount was recognized in the three months ended 
+December 31, 2022 and a gain of $1.0 million were recognized for the year ended December 31, 2022, and nil for 2021. These amounts 
+are presented in the contingent consideration adjustment line item of selling, general and administrative expenses.
+
+(iv) severance and integration expenses, which were nil and $2.0 million for the three months and year ended December 31, 2022 (nil and 
+$0.3  million  for  the  three  months  and  year  ended  December  31,  2021).  These  expenses  are  presented  in  selling,  general  and 
+administrative expenses.  
+
+(c) These expenses represent expenses recognized in connection with stock options and other awards issued under share-based plans as well 
+as related payroll taxes that are directly attributable to share-based payments. For the three months and year ended December 31, 2022, 
+the expenses consisted of non-cash share-based payments of $35.4 million and $139.1 million ($32.9 million and $53.2 million for three 
+months and year ended December 31, 2021), $0.1 million and $0.2 million for related payroll taxes ($1.7 million for the three months and 
+year ended December 31, 2021).
+
+(d) This line item primarily represents legal settlements and associated legal costs, as well as non-cash gains, losses and provisions and certain 
+
+other costs. These costs are presented in selling, general and administrative expenses.
+
+(e) This line item reflects income tax expense on taxable adjustments using the tax rate of the applicable jurisdiction. 
+(f) The  number  of  share-based  awards  used  in  the  diluted  weighted  average  number  of  common  shares  outstanding  in  the  Adjusted  net 
+
+income per diluted share calculation is determined using the treasury stock method as permitted under IFRS. 
+
+12
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Summary of Factors Affecting Our Performance
+
+We  believe  that  the  growth  and  future  success  of  our  business  depends  on  many  factors,  including  those 
+described  below.  While  each  of  these  factors  presents  significant  opportunities  for  our  business,  they  also  pose 
+important challenges, some of which are discussed below as well as in the section entitled “Risks Relating to Our 
+Business and Industry” of our AIF, and in our other filings with the Canadian securities regulatory authorities and 
+the  U.S.  Securities  and  Exchange  Commission,  all  of  which  can  be  found  on  SEDAR  at  www.sedar.com  and  on 
+EDGAR at www.sec.gov.
+
+Growing with our Existing Customers. Our success is directly correlated with our customers’ success. 
+We  focus  on  the  high-growth  markets  within  omnichannel  payments  and  intend  to  grow  alongside  our  existing 
+customers  as  they  grow  their  business  and  expand  into  new  markets  within  selected  high-growth  end-markets, 
+including  online  retail,  online  marketplaces,  digital  goods  and  services,  regulated  online  gaming,  social  gaming, 
+financial services, government, utilities, healthcare, non-profit and travel. eCommerce represents the majority of 
+our  Total  volume  with  eCommerce  volume  accounting  for  89%  of  our  Total  volume  in  the  year  ended 
+December 31, 2022. Key characteristics of these verticals are inherent growth, longevity and propensity to operate 
+globally.
+
+In addition, our existing customers represent a significant opportunity for us to cross-sell and up-sell products 
+and  services  with  limited  incremental  sales  and  marketing  expenses.  As  our  customers  increase  their  business 
+volume,  we  can  offer  more  solutions  from  our  Native  Commerce  Platform.  Our  future  revenue  growth  and 
+achieving and maintaining profitability is dependent upon our ability to maintain existing customer relationships 
+and to continue to expand our customers’ use of our comprehensive suite of solutions.
+
+Acquiring New Customers. Our future revenue growth will also largely depend upon the effectiveness of 
+our  sales  and  marketing  efforts.  We  have  significant  sales  and  marketing  experience  in  capturing  and  serving 
+SMBs  and  third-party  partners  in  North  America  and  large  enterprises  in  Europe.  We  intend  to  leverage  this 
+experience and enable customer base expansion by targeting large enterprises in North America, with a focus in 
+the  eCommerce  channels.  Key  to  our  success  in  achieving  customer  base  expansion  is  continued  investment  in 
+marketing and in our direct sales team and further leveraging our broad and diversified network of partners.
+
+Expanding  in  Regions  Internationally.  We  plan  to  expand  and  deepen  our  footprint  in  geographies 
+where we have an emerging presence today, such as Asia Pacific, MEA and Latin America. Our expansion has also 
+been  driven  by  the  needs  of  our  customers.  For  each  new  country  where  we  seek  to  expand,  we  focus  on 
+understanding the needs of the local market and invest to develop relationships, while gaining an appreciation for 
+the  appropriate  local  regulatory  and  compliance  frameworks.  We  believe  this  will  help  our  growth  strategy  in 
+achieving global presence and connectivity across all targeted markets.
+
+Investing in our Technology and Product Portfolio. We believe our technology-first culture enables 
+us to enhance our offerings to remain at the forefront of payments innovation. Specifically, our Native Commerce 
+Platform  enables  us  to  deliver  comprehensive  payments  and  technology  solutions  to  power  a  convenient  and 
+secure  transaction  experience  for  our  customers  and  their  customers.  Further  investment  in  this  platform  is 
+necessary  to  expand  and  keep  our  portfolio  of  services  to  our  customers  technologically  current.  Close 
+collaboration with our customers through ongoing communication and feedback loops is also key, as it enables a 
+better design and delivery of solutions that meet their specific and evolving needs.
+
+Maintaining and Adding to our Acquiring Bank and Payment Network Relationships. We have 
+built  strong  relationships  with  acquiring  banks  and  the  payment  networks  globally.  The  maintenance  and/or 
+expansion of these relationships and strong collaboration on maintaining adequate procedures in monitoring the 
+risk profile of our customer base will be a key enabler in the pursuit of our growth strategies.
+
+Adding new use cases and verticals to our technology. We are adding new use cases and verticals to 
+our  technology  through  acquisitions.  For  example,  with  the  acquisition  of  Paya  we  are  now  bringing  our 
+technology and expertise to under-penetrated verticals such as healthcare, government and non-profit. By adding 
+these use cases to our existing offering, we are growing our total addressable market.
+
+Adapting to Regulatory Changes. The nature of our product and service offerings necessitates that we 
+adhere to strict regulatory regimes in the countries where we operate. Our operational teams are fully versed in 
+the varying regulatory requirements. As regulations change or as we enter new markets with different regulatory 
+requirements,  we  will  continue  to  upskill  and  modify,  our  compliance  capabilities  as  appropriate,  such  as  our 
+
+13
+
+customer  underwriting,  risk  management,  know  your  customer  and  anti-money  laundering  capabilities,  in  as 
+seamless as possible a manner to minimize disruption to our customers’ businesses.
+
+Selectively Pursuing and Successfully Executing Acquisitions. We have in the past augmented, and 
+intend in the future to augment, our capabilities and organic growth with strategic acquisitions. For example, in 
+the third quarter of 2021, we acquired Mazooma, Simplex and Paymentez. In addition, on February 22, 2023, we 
+acquired Paya. Critical to our success is continuing to be highly disciplined in integrating future acquisitions into 
+our Company in a manner that allows us to fulfill the potential that these acquisitions bring.
+
+Digital assets and cryptocurrencies. We generate a portion of our revenue from customers operating in 
+the  digital  assets  and  cryptocurrencies  industry.  Cryptocurrencies  have  historically  and  currently  exhibit 
+significant price volatility that have and could continue to adversely affect the operations of our customers in that 
+industry, and, in turn, our results of operations and profitability. As a result, the Company is exposed to volatility 
+in the cryptocurrency industry generally, including in sectors of the crypto industry that do not directly apply to 
+the  Company’s  payment  services  business  but  that  are  integral  to  the  cryptocurrency  industry  as  a  whole. 
+Cryptocurrency  market  prices  depend,  directly  or  indirectly,  on  the  prices  set  on  exchanges  and  other  trading 
+venues, which are new and, in most cases, largely unregulated as compared to established, regulated exchanges for 
+securities, derivatives and other currencies.
+
+Foreign  currency  exchange  rate  fluctuations.  Exchange  rate  fluctuations  may  negatively  affect  our 
+results of operations. Our presentation currency is the US dollar. We derive the largest portion of our revenues in 
+US dollars and the largest proportion of our expenses in US dollars. Foreign currency exchange rate fluctuations 
+have and may continue to negatively affect our revenue that is denominated in currency other than the US dollar. 
+To the extent that we have significant revenues denominated in foreign currencies, any strengthening of the US 
+dollars would reduce our revenues and any weakening of the US dollar would increase our revenues as measured 
+in US dollars. 
+
+Key Components of Results of Operations
+
+Revenue
+
+Merchant  Transaction  and  Processing  Services.  Revenues  from  our  merchant  transaction  and 
+processing  services  are  derived  primarily  from  eCommerce  payment  processing  services,  and  stems  from 
+relationships  with  individual  customers.  Additionally,  transaction  and  processing  services  revenues  stem  from 
+contracts  with  financial  service  providers  and  other  merchant  acquirers.  The  contracts  stipulate  the  types  of 
+services  and  set  forth  how  fees  will  be  incurred  and  calculated.  Merchant  transaction  and  processing  services 
+revenues are generated from processing electronic payment transactions for customers.
+
+Our  transaction  and  processing  services  revenues  are  primarily  comprised  of  (a)  fees  calculated  based  on  a 
+percentage  of  the  monetary  value  of  transactions  processed;  (b)  fees  calculated  based  on  the  number  of 
+transactions processed; (c) service fees; or (d) some combination thereof that are associated with transaction and 
+processing services.
+
+We present revenue net of the interchange fees charged by the card issuing financial institutions and the fees 
+charged by the payment networks when it is determined that we are acting as an agent and do not have the ability 
+to direct the use of and obtain substantially all of the benefits of these services.
+
+Other Revenue. We may sell hardware (“point-of-sale equipment”) as part of our contracts with customers. 
+Hardware consists of terminals or gateway devices. We do not manufacture hardware but purchase hardware from 
+third party vendors and hold the hardware in inventory until purchased by a customer.
+
+For more information on our revenue recognition policies, refer to Note 3 of the audited annual consolidated 
+
+financial statements for the year ended December 31, 2022.
+
+Cost of Revenue
+
+Processing Costs. Processing costs consist of fees paid to processing suppliers. When we are the primary 
+obligor providing payment processing services, we record processing fees paid to processing suppliers as a cost of 
+revenue. If we are not the primary obligor providing payment processing services, processing fees are netted from 
+the  revenue  recorded  for  such  transaction  and  we  do  not  record  separate  processing  fees  as  a  cost  of  revenue. 
+Processing costs also include losses resulting from our transaction guarantee solutions.
+
+14
+
+Costs  of  Goods  Sold.  Costs  of  goods  sold  consist  primarily  of  costs  associated  with  selling  point-of-sale 
+equipment,  such  as  the  cost  of  acquiring  the  equipment,  including  purchase  price,  expenses  associated  with  a 
+third-party fulfillment company, shipping, handling and inventory adjustments.
+
+Selling, General and Administrative Expenses
+
+Our  selling,  general  and  administrative  expenses  primarily  represent  the  amounts  associated  with  (i) 
+
+commissions, (ii) employee compensation, (iii) share-based payments, and (iv) depreciation and amortization.
+
+Commissions. Commissions are comprised of incentives paid to third party agents for referring customers.
+
+Employee Compensation. Employee compensation consists of salaries, incentives and benefits (excluding 
+share-based payments which is disclosed separately) earned by our employees. Employee compensation includes 
+costs related to the various functions of the Company, including technology, sales and marketing, operations, as 
+well as various business support functions.
+
+Share-Based  Payments.  Share-based  payments  consists  of  our  equity-settled  share-based  compensation 
+
+earned by our employees, directors and consultants.
+
+Depreciation.  Depreciation  consists  of  depreciation  of  property  and  equipment,  primarily  point-of-sale 
+equipment,  office  and  computer  equipment,  furniture  and  fixtures,  leasehold  improvements  and  right  of  use 
+assets over buildings. We calculate depreciation using the straight-line method over the useful life of the relevant 
+asset or over the remaining lease term, as applicable.
+
+Amortization.  Amortization  consists  primarily  of  amortization  of  intangible  assets,  which  consist  of 
+internally generated and externally purchased software that is used in providing processing services to customers. 
+It  also  includes  trademarks,  technologies,  distributor  commission  buyouts  and  partner  and  merchant 
+relationships  that  are  acquired  by  the  Company.  Distributor  commission  buyouts  represent  amounts  paid  to 
+independent sales organizations to buy out their rights to future residual commission payments. These intangible 
+assets are amortized on a straight-line basis over the course of the relevant asset’s useful life. 
+
+Selling,  general  and  administrative  expenses  also  consist  of  professional  fees,  transaction  losses,  contingent 
+
+consideration adjustments and other expenses. 
+
+We anticipate increases in general and administrative expenses as we invest in our business such as our sales 
+force  and  brand  awareness  as  well  as  incur  the  costs  of  compliance  associated  with  being  a  dual-listed  public 
+company, including increased accounting and legal expenses. Please refer to the section entitled “Risks Relating to 
+Regulation” of our AIF.
+
+Net Finance Costs
+
+Net finance costs primarily represent amounts associated with:
+
+Interest  on  Loans  and  Borrowings.  Interest  expense  consists  primarily  of  interest  incurred  on  term 
+loans  outstanding  under  the  credit  facilities.  We  anticipate  an  increase  on  interest  on  loans  and  borrowings  in 
+future  periods  as  a  result  of  the  entry  into  the  New  revolving  facility  in  connection  of  the  closing  with  the  Paya 
+acquisition in February 2023.
+
+Change in Fair Value of Share Repurchase Liability. During 2022, as a result of the automatic share 
+purchase plan ("ASPP"), the Company recognized a share repurchase liability. The share repurchase liability is a 
+financial  liability  accounted  for  at  fair  value  through  profit  or  loss,  and  as  such,  was  remeasured  at  fair  market 
+value  until  it  was  settled  or  upon  termination  of  the  agreement,  with  fair  value  changes  being  recognized  in 
+finance costs.
+
+Interest Income on Advances to Third Parties. Commencing in the year ended December 31, 2018, we 
+issued  advances  to  a  third-party  independent  sales  organization.  Under  the  agreements  with  the  third-party 
+independent sales organization, we acquired the rights to cash flows from a portfolio of merchant contracts. The 
+agreements  provide  for  minimum  guaranteed  payments  for  the  first  three  years.  After  the  first  three  years,  the 
+portfolio  of  merchants  is  fixed,  and  the  cash  flows  are  no  longer  guaranteed  at  which  point  the  receipts  flow 
+through the consolidated statement of profit or loss.
+
+Interest  Income.  Interest  income  consists  of  interest  received  on  cash  and  cash  equivalents  held  by  the 
+
+Company.
+
+15
+
+Loss (Gain) on Foreign Currency Exchange 
+
+Loss  (gain)  on  foreign  currency  exchange  results  from  monetary  items  that  are  held  by  the  Company  or  its 
+subsidiaries  in  a  currency  different  than  its  functional  currency.  These  items  are  translated  into  the  functional 
+currency using the exchange rates prevailing at the date of the transactions or when the items are re-measured at 
+the end of the reporting period. The resulting gains and losses subsequently being recognized are recorded in loss 
+(gain) on foreign currency exchange. 
+
+Income Tax Expense
+
+Income tax expense comprises current and deferred taxes. Current and deferred taxes are recognized in profit 
+or loss except to the extent that they relate to a business combination, or items recognized directly in equity or in 
+other comprehensive income (loss).
+
+16
+
+Results of Operations
+
+The following table outlines our consolidated profit or loss and comprehensive income or loss information for 
+
+the three months and years ended December 31, 2022 and 2021: 
+
+(In thousands of US dollars except for share and per share 
+amounts)
+
+Revenue
+
+Cost of revenue
+
+Gross profit
+
+Selling, general and administrative expenses
+
+Operating profit
+
+Finance income
+
+Finance cost
+
+Net finance cost
+
+Loss (gain) on foreign currency exchange
+
+Income before income tax
+
+Income tax expense
+
+Net income
+
+Other comprehensive income
+
+Foreign operations – foreign currency translation 
+differences
+
+Comprehensive income
+
+Net income attributable to:
+
+Common shareholders of the Company
+
+Non-controlling interest
+
+Three months ended
+December 31
+
+Years ended
+December 31
+
+2022
+
+$
+
+220,339 
+
+50,166 
+
+170,173 
+
+148,465 
+
+21,708 
+
+2021
+
+$
+
+211,875 
+
+49,115 
+
+162,760 
+
+140,921 
+
+21,839 
+
+2022
+
+$
+
+843,323 
+
+171,425 
+
+671,898 
+
+590,966 
+
+80,932 
+
+(7,267)   
+
+9,214 
+
+(550)   
+
+(13,694)   
+
+5,001 
+
+22,841 
+
+1,947 
+
+4,663 
+
+15,098 
+
+5,746 
+
+9,352 
+
+4,451 
+
+9,147 
+
+(2,486)   
+
+(15,752)   
+
+19,874 
+
+7,535 
+
+12,339 
+
+87,537 
+
+25,582 
+
+61,955 
+
+2021
+
+$
+
+724,526 
+
+147,755 
+
+576,771 
+
+431,303 
+
+145,468 
+
+(2,859) 
+
+16,879 
+
+14,020 
+
+(513) 
+
+131,961 
+
+24,916 
+
+107,045 
+
+33,196 
+
+42,548 
+
+(10,920)   
+
+(30,858)   
+
+1,419 
+
+31,097 
+
+(31,031) 
+
+76,014 
+
+8,040 
+
+1,312 
+
+9,352 
+
+10,808 
+
+1,531 
+
+12,339 
+
+56,732 
+
+5,223 
+
+61,955 
+
+102,293 
+
+4,752 
+
+107,045 
+
+Weighted average number of common shares 
+outstanding 
+
+Basic
+
+Diluted
+
+Net income per share attributable to common 
+shareholders of the Company
+
+Basic
+
+Diluted
+
+  140,633,277 
+
+  142,698,569 
+
+141,555,788 
+
+139,729,116 
+
+142,681,178 
+
+  147,640,841 
+
+  144,603,485 
+
+  144,441,502 
+
+0.06 
+
+0.06 
+
+0.08 
+
+0.07 
+
+0.40 
+
+0.39 
+
+0.73 
+
+0.71 
+
+17
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The following table summarizes our revenue by geography based on the billing location of the merchant for 
+
+the three months and years ended December 31, 2022 and 2021.
+
+(In thousands of US dollars, 
+except for percentages)
+
+Revenue
+
+Europe, Middle East and 
+Africa
+
+North America
+
+Latin America
+
+Asia Pacific
+
+Three months ended
+December 31
+
+2022
+
+$
+
+2021
+
+$
+
+Change
+
+$
+
+%
+
+Years ended
+December 31
+
+2022
+
+$
+
+2021
+
+$
+
+Change
+
+$
+
+115,896 
+
+89,393 
+
+12,181 
+
+2,869 
+
+127,856 
+
+76,229 
+
+6,404 
+
+1,386 
+
+220,339 
+
+211,875 
+
+(11,960) 
+
+13,164 
+
+5,777 
+
+1,483 
+
+8,464 
+
+ (9) 
+
+ 17 
+
+ 90 
+
+ 107 
+
+ 4 
+
+465,935 
+
+336,563 
+
+33,105 
+
+7,720 
+
+394,758 
+
+301,257 
+
+22,841 
+
+5,670 
+
+71,177 
+
+35,306 
+
+10,264 
+
+2,050 
+
+843,323 
+
+724,526 
+
+118,797 
+
+Results of Operations for the Three Months Ended December 31, 2022 and 2021
+
+Revenue
+
+(In thousands of US dollars, except for percentages)
+
+Three months ended 
+December 31
+
+2022
+
+$
+
+2021
+
+$
+
+Change
+
+$
+
+Revenue
+
+220,339 
+
+211,875 
+
+8,464 
+
+%
+
+ 18 
+
+ 12 
+
+ 45 
+
+ 36 
+
+ 16 
+
+%
+
+ 4 
+
+For the three months ended December 31, 2022, revenue increased by $8.5 million or 4% as compared to the 
+three  months  ended  December  31,  2021.  Revenue  was  in  the  range  of  our  financial  outlook  of  between  $197 
+million and $227 million. The increase in revenue reflected organic growth mainly driven by higher eCommerce 
+volume.  Revenue  was  impacted  unfavorably  by  changes  in  foreign  currency  exchange  rates  year-over-year  by 
+$12.2 million, as well as a decrease in year-over-year revenue from our digital assets and cryptocurrency verticals. 
+For  the  three  months  ended  December  31,  2022,  Organic  revenue  at  constant  currency  was  $232.5  million  and 
+Organic revenue growth at constant currency was 10%. See "Non-IFRS and Other Financial Measures".
+
+Total volume increased to $40.3 billion for the three months ended December 31, 2022 from $31.5 billion in 
+the three months ended December 31, 2021, an increase of $8.8 billion or 28%. Total volume was above the range 
+of our financial outlook of between $33 billion and $35 billion mostly driven by our organic eCommerce volume.  
+Total volume at constant currency was $41.8 billion, an increase of 33% over the same period. 
+
+Cost of Revenue
+
+(In thousands of US dollars, except for percentages)
+
+2022
+
+2021
+
+$
+
+Cost of revenue
+
+As a percentage of revenue
+
+$50,166
+
+ 22.8% 
+
+$49,115  
+
+1,051 
+
+ 23.2% 
+
+%
+
+ 2 
+
+Three months ended 
+December 31
+
+Change
+
+For the three months ended December 31, 2022, cost of revenue was stable compared to the three months 
+
+ended December 31, 2021.
+
+Cost of revenue as a percentage of revenue decreased from 23.2% for the three months ended December 31, 
+
+2021 to 22.8% for the three months ended December 31, 2022 mainly due to a more favorable revenue mix.
+
+18
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Selling, General and Administrative Expenses
+
+(In thousands of US dollars, except for percentages)
+
+Selling, general and administrative expenses
+
+Commissions
+
+Employee compensation
+
+Share-based payments
+
+Depreciation and amortization
+
+Professional fees
+
+Other
+
+Three months ended 
+December 31
+
+Change
+
+2022
+
+$
+
+27,652 
+
+36,703 
+
+35,437 
+
+21,734 
+
+12,537 
+
+14,402 
+
+2021
+
+$
+
+28,423 
+
+35,164 
+
+32,935 
+
+25,938 
+
+8,036 
+
+10,425 
+
+148,465 
+
+140,921 
+
+$
+
+%
+
+(771) 
+
+1,539 
+
+2,502 
+
+(4,204) 
+
+4,501 
+
+3,977 
+
+7,544 
+
+ (3) 
+
+ 4 
+
+ 8 
+
+ (16) 
+
+ 56 
+
+ 38 
+
+ 5 
+
+For  the  three  months  ended  December  31,  2022,  selling,  general  and  administrative  expenses  increased  by 
+
+$7.5 million or 5% as compared to the three months ended December 31, 2021 primarily due to the following:
+
+Commissions. During the three months ended December 31, 2022, commission expense decreased by $0.8 
+million or 3% as compared to the three months ended December 31, 2021. The decrease was primarily due to the  
+decrease in revenue subject to commission compared to the prior year.
+
+Employee  Compensation.  During  the  three  months  ended  December  31,  2022,  employee  compensation 
+increased  by  $1.5  million  or  4%  as  compared  to  the  three  months  ended  December  31,  2021.  The  employee 
+compensation  includes  costs  related  to  the  various  functions  of  the  Company,  including  technology,  sales  and 
+marketing,  human  resources,  and  administration.  The  increase  year-over-year  mainly  reflects  higher  headcount 
+from organic growth, including those in direct sales and account management to drive future growth and execute 
+on our strategy.
+
+Share-based Payments. For the three months ended December 31, 2022, share-based payments increased 
+by  $2.5  million  as  compared  to  the  three  months  ended  December  31,  2021.  The  increase  was  primarily  due  to 
+awards to employees and higher headcount year-over-year. Of the $35.4 million of the share-based payments for 
+the three months ended December 31, 2022, $11.7 million related to awards with an exercise price or share price 
+performance condition in excess of $100.00. As at December 31, 2022, unrecognized share-based payments were 
+approximately  $194.1  million  of  which  $71.5  million  related  to  awards  with  an  exercise  price  or  share  price 
+performance condition in excess of $100.00.
+
+Depreciation and Amortization. Depreciation of property and equipment expenses and amortization of 
+intangible assets for the three months ended December 31, 2022 decreased by $4.2 million or 16% as compared to 
+the three months ended December 31, 2021. The decrease was mainly due to intangible assets recognized in 2017 
+for  the  acquisition  of  Pivotal  Holdings  Ltd.  by  Nuvei  which  were  fully  amortized  in  the  three  months  ended 
+December 31, 2022. 
+
+Professional  Fees.  For  the  three  months  ended  December  31,  2022,  professional  fees  increased  by  $4.5  
+million  compared  to  the  three  months  ended  December  31,  2021.  The  increase  mainly  reflected  higher  fees  to 
+operate  as  a  dual-listed  public  company  since  our  Nasdaq  listing  in  the  fourth  quarter  of  2021  as  well  as  fees 
+related to our acquisition activities in 2022.
+
+Other. For the three months ended December 31, 2022, other expenses increased by $4.0 million compared 
+to  the  three  months  ended  December  31,  2021.    The  increase  was  mostly  due  to  higher  information  technology 
+expenses as well as higher marketing and travel costs. 
+
+19
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net Finance Cost
+
+(In thousands of US dollars, except for percentages)
+
+Finance income
+
+Three months ended 
+December 31
+
+2022
+
+$
+
+2021
+
+$
+
+Change
+
+$
+
+%
+
+Interest on advances to third parties and interest income  
+
+(7,267)   
+
+(550)   
+
+(6,717) 
+
+n.m.
+
+Finance cost
+
+Interest on loans and borrowings (excluding lease 
+
+liabilities)
+
+Other
+
+Net finance cost
+
+8,865 
+
+349 
+
+1,947 
+
+4,920 
+
+81 
+
+4,451 
+
+3,945 
+
+268 
+
+(2,504) 
+
+ 80 
+
+ 331 
+
+ (56) 
+
+During the three months ended December 31, 2022, net finance cost decreased by $2.5 million as compared to 
+
+the three months ended December 31, 2021. The decrease was primarily due to the following items:
+
+Interest on advances to third parties and interest income. The increase in finance income of $6.7 
+million  is  mainly  due  to  higher  interest  income  earned  on  the  Company's  cash  and  cash  equivalents  balance 
+during the three months ended December 31, 2022.
+
+Interest on Loans and Borrowings. The increase of $3.9 million was mainly due to a higher interest rate 
+
+environment in the three months ended December 31, 2022.
+
+Loss (Gain) on Foreign Currency Exchange
+
+(In thousands of US dollars, except for percentages)
+
+Loss (gain) on foreign currency exchange
+
+2022
+
+$
+
+4,663 
+
+2021
+
+$
+
+(2,486)   
+
+7,149 
+
+%
+
+n.m.
+
+Three months ended 
+December 31
+
+Change
+
+$
+
+Loss on foreign currency exchange for the three months ended December 31, 2022 was $4.7 million compared 
+to a gain of $2.5 million for the three months ended December 31, 2021. This was mainly due to currency exposure 
+related to U.S. denominated debt and cash and cash equivalents held in our Canadian subsidiary.
+
+Income Taxes
+
+(In thousands of US dollars, except for percentages)
+
+Income tax expense
+
+Effective tax rate
+
+Three months ended 
+December 31
+
+2022
+
+2021
+
+Change
+
+$
+
+$5,746 
+
+$7,535 
+
+(1,789) 
+
+ 38.1  %
+
+ 37.9  %
+
+%
+
+ (24) 
+
+20
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Income tax expense for the three months ended December 31, 2022 was $5.7 million on income before income 
+tax of $15.1 million, representing an effective tax rate of 38.1% for the period. The effective income tax rate was 
+higher than the Canadian parent's statutory income tax rate of 26.5% because it includes the unfavorable impact 
+of share-based payments of $35.4 million recognized in the three months ended December 31, 2022 that are non-
+deductible  in  most  jurisdictions,  partially  offset  by  the  favorable  impact  of  lower  income  tax  rates  in  other 
+jurisdictions. 
+
+Income tax expense for the three months ended December 31, 2021 was $7.5 million on income before income 
+tax  of  $19.9  million,  representing  an  effective  tax  rate  of  37.9%  for  the  period.  This  effective  tax  rate  above  the 
+statutory tax rate is mainly due to share-based payments of $32.9 million recognized in the three months ended 
+December 31, 2021 that are non-deductible for tax purposes in certain jurisdictions.
+
+Results of Operations for the Years Ended December 31, 2022 and 2021
+
+Revenue
+
+Years ended
+December 31
+
+2022
+
+2021
+
+Change
+
+(In thousands of US dollars, except for percentages)
+
+$
+
+$
+
+$
+
+Revenue
+
+843,323 
+
+724,526 
+
+118,797 
+
+%
+
+ 16 
+
+For the year ended December 31, 2022, revenue increased by $118.8 million or 16% as compared to the year 
+ended December 31, 2021. Revenue was in the range of our financial outlook of between $820 million and $850 
+million. The increase in revenue was primarily due to organic growth mainly driven by higher eCommerce volume. 
+Additional months of revenue from our three acquisitions completed in the third quarter of 2021 also contributed 
+$37.6  million  to  the  revenue  increase  year-over-year.  Revenue  for  the  year  ended  December  31,  2022  was 
+impacted unfavorably by changes in foreign currency exchange rates year-over-year by $40.5 million. For the year 
+ended  December  31,  2022,  Revenue  at  constant  currency  was  $883.9  million,  Revenue  growth  at  constant 
+currency  was  22%,  Organic  revenue  at  constant  currency  was  $844.6  million  and  Organic  revenue  growth  at 
+constant currency was 17%. See "Non-IFRS and Other Financial Measures". 
+
+Total volume increased from $95.6 billion for the year ended December 31, 2021 to $127.7 billion in the year 
+ended December 31, 2022, an increase of $32.1 billion or 34%. Total volume was above the range of our financial 
+outlook of between $120 billion and $122 billion mostly driven by our organic eCommerce volume. Total volume 
+at constant currency was $132.7 billion, an increase of 39% over the same period.
+
+Cost of Revenue
+
+Years ended
+December 31
+
+Change
+
+(In thousands of US dollars, except for percentages)
+
+2022
+
+2021
+
+$
+
+Cost of revenue
+
+As a percentage of revenue
+
+$171,425 
+
+$147,755 
+
+23,670 
+
+ 20.3% 
+
+ 20.4% 
+
+%
+
+ 16 
+
+For the year ended December 31, 2022, cost of revenue increased by $23.7 million or 16% as compared to the 
+
+year ended December 31, 2021 mainly due to an increase of $23.7 million in processing costs. 
+
+The increase in processing costs was mainly driven by organic growth in Total volume and, to a lesser extent, 
+
+the contribution from the three acquisitions completed in the third quarter of 2021.
+
+21
+
+ 
+ 
+ 
+ 
+ 
+ 
+Selling, General and Administrative Expenses
+
+(In thousands of US dollars, except for percentages)
+
+Selling, general and administrative expenses
+
+Commissions
+
+Depreciation and amortization
+
+Employee compensation
+
+Professional fees
+
+Share-based payments
+
+Other
+
+Years ended
+December 31
+
+2022
+
+$
+
+2021
+
+$
+
+Change
+
+$
+
+%
+
+113,287 
+
+101,492 
+
+155,359 
+
+32,387 
+
+139,103 
+
+49,338 
+
+125,531 
+
+90,828 
+
+109,798 
+
+24,532 
+
+53,180 
+
+27,434 
+
+(12,244) 
+
+10,664 
+
+45,561 
+
+7,855 
+
+85,923 
+
+21,904 
+
+590,966 
+
+431,303 
+
+159,663 
+
+ (10) 
+
+ 12 
+
+ 41 
+
+ 32 
+
+ 162 
+
+ 80 
+
+ 37 
+
+For  the  year  ended  December  31,  2022,  selling,  general  and  administrative  expenses  increased  by  $159.7 
+
+million or 37% as compared to the year ended December 31, 2021 primarily due to the following:
+
+Commissions. During the year ended December 31, 2022, commission expense decreased by $12.2 million 
+or  10%  as  compared  to  the  year  ended  December  31,  2021.  The  decrease  was  primarily  due  to  the  decrease  in 
+revenue subject to commission compared to the prior period.
+
+Depreciation and Amortization. Depreciation of property and equipment expenses and amortization of 
+intangible assets for the year ended December 31, 2022 increased by $10.7 million or 12% as compared to the year 
+ended  December  31,  2021.  The  increase  was  primarily  due  to  a  higher  amortization  of  technologies  as  well  as 
+partner  and  merchant  relationships  intangible  assets  related  to  the  three  acquisitions  completed  in  the  third 
+quarter of 2021.
+
+Employee Compensation. During the year ended December 31, 2022, employee compensation increased 
+by  $45.6  million  or  41%  as  compared  to  the  year  ended  December  31,  2021.  Employee  compensation  includes 
+costs  related  to  the  various  functions  of  the  Company,  including  technology,  sales  and  marketing,  human 
+resources,  and  administration.  The  increase  mainly  reflects  higher  headcount,  including  investments  in  direct 
+sales  and  account  management  to  drive  future  growth  and  execute  on  our  strategy.  The  inclusion  of  acquired 
+businesses  also  resulted  in  an  increase  in  headcount,    employee  compensation  and  acquisition-related 
+compensation.    In  the  third  quarter  2021,  and  as  part  of  the  acquisitions,  we  entered  into  compensation 
+arrangements for retention and future services which led to the recognition of $14.3 million of expenses for the 
+year ended December 31, 2022 compared to $10.8 million for the year ended December 31, 2021, an increase of 
+$3.5  million  mainly  reflecting  additional  months  of  services  under  such  arrangements.  All  arrangements  have 
+been fully expensed as of December 31, 2022.
+
+Professional  Fees.  For  the  year  ended  December  31,  2022,  professional  fees  increased  by  $7.9  million  or 
+32%  as  compared  to  the  year  ended  December  31,  2021.  The  increase  was  primarily  due  to  additional  costs 
+incurred to operate as a dual-listed public company due to our Nasdaq listing in the fourth quarter of 2021.
+
+Share-based Payments. For the year ended December 31, 2022, share-based payments increased by $85.9 
+million  as  compared  to  the  year  ended  December  31,  2021.  This  was  primarily  due  to  awards  to  employees, 
+including new employees from the 2021 acquisitions, higher headcount and additional months of expenses related 
+to special awards granted at the time of the Nasdaq listing in the fourth quarter of 2021. Of the $139.1 million of 
+the share-based payments for the year ended December 31, 2022, $57.2 million related to awards with an exercise 
+price or share price performance condition in excess of $100.00. 
+
+Other.  For  the  year  ended  December  31,  2022,  other  expenses  increased  by  $21.9  million  compared  to  the 
+year ended December 31, 2021. The increase is mostly due to higher information technology expenses as well as 
+higher marketing expenses and travel costs. 
+
+22
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net Finance Cost
+
+(In thousands of US dollars, except for percentages)
+
+Finance income
+
+Years ended
+December 31
+
+2022
+
+$
+
+2021
+
+$
+
+Change
+
+$
+
+Interest on advances to third parties and interest income  
+
+(13,694)   
+
+(2,859)   
+
+(10,835) 
+
+Finance cost (income)
+
+Interest on loans and borrowings (excluding lease 
+
+liabilities)
+
+Change in fair value of share repurchase liability
+
+Other
+
+Net finance cost
+
+26,186 
+
+(5,710)   
+
+2,365 
+
+9,147 
+
+16,380 
+
+— 
+
+499 
+
+14,020 
+
+9,806 
+
+(5,710) 
+
+1,866 
+
+(4,873) 
+
+%
+
+ 379 
+
+ 60 
+
+n.m.
+
+ 374 
+
+ (35) 
+
+During  the  year  ended  December  31,  2022,  net  finance  costs  decreased  by  $4.9  million  as  compared  to  the 
+
+year ended December 31, 2021. The decrease was primarily due to the following items:
+
+Interest on advances to third parties and interest income. The increase in finance income of $10.8 
+million is mainly due to an increase in interest income due to higher cash and cash equivalents in the year ended 
+December 31, 2022 compared to the year ended December 31, 2021, as well as the relatively higher interest rate 
+environment.
+
+Interest on Loans and Borrowings. The increase of $9.8 million was mainly due to higher debt balance 
+resulting  from  new  financing  related  to  the  2021  business  acquisitions,  as  well  as  a  higher  interest  rate 
+environment in the year ended December 31, 2022.
+
+Change  in  Fair  Value  of  Share  Repurchase  Liability.  The  remeasurement  gain  of  $5.7  million 
+associated with the share repurchase liability in the year ended December 31, 2022 is due to the decrease in share 
+price  between  the  ASPP  start  date  and  the  completion  of  the  share  repurchase  under  the  ASPP  in  May  2022, 
+which resulted in a lower fair value measurement of the financial liability.
+
+Loss (Gain) on Foreign Currency Exchange 
+
+(In thousands of US dollars, except for percentages)
+
+Years ended
+December 31
+
+2022
+
+$
+
+2021
+
+$
+
+Change
+
+$
+
+Gain on foreign currency exchange
+
+(15,752)   
+
+(513)   
+
+(15,239) 
+
+%
+
+n.m.
+
+Gain  on  foreign  currency  exchange  for  the  year  ended  December  31,  2022  was  $15.8  million  compared  to  a 
+gain of $0.5 million for the year ended December 31, 2021. This was mainly due to currency exposure related to 
+U.S. denominated debt and cash and cash equivalents held in our Canadian subsidiary.
+
+Income Taxes
+
+(In thousands of US dollars, except for percentages)
+
+Income tax expense
+
+Effective tax rate
+
+Years ended
+December 31
+
+2022
+
+$
+
+2021
+
+$
+
+25,582 
+
+24,916 
+
+ 29.2% 
+
+ 18.9% 
+
+Change
+
+$
+
+666 
+
+%
+
+ 3  %
+
+23
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Income tax expense for the year ended December 31, 2022 was $25.6 million on income before income tax of 
+$87.5 million, representing an effective tax rate of 29.2% for the period. The effective income tax rate was higher 
+than the Canadian parent's statutory income tax rate of 26.5% because it includes the unfavorable impact of share-
+based  payments  of  $139.1  million  recognized  in  the  year  ended  December  31,  2022  that  are  non-deductible  for 
+income  tax  purposes  in  most  jurisdictions,  partially  offset  by  the  favorable  impact  of  lower  income  tax  rates  in 
+other  jurisdictions,  a  non-taxable  gain  upon  the  remeasurement  of  a  share  repurchase  liability  and  non-taxable 
+foreign exchange gains.
+
+Income tax expense for the year ended December 31, 2021 was $24.9 million on income before income tax of 
+$132.0 million, representing an effective tax rate of 18.9% for the period. The effective income tax rate was lower 
+than the Canadian parent's statutory income tax rate of 26.5% primarily because it included the favorable impact 
+of  lower  income  tax  rates  in  other  jurisdictions  and  recognition  of  previously  unrecognized  deferred  income  tax 
+assets,  partially  offset  by  the  unfavorable  impact  of  non-deductible  share-based  payments  and  non-deductible 
+expenses.
+
+Selected Annual Information
+
+(In thousands of US dollars, except for per share amounts)
+
+Revenue
+
+Net income (loss)
+
+Net income (loss) per basic share attributable to common shareholders of the 
+Company
+
+Net income (loss) per diluted share attributable to common shareholders of the 
+Company
+
+Total assets
+
+Total non-current liabilities
+
+As at and for the years ended
+ December 31,
+
+2022
+
+$
+
+2021
+
+$
+
+2020
+
+$
+
+843,323
+
+724,526
+
+376,226
+
+61,955
+
+107,045
+
+(103,670)
+
+0.40
+
+0.39
+
+0.73
+
+0.71
+
+(1.08)
+
+(1.08)
+
+3,524,669
+
+3,455,470
+
+2,247,769
+
+566,240
+
+576,855
+
+264,490
+
+Year ended December 31, 2022 compared to Year ended December 31, 2021
+
+Revenue and net income
+
+See  “Management’s  Discussion  and  Analysis  of  Financial  Condition  and  Results  of  Operations  –  Results  of 
+Operations” for a more detailed discussion of the 2022-2021 year-over-year changes in revenue and net income 
+(loss).
+
+Total Assets
+
+Total assets increased by $69.2 million or 2% from December 31, 2021 to December 31, 2022. The increase 
+can be explained primarily by the increase of $102.8 million in segregated funds and trade receivables of $22.0 
+million,  which    was  mainly  driven  by  Total  volume  growth,  and  was  partially  offset  by  the  decrease  due  to  the 
+amortization of $93.0 million in intangible assets as well as a $20.5 million negative impact from the change in 
+foreign currency rate on  goodwill and intangible assets. 
+
+Segregated funds represent amounts held in segregated bank accounts, which are held on behalf of merchants 
+where the Company is in the flow of funds in the settlement transaction cycle. A corresponding liability (due to 
+merchants) is recognized for the amounts to be settled to merchants. The segregated bank accounts are held with 
+our banks and are segregated from operating funds. Both the segregated funds and the amounts due to merchants 
+are derecognized when the funds are settled to the merchant.
+
+24
+
+Total Non-Current Liabilities
+
+Total non-current liabilities decreased by $10.6 million or 2% from December 31, 2021 to December 31, 2022. 
+This  is  primarily  due  to  the  decrease  in  the  deferred  tax  liabilities  due  to  amortization  of  acquired  intangible 
+assets.
+
+Year ended December 31, 2021 compared to Year ended December 31, 2020
+
+Revenue and net income
+
+For the year ended December 31, 2021, revenue increased by $348.3 million or 93% as compared to the year 
+ended December 31, 2020. The increase was primarily due to organic growth mainly driven by higher eCommerce 
+volume as well as card present volume due to a more favorable operating environment in 2021 compared to 2020 
+where physical store activity was adversely impacted by the COVID-19 related lockdowns. Our 2021 acquisitions 
+and additional months of revenue from Smart2Pay also contributed $123.7 million to the revenue increase year-
+over-year.
+
+Total volume increased from $43.2 billion in the year ended December 31, 2020 to $95.6 billion in the year 
+ended  December  31,  2021,  an  increase  of  $52.4  billion  or  121%.  The  increase  was  primarily  due  to  growth  in 
+eCommerce volume as well as growth in card present volume due to a more favorable operating environment in 
+2021 where physical store activity was adversely impacted by the COVID-19 related lockdowns.
+
+For the year ended December 31, 2021, net income increased by $210.7 million mainly driven by the increase 
+in gross profit of $269.8 million driven by revenue growth, and the reduction in finance cost of $142.2 million due 
+to the repayment loans and borrowings in 2020 in connection with our TSX listing. This was partially offset by the 
+increase  in  our  selling,  general  and  administrative  expenses  mainly  driven  by  organic  growth  as  well  as 
+acquisitions.
+
+Total Assets
+
+Total  assets  increased  by  $1,207.7  million  or  54%  from  December  31,  2020  to  December  31,  2021.  The 
+increase  can  be  explained  primarily  by  the  increase  of  $567.9  million  in  cash  stemming  from  proceeds  of  the 
+Nasdaq listing and cash flow from operating activities. The increase of $277.5 million in segregated funds, which  
+was  mainly  driven  by  Total  volume  growth  and  2021  acquisitions,  as  well  as  the  increase  of  $156.9  million  in 
+goodwill and intangible assets mainly due to the 2021 acquisitions, also contributed to the increase in total assets.
+
+Total Non-Current Liabilities
+
+ Total non-current liabilities increased by $312.4 million or 118% from December 31, 2020 to December 31, 
+2021.  This  is  primarily  due  to  the  borrowing  of  $300  million  under  the  amended  term  loan  facility  to  fund  a 
+portion of the Mazooma, Simplex and Paymentez acquisitions in the third quarter of 2021.  
+
+25
+
+Summary of Quarterly Results and Trend Analysis
+
+(In thousands of US dollars 
+except for per share amounts)
+
+Revenue
+
+Cost of revenue
+
+Gross profit
+
+Selling, general and 
+
+administrative expenses
+
+Operating profit
+
+Three months ended
+
+Dec. 31,
+
+Sep. 30,
+
+Jun. 30,
+
+Mar. 31,
+
+Dec. 31,
+
+Sep. 30,
+
+Jun. 30,
+
+Mar. 31,
+
+2022
+
+$
+
+220,339 
+
+50,166 
+
+170,173 
+
+2022
+
+$
+
+197,146 
+
+38,363 
+
+158,783 
+
+2022
+
+$
+
+211,294 
+
+35,980 
+
+175,314 
+
+2022
+
+$
+
+214,544 
+
+46,916 
+
+167,628 
+
+2021
+
+$
+
+211,875 
+
+49,115 
+
+162,760 
+
+2021
+
+$
+
+183,932 
+
+38,332 
+
+145,600 
+
+2021
+
+$
+
+178,239 
+
+33,124 
+
+145,115 
+
+2021
+
+$
+
+150,480 
+
+27,184 
+
+123,296 
+
+148,465 
+
+21,708 
+
+149,184 
+
+9,599 
+
+146,505 
+
+28,809 
+
+146,812 
+
+20,816 
+
+140,921 
+
+21,839 
+
+106,076 
+
+39,524 
+
+95,870 
+
+49,245 
+
+88,436 
+
+34,860 
+
+Finance income
+
+(7,267)   
+
+(4,131)   
+
+9,214 
+
+1,947 
+
+7,859 
+
+3,728 
+
+(1,665)   
+
+(1,973)   
+
+(3,638)   
+
+(631)   
+
+(550)   
+
+(538)   
+
+(912)   
+
+7,741 
+
+7,110 
+
+5,001 
+
+4,451 
+
+5,131 
+
+4,593 
+
+3,432 
+
+2,520 
+
+(859) 
+
+3,315 
+
+2,456 
+
+Finance cost (recovery)
+
+Net finance cost (income)
+
+Loss (gain) on foreign currency 
+
+exchange
+
+4,663 
+
+(12,528)   
+
+(8,467)   
+
+580 
+
+(2,486)   
+
+727 
+
+1,691 
+
+(445) 
+
+Income before income tax
+
+Income tax expense
+
+Net income
+
+15,098 
+
+5,746 
+
+9,352 
+
+18,399 
+
+5,393 
+
+40,914 
+
+5,831 
+
+13,006 
+
+35,083 
+
+13,126 
+
+8,612 
+
+4,514 
+
+19,874 
+
+7,535 
+
+34,204 
+
+6,202 
+
+12,339 
+
+28,002 
+
+45,034 
+
+6,120 
+
+38,914 
+
+32,849 
+
+5,059 
+
+27,790 
+
+Net income per share attributable to common 
+
+shareholders of the Company
+
+Basic
+
+Diluted
+
+Adjusted EBITDA(a)
+Adjusted net income(a)
+
+0.06 
+
+0.06 
+
+85,685 
+
+68,036 
+
+0.08 
+
+0.08 
+
+81,201 
+
+62,435 
+
+0.24 
+
+0.23 
+
+92,853 
+
+74,659 
+
+0.02 
+
+0.02 
+
+91,578 
+
+69,056 
+
+0.08 
+
+0.07 
+
+91,454 
+
+70,574 
+
+0.19 
+
+0.19 
+
+80,943 
+
+62,341 
+
+0.27 
+
+0.26 
+
+79,375 
+
+64,506 
+
+0.19 
+
+0.19 
+
+65,462 
+
+51,161 
+
+Adjusted net income per share attributable to common 
+
+shareholders of the Company(a)
+
+Basic
+
+Diluted
+
+0.47 
+
+0.47 
+
+0.43 
+
+0.43 
+
+0.52 
+
+0.51 
+
+0.47 
+
+0.46 
+
+0.48 
+
+0.47 
+
+0.44 
+
+0.42 
+
+0.46 
+
+0.44 
+
+0.36 
+
+0.35 
+
+(a) These amounts are non-IFRS measures. See “Non-IFRS and Other Financial Measures” section. 
+
+Quarterly Trend Analysis
+
+The quarterly increase in revenue and cost of revenue was primarily due to Total volume organic growth as 
+
+well as from our acquisitions in the third quarter of 2021. 
+
+The  quarterly  increase  in  selling,  general  and  administrative  expenses  is  primarily  due  to  organic  growth, 
+
+acquisitions, as well as higher share-based payments.
+
+The  decrease  in  operating  profit  in  the  three  months  ended  December  31,  2021  and  following  quarters  was 
+mainly driven by the increase in share-based compensation expense, primarily due to awards to employees who 
+joined  the  Company  relating  to  acquisitions  completed  during  the  year  and  other  employee  grants,  as  well  as 
+higher  acquisition  and  integration  costs  resulting  from  the  completion  of  three  acquisitions  during  the  third 
+quarter of 2021. Higher expenses were partially offset by the increase in gross profit during the same period.
+
+Quarterly net income in 2022 was impacted by the increased volatility in the foreign currency exchange rate 
+compared  with  2021.  The  revenue  in  the  three  months  and  year  ended  December  31,  2022  were  impacted 
+unfavorably  by  changes  in  foreign  currency  exchange  rates  year-over-year  by  $12.2  million  and  $40.5  million 
+respectively.
+
+26
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Liquidity and Capital Resources
+
+Overview
+
+Our financial condition and liquidity are and will continue to be influenced by a variety of factors, including:
+
+• Our ability to generate cash flows from our operations;
+•
+
+The level of our outstanding indebtedness and the interest we are obligated to pay on this indebtedness; 
+and
+
+• Our capital expenditure requirements.
+
+The  general  objectives  of  our  capital  management  strategy  are  to  ensure  sufficient  liquidity  to  pursue  our 
+organic  growth  strategy  and  undertake  selective  acquisitions,  while  maintaining  a  strong  credit  profile  and  a 
+capital structure that maintains total leverage ratio within the limits set in the credit facilities.
+
+Our  primary  source  of  liquidity  is  cash  from  operations,  debt  and  equity  financing.  Our  principal  liquidity 
+needs include investment in our selective acquisitions and product and technology, as well as operations, selling 
+and general and administrative expenses and debt service. 
+
+Our capital is composed of net debt and shareholders’ equity. Net debt consists of interest-bearing debt less 
+cash and cash equivalents. Our use of capital is to finance business acquisitions, working capital requirements and 
+capital expenditures. 
+We fund those requirements out of our internally generated cash flows and funds drawn from our long-term credit 
+facilities or via equity financings.
+
+The primary measure we use to monitor our financial leverage is our total leverage ratio, defined as the ratio 
+of consolidated net debt outstanding, calculated as long-term debt less unrestricted cash, to consolidated adjusted 
+EBITDA, calculated in accordance with the terms of the credit agreement for our credit facility. Under our credit 
+facility, we must maintain a total leverage ratio of less than or equal to 7.00 : 1.00 for the current period, with the 
+ratio  decreasing  year  over  year  every  October  1st,  until  it  reaches  6.50  :  1.00  for  the  period  after  September  30, 
+2023. As at December 31, 2022, the Company was in compliance with this requirement. 
+
+We  believe  that  the  Company's  available  cash  and  cash  equivalents,  cash  flows  generated  from  operations, 
+loans and borrowings will be sufficient to meet our projected operating and capital expenditure requirements for 
+at least the next 12 months.
+
+Credit Facilities 
+
+Our credit facility is comprised of term loan facilities of $504.3 million. Outstanding principal of the term loan 
+is  payable  quarterly  at  an  annual  rate  of  1.00%  and  the  remaining  balance  will  be  payable  at  maturity  on 
+September 28, 2025. The Company also has an unused revolving credit facility of $385 million as of December 31, 
+2022. The maturity of the revolving facility is September 8, 2024.
+
+On  February  22,  2023,  the  Company  entered  into  a  New  revolving  facility  in  an  amount  of  $800  million.  
+Until the delivery of the Company's financial statements for the quarter ending September 30, 2023, borrowings 
+under the New revolving facility bear interest, at our option, at either (a) Term SOFR (including a 10 bps credit 
+spread  adjustment)  plus  a  margin  of  300  bps  or  (b)  an  alternate  base  rate    plus  a  margin  of  200  basis  points. 
+Thereafter, borrowings under the New revolving facility will bear interest, at our options, at either (a) Term SOFR 
+(including a 10 bps credit spread adjustment) plus a margin ranging from 250 basis points to 325 basis points or 
+(b) an alternate base rate plus a margin ranging from 150 to 225 basis points, in each case, based on a first lien 
+leverage  ratio.    Commencing  on  June  30,  2023,  the  commitments  in  respect  of  the  New  revolving  facility  will 
+automatically be permanently reduced by $10 million on the last day of each fiscal quarter.  The maturity of  the 
+New revolving facility is September 28, 2025. The New revolving facility was fully drawn on February 22, 2023 as 
+part of the consideration paid for the Paya acquisition.
+
+As  at  December  31,  2022,  we  had  letters  of  credit  issued  totaling  $46.1  million  ($46.1  million  as  at 
+
+December 31, 2021).
+
+For  more  information  on  the  Company's  loans  and  borrowings,  refer  to  Note  12  of  the  audited  annual 
+
+consolidated financial statements for the year ended December 31, 2022.
+
+27
+
+Nasdaq Listing
+
+On October 8, 2021, we completed our Nasdaq listing for aggregate gross proceeds of approximately $424.8 
+
+million.
+
+The net proceeds of $408.2 million received as part of our Nasdaq listing remain available as of December 31, 
+2022. On February 22, 2023, the Company used all of the net proceeds received as part of our Nasdaq listing as 
+part of the consideration paid for the Paya acquisition. This is consistent with our stated use of the net proceeds  
+from  our  Nasdaq  listing,  which  included  growth  initiatives  such  as  acquisitions  or  strategic  investments  in  
+complementary businesses, services, products or technologies.
+
+Cash Flows
+
+(In thousands of US dollars, except for percentages)
+
+Cash flow from (used in):
+
+Operating Activities
+
+Investing Activities
+
+Financing Activities
+
+Years ended
+December 31
+
+2022
+
+$
+
+2021
+
+$
+
+Change 
+
+$
+
+%
+
+267,663 
+
+266,857 
+
+806 
+
+(50,235)   
+
+(395,108)   
+
+344,873 
+
+(214,298)   
+
+706,075 
+
+(920,373) 
+
+ — 
+
+ (87) 
+
+n.m.
+
+ (100) 
+
+ (99) 
+
+ 314 
+
+ — 
+
+Effect of movements in exchange rates on cash
+
+(20)   
+
+(9,970)   
+
+9,950 
+
+Net increase in cash and cash equivalent
+
+Cash and cash equivalent – beginning of year
+
+Cash and cash equivalent - end of year
+
+3,110 
+
+748,576 
+
+751,686 
+
+567,854 
+
+180,722 
+
+748,576 
+
+(564,744) 
+
+567,854 
+
+3,110 
+
+Cash Flows From Operating Activities
+
+For  the  year  ended  December  31,  2022,  $267.7  million  of  cash  was  generated  from  operating  activities 
+compared to $266.9 million for the year ended December 31, 2021. The increase driven by our business growth  
+was partially offset by higher working capital in the year ended December 31, 2022 compared to 2021.
+
+Cash Flows Used in Investing Activities
+
+For the year ended  December  31, 2022, $50.2 million of cash  was used in investing activities. This resulted 
+primarily  from  the  acquisition  of  intangible  assets  and  fixed  assets.  For  the  year  ended  December  31,  2021, 
+$395.1  million  of  cash  was  used  in  investing  activities,  mainly  due  to  the  cash  consideration  paid  for  the 
+acquisition of Base Commerce, Mazooma, Simplex and Paymentez of $387.7 million, net of cash acquired. 
+
+Cash Flows From (Used in) Financing Activities
+
+For  the  year  ended  December  31,  2022,  $214.3  million  of  cash  was  used  in  financing  activities  mainly 
+reflecting  the  amount  of  $166.6  million  used  to  repurchase  and  cancel  approximately  3.7  million  Subordinate 
+Voting Shares under the NCIB. This also resulted from the purchase of the LPP non-controlling interest of 40% for 
+a  cash  consideration  of  $39.8  million.  For  the  year  ended  December  31,  2021,  $706.1  million  of  cash  was 
+generated from financing activities mainly reflecting proceeds from loans and borrowings and our Nasdaq listing. 
+
+28
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contractual Obligations and Commitments
+
+We have contractual obligations and commitments with a variety of expiration dates. The table below outlines 
+
+our contractual obligations and commitments, including estimated interest payments, at December 31, 2022:
+
+(In thousands of US dollars)
+Trade and other payables (excluding sales 
+
+tax)
+
+Due to merchants
+Credit facilities
+Lease liabilities
+Other liabilities
+
+Segregated funds
+
+Contractual cash flows
+
+Total
+$
+
+Less than 1 
+year
+$
+
+1 to 5 years
+$
+
+More than 5 
+years
+$
+
+117,526
+823,666
+595,425
+14,133
+5,731
+1,556,481
+(823,666)
+732,815
+
+117,526
+823,666
+38,182
+4,109
+3,851
+987,334
+(823,666)
+163,668
+
+—
+—
+557,243
+7,743
+1,880
+566,866
+—
+566,866
+
+—
+—
+—
+2,281
+—
+2,281
+—
+2,281
+
+Off-Balance Sheet Arrangements
+
+We  have  no  off-balance  sheet  arrangements  that  have,  or  are  reasonably  likely  to  have,  a  current  or  future 
+material  effect  on  our  consolidated  financial  condition,  results  of  operations,  liquidity,  capital  expenditures,  or 
+capital resources. We may, from time to time, be contingently liable with respect to litigation and claims that arise 
+in the normal course of operations.
+
+Related Party Transactions and Executive Compensation
+
+We  have  no  related  party  transactions  other  than  those  presented  in  Note  22  in  the  Consolidated  Financial 
+Statements, which are reproduced as follows.
+
+Transactions with Key Management Personnel
+
+Key management personnel compensation comprises the following:
+
+(In thousands of US dollars)
+
+Salaries and short-term employee benefits
+Share-based payments
+
+Three months ended
+December 31
+2021
+$
+
+2022
+$
+
+Years ended
+December 31
+2021
+$
+
+2022
+$
+
+1,945   
+18,003   
+19,948   
+
+1,854   
+15,442   
+17,296   
+
+6,007   
+71,286   
+77,293   
+
+5,861 
+23,895 
+29,756 
+
+29
+
+ 
+ 
+ 
+Other Related Party Transactions
+
+(In thousands of US dollars)
+
+Expenses – Travel
+
+(i)
+
+Three months ended
+December 31
+2021
+$
+
+2022
+$
+
+Years ended
+December 31
+2021
+$
+
+2022
+$
+
+298   
+
+298   
+
+34   
+
+34   
+
+1,139   
+
+1,139   
+
+305 
+
+305 
+
+(i) In  the  normal  course  of  operations,  we  receive  services  from  a  company  owned  by  a  shareholder  of  the 
+
+Company. The services received consist of travel services.
+
+Financial Instruments and Other Instruments
+
+In the ordinary course of its business activities, we are exposed to various market risks that are beyond our 
+control, including fluctuations in foreign exchange rates and interest rates, and that may have an adverse effect on 
+the value of Nuvei's financial assets and liabilities, future cash flows and profit. Our policy with respect to these 
+market risks is to assess the potential of experiencing losses and the consolidated impact thereof, and to mitigate 
+these market risks as is deemed appropriate. (Please refer to the “Risks Relating to Our Business and Industry” 
+section of the AIF.)
+
+Credit and Concentration Risk
+
+Credit risk is the risk of financial loss to the Company if a customer or counterparty to a financial instrument 
+fails  to  meet  its  contractual  obligations.  Credit  risk  arises  principally  from  our  cash  and  cash  equivalents,  trade 
+and other receivables, advances to third parties, segregated funds and processor deposits. The carrying amounts of 
+these financial assets represent the maximum credit exposure.
+
+Cash and Processor Deposits
+
+The credit risk associated with cash and cash equivalents, segregated funds and processor deposits is limited 
+
+because they are maintained only with highly rated large financial institutions.
+
+Trade and Other Receivables
+
+We provide credit to our customers in the normal course of business. We evaluate the creditworthiness of the 
+corresponding counterparties at least at the end of each reporting period and on a specific circumstance basis. Our 
+extension of credit to customers involves considerable judgment and is based on an evaluation of each customer’s 
+financial condition and payment history. We have established various internal controls designed to mitigate credit 
+risk,  including  credit  limits  and  payment  terms  that  are  reviewed  and  approved  by  the  Company.  Any  impaired 
+trade receivables are mostly due from customers that are experiencing financial difficulties.
+
+There is a concentration of credit risk as of December 31, 2022, with respect to our receivables from our main 
+
+processor, which represented approximately 26% (December 31, 2021 – 37%) of trade and other receivables. 
+
+Advances to Third Parties
+
+The  credit  risk  associated  with  the  advances  to  third  parties  is  limited  because  the  advances  are  repaid  by 
+
+financial institutions when we become entitled to payment under the agreements.
+
+Foreign Currency Risk
+
+We  are  exposed  to  the  financial  risk  related  to  the  fluctuation  of  foreign  exchange  rates  and  the  degrees  of 
+volatility of those rates. Foreign currency risk is limited to the portion of our business transactions denominated 
+in  currencies  other  than  the  U.S.  dollar.  Fluctuations  related  to  foreign  exchange  rates  could  cause  unforeseen 
+fluctuations in our operating results. We do not currently enter into arrangements to hedge foreign currency risk.
+
+Approximately 56% of the Company’s revenues and approximately 37% of its expenses are in currencies other 
+than the US dollar. The Company does not enter into arrangements to hedge its foreign currency risk. There is no 
+other currency other than the US dollar that represents more than 10% of the Company's revenues.
+
+30
+
+ 
+ 
+The following table provides an indication of our significant foreign exchange currency exposures as stated in 
+
+US dollars as at December 31, 2022:
+
+(In thousands of US dollars)
+
+Cash
+Trade and other receivables
+Trade and other payables
+Lease liabilities
+Net financial position exposure
+
+CAD
+$
+1,735
+16,035
+(18,560)
+—
+(790)
+
+EUR
+$
+43,691
+3,759
+(27,141)
+(1,589)
+18,720
+
+GBP
+$
+6,267
+1,659
+(2,973)
+(941)
+4,012
+
+ILS
+$
+1,482
+804
+(12,529)
+(2,389)
+(12,632)
+
+Other
+$
+18,313
+10,270
+(18,323)
+(1,803)
+8,457
+
+Total
+$
+71,488
+32,527
+(79,526)
+(6,722)
+17,767
+
+A 10% strengthening of the above currencies against the US dollar would have affected the measurement of 
+financial instruments denominated in these currencies and affected equity and net income by the amounts shown 
+below. This analysis assumes that all other variables, in particular interest rates, remain constant and ignores any 
+impact of forecast sales and purchases. A 10% weakening of the foreign currencies against the U.S. dollar would 
+have an equal but opposite effect. 
+
+(In thousands of US dollars)
+
+Increase (decrease) on equity and 
+net income
+
+Interest Rate Risk
+
+CAD
+$
+
+EUR
+$
+
+GBP
+$
+
+ILS
+$
+
+Other
+$
+
+Total
+$
+
+(79)
+
+1,872
+
+401
+
+(1,263)
+
+846
+
+1,777
+
+Interest  rate  risk  is  the  risk  that  the  fair  value  or  future  cash  flows  of  a  financial  instrument  will  fluctuate 
+because  of  changes  in  market  rates.  We  do  not  account  for  any  fixed  interest-rate  financial  assets  or  financial 
+liabilities at fair value through profit and loss.
+
+All other loans and borrowings bear interest at floating rates, and we are therefore exposed to the cash flow 
+risk  resulting  from  interest  rate  fluctuations.  This  risk  is  offset  by  our  cash  and  cash  equivalents  balance  which 
+also bears interest at floating rates.
+
+Based  on  currently  outstanding  loans  and  borrowings  at  floating  rates,  an  increase  of  100  basis  points  in 
+interest rates at the reporting date would have resulted in an increase of $1,073 in profit or loss in 2022 (2021 – 
+$3,719).  A  decrease  of  100  basis  points  in  2022  would  have  resulted  in  a  decrease  of  $1,073  in  profit  or  loss  in 
+2022 (2021 - nil due to effective interest rate representing the floor rate per the agreement). This analysis assumes 
+that all other variables, in particular foreign currency exchange rates, remain constant.
+
+Fair Value Risk
+
+Certain  of  the  our  accounting  policies  and  disclosures  require  the  determination  of  fair  value,  for  both 
+financial  and  non-financial  assets  and  liabilities.  Fair  values  have  been  determined  for  measurement  and/or 
+disclosure purposes using the following methods.
+
+In establishing fair value, we use a fair value hierarchy based on levels as defined below:
+
+a. Level 1: defined as observable inputs such as quoted prices in active markets.
+
+b. Level 2: defined as inputs other than quoted prices in active markets that are either directly or indirectly 
+
+observable.
+
+c. Level  3:  defined  as  inputs  that  are  based  on  little  or  no  observable  market  data,  therefore  requiring 
+
+entities to develop their own assumptions.
+
+We  have  determined  that  the  carrying  amounts  of  our  current  financial  assets  and  financial  liabilities 
+
+approximate their fair value given their short-term nature.
+
+The  fair  value  of  the  variable  interest  rate  non-current  liabilities  approximates  the  carrying  amount  as  the 
+
+liabilities bear interest at a rate that varies according to the market rate. 
+
+Refer to Note 21 of the Consolidated Financial Statements for additional information. 
+
+31
+
+Critical Accounting Policies and Estimates 
+
+The  preparation  of  the  Consolidated  Financial  Statements  in  conformity  with  IFRS  requires  us  to  make 
+estimates, judgments and assumptions that affect the application of accounting policies and the reported amounts 
+of  assets,  liabilities,  income  and  expenses.  Actual  results  may  differ  from  these  estimates.  Estimates,  judgments 
+and  assumptions  are  reviewed  on  an  ongoing  basis  and  are  based  on  historical  experience  and  other  factors, 
+including expectations of future events that are believed to be reasonable under the circumstances. Revisions to 
+accounting estimates are recognized prospectively.
+
+Critical judgments made in applying accounting policies that have the most significant effects on the amounts 
+
+recognized in the Consolidated Financial Statements include the following:
+
+Revenue  Recognition.  The 
+
+identification  of  revenue-generating  contracts  with  customers,  the 
+identification  of  performance  obligations,  the  determination  of  the  transaction  price  and  allocations  between 
+identified  performance  obligations,  the  use  of  appropriate  revenue  recognition  method  for  each  performance 
+obligation and the measure of progress for performance obligations satisfied over time are the main aspects of the 
+revenue recognition process, all of which require the exercise of judgment and use of assumptions. In addition, we 
+have applied judgment in assessing the principal versus agent considerations for our transaction and processing 
+services. 
+
+Fair Value of Share-based Payment Transactions. We recognized compensation expense as a result 
+of equity-settled share-based payment transactions which are valued by reference to the fair value of the related 
+instruments.  Fair  value  of  options  granted  that  did  not  contain  a  market  performance  condition  was  estimated 
+using  the  Black-Scholes  option  pricing  model.  The  risk-free  interest  rate  is  based  on  the  yield  of  a  zero 
+coupon  U.S.  government  security  with  a  maturity  equal  to  the  expected  life  of  the  option  from  the  date  of  the 
+grant. The assumption of expected volatility is based on the average historical volatility of comparable companies 
+for  the  period  immediately  preceding  the  option  grant.  We  do  not  anticipate  paying  any  cash  dividends  in  the 
+foreseeable future and, therefore, uses an expected dividend yield of zero in the option-pricing model.
+
+When  granting  share-based  payment  compensation  with  performance  conditions,  we  assess  whether  those 
+performance conditions are market or non-market conditions. Market conditions are taken into account in the fair 
+value estimate on the grant date, using a Monte Carlo simulation and this fair value is not revised subsequently. 
+For  non-market  conditions,  we  estimate  the  expected  outcome  of  the  performance  targets  and  revise  those 
+estimates and related expense until the final outcome is known.
+
+When  issuing  share-based  payments  in  exchange  for  services  rendered  by  an  external  party,  the  Company 
+estimates  the  fair  value  of  the  instruments  granted  by  reference  to  the  fair  value  of  services  rendered  by  the 
+external party, if the services can be measured reliably, instead of the fair value of the equity instrument granted. 
+
+Provisions  for  Losses  on  Merchant  Accounts.  Disputes  between  a  cardholder  and  a  merchant  arise 
+periodically, primarily as a result of customer dissatisfaction with merchandise quality or merchant services. Such 
+disputes may not be resolved in the merchant’s favor. In these cases, the transaction amount is refunded to the 
+customer by the card issuing financial institution, but the financial institution is refunded by us. We then charge 
+back to the merchant the amount refunded to the financial institution. As such, we are exposed to credit risk in 
+relation  to  the  merchant  since  we  assume  the  repayment  to  the  merchant’s  customer  for  the  full  amount  of  the 
+transaction  even  if  the  merchant  has  insufficient  funds  to  reimburse  us.  A  provision  for  losses  on  merchant 
+accounts is maintained to absorb unrecoverable chargebacks for merchant transactions that have been previously 
+processed and on which revenues have been recorded. The provision for losses on merchant accounts specifically 
+comprises  identifiable  provisions  for  merchant  transactions  for  which  losses  can  be  estimated.  We  evaluate  the 
+risk for such transactions and estimate the loss for disputed transactions based primarily on historical experience 
+and  other  relevant  factors.  We  analyze  the  adequacy  of  the  provision  for  losses  on  merchant  accounts  in  each 
+reporting period. 
+
+Determining  the  Fair  Value  of  Identifiable  Intangible  Assets  Following  a  Business 
+Combination.  The  Company  uses  valuation  techniques  to  determine  the  fair  value  of  identifiable  intangible 
+assets  acquired  in  a  business  combination,  which  are  generally  based  on  a  forecast  of  total  expected  future  net 
+discounted cash flows. These valuations are linked closely to the assumptions made by management regarding the 
+future  performance  of  the  related  assets  and  the  discount  rate  applied  as  it  would  be  assumed  by  a  market 
+participant. 
+
+32
+
+Recoverable Amount of Goodwill. Our impairment test for goodwill is based on internal estimates of fair 
+value less costs of disposal calculations and uses valuation models such as the discounted cash flows model. Key 
+assumptions on which we have based our determination of fair value less costs of disposal include estimated sales 
+volumes,  input  costs,  and  selling,  general  and  administrative  expenses  as  well  as  the  multiples  applied  to 
+forecasted Adjusted EBITDA. These estimates, including the methodology used, can have a material impact on the 
+respective values and ultimately the amount of any goodwill impairment. 
+
+Recoverable  Amount  of  Tax  Balances  for  Recognition  of  Tax  Assets.  Deferred  income  tax  assets 
+reflect our estimate of operations of future fiscal years, timing of reversal of temporary differences and tax rates on 
+the  date  of  reversals,  which  may  well  change  depending  on  governments’  fiscal  policies.  We  must  also  assess 
+whether  it  is  more  likely  than  not  that  deferred  income  tax  assets  will  be  realized  and  determine  whether  a 
+valuation allowance is required on all or a portion of deferred income tax assets.
+
+New Accounting Standards and Interpretations Adopted 
+
+The following amendments were adopted on January 1, 2021:
+
+Interest rate benchmark reform - Phase 2
+
+The Company adopted the amendments to IFRS 9, IAS 39, IFRS 7, IFRS 4 and IFRS 16. These amendments 
+provide temporary relief which address the financial reporting effects when an interbank offered rate is replaced 
+with an alternative nearly risk-free interest rate. The amendments provide two key reliefs which are applicable to 
+changes  undertaken  as  a  direct  consequence  of  the  reform  and  where  the  change  in  rate  are  transacted  on  an 
+economically equivalent basis:
+
+• Modification  of  financial  instruments  carried  at  amortized  cost  resulting  from  the  reform  are  reflected 
+prospectively as a change in the effective interest rate of the instrument rather than as an immediate gain or 
+loss.
+
+• Upon  certain  criteria,  hedging  relationships  that  are  directly  impacted  by  the  reform  would  be  able  to 
+continue hedge accounting upon the transition to the new rate.
+
+The following amendments were adopted on January 1, 2022:
+
+Amendments to references to conceptual framework in IFRS Standards
+
+This  amendment  replaces  references  to  the  2010  Conceptual  Framework  for  Financial  Reporting  with 
+references to the 2018 Conceptual Framework for Financial Reporting in order to determine what constitutes an 
+asset or liability in a business combination, adds a new exception for certain liabilities and contingent liabilities to 
+refer to IAS 37, Provisions, Contingent Liabilities and Contingent Assets, or IFRIC 21, Levies, rather than to the 
+2018  Conceptual  Framework,  and  clarifies  that  an  acquirer  should  not  recognize  contingent  assets  at  the 
+acquisition date.  The amendments are effective for business combinations occurring in reporting periods starting 
+on or after January 1, 2022. 
+
+All the amendments described above had no impact on the Consolidated Financial Statements.
+
+New Accounting Standards and Interpretations Issued But Not Yet Adopted 
+
+The  IASB  has  issued  new  standards  and  amendments  to  existing  standards  which  are  applicable  to  the 
+Company in future periods. The Company is not expecting that these amendments will have any material impact 
+on its consolidated financial statements.
+
+Amendments to liability classification
+
+On October 31, 2022, the IASB issued new amendments to IAS 1 that replace the previous amendment issued 
+in 2020 that clarify requirements when classifying liabilities as non-current and extend the application period to 
+January 1, 2024.
+
+When an entity classifies a liability arising from a loan arrangement as non-current and that liability is subject 
+to  the  covenants  which  an  entity  is  required  to  comply  with  within  twelve  months  of  the  reporting  date,  this 
+amendment requires the entity to disclose information in the notes that enables users of financial statements to 
+understand  the  risk  that  the  liability  could  become  repayable  within  twelve  months  of  the  reporting  period, 
+including:
+
+33
+
+(a) the carrying amount of the liability;
+
+(b) information about the covenants;
+
+(c) facts and circumstances, if any, that indicate the entity may have difficulty complying with the covenants. 
+
+Such facts and circumstances could also include the fact that the entity would not have complied with the 
+covenants based on its circumstances at the end of the reporting period.
+
+Outstanding Share Data
+
+As of March 3, 2023, our authorized share capital consists of (i) an unlimited number of Subordinate Voting 
+Shares, of which 63,592,263 were issued and outstanding, (ii) an unlimited number of Multiple Voting Shares, of 
+which  76,064,619  were  issued  and  outstanding,  and  (iii)  an  unlimited  number  of  Preferred  Shares,  issuable  in 
+series,  none  of  which  were  outstanding.  The  Subordinate  Voting  Shares  are  “restricted  securities”  within  the 
+meaning of such term under applicable securities laws in Canada.  
+
+As  of  March  3,  2023,  there  were  2,540,565  stock  options  outstanding  under  the  Company’s  legacy  stock 
+option  plan  dated  September  21,  2017  and  5,999,845  stock  options  outstanding  under  the  Company’s  Omnibus 
+Plan.  There were 414,608 stock options outstanding under the Paya Holdings Inc. Omnibus Incentive Plan, which 
+the Company assumed on closing of its acquisition of Paya on February 22, 2023. Each such stock option is or may 
+become exercisable for one Subordinate Voting Shares.
+
+As of March 3, 2023, there were 48,596 Deferred Share Units, 3,763,582 Restricted Share Units and 1,742,996 
+Performance Share Units outstanding under the Company’s Omnibus Plan. There were 909,735 RSUs outstanding 
+under the Paya Holdings Inc. Omnibus Incentive Plan, which the Company assumed on closing of its acquisition 
+of  Paya  on  February  22,  2023.  Each  such  DSU,  RSU  and  PSU  may  be  settled,  once  vested,  as  one  Subordinate 
+Voting Share.
+
+Risk Factors
+
+In  addition  to  all  other  information  set  out  in  this  MD&A,  and  our  audited  annual  consolidated  financial 
+statements and notes for the fiscal year ended December 31, 2022, the specific risk factors that could materially 
+adversely  affect  us  and/or  our  business,  financial  condition  and  results  of  operations  are  disclosed  under  "Risk 
+Factors'" in our Annual Information Form. Other risks and uncertainties that we do not presently consider to be 
+material,  or  of  which  we  are  not  presently  aware,  may  also  become  important  factors  that  affect  our  future 
+business, financial condition and results of operations. The occurrence of any of these risks could materially and 
+adversely affect our business, prospects, financial condition, results of operations or cash flow.
+
+Controls and Procedures 
+
+Disclosure Controls and Procedures
+
+The  Chief  Executive  Officer  and  Chief  Financial  Officer  are  responsible  for  establishing  and  maintaining 
+disclosure controls and procedures (as defined by the Securities and Exchange Commission (the “Commission”) in 
+Rule  13a-15(e)  under  the  Exchange  Act)  for  the  Company  to  ensure  that  material  information  relating  to  the 
+Company, including its consolidated subsidiaries, that is required to be made known to the Chief Executive Officer 
+and  Chief  Financial  Officer  by  others  within  the  Company  and  disclosed  by  the  Company  in  reports  filed  or 
+submitted by it under securities legislation (including the Exchange Act) is (i) recorded, processed, summarized 
+and  reported  within  the  time  periods  specified  in  securities  legislation  (including  the  Commission’s  rules  and 
+forms);  and  (ii)  accumulated  and  communicated  to  the  Company’s  management,  including  its  Chief  Executive 
+Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure. The Chief Executive 
+Officer  and  the  Chief  Financial  Officer,  along  with  management,  have  evaluated  and  concluded  that  the 
+Company’s disclosure controls and procedures were effective as at December 31, 2022.
+
+Internal Controls over Financial Reporting
+
+Management  of  the  Company,  under  the  supervision  of  the  Chief  Executive  Officer  and  the  Chief  Financial 
+Officer, is responsible for establishing and maintaining adequate internal control over financial reporting. Internal 
+control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial 
+reporting  and  the  preparation  of  financial  statements  for  external  purposes  in  accordance  with  International 
+Financial  Reporting  Standards  as  issued  by  the  International  Accounting  Standards  Board.  Management, 
+including the Chief Executive Officer and Chief Financial Officer, have assessed the effectiveness of the Company’s 
+
+34
+
+internal  control  over  financial  reporting  in  accordance  with  Internal  Control  -  Integrated  Framework  (2013) 
+issued  by  the  Committee  of  Sponsoring  Organizations  of  the  Treadway  Commission  (“COSO”).  Based  on  this 
+assessment, management, including the Chief Executive Officer and Chief Financial Officer, have concluded that 
+the Company’s internal control over financial reporting was effective as at December 31, 2022.
+
+Change in Internal Controls over Financial Reporting
+
+There were no changes to our internal controls over financial reporting during the three months and twelve-
+months ended December 31, 2022, that have materially affected, or are reasonably likely to materially affect our 
+internal controls over financial reporting. 
+
+Limitations of Controls and Procedures  
+
+Management,  including  the  Chief  Executive  Officer  and  Chief  Financial  Officer,  believes  that  any  disclosure 
+controls and procedures or internal controls over financial reporting, no matter how well conceived and operated, 
+can provide only reasonable, not absolute assurance that the objectives of the control system are met. Further, the 
+design  of  a  control  system  must  reflect  the  fact  that  there  are  resource  constraints,  and  the  benefits  of  controls 
+must be considered relative to their costs. Because of the inherent limitations in all control systems, they cannot 
+provide  absolute  assurance  that  all  control  issues  and  instances  of  fraud,  if  any,  within  the  Company  have  been 
+prevented  or  detected.  These  inherent  limitations  include  the  reality  that  judgments  in  decision  making  can  be 
+faulty,  and  that  breakdowns  can  occur  because  of  simple  errors  or  mistakes.  Additionally,  controls  can  be 
+circumvented  by  the  individual  acts  of  some  persons,  by  collusion  of  two  or  more  people,  or  by  unauthorized 
+override of the control. The design of any system of controls is also based in part upon certain assumptions about 
+the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated 
+goals  under  all  potential  future  conditions.  Accordingly,  because  of  the  inherent  limitations  in  a  cost-effective 
+control system, misstatements due to error or fraud may occur and not be detected.
+
+Additional Information
+
+Additional  information  relating  to  the  Company,  including  the  Consolidated  Financial  Statements  and  the 
+
+AIF is available on SEDAR at www.sedar.com and on EDGAR at www.sec.gov.
+
+35

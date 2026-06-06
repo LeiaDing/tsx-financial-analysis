@@ -1,0 +1,1983 @@
+# Waste Connections, Inc.
+# 来源：Annual MD&A - English.pdf (710a9bbbc747903a)
+
+The Management's Discussion and Analysis of Financial Condition and Results of Operations for 
+Waste Connections, Inc. is also included in the Form 10-K for the year ended December 31, 2022 filed 
+on SEDAR on February 16, 2023 in its entirety. 
+
+ITEM  7.  MANAGEMENT’S  DISCUSSION  AND  ANALYSIS  OF  FINANCIAL  CONDITION  AND  RESULTS  OF 
+
+OPERATIONS 
+
+The following discussion should be read in conjunction with our consolidated financial statements and the related 
+
+notes included elsewhere in this Annual Report on Form 10-K. 
+
+We make statements in this Annual Report on Form 10-K that are forward-looking in nature.  These include: 
+
+
+
+Statements regarding our landfills, including capacity, duration, special projects, demand for and pricing of
+recyclables, landfill alternatives and related capital expenditures;
+
+ Discussion  of  competition,  loss  of  contracts,  price  increases  and  additional  exclusive  and/or  long-term
+
+collection service arrangements;
+
+
+
+
+
+
+
+
+
+Forecasts of cash flows necessary for operations and free cash flow to reduce leverage as well as our ability
+to draw on our credit facility and access the capital markets to refinance or expand;
+
+Statements regarding our ability to access capital resources or credit markets at all or on favorable terms;
+
+Plans for, and the amount of, certain capital expenditures for our existing and newly acquired properties and
+equipment;
+
+Statements regarding fuel, oil and natural gas demand, prices, and price volatility;
+
+ Assessments of regulatory developments and potential changes in environmental, health, safety and tax laws
+
+and regulations; and
+
+ Other statements on a variety of topics such as the COVID-19 pandemic, inflation, credit risk of customers,
+seasonality, labor/pension costs and labor union activity, operational and safety risks, acquisitions, litigation
+results, goodwill impairments, insurance costs and cybersecurity threats.
+
+These statements can be identified by the use of forward-looking terminology such as “believes,” “expects,” “intends,” 
+“may,”  “might,”  “will,”  “could,”  “should”  or  “anticipates,”  or  the  negative  thereof  or  comparable  terminology,  or  by 
+discussions of strategy.  
+
+Our business and operations are subject to a variety of risks and uncertainties and, consequently, actual results may 
+differ materially from those projected by any forward-looking statements. Factors that could cause actual results to differ 
+from those projected include, but are not limited to, those listed under the heading “ITEM 1A. Risk Factors” and elsewhere 
+in this Annual Report on Form 10-K.   
+
+There may be additional risks of which we are not presently aware or that we currently believe are immaterial that 
+could  have  an  adverse  impact  on  our  business.  We  make  no  commitment  to  revise  or  update  any  forward-looking 
+statements to reflect events or circumstances that may change, unless required under applicable securities laws. 
+
+Industry Overview 
+
+The solid waste industry is local and highly competitive in nature, requiring substantial labor and capital resources. 
+We  compete  for  collection  accounts  primarily  on  the  basis  of  price  and,  to  a  lesser  extent,  the  quality  of  service,  and 
+compete for landfill business on the basis of tipping fees, geographic location and quality of operations. The solid waste 
+industry has been consolidating and continues to consolidate as a result of a number of factors, including the increasing 
+costs and complexity associated with waste management operations and regulatory compliance. Many small independent 
+operators and municipalities lack the capital resources, management, operating skills and technical expertise necessary to 
+operate effectively in such an environment. The consolidation trend has caused solid waste companies to operate larger 
+
+1 
+
+landfills that have complementary collection routes that can use company-owned disposal capacity. Controlling the point 
+of transfer from haulers to landfills has become increasingly important as landfills continue to close and disposal capacity 
+moves farther from the collection markets it serves. 
+
+Generally,  the  most  profitable  operators  within  the  solid  waste  industry  are  those  companies  that  are  vertically 
+integrated  or  enter  into  long-term  collection  contracts.  A  vertically  integrated  operator  will  benefit  from:   (1) the 
+internalization of waste, which is bringing waste to a company-owned landfill; (2) the ability to charge third-party haulers 
+tipping fees either at landfills or at transfer stations; and (3) the efficiencies gained by being able to aggregate and process 
+waste at a transfer station prior to landfilling. 
+
+The demand for our E&P waste services depends on the continued demand for, and production of, oil and natural gas. 
+Crude oil and natural gas prices historically have been volatile, including as a result of macroeconomic and geopolitical 
+conditions, which may impact levels of exploration and production activity, with a corresponding impact to our E&P waste 
+activity.    Most  recently,  in  2022,  sustained  increases  in  prices  of  crude  oil  as  a  result  of  inflationary  pressures,  the 
+uncertainty associated with the Ukrainian conflict and any related bans on oil sales from Russia or supply chain disruptions 
+as  recently  experienced  contributed  to  increased  levels  of  drilling  activity  and  demand  for  our  E&P  waste  services. 
+Conversely, in 2020 and 2021, a significant decline in oil prices driven by both surplus production and supply, as well as 
+the decrease in demand caused by factors including the COVID-19 pandemic, resulted in decreased levels of E&P drilling 
+activity and a corresponding decrease in demand for our E&P waste services.  Additionally, across the industry there was 
+uncertainty regarding future demand for oil and related services, as noted by several energy companies, many of whom 
+are customers of our E&P waste services.  These energy companies wrote down the values of their oil and gas assets in 
+anticipation of the potential for the decarbonization of their energy product mix given an increased global focus on reducing 
+greenhouse gases and addressing climate change.  At that time, the uncertainty regarding global demand had a significant 
+impact on the investment and operating plans of our E&P waste customers in the basins where we operate.   
+
+If the prices of crude oil and natural gas substantially decline, it could lead to declines in the level of drilling activity 
+and demand for our E&P waste services, which could result in the recognition of additional impairment charges on our 
+intangible assets and property and equipment associated with our E&P waste operations.  See the section Impairments of 
+Property and Equipment and Finite-Lived Intangible Assets in Note 3, “Summary of Significant Accounting Policies,” of 
+our  consolidated  financial  statements  included  in  Item 8  of  this  Annual  Report  on  Form 10-K  for  a  discussion  of  the 
+impairment charges recorded during the years ended December 31, 2021 and 2020. 
+
+Executive Overview 
+
+We are an integrated solid waste services company that provides non-hazardous waste collection, transfer and disposal 
+services, along with resource recovery primarily through recycling and renewable fuels generation, in mostly exclusive 
+and secondary markets across 43 states in the U.S. and six provinces in Canada. Waste Connections also provides E&P 
+waste services in several basins across the U.S., as well as intermodal services for the movement of cargo and solid waste 
+containers in the Pacific Northwest. 
+
+We generally seek to avoid highly competitive, large urban markets and instead target markets where we can attain 
+high  market  share  either through exclusive contracts,  vertical integration or asset positioning. In  markets  where  waste 
+collection services are provided under exclusive arrangements, or where waste disposal is municipally owned or funded 
+or available at multiple municipal sources, we believe that controlling the waste stream by providing collection services 
+under exclusive arrangements is often more important to our growth and profitability than owning or operating landfills. 
+We also target niche markets, like non-hazardous E&P waste treatment, recovery and disposal services. 
+
+The COVID-19 Pandemic’s impact on our Results of Operations 
+
+March  11,  2022  marked  the  two-year  anniversary  of  COVID-19  being  declared  a  global  pandemic  by  the  World 
+Health  Organization.  The  related  economic  disruptions  largely  associated  with  closures  or  restrictions  put  into  effect 
+following the onset of the COVID-19 pandemic in the first quarter of 2020 resulted in declines in solid waste commercial 
+collection, transfer station and landfill volumes, and roll off activity. Throughout the remaining fiscal year 2020 and during 
+2021,  solid  waste  revenue  and  reported  volumes  largely  reflected  the  pace  and  shape  of  the  closures  and  subsequent 
+
+2 
+
+reopening  activity,  with  the  timing  and  magnitude  of  recovery  varying  by  market.  Most  of  the  impacts  to  solid  waste 
+volumes  associated  with  the  pandemic  have  largely  abated,  with  landfill  volumes  and  roll  off  pulls  returning  to  pre-
+pandemic  levels.    In  certain  markets,  commercial  collection  volumes  have  not  returned  to  pre-pandemic  levels.    The 
+COVID-19 pandemic also contributed to a decline in demand for and the value of crude oil, which impacted E&P drilling 
+activity and resulted in lower E&P waste revenue during 2020 and 2021.  During 2022, E&P waste revenue increased on 
+higher levels of drilling activity in several of the major basins. 
+
+Since the onset of the COVID-19 pandemic, protecting the health, welfare and safety of our employees has been our 
+top priority. Recognizing the potential for financial hardship and other challenges, we have looked to provide a safety net 
+for our employees on issues of income and family health. To that end, since the onset of the pandemic through year-end 
+2022, we incurred over $50 million in incremental COVID-19-related costs, primarily supplemental pay and benefits for 
+frontline employees, including approximately $10 million during 2022. 
+
+As a result of the COVID-19 pandemic and subsequent reopening activity, we have also experienced an impact to our 
+operating costs as a result of factors including supply chain disruptions and labor constraints, as demand has recovered 
+and competition has increased.  As a result, we have incurred incremental costs associated with higher wages, increased 
+overtime as a result of higher turnover, and increased reliance on third party services.   
+
+The impact of the COVID-19 pandemic on our business, results of operations, financial condition and cash flows in 
+future periods will depend largely on future developments, including the duration and spread of the outbreak in the U.S. 
+and Canada, the rate of vaccinations, the severity of COVID-19 variants, the actions to contain such coronavirus variants, 
+and how quickly and to what extent normal economic and operating conditions can resume. 
+
+2022 Financial Performance 
+
+The functional currency of the Company, as the parent corporate entity, and its operating subsidiaries in the United 
+States  is  the  U.S.  dollar.  The  functional  currency  of  the  Company’s  Canadian  operations  is  the  Canadian  dollar.  The 
+reporting currency of the Company is the U.S. dollar. The Company’s consolidated Canadian dollar financial position is 
+translated to U.S. dollars by applying the foreign currency exchange rate in effect at the consolidated balance sheet date. 
+The Company’s consolidated Canadian dollar results of operations and cash flows are translated to U.S. dollars by applying 
+the average foreign currency exchange rate in effect during the reporting period. The resulting translation adjustments are 
+included  in  other  comprehensive  income  or  loss.  Gains  and  losses  from  foreign  currency  transactions  are  included  in 
+earnings for the period. 
+
+Operating Results 
+
+Revenues  in  2022  increased  17.2%  to  $7.212  billion  from  $6.151  billion  in  2021.  Acquisitions  closed  during,  or 
+subsequent to, the prior year, net of divestitures, accounted for $552.0 million in incremental revenues in 2022.   Excluding 
+the impact of such acquisitions, revenues increased 8.3% due predominantly to higher internal growth in solid waste.  Solid 
+waste internal growth was positive 7.4%, due to higher price increases and higher surcharges, partially offset by lower 
+volumes  and  lower  recycled  commodities.  Pricing  growth  was  9.2%,  with  core  pricing  up  7.7%,  plus  materials  and 
+environmental surcharges of positive 1.5%. Volumes decreased by 1.1% due primarily to the purposeful non-renewal of 
+two residential hauling contracts, and decreases in the value of recycled commodities resulted in a 0.7% decrease to internal 
+solid waste growth. Higher E&P waste activity resulted in a 1.2% increase to overall growth, and increases in landfill gas 
+sales, including renewable energy credits, contributed 0.2% to overall growth. 
+
+Net income attributable to Waste Connections increased 35.2% to $835.7 million in 2022, from $618.0 million in 
+2021.  In 2022, adjusted earnings before interest, taxes, depreciation and amortization, or adjusted EBITDA, a non-GAAP 
+financial measure (refer to page 73 of this Annual Report on Form 10-K for a definition and reconciliation to Net income 
+attributable to Waste Connections), increased 15.7% to $2.221 billion, from $1.919 billion in 2021. As a percentage of 
+revenue, adjusted EBITDA decreased from 31.2% in 2021, to 30.8% in 2022. This 0.40 percentage point decrease reflects 
+a 0.50 percentage point decrease from the margin dilutive impact of acquisitions completed during the period, as price-led 
+organic growth in solid waste and higher E&P waste activity offset the impacts of lower recycled commodity values and 
+continued inflationary pressures.  Adjusted net income attributable to Waste Connections, a non-GAAP financial measure 
+
+3
+
+(refer to page 74 of this Annual Report on Form 10-K for  a definition and reconciliation to Net income attributable to 
+Waste Connections), in 2022 increased 16.4% to $985.3 million from $846.6 million in 2021. 
+
+Adjusted Free Cash Flow 
+
+Net cash provided by operating activities increased 19.1% to $2.022 billion in 2022, from $1.698 billion in 2021. 
+Capital expenditures for property and equipment increased from $744.3 million in 2021 to $912.7 million in 2022, an 
+increase of $168.4 million, or 22.6%. Adjusted free cash flow, a non-GAAP financial measure (refer to page 72 of this 
+Annual Report on Form 10-K for a definition and reconciliation to Net cash provided by operating activities), increased 
+by $155 million to $1.165 billion in 2022, from $1.010 billion in 2021. Adjusted free cash flow as a percentage of revenues 
+was 16.2% in 2022, as compared to 16.4% in 2021. 
+
+Return of Capital and Distributions to Shareholders 
+
+In 2022, we distributed $668.0 million to shareholders through a combination of cash dividends and share repurchases. 
+We paid $243.0 million to shareholders through cash dividends declared by our Board of Directors, which also increased 
+the  quarterly  cash  dividend  by  10.9%,  from  $0.23  to  $0.255  per  common  share  in  November  2022.  Cash  dividends 
+increased $22.8 million, or 10.4%, from $220.2 million in 2021 due to a 12.2% increase in the quarterly cash dividend 
+declared by our Board of Directors in October 2021, followed by the additional increase in November 2022 and reflects 
+the  reduced  share  count  resulting  from  repurchases.  In  2022,  we  also  repurchased  3.4  million  common  shares  at  an 
+aggregate  cost  of  $425  million  pursuant  to  our  Normal  Course  Issuer  Bid,  which  was  renewed  in  August  and  which 
+provides for repurchases of up to 12,859,066 shares, being 5% of the shares outstanding as of August 2, 2022.  Our Board 
+of Directors intends to review the quarterly dividend during the fourth quarter of each year, with a long-term objective of 
+increasing  the  amount  of  the  dividend.  We  expect  the  amount  of  capital  we  return  to  shareholders  through  share 
+repurchases to vary depending on our financial condition and results of operations, capital structure, the amount of cash 
+we deploy on acquisitions, expectations regarding the timing and size of acquisitions, the market price of our common 
+shares,  and  overall  market  conditions.  We  cannot  assure  as  to  the  amounts  or  timing  of  future  share  repurchases  or 
+dividends. We have the ability under our Credit Agreement and Term Loan Agreement to repurchase our common shares 
+and pay dividends provided that we maintain specified financial ratios. 
+
+Capital Position 
+
+We  target  a  Leverage  Ratio,  as  defined  substantially  identically  in  both  our  Credit  Agreement  and  Term  Loan 
+Agreement, of approximately 2.5x – 3.0x total debt to EBITDA. The Leverage Ratio is a non-GAAP ratio (refer to page 
+74  of  this  Annual  Report  on  Form  10-K  for  more  information  on  this  ratio).  Higher  debt  resulting  primarily  from 
+acquisition outlays in 2022 was partially offset by higher EBITDA in 2022, resulting in an increase in our Leverage Ratio 
+from  2.50x  at  December  31,  2021  to  2.93x  at  December 31,  2022.    Cash  balances  decreased  from  $147.4  million  at 
+December 31, 2021 to $78.6 million at December 31, 2022, and we had $1.194 billion of remaining borrowing capacity 
+under our Credit Agreement, which matures in July 2026.  In total, we had $1.163 billion in prepayable debt outstanding 
+at December 31, 2022. 
+
+Critical Accounting Estimates and Assumptions 
+
+The preparation of financial statements in conformity with GAAP requires estimates and assumptions that affect the 
+reported amounts of assets and liabilities, revenues and expenses and related disclosures of contingent assets and liabilities 
+in the consolidated financial statements. As described by the SEC, critical accounting estimates and assumptions are those 
+that may be material due to the levels of subjectivity and judgment necessary to account for highly uncertain matters or 
+the  susceptibility  of  such  matters  to  change,  and  that  have  a  material  impact  on  the  financial  condition  or  operating 
+performance of a company. Such critical accounting estimates and assumptions are applicable to our reportable segments. 
+
+We believe that of our significant accounting policies, which are described in  Note 3 of our consolidated financial 
+statements included in Item 8 of this Annual Report on Form 10-K, the following accounting policies involve a greater 
+degree of judgment and complexity.  Accordingly, we believe these are the most critical to fully understand and evaluate 
+our financial condition and results of operations.  
+
+4
+
+Insurance  liabilities.  We  maintain  insurance  policies  for  automobile,  general,  employer’s,  environmental,  cyber, 
+employment  practices  and  directors’  and  officers’  liability  as  well  as  for  employee  group  health  insurance,  property 
+insurance and workers’ compensation. We carry umbrella policies for certain types of claims to provide excess coverage 
+over the underlying policies and per incident deductibles or self-insured retentions. Our insurance accruals are based on 
+claims filed and estimates of claims incurred but not reported and are developed by our management with assistance from 
+our  third-party  actuary  and  third-party  claims  administrator.  The  insurance  accruals  are  influenced  by  our  past  claims 
+experience factors and by published industry development factors. If we experience insurance claims or costs above or 
+below our historically evaluated levels, our estimates could be materially affected. The frequency and amount of claims 
+or incidents could vary significantly over time, which could materially affect our self-insurance liabilities. Additionally, 
+the actual costs to settle the self-insurance liabilities could materially differ from the original estimates and cause us to 
+incur additional costs in future periods associated with prior year claims. 
+
+Income taxes. Deferred income tax assets and liabilities are determined based on differences between the financial 
+reporting and income tax bases of assets and liabilities and are measured using the enacted tax rates and laws that are 
+expected  to  be  in  effect  when  the  differences  are  expected  to  reverse.  If  our  judgment  and  estimates  concerning 
+assumptions made in calculating our expected future income tax rates are incorrect, our deferred income tax assets and 
+liabilities would change. Based on our deferred income tax liability balance at December 31, 2022, each 0.1 percentage 
+point change to our expected future income tax rates would change our deferred income tax liability balance and income 
+tax expense by approximately $3.9 million. 
+
+Accounting for landfills. We recognize landfill depletion expense as airspace of a landfill is consumed. Our landfill 
+depletion  rates  are  based  on  the  remaining  disposal  capacity  at  our  landfills,  considering  both  permitted  and  probable 
+expansion airspace. We calculate the net present value of our final capping, closure and post-closure commitments by 
+estimating the total obligation in current dollars, inflating the obligation based upon the expected date of the expenditure 
+and discounting the inflated total to its present value using a credit-adjusted risk-free rate. Any changes in expectations 
+that result in an upward revision to the estimated undiscounted cash flows are treated as a new liability and are inflated 
+and discounted at rates reflecting market conditions. Any changes in expectations that result in a downward revision (or 
+no revision) to the estimated undiscounted cash flows result in a liability that is inflated and discounted at rates reflecting 
+the market conditions at the time the cash flows were originally estimated. This policy results in our final capping, closure 
+and post-closure liabilities being recorded in “layers.”  The resulting final capping, closure and post-closure obligations 
+are  recorded  on  the  consolidated  balance  sheet  along  with  an  offsetting  addition  to  site  costs,  which  is  amortized  to 
+depletion expense as the remaining landfill airspace is consumed. Interest is accreted on the recorded liability using the 
+corresponding  discount  rate.  The  accounting  methods  discussed  below  require  us  to  make  certain  estimates  and 
+assumptions. Changes to these estimates and assumptions, including as a result of inflation, could have a material effect 
+on our financial condition and results of operations. Any changes to our estimates are applied prospectively. 
+
+Landfill development costs. Landfill development costs include the costs of acquisition, construction associated with 
+excavation, liners, site berms, groundwater monitoring wells, gas recovery systems and leachate collection systems. We 
+estimate the total costs associated with developing each landfill site to its final capacity. Total landfill costs include the 
+development costs associated with expansion airspace. Expansion airspace is described below. Landfill development costs 
+depend on future events and thus actual costs could vary significantly from our estimates. Material differences between 
+estimated and actual development costs may affect our cash flows by increasing our capital expenditures and thus affect 
+our results of operations by increasing our landfill depletion expense. 
+
+Final capping, closure and post-closure obligations. We accrue for estimated final capping, closure and post-closure 
+maintenance  obligations  at  the  landfills  we  own,  and  the  landfills  that  we  operate,  but  do  not  own,  under  life-of-site 
+agreements. We could have additional material financial obligations relating to final capping, closure and post-closure 
+costs at other disposal facilities that we currently own or operate or that we may own or operate in the future. Our discount 
+rate assumption for purposes of computing 2022 and 2021 “layers” for final capping, closure and post-closure obligations 
+is based on our long-term credit adjusted risk free rate.  Our discount rate ranged from 3.25% to 5.50% for 2022 and was 
+3.25% for 2021.  Our long-term inflation rate assumption ranged from 2.25% to 2.75% for 2022 and was 2.25% for 2021. 
+Significant reductions in our estimates of the remaining lives of our landfills or significant increases in our estimates of 
+the  landfill  final  capping,  closure  and  post-closure  maintenance  costs  could  have  a  material  adverse  effect  on  our 
+financial 
+
+5 
+
+condition and results of operations. Additionally, changes in regulatory or legislative requirements could increase our costs 
+related to our landfills, resulting in a material adverse effect on our financial condition and results of operations. 
+
+Disposal capacity. Our internal and third-party engineers perform surveys at least annually to estimate the remaining 
+disposal capacity at our landfills. Our landfill depletion rates are based on the remaining disposal capacity, considering 
+both permitted and probable expansion airspace, at the landfills that we own and at landfills that we operate, but do not 
+own,  under  life-of-site  agreements.  Our  landfill  depletion  rate  is  based  on  the  term  of  the  operating  agreement  at  our 
+operated  landfill  that  has  capitalized  expenditures.  Expansion  airspace  consists  of  additional  disposal  capacity  being 
+pursued  through  means  of  an  expansion  that  has  not  yet  been  permitted.  Expansion  airspace  that  meets  the  following 
+criteria is included in our estimate of total landfill airspace: 
+
+1) whether the land where the expansion is being sought is contiguous to the current disposal site, and we either own
+the expansion property or have rights to it under an option, purchase, operating or other similar agreement;
+2) whether total development costs, final capping costs, and closure/post-closure costs have been determined;
+3) whether  internal  personnel  have  performed  a  financial  analysis  of  the  proposed  expansion  site  and  have
+
+determined that it has a positive financial and operational impact;
+
+4) whether internal personnel or external consultants are actively working to obtain the necessary approvals to obtain
+
+the landfill expansion permit; and
+
+5) whether we consider it probable that we will achieve the expansion (for a pursued expansion to be considered
+probable, there must be no significant known technical, legal, community, business or political restrictions or
+similar issues existing that we believe are more likely than not to impair the success of the expansion).
+
+We may be unsuccessful in obtaining permits for expansion disposal capacity at our landfills. In such cases, we will 
+charge the previously capitalized development costs to expense. This will adversely affect our operating results and cash 
+flows and could result in greater landfill depletion expense being recognized on a prospective basis. 
+
+We periodically evaluate our landfill sites for potential impairment indicators. Our judgments regarding the existence 
+of impairment indicators are based on regulatory factors, market conditions and operational performance of our landfills. 
+Future events could cause us to conclude that impairment indicators exist and that our landfill carrying costs are impaired. 
+Any resulting impairment loss could have a material adverse effect on our financial condition and results of operations.  
+
+Goodwill and indefinite-lived intangible assets testing. Goodwill and indefinite-lived intangible assets are tested for 
+impairment on at least an annual basis in the fourth quarter of the year. In addition, we evaluate our reporting units for 
+impairment if events or circumstances change between annual tests indicating a possible impairment. Examples of such 
+events or circumstances include, but are not limited to, the following: 
+
+
+
+
+
+
+
+a significant adverse change in legal factors or in the business climate;
+an adverse action or assessment by a regulator;
+a more likely than not expectation that a segment or a significant portion thereof will be sold;
+the testing for recoverability of a significant asset group within a segment; or
+current period or expected future operating cash flow losses.
+
+As part of our goodwill impairment test, we estimate the fair value of each of our reporting units using discounted 
+cash flow analyses.  Our reporting units consisted of our five geographic solid waste operating segments at December 31, 
+2022, 2021 and 2020.  We compare the fair value of each reporting unit with the carrying value of the net assets assigned 
+to the  reporting unit. If the fair value  of a  reporting  unit is greater than the carrying  value  of the  net assets, including 
+goodwill, assigned to the reporting unit, then no impairment results. If the fair value is less than its carrying value, an 
+impairment charge is recorded for the amount by which the carrying value exceeds its fair value, not to exceed the carrying 
+amount of goodwill. In testing indefinite-lived intangible assets for impairment, we compare the estimated fair value of 
+each indefinite-lived intangible asset to its carrying value. If the fair value of the indefinite-lived intangible asset is less 
+than its carrying value, an impairment charge would be recorded to earnings in our Consolidated Statements of Net Income. 
+
+Discounted  cash  flow  analyses  require  significant  assumptions  and  estimates  about  the  future  operations  of  each 
+reporting unit and the future discrete cash flows related to each indefinite-lived intangible asset. Significant judgments 
+
+6 
+
+inherent in these analyses include the determination of appropriate discount rates, the amount and timing of expected future 
+cash flows, growth rates and income tax rates. In assessing the reasonableness of our determined fair values of our reporting 
+units,  we  evaluate  our  results  against  our  current  market  capitalization.  For  our  impairment  testing  of  our  operating 
+segments for the year ended December 31, 2022, we determined that the indicated fair value of each of our reporting units 
+exceeded their carrying value  in excess of 200% and, therefore, we did not record an impairment charge. The detailed 
+results  of  our  2022,  2021  and  2020  impairment  tests  are  described  in  Note 3  of  our  consolidated  financial  statements 
+included in Item 8 of this Annual Report on Form 10-K. 
+
+Business  Combination  Accounting.  We  recognize,  separately  from  goodwill,  the  identifiable  assets  acquired  and 
+liabilities assumed at their estimated acquisition date fair values. We measure and recognize goodwill as of the acquisition 
+date as the excess of: (a) the aggregate of the fair value of consideration transferred, the fair value of the noncontrolling 
+interest in the acquiree (if any) and the acquisition date fair value of our previously held equity interest in the acquiree (if 
+any), over (b) the fair value of assets acquired and liabilities assumed. At the acquisition date, we measure the fair values 
+of all assets acquired and liabilities assumed that arise from contractual contingencies. We measure the fair values of all 
+noncontractual contingencies if, as of the acquisition date, it is more likely than not that the contingency will give rise to 
+an asset or liability. 
+
+General 
+
+Our  revenues  consist  mainly  of  fees  we  charge  customers  for  collection,  transfer,  recycling  and  disposal  of  non-
+
+hazardous solid waste and treatment, recovery and disposal of non-hazardous E&P waste. 
+
+Our  solid  waste  collection  business  involves  the  collection  of  waste  from  residential,  commercial  and  industrial 
+customers for transport to transfer stations, or directly to landfills or recycling centers.  Solid  waste collection services 
+include  both  recurring  and  temporary  customer  relationships.  The  services  are  performed  under  service  agreements, 
+municipal contracts or franchise agreements with governmental entities. Our existing franchise agreements and most of 
+our existing municipal contracts give us the exclusive right to provide specified waste services in the specified territory 
+during  the  contract  term.  These  exclusive  arrangements  are  awarded,  at  least  initially,  on  a  competitive  bid  basis  and 
+subsequently  on  a  bid  or  negotiated  basis.  The  standard  customer  service  agreements  generally  range  from  one  to 
+three years  in  duration,  although  some  exclusive  franchises  are  for  significantly  longer  periods.  Residential  collection 
+services are also provided on a subscription basis with individual households. 
+
+The fees received for collection services are based primarily on the market, collection frequency and level of service, 
+route density, type and volume or weight of the waste collected, type of equipment and containers furnished, the distance 
+to the disposal or processing facility, the cost of disposal or processing, and prices charged by competitors for similar 
+services. 
+
+The terms of our contracts sometimes limit our ability to pass on price increases. Long-term solid waste collection 
+contracts often contain a  formula, generally based on a  published price  index, that automatically adjusts  fees to cover 
+increases in some, but not all, operating costs, or that limit increases to less than 100% of the increase in the applicable 
+price index. 
+
+Revenue at landfills is primarily generated by charging tipping fees on a per ton and/or per yard basis to third parties 
+
+based on the volume disposed and the nature of the waste. 
+
+Revenue at transfer stations is primarily generated by charging tipping or disposal fees on a per ton and/or per yard 
+basis. The fees charged to third parties are based primarily on the market, type and volume or weight of the waste accepted, 
+the distance to the disposal facility and the cost of disposal. 
+
+Many of our landfill and transfer station customers have entered into one to ten year disposal contracts with us, most 
+
+of which provide for annual indexed price increases. 
+
+7 
+
+Our revenues from E&P waste services are primarily generated through the treatment, recovery and disposal of non-
+hazardous exploration and production  waste  from vertical and horizontal drilling, hydraulic  fracturing, production and 
+clean-up activity, as well as other services.  
+
+Our revenues from recycling services result from the sale of recycled commodities, which are generated by offering 
+residential,  commercial,  industrial  and  municipal  customers  recycling  services  for  a  variety  of  recyclable  materials, 
+including compost, cardboard, mixed paper, plastic containers, glass bottles and ferrous and aluminum metals. We own 
+and operate recycling operations and market collected recyclable materials to third parties for processing before resale. In 
+some instances, we utilize a third party to market recycled materials.  In certain instances, we issue recycling rebates to 
+municipal or commercial customers, which can be based on the price we receive upon the sale of recycled commodities, 
+a fixed contractual rate or other measures. We also receive rebates when we dispose of recycled commodities at third-
+party facilities. 
+
+Other revenues consist primarily of the sale of methane gas and renewable energy credits generated from our MSW 
+landfills and revenues from intermodal services. Intermodal revenue is primarily generated through providing intermodal 
+services for the rail haul movement of cargo and solid waste containers in the Pacific Northwest through a network of 
+intermodal facilities. The fees received for intermodal services are based on negotiated rates and vary depending on volume 
+commitments by the shipper and destination. 
+
+No single contract or customer accounted for more than 10% of our total revenues at the consolidated or reportable 
+segment level during the periods presented. The following table disaggregates our revenue by service line for the periods 
+indicated (in thousands of U.S. dollars). 
+
+Years Ended December 31,  
+2021 
+
+2022 
+
+2020 
+
+Commercial 
+Residential 
+Industrial and construction roll off 
+
+Total collection 
+
+Landfill 
+Transfer 
+Recycling 
+E&P 
+Intermodal and other 
+Intercompany 
+
+Total 
+
+     $  2,176,295      $  1,813,426      $  1,610,313 
+ 1,528,217 
+ 833,148 
+ 3,971,678 
+ 1,146,732 
+ 777,754 
+ 86,389 
+ 159,438 
+ 118,396 
+ (814,397) 
+$  5,445,990 
+
+ 1,673,819 
+ 954,181 
+ 4,441,426 
+ 1,233,499 
+ 859,113 
+ 205,076 
+ 138,707 
+ 152,194 
+ (878,654)  
+$  6,151,361 
+
+ 1,891,108 
+ 1,183,624 
+ 5,251,027 
+ 1,328,942 
+ 1,026,050 
+ 204,876 
+ 210,562 
+ 188,471 
+ (998,069)  
+$  7,211,859 
+
+Cost  of  operations  includes  labor  and  benefits,  tipping  fees  paid  to  third-party  disposal  facilities,  vehicle  and 
+equipment maintenance, workers’ compensation, vehicle and equipment insurance, insurance and employee group health 
+claims expense, third-party transportation expense, fuel, the cost of materials we purchase for recycling, district and state 
+taxes and host community fees and royalties. Our significant costs of operations in 2022 were labor, employee  benefits, 
+third-party disposal and transportation, vehicle, equipment and property maintenance, taxes and fees, insurance and fuel. 
+We use a number of programs to reduce overall cost of operations, including increasing the use of automated routes to 
+reduce labor and workers’ compensation exposure, utilizing comprehensive maintenance and health and safety programs, 
+and  increasing  the  use  of  transfer  stations  to  further  enhance  internalization  rates.  We  carry  insurance  for  automobile 
+liability, general liability, employer’s liability, environmental liability, cyber liability, employment practices liability and 
+directors’ and officers’ liability as well as for employee group health claims, property and workers’ compensation. If we 
+experience insurance claims or costs above or below our historically evaluated levels, our estimates could be materially 
+affected. 
+
+Selling, general and administrative, or SG&A, expense includes management, sales force, clerical and administrative 
+employee compensation and benefits, legal, accounting and other professional services, acquisition expenses, bad debt 
+expense and lease cost for our administrative offices. 
+
+8 
+
+Depreciation expense includes depreciation of equipment and fixed assets over their estimated useful lives using the 
+straight-line  method.  Depletion  expense  includes  depletion  of  landfill  site  costs  and  total  future  development  costs  as 
+remaining airspace of the landfill is consumed. Remaining airspace at our landfills includes both permitted and probable 
+expansion airspace. Amortization expense includes the amortization of finite-lived intangible assets, consisting primarily 
+of long-term franchise agreements and contracts, customer lists, permits and other agreements.  We use an accelerated or 
+straight-line basis for amortization, depending on the attributes of the related intangibles.  Goodwill and indefinite-lived 
+intangible  assets,  consisting  primarily  of  certain  perpetual  rights  to  provide  solid  waste  collection  and  transportation 
+services in specified territories, are not amortized. 
+
+We  capitalize  some  third-party  expenditures  related  to  development  projects,  such  as  legal  and  engineering.  We 
+expense all third-party and indirect acquisition costs, including third-party legal and engineering expenses, executive and 
+corporate overhead, public relations and other corporate services, as we incur them. We charge against net income any 
+unamortized capitalized expenditures and advances (net of any portion that we believe we may recover, through sale or 
+otherwise) that may become impaired, such as those that relate to any operation that is permanently shut down and any 
+landfill development project that we believe will not be completed. We routinely evaluate all capitalized costs, and expense 
+those related to projects that we believe are not likely to succeed. For example, if we are unsuccessful in our attempts to 
+obtain or defend permits that  we  are  seeking or have been  awarded to operate or expand a landfill,  we  will  no longer 
+generate anticipated income from the landfill and we will be required to expense in a future period up to the carrying value 
+of the landfill or expansion project, less the recoverable value of the property and other amounts recovered. 
+
+Presentation of Results of Operations, Segment Reporting, and Liquidity and Capital Resources 
+
+The following discussion and analysis of our Results of Operations, Segment Reporting, and Liquidity and Capital 
+Resources includes a comparison for the year ended December 31, 2022 to the year ended December 31, 2021. A similar 
+discussion and analysis that compares the year ended December 31, 2021 to the year ended December 31, 2020 can be 
+found in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual 
+Report on Form 10-K for the year ended December 31, 2021.  
+
+Results of Operations 
+
+The following table sets forth items in our Consolidated Statements of Net Income in thousands of U.S. dollars and 
+
+as a percentage of revenues for the periods indicated: 
+
+Revenues 
+Cost of operations 
+Selling, general and administrative 
+Depreciation 
+Amortization of intangibles 
+Impairments and other operating items 
+Operating income 
+
+Interest expense 
+Interest income 
+Other income, net 
+Loss on early extinguishment of debt 
+Income tax provision 
+Net income 
+Net income attributable to noncontrolling interests 
+Net income attributable to Waste Connections 
+
+Years Ended December 31, 2022 and 2021 
+
+Years Ended December 31,  
+
+2022 
+  $  7,211,859 
+ 4,336,012 
+ 696,467 
+ 763,285 
+ 155,675 
+ 18,230 
+ 1,242,190 
+
+     % of Revenues     
+
+2021 
+
+ 100.0 %   $  6,151,361 
+ 3,654,074 
+ 612,337 
+ 673,730 
+ 139,279 
+ 32,316 
+ 1,039,625 
+
+ 60.1 
+ 9.7 
+ 10.6 
+ 2.2 
+ 0.2 
+ 17.2 
+
+     % of Revenues     
+ 100.0 %  
+ 59.4 
+ 10.0 
+ 10.9 
+ 2.3 
+ 0.5 
+ 16.9 
+
+ (202,331)  
+ 5,950 
+ 3,154 
+ — 
+ (212,962)  
+ 836,001 
+(339) 
+  $   835,662 
+
+ (162,796)  
+ (2.8)  
+ 2,916 
+0.1 
+ 6,285 
+0.0 
+ (115,288)  
+ — 
+ (152,253)  
+ (2.9)  
+ 618,489 
+ 11.6 
+(442) 
+(0.0) 
+ 11.6 %   $   618,047 
+
+ (2.6)  
+0.0 
+0.1 
+(1.9)  
+ (2.5)  
+ 10.0 
+(0.0) 
+ 10.0 %  
+
+Revenues.  Total  revenues increased  $1.060 billion,  or  17.2%,  to  $7.212 billion  for the  year ended  December  31, 
+
+2022, from $6.151 billion for the year ended December 31, 2021.  
+
+9 
+
+During the year ended December 31, 2022, incremental revenue from acquisitions closed during, or subsequent to, 
+
+the year ended December 31, 2021, increased revenues by approximately $563.1 million. 
+
+Operations that were divested in 2022 and the full year impact of operations that were divested in  2021, decreased 
+
+revenues by $11.1 million for the year ended December 31, 2022. 
+
+During  the  year  ended  December  31,  2022,  the  net  increase  in  prices  charged  to  our  customers  at  our  existing 
+
+operations was $541.7 million, consisting of $455.8 million of core price increases and surcharges of $85.9 million. 
+
+During the year ended December 31, 2022, we recognized volume losses totaling $63.2 million, which was comprised 
+of  $51.8  million  of  declines  associated  with  the  aforementioned  residential  collection  contracts,  lower  post-collection 
+volumes related to transportation shortages, partially offset by increases primarily attributable to commercial and roll off 
+collection.  
+
+E&P waste revenues at facilities owned during the years ended December 31, 2022 and 2021 increased $75.8 million 
+due to increases in overall demand for our E&P waste services resulting from higher demand for crude oil contributing to 
+increases in drilling and production activity levels. 
+
+Revenues from sales of recyclable commodities at facilities owned during the years ended December 31, 2022 and 
+2021 decreased $45.0 million.  Prices for old corrugated cardboard, aluminum, plastics and other paper products increased 
+from the prior period during the six months ended June 30, 2022 before declining during the six months ended December 
+31, 2022.  
+
+A decrease in the average Canadian dollar to U.S. dollar currency exchange rate resulted in a decrease in revenues of 
+$32.4 million for the year ended December 31, 2022. The average Canadian dollar to U.S. dollar exchange  rates on our 
+Canadian revenues were 0.7682 and 0.7982 for the years ended December 31, 2022 and 2021, respectively.  
+
+Other revenues increased $31.6 million during the year ended December 31, 2022, due primarily to a $14.1 million 
+increase in landfill gas revenues and renewable energy credits, a $12.1 million increase in intermodal revenues and a $5.4 
+million increase in other non-core revenue sources. 
+
+Cost of Operations.  Total cost of operations increased $681.9 million, or 18.7%, to $4.336 billion for the year ended 
+December 31, 2022, from $3.654 billion for the year ended December 31, 2021. The increase was primarily the result of 
+$369.4 million of additional operating costs from acquisitions closed during, or subsequent to, the year ended December 
+31, 2021 and an increase in operating costs at our existing operations of $337.8 million, assuming foreign currency parity, 
+partially offset by a decrease in operating costs of $16.9 million resulting from a lower average foreign currency exchange 
+rate in effect during the current period and a decrease of $8.4 million from operations divested subsequent to the  year 
+ended December 31, 2021. 
+
+The increase in operating costs of $337.8 million, assuming foreign currency parity, at our existing operations for the 
+year ended December 31, 2022 consisted of an increase in labor and recurring incentive compensation expenses of $92.2 
+million due primarily to employee pay increases, an increase in fuel expense of $73.1 million due to higher diesel and 
+natural  gas  prices,  an  increase  in  third-party  trucking  and  transportation  expenses  of  $52.9  million  due  primarily  to 
+increased landfill special waste volumes requiring trucking and transportation services to our landfills and higher rates 
+charged by third-party providers, an increase in truck, container, equipment and facility maintenance and repair expenses 
+of $43.1 million due primarily to increased collection routes and equipment operating hours and parts and service rate 
+increases, an increase in third-party disposal expenses of $17.7 million due primarily to rate increases at third-party post-
+collection  sites,  an  increase  in  expenses  for  auto  and  workers’  compensation  claims  of  $9.1  million  due  primarily  to 
+increased claim severity and inflation-led cost increases, an increase in supplemental compensation to non-management 
+personnel  of  $9.0  million  to  provide  financial  assistance  associated  with  the  impact  of  the  COVID-19  pandemic,  an 
+increase in taxes on revenues of $8.9 million due primarily to increased revenues, an increase in intermodal rail expenses 
+of $6.1 million due to higher cargo volumes, an increase in expenses for purchasing and processing recyclable commodities 
+of $4.9 million due to processing expenses charged by third parties increasing as recyclable commodity values decline in 
+certain regulated operating markets, an increase in subcontracted hauling services at our solid waste operations of $3.8 
+
+10 
+
+million due to higher costs charged by third-party providers, an increase in landfill maintenance, environmental compliance 
+and daily cover expenses of $3.2 million due to increased compliance requirements under our landfill operating permits, 
+an increase  in 401(k) matching expenses of $2.0 million due to higher employee earnings, an increase in property tax 
+expense of $1.9 million due to higher property value assessments and $9.9 million of other net expense increases. 
+
+Cost of operations as a percentage of revenues increased 0.7 percentage points to 60.1% for the year ended December 
+31, 2022, from 59.4% for the year ended December 31, 2021. The increase as a percentage of revenues consisted of a 0.7 
+percentage point increase from higher fuel expense, a 0.6 percentage point increase from higher third-party trucking and 
+transportation expenses, a 0.5 percentage point increase from acquisitions closed during, or subsequent to, the year ended 
+December 31, 2021 having operating margins lower than our company average, and a 0.1 percentage point increase in 
+compensation  to  non-management  personnel  for  financial  assistance  associated  with  the  impact  of  the  COVID-19 
+pandemic,  partially  offset  by  a  combined  1.2  percentage  point  decrease  from  disposal,  taxes  on  revenues,  labor  and 
+employee benefits due to price-driven revenue increases.  
+
+SG&A.  SG&A expenses increased $84.2 million, or 13.7%, to $696.5 million for the year ended December 31, 2022, 
+from $612.3 million for the year ended December 31, 2021. The increase was comprised of an increase of $45.8 million, 
+assuming  foreign  currency  parity,  at  our  existing  operations  and  $42.3  million  from  acquisitions  closed  during,  or 
+subsequent to, the year ended December 31, 2021, partially offset by a decrease of $2.8 million resulting from a lower 
+average foreign currency exchange rate in effect during the current period and a decrease of $1.1 million from operations 
+divested subsequent to the year ended December 31, 2021. 
+
+The increase in SG&A expenses at our existing operations of $45.8 million, assuming foreign currency parity, for the 
+year ended December 31, 2022 was comprised of a collective increase in travel, meetings, training and community activity 
+expenses of $22.6 million due to increased travel and social gatherings in the current year period due to a reduction in 
+restrictions associated with the COVID-19 pandemic, an increase in administrative payroll expenses of $16.4 million due 
+primarily  to  annual  pay  increases,  an  increase  in  direct  acquisition  expenses  of  $13.6  million  due  to  an  increase  in 
+acquisition activity in the current period, an increase in equity-based compensation expenses of $6.2 million associated 
+with  our  annual  recurring  grant  of  restricted  share  units  to  our  personnel,  an  increase  in  software  license  fees  of  $3.7 
+million associated with new information technology applications, an increase in bad debt costs of $2.8 million associated 
+with  increased  revenue,  an  increase  in  professional  fees  of  $1.6  million  due  primarily  to  increased  legal  services,  an 
+increase of $0.8 million resulting from the payment of supplemental bonuses to non-management employees to provide 
+financial assistance associated with the impact of the COVID-19 pandemic and $4.1 million of other net expense increases, 
+partially offset by a decrease in deferred compensation expenses of $9.1 million as a result of decreases in the market value 
+of investments to which employee deferred compensation liability balances are tracked, a decrease in accrued recurring 
+cash  incentive  compensation  expense  to  our  management  of  $8.6  million,  a  decrease  of  $5.2  million  in  equity-based 
+compensation  expenses  associated  with  the  prior  year  period  including  adjustments  to  increase  the  fair  value  of  our 
+common shares held in our deferred compensation plan by certain key executives as a result of the shares being exchanged 
+for  other  investment  options,  and  a  decrease  in  equity-based  compensation  expenses  of  $3.1  million  associated  with 
+changes in our share price resulting in fair value measurement decreases to equity awards accounted for as liabilities that 
+were granted to employees of Progressive Waste prior to June 1, 2016, which are subject to valuation adjustments each 
+period. 
+
+SG&A expenses as a percentage of revenues decreased 0.3 percentage points to 9.7% for the year ended December 
+31, 2022, from 10.0% for the year ended December 31, 2021. The decrease as a percentage of revenues was primarily 
+attributable  to  lower  cash  incentive  compensation  expense,  lower  deferred  compensation  expense,  acquisitions  closed 
+during, or subsequent to, the year ended December 31, 2021 having lower SG&A expenses as a percentage of revenues 
+than our company average and the impact of price-driven revenue increases in our solid waste services, partially offset by 
+increased travel, meetings, training and community activity expenses and higher direct acquisition expenses. 
+
+Depreciation.  Depreciation expense increased $89.6 million, or 13.3%, to $763.3 million for the year ended December 
+31,  2022,  from  $673.7 million  for  the  year  ended  December  31,  2021.  The  increase  was  comprised  of  an  increase  in 
+depreciation and depletion expense of $62.4 million from  acquisitions closed during, or subsequent to, the year ended 
+December 31, 2021, an increase in depreciation expense of $24.5 million from the impact of additions to our fleet and 
+equipment  purchased  to  support  our  existing  operations  and  an  increase  in  depletion  expense  of  $9.2  million  resulting 
+from 
+
+11
+
+increased landfill special waste and E&P volumes and higher landfill development costs increasing our per ton landfill 
+depletion rates, partially offset by a decrease of $3.4 million resulting from a lower average foreign currency exchange 
+rate  in  effect  during  the  current  period,  and  a  decrease  in  depreciation  and  depletion  expense  of  $3.1  million  from 
+operations divested subsequent to the year ended December 31, 2021. 
+
+Depreciation  expense  as  a  percentage  of  revenues  decreased  0.3  percentage  points  to  10.6%  for  the  year  ended 
+December 31, 2022, from 10.9% for the year ended December 31, 2021. The decrease as a percentage of revenues was 
+primarily attributable to the impact of price-driven revenue increases in our solid waste services. 
+
+Amortization  of  Intangibles.   Amortization  of  intangibles  expense  increased  $16.4  million,  or  11.8%,  to  $155.7 
+million for the year ended December 31, 2022, from $139.3 million for the year ended December 31, 2021. The increase 
+was the result of $37.7 million from intangible assets acquired in acquisitions closed during, or subsequent to, the year 
+ended December 31, 2021, partially offset by a decrease of $20.5 million from certain intangible assets becoming fully 
+amortized subsequent to December 31, 2021 and a decrease of $0.8 million resulting from a lower average foreign currency 
+exchange rate in effect during the current period. 
+
+Amortization of intangibles expense as a percentage of revenues decreased 0.1 percentage points to 2.2% for the year 
+ended December 31, 2022, from 2.3% for the year ended December 31, 2021. The decrease as a percentage of revenues 
+was attributable to the impact of price-driven revenue increases in our solid waste services. 
+
+Impairments and Other Operating Items.  Impairments and other operating items decreased $14.1 million, to net losses 
+totaling $18.2 million for the year ended December 31, 2022, from net losses totaling $32.3 million for the year ended 
+December 31, 2021.  
+
+The net losses of $18.2 million recorded during the  year ended December 31, 2022 consisted of $10.8  million of 
+charges to write off the carrying cost of certain contracts that were not, or are not expected to be, renewed prior to the 
+original estimated termination date and an $8.4 million lawsuit judgment accrual, partially offset by $1.0 million of other 
+net gains. 
+
+The  net losses of $32.3 million recorded during the  year ended December 31, 2021 consisted of  $18.7  million of 
+impairment charges to property and equipment and intangible assets at three of our E&P waste operations, $4.9 million of 
+charges to terminate or write off the carrying cost of certain contracts that were not, or are not expected to be, renewed 
+prior to the original estimated termination date, a $4.6 million loss resulting from property and equipment damaged in a 
+facility fire, $2.8 million of adjustments to increase the carrying value of certain contingent consideration liabilities, $1.5 
+million of losses on property and equipment disposals and $1.8 million of other net charges, partially offset by $2.0 million 
+of gains from the disposal of assets at two non-strategic operating locations. 
+
+Operating  Income.   Operating  income  increased  $202.6  million,  or  19.5%,  to  $1.242  billion  for  the  year  ended 
+
+December 31, 2022, from $1.040 billion for the year ended December 31, 2021.  
+
+The increase in our operating income for the year ended December 31, 2022 was due primarily to price increases for 
+our solid waste services, operating income contributions from increased sales of renewable energy credits associated with 
+the generation of landfill gas, operating income generated from acquisitions closed during, or subsequent to, the year ended 
+December 31, 2021 and an increase in earnings at our E&P waste operations.  
+
+Operating income as a percentage of revenues increased 0.3 percentage points to 17.2% for the year ended December 
+31, 2022, from 16.9% for the year ended December 31, 2021.  The increase in operating income as a percentage of revenues 
+was comprised of a 0.3 percentage point decrease in impairments and other operating items, a 0.3 percentage point decrease 
+in  depreciation  expense,  a  0.3  percentage  point  decrease  in  SG&A  expense  and  a  0.1  percentage  point  decrease  in 
+amortization expense, partially offset by a 0.7 percentage point increase in cost of operations. 
+
+Interest Expense.  Interest expense increased $39.5 million, or 24.3%, to $202.3 million for the year ended December 
+31, 2022, from $162.8 million for the year ended December 31, 2021. The increase was primarily attributable to an increase 
+of $53.3 million from the issuance of $2.75 billion of senior unsecured notes during, or subsequent to, the year ended 
+
+12 
+
+December 31, 2021, an increase of $13.9 million due to an increase in the average borrowings outstanding under our Credit 
+Agreement and Term Loan Agreement and an increase of $9.8 million from higher interest rates on borrowings outstanding 
+under our Credit Agreement, partially offset by a decrease of $37.1 million from the repayment of $1.75 billion of senior 
+unsecured notes during the year ended December 31, 2021 and $0.4 million of other net decreases. 
+
+Interest Income.  Interest income increased $3.1 million to $6.0 million for the year ended December 31, 2022, from 
+$2.9 million for the year ended December 31, 2021. The increase was primarily attributable to higher reinvestment rates, 
+partially offset by lower average cash balances in the current period.  
+
+Other Income, Net.  Other income, net decreased $3.1 million, to $3.2 million for the year ended December 31, 2022, 
+
+from $6.3 million for the year ended December 31, 2021.  
+
+Other  income  of  $3.2  million  recorded  during  the  year  ended  December  31,  2022  consisted  of  income  from 
+transactions primarily as a result of the impact from changes in foreign currency exchange rates of $7.0 million related to 
+the decrease in the Canadian dollar to the U.S. dollar exchange rate in the period, and $1.4 million of other income, partially 
+offset by $5.2 million from a decline in the value of investments purchased to fund our employee deferred compensation 
+obligations. 
+
+Other income of $6.3 million recorded during the year ended December 31, 2021 consisted of $3.8 million of income 
+earned on investments purchased to fund our employee deferred compensation obligations, a $1.4 million adjustment to 
+decrease certain non-acquisition accrued liabilities recorded in prior periods, an increase in foreign currency transaction 
+gains of $0.7 million attributable to the impact of an increase in the Canadian dollar to U.S. dollar exchange rate during 
+the period and a $0.4 million increase in other net income sources. 
+
+Loss on Early Extinguishment of Debt.  Loss on early extinguishment of debt was $115.3 million for the year ended 
+December 31, 2021 and consisted of the payment of a make-whole premium and the write-off of remaining unamortized 
+loan fees associated with the early repayment of the outstanding senior notes under our master note purchase agreements. 
+
+Income Tax Provision.  Income taxes increased $60.7 million, to $213.0 million for the year ended December 31, 
+2022, from $152.3 million for the year ended December 31, 2021. Our effective tax rate for the year ended December 31, 
+2022 was 20.3%. Our effective tax rate for the year ended December 31, 2021 was 19.8%.  
+
+The income tax provision for the year ended December 31, 2022 included a benefit of $2.7 million from share-based 
+payment awards being recognized in the income statement when settled, as well as a portion of our internal financing being 
+taxed at effective rates substantially lower than the U.S. federal statutory rate. 
+
+The income tax provision for the year ended December 31, 2021 included a benefit of $2.1 million from share-based 
+payment awards being recognized in the income statement when settled, as well as a portion of our internal financing being 
+taxed at effective rates substantially lower than the U.S. federal statutory rate. 
+
+Our  effective  tax  rate  is  dependent  upon  the  proportion  of  pre-tax  income  among  the  jurisdictions  where  we  do 
+business. As such, our effective tax rate will be subject to some variability depending upon the proportional contribution 
+of pre-tax income across jurisdictions in any period. 
+
+Segment Reporting 
+
+We manage our operations through the following five geographic solid waste operating segments: Eastern, Southern, 
+Western, Central and Canada. Our five geographic solid waste operating segments comprise our reportable segments.  Our 
+Chief Operating Decision Maker evaluates operating segment profitability and determines resource allocations based on 
+several factors, of which the primary financial measure is segment EBITDA. We define segment EBITDA as earnings 
+before interest, taxes, depreciation, amortization, impairments and other operating items, other income (expense) and loss 
+on  early  extinguishment  of  debt.  Segment  EBITDA  is  not  a  measure  of  operating  income,  operating  performance  or 
+liquidity  under  GAAP  and  may  not  be  comparable  to  similarly  titled  measures  reported  by  other  companies.  Our 
+management uses segment EBITDA in the evaluation of segment operating performance as it is a profit measure that is 
+
+13 
+
+generally  within  the  control  of  the  operating  segments.    Each  operating  segment  is  responsible  for  managing  several 
+vertically integrated operations, which are comprised of districts.  
+
+Summarized financial information for our reportable segments are shown in the following tables in thousands of U.S. 
+
+dollars and as a percentage of total segment revenue for the periods indicated: 
+
+Depreciation and 
+Amortization 
+
+Years Ended  
+December 31, 2022 
+
+Years Ended  
+December 31, 2021 
+
+Eastern 
+Southern 
+Western 
+Central 
+Canada 
+Corporate(a) 
+
+Eastern 
+Southern 
+Western 
+Central 
+Canada 
+Corporate(a) 
+
+Revenue 
+
+$   1,890,705  $ 
+ 1,667,778 
+ 1,484,632 
+ 1,228,120 
+ 940,624 
+ — 
+
+EBITDA 
+ 486,649 
+ 497,832 
+ 445,894 
+ 424,621 
+ 349,403 
+ (25,019) 
+$   7,211,859  $   2,179,380 
+
+Revenue 
+
+$   1,521,288  $ 
+ 1,446,746 
+ 1,280,188 
+ 1,046,416 
+ 856,723 
+ — 
+
+EBITDA 
+ 404,493 
+ 394,982 
+ 405,778 
+ 359,434 
+ 339,859 
+ (19,596) 
+$   6,151,361  $   1,884,950 
+
+EBITDA 
+Margin 
+ 25.7 %   $ 
+ 29.9 %  
+ 30.0 %  
+ 34.6 %  
+ 37.1 %  
+ — 
+
+ 30.2 %   $ 
+
+EBITDA 
+Margin 
+ 26.6 %   $ 
+ 27.3 %  
+ 31.7 %  
+ 34.3 %  
+ 39.7 %  
+ — 
+
+ 30.6 %   $ 
+
+ 281,178 
+ 198,506 
+ 159,899 
+ 152,154 
+ 118,388 
+ 8,835 
+ 918,960 
+
+ 239,130 
+ 188,977 
+ 129,988 
+ 134,078 
+ 111,458 
+ 9,378 
+ 813,009 
+
+Depreciation and 
+Amortization 
+
+(a) The majority of Corporate expenses are allocated to the five operating segments. Direct acquisition expenses,
+expenses associated with common shares held in the deferred compensation plan exchanged for other investment
+options  and  share-based  compensation  expenses  associated  with  Progressive  Waste  share-based  grants
+outstanding at June 1, 2016 that were continued by the Company are not allocated to the five operating segments
+and comprise the net EBITDA for our Corporate segment for the periods presented.
+
+A reconciliation of segment EBITDA to Income before income tax provision is included in Note 17 to the consolidated 
+
+financial statements included in Item 8 of this Annual Report on Form 10-K. 
+
+Significant changes in revenue, EBITDA and depreciation, depletion and amortization for our reportable segments 
+
+for the year ended December 31, 2022, compared to the year ended December 31, 2021, are discussed below.  
+
+Eastern 
+
+Revenue increased $369.4 million to $1.891 billion for 2022, from $1.521 billion for 2021, due to price increases, 
+contributions from acquisitions and increased landfill gas sales attributable to higher volumes produced, partially offset 
+by  decreased  post-collection  volumes,  decreased  residential  collection  volumes,  and  lower  prices  for  recyclable 
+commodities. 
+
+EBITDA increased $82.1 million to $486.6 million, or a 25.7% EBITDA margin for 2022, from $404.5 million, or a 
+26.6% EBITDA margin for 2021. The decrease in our EBITDA margin was due primarily to increased diesel fuel expenses, 
+increased third-party trucking and transportation expenses, increased corporate overhead allocations and increased travel, 
+meetings, training and community activity expenses, partially offset by benefits from price-led revenue increases and the 
+impact of acquisitions having higher EBITDA margins than our segment average. 
+
+14 
+
+Depreciation, depletion and amortization expense increased $42.1 million, to $281.2 million for 2022, from $239.1 
+million for 2021, due to assets acquired in acquisitions, additions to our fleet and equipment and higher depletion expense 
+due to higher landfill development costs increasing our per ton landfill depletion rates.  
+
+Southern 
+
+Revenue increased $221.0 million to $1.668 billion for 2022, from $1.447 billion for 2021, due to solid waste price 
+increases, increased E&P waste revenues attributable to increases in drilling and production activity levels resulting in 
+increases  in  the  demand  for  our  E&P  waste  services  and  contributions  from  acquisitions,  partially  offset  by  lower 
+residential  collection  volumes  due  to  the  purposeful  non-renewal  of  a  collection  contract  subsequent  to  December  31, 
+2021,  a  decrease  resulting  from  the  divestiture  of  certain  non-strategic  operating  locations  and  lower  post-collection 
+volumes.  
+
+EBITDA increased $102.8 million to $497.8 million, or a 29.9% EBITDA margin for 2022, from $395.0 million, or 
+a  27.3%  EBITDA  margin  for  2021.  The  increase  in  our  EBITDA  margin  was  due  to  increased  earnings  at  our  E&P 
+operations, the purposeful non-renewal of a residential contract, and price-led increases in solid waste revenue, partially 
+offset by increased diesel and natural gas fuel expenses, the impact of acquisitions having lower EBITDA margins than 
+our segment average, increased travel, meetings, training and community activity expenses and increased legal expenses.  
+
+Depreciation, depletion and amortization expense increased $9.5 million, to $198.5 million for 2022, from $189.0 
+million for 2021, due to assets acquired in acquisitions, additions to our fleet and equipment and higher depletion expense 
+due to increased landfill volumes and higher landfill development costs increasing our per ton landfill depletion rates, 
+partially offset by a decrease resulting from the divestiture of certain non-strategic operating locations and a reduction in 
+amortization expense associated with the loss of a large residential collection contract. 
+
+Western 
+
+Revenue increased $204.4 million to $1.485 billion for 2022, from $1.280 billion for 2021, due to contributions from 
+acquisitions, price increases, increased collection volumes, higher prices during the first six months in the comparable 
+periods  for  recyclable  commodities  and  increased  intermodal  revenue,  partially  offset  by  lower  prices  for  recyclable 
+commodities during the last six months in the comparable period.  
+
+EBITDA increased $40.1 million to $445.9 million, or a 30.0% EBITDA margin for 2022, from $405.8 million, or a 
+31.7% EBITDA margin for 2021. The decrease in our EBITDA margin was due to increased diesel and natural gas fuel 
+expenses, increased third-party trucking and transportation expenses, increased cost of recyclable commodities expenses, 
+increased labor and recurring incentive compensation expenses and increased travel, meetings, training and community 
+activity expenses, partially offset by benefits from price-led increases in revenue. 
+
+Depreciation, depletion and amortization expense increased $29.9 million, to $159.9 million for 2022, from $130.0 
+
+million for 2021, due to assets acquired in acquisitions and additions to our fleet and equipment.  
+
+Central 
+
+Revenue increased $181.7 million to $1.228 billion for 2022, from $1.046 billion for 2021, due to price increases, 
+contributions from acquisitions, higher landfill and residential collection volumes and higher prices during the first six 
+months in the comparable periods for recyclable commodities, partially offset by lower prices for recyclable commodities 
+during the last six months in the comparable period. 
+
+EBITDA increased $65.2 million to $424.6 million, or a 34.6% EBITDA margin for 2022, from $359.4 million, or a 
+34.3% EBITDA margin for 2021. The increase in our EBITDA margin was due to the benefits from price-led increases in 
+revenue, partially offset by acquisitions having EBITDA margins lower than our segment average and increased diesel 
+and natural gas fuel expenses. 
+
+15 
+
+Depreciation, depletion and amortization expense increased $18.1 million, to $152.2 million for 2022, from $134.1 
+million for 2021, due to assets acquired in acquisitions, additions to our fleet and equipment and higher depletion expense 
+due to higher landfill development costs increasing our per ton landfill depletion rates. 
+
+Canada 
+
+Revenue increased $83.9 million to $940.6 million for 2022, from $856.7 million for 2021, due to price increases, 
+contributions from acquisitions, higher commercial and roll off collection volumes, higher prices for renewable energy 
+credits associated with the generation of landfill gas and higher prices during the first six months in the comparable periods 
+for recyclable commodities, partially offset by a decrease in the average foreign currency exchange rate in effect during 
+the comparable reporting periods, lower residential collection volumes due to the purposeful non-renewal of a collection 
+contract subsequent to December 31, 2021, lower landfill volumes, lower prices for recyclable commodities during the 
+last six months in the comparable period and the divestiture of a non-strategic operating location. 
+
+EBITDA increased $9.5 million to $349.4 million, or a 37.1% EBITDA margin for 2022, from $339.9 million, or a 
+39.7% EBITDA margin for 2021. The decrease in our EBITDA margin was due to acquisitions having EBITDA margins 
+lower than our segment average, increased diesel fuel expenses, increased disposal expenses, increased employee benefits 
+expenses, increased subcontracted hauling services, increased travel, meetings, training and community activity expenses, 
+partially offset by benefits from price-led increases in revenue and the purposeful non-renewal of a collection contract. 
+
+Depreciation, depletion and amortization expense increased $6.9 million, to $118.4 million for 2022, from $111.5 
+million  for  2021, due  to  assets  acquired  in  acquisitions  and  additions  to our  fleet  and  equipment,  partially  offset  by  a 
+decrease in depletion expense due to lower landfill disposal volumes, a decrease resulting from the divestiture of a non-
+strategic operating location and a decrease in the average foreign currency exchange rate in effect during the comparable 
+reporting periods. 
+
+Corporate 
+
+EBITDA  decreased  $5.4  million,  to  a  loss  of  $25.0  million  for  2022,  from  a  loss  of  $19.6  million  for  2021. The 
+decrease  was due to increased travel, meetings, training and community activity expenses, increased direct acquisition 
+expenses, increased employee payroll expense, increased software license fees and the payment of supplemental bonuses 
+to non-management employees to provide financial assistance associated with the impact of the COVID-19 pandemic, 
+partially offset by decreased equity-based compensation expenses, decreased deferred compensation expenses, decreased 
+cash incentive compensation expense to our management and decreased allocations of corporate overhead expenses to our 
+segments. 
+
+Liquidity and Capital Resources 
+
+The following table sets  forth certain cash flow information for the years ended December 31, 2022 and 2021 (in 
+
+thousands of U.S. dollars): 
+
+Net cash provided by operating activities 
+Net cash used in investing activities 
+Net cash provided by (used in) financing activities 
+Effect of exchange rate changes on cash, cash equivalents and restricted cash 
+Net decrease in cash, cash equivalents and restricted cash 
+Cash, cash equivalents and restricted cash at beginning of year 
+Cash, cash equivalents and restricted cash at end of year 
+
+2022 
+
+2021 
+
+$   2,022,492  $   1,698,229 
+ (1,693,482) 
+ (3,087,171)  
+ (499,496) 
+ 1,028,463 
+ (25) 
+ (2,035)  
+ (494,774) 
+ (38,251)  
+ 714,389 
+ 219,615 
+ 219,615 
+ 181,364  $ 
+
+$ 
+
+16 
+
+Operating Activities Cash Flows 
+
+For the year ended December 31, 2022, net cash provided  by operating activities was $2.022 billion. For the year 
+ended December 31, 2021, net cash provided by operating activities was $1.698 billion. The $324.4 million increase was 
+due primarily to the following: 
+
+1)
+
+Increase  in  earnings — Our  increase  in  net  cash  provided  by  operating  activities  was  favorably  impacted  by
+$192.1 million from an increase in net income, excluding depreciation, amortization of intangibles, share-based
+compensation, adjustments to and payments of contingent consideration recorded in earnings and loss on disposal
+of  assets,  impairments  and  early  extinguishment  of  debt,  due  primarily  to  price  increases,  earnings  from
+acquisitions, earnings generated from an increase in landfill gas revenues and renewable energy credits and an
+increase in earnings at our E&P waste operations.
+
+2) Accounts  payable  and  accrued  liabilities — Our  increase  in  net  cash  provided  by  operating  activities  was
+favorably impacted by $94.2 million from accounts payable and accrued liabilities as changes in accounts payable
+and  accrued  liabilities  resulted  in  an  increase  to  operating  cash  flows  of  $164.8  million  for  the  year  ended
+December  31,  2022,  compared  to  an  increase  to  operating  cash  flows  of  $70.6  million  for  the  year  ended
+December  31,  2021.  The  increase  for  the  year  ended  December  31,  2022  was  due  primarily  to  increases  in
+operating expenses during the period which remained as outstanding obligations at December 31, 2022, the timing
+of processing year-end payments to vendors for capital expenditures and  increased accrued interest due to the
+timing of interest payments for our  senior unsecured notes issued subsequent to December 31, 2021,  partially
+offset by the payment of deferred payroll taxes. The increase for the year ended December 31, 2021 was  due
+primarily  to  increases  in  operating  expenses  during  the  period  which  remained  as  outstanding  obligations  at
+December 31, 2021.
+
+3) Deferred income taxes — Our increase in net cash provided by operating activities was favorably impacted by
+$75.8 million from deferred income taxes as changes in deferred income taxes resulted in an increase to operating
+cash flows of $93.5 million for the year ended December 31, 2022, compared to an increase to operating cash
+flows of $17.7 million for the year ended December 31, 2021. The increase for the year ended December 31,
+2022 was primarily attributable to tax benefits resulting from the divestiture of certain non-strategic E&P disposal
+operating locations. The increase in deferred taxes for the year ended December 31, 2021 was primarily due to
+accelerated tax depreciation from vehicles, equipment and containers.
+
+4) Deferred revenue — Our increase in net cash provided by operating activities was favorably impacted by $10.5
+million from deferred revenue as changes in deferred revenue resulted in an increase to operating cash flows of
+$42.2 million for the year ended December 31, 2022, compared to an increase to operating cash flows of $31.7
+million for the year ended December 31, 2021. For both comparative periods, deferred revenue increased due to
+price increases on our advanced billed residential and commercial collection services.
+
+5) Prepaid expenses – Our increase in net cash provided by operating activities was  favorably impacted by $7.5
+million from prepaid expenses as changes in prepaid expenses resulted in a decrease to operating cash flows of
+$0.7  million  for  the  year  ended  December  31,  2022,  compared  to  a decrease  to  operating  cash  flows  of  $8.2
+million for the year ended December 31, 2021. The decrease for the  year ended December 31, 2022 was  due
+primarily  to  increases  from  payments  of  annual  insurance  premiums,  payments  of  annual  information  system
+licenses and higher parts and fuel inventory, partially offset by a decrease in prepaid income tax payments. The
+decrease for the year ended December 31, 2021 was due primarily to increases in prepaid income tax payments
+and prepaid vendor payments.
+
+6) Accounts receivable – Our increase in net cash provided by operating activities  was unfavorably impacted by
+$45.9 million from accounts receivable as changes in accounts receivable resulted in a decrease to operating cash
+flows of $100.5 million for the year ended December 31, 2022, compared to a decrease to operating cash flows
+of $54.7 million for the year ended December 31, 2021. The decrease for the years ended December 31, 2022 and
+2021 was due to increases in revenues, which remained as outstanding receivables at year end.
+
+7) Other long-term liabilities – Our increase in net cash provided by operating activities was unfavorably impacted
+by $14.7 million from other long-term liabilities as changes in other long-term liabilities resulted in a decrease to
+operating cash flows of $14.0 million for the year ended December 31, 2022, compared to an increase to operating
+cash flows of $0.7 million for the year ended December 31, 2021. The decrease for the year ended December 31,
+2022 was due primarily to decreased employee deferred compensation liabilities at year end.
+
+17 
+
+As of December 31, 2022, we had a working capital deficit of $395.0 million, including cash and equivalents of $78.6 
+million.  Our working capital decreased $195.0 million from a working capital deficit of $200.0 million at December 31, 
+2021  including  cash  and  equivalents  of  $147.4  million,  due  primarily  to  a  decrease  in  cash  balances  and  increases  in 
+accounts payable and deferred revenue, partially offset by increased accounts receivable, increased inventory balances, 
+and higher prepaid expenses. To date, we have experienced no loss or lack of access to our cash and equivalents; however, 
+we can provide no assurances that access to our cash and equivalents will not be impacted by adverse conditions in the 
+financial  markets.   Our  strategy  in  managing  our  working  capital  is  generally  to  apply  the  cash  generated  from  our 
+operations  that  remains  after  satisfying  our  working  capital  and  capital  expenditure  requirements,  along  with  share 
+repurchase and dividend programs, to reduce the unhedged portion of our indebtedness under our Credit Agreement and 
+to minimize our cash balances. 
+
+Investing Activities Cash Flows 
+
+Net cash used in investing activities increased $1.394 billion to $3.087 billion for the year ended December 31, 2022, 
+from  $1.693  billion  for  the  year  ended  December  31,  2021. The  significant  components  of  the  increase  included  the 
+following: 
+
+1) An increase in cash paid for acquisitions of $1.246 billion;
+2) An  increase  in  capital  expenditures  at  operations  owned  in  the  comparable  periods  of  $103.5  million  due  to
+
+increases in land and buildings and landfill site costs; and
+
+3) An increase in capital expenditures at operations acquired during the comparative periods of $64.9  million due
+
+to expenditures for landfill site costs, trucks, equipment and containers; less
+
+4) A  decrease  in  cash  paid  for  investments  in  noncontrolling  interests  of  $25.0  million  resulting  from  a  2021
+
+expenditure that did not reoccur in 2022; and
+
+5) A decrease in proceeds from disposal of assets of $12.1 million due to lower disposal of non-strategic assets to
+
+provide funding toward new capital expenditures.
+
+Financing Activities Cash Flows 
+
+Net cash provided by financing activities increased $1.528 billion to $1.028 billion for the year ended December 31, 
+2022, from net cash used in financing activities of $499.5 million for the year ended December 31, 2021. The significant 
+components of the increase included the following: 
+
+1) An  increase  from  the  net  change  in  long-term  borrowings  of  $1.522  billion  in  which  long-term  borrowings
+increased $1.745 billion during the year ended December 31, 2022 and increased $222.2 million during the year
+ended December 31, 2021; and
+
+2) An increase from premiums paid on early extinguishment of debt of $110.6 million resulting from the repayment
+in September 2021 of all of our outstanding senior notes under our master note purchase agreements; less
+
+3) A decrease from higher payments to repurchase our common shares of $86.0 million due to an increased volume
+
+of shares repurchased; and
+
+4) A decrease from higher cash dividends paid of $22.8 million due primarily to an increase in our average quarterly
+dividend rate for the year ended December 31, 2022 to $0.236 per share, from $0.211 per share for the year ended
+December 31, 2021.
+
+On July 26, 2022, our Board of Directors approved, subject to receipt of regulatory approvals, the annual renewal of 
+our  normal  course  issuer  bid,  or  the  NCIB,  to  purchase  up  to  12,859,066  of  our  common  shares  during  the  period  of 
+August 10,  2022  to  August 9,  2023  or  until  such  earlier  time  as  the  NCIB  is  completed  or  terminated  at  our  option. 
+Shareholders may obtain a copy of our TSX Form 12 – Notice of Intention to Make a Normal Course Issuer Bid, without 
+charge, by request directed to our Executive Vice President and Chief Financial Officer at (832) 442-2200.  The timing 
+and amounts of any repurchases pursuant to the NCIB will depend on many factors, including our capital structure, the 
+market price of our common shares and overall market conditions. All common shares purchased under the NCIB will be 
+immediately cancelled following their repurchase. Information regarding our NCIB plan can be found under the section 
+Normal Course Issuer Bid in Note 14, “Shareholders’ Equity,”  of our consolidated financial statements included in Item 8 
+of this Annual Report on Form 10-K and is incorporated herein by reference. 
+
+18 
+
+The Board of Directors of the Company authorized the initiation of a quarterly cash dividend in October 2010 and has 
+increased  it  on  an  annual  basis.  In  November  2022,  we  announced  that  our  Board  of  Directors  increased  our  regular 
+quarterly cash dividend by $0.025, from $0.230 to $0.255 per share. Cash dividends of $243.0 million and $220.2 million 
+were paid during the years ended December 31, 2022 and 2021, respectively. We cannot assure as to the amounts or timing 
+of future dividends. 
+
+We made $882.0 million in capital expenditures for property and equipment, net of proceeds from disposal of assets, 
+during the year ended December 31, 2022, and we expect to make total capital expenditures for property and equipment 
+of $895 million in 2023, net of proceeds from disposal of assets.  We intend to fund our planned 2023 capital expenditures 
+principally through cash on hand, internally generated funds and borrowings under our Credit Agreement. In addition, we 
+may make substantial additional capital expenditures in acquiring land and solid waste businesses. If we acquire additional 
+landfill  disposal  facilities,  we  may  also  have  to  make  significant  expenditures  to  bring  them  into  compliance  with 
+applicable  regulatory  requirements,  obtain  permits  or  expand  our  available  disposal  capacity.  We  cannot  currently 
+determine the amount of these expenditures because they will depend on the number, nature, condition and permitted status 
+of any acquired landfill disposal facilities. We believe that our cash and equivalents, Credit Agreement and the funds we 
+expect to generate from operations will provide adequate cash to fund our working capital and other cash needs for the 
+foreseeable future. However, disruptions in the capital and credit markets could adversely affect our ability to draw on our 
+Credit Agreement or raise other capital. Our access to funds under the Credit Agreement is dependent on the ability of the 
+banks that are parties to the agreement to meet their funding commitments. Those banks may not be able to meet their 
+funding  commitments  if  they  experience  shortages  of  capital  and  liquidity  or  if  they  experience  excessive  volumes  of 
+borrowing requests within a short period of time. 
+
+We have a revolving credit and term loan agreement (as amended, restated, amended and restated, supplemented or 
+otherwise modified from time to time, the “Credit Agreement”)  with Bank of America, N.A., acting through its Canada 
+Branch, as the global agent, the swing line lender and a letter of credit issuer, Bank of America, N.A., as the U.S. Agent 
+and a letter of credit issuer, the other lenders named therein (the “Lenders”)  and any other financial institutions from time 
+to  time  party  thereto.  There  are  no  subsidiary  guarantors  under  the  Credit  Agreement.  The  Credit  Agreement  has  a 
+scheduled maturity date of July 30, 2026, which may be extended further upon agreement by Lenders holding at least 50% 
+of the commitments and credit extensions outstanding, with respect to their respective commitments and credit extensions 
+outstanding.  Any Lender that does not agree to an extension of the maturity date shall not be so extended with respect to 
+their commitments and credit extensions.  
+
+As of December 31, 2022, $650.0 million under the term loan and $614.7 million under the revolving credit facility 
+were outstanding under the Credit Agreement, exclusive of outstanding standby letters of credit of $41.8 million. We also 
+had $85.3 million of letters of credit issued and outstanding at December 31, 2022 under a facility other than the Credit 
+Agreement.  We did not have any amounts outstanding under our master note purchase agreements. 
+
+Pursuant to the terms and conditions of a Master Note Purchase Agreement dated as of June 1, 2016 (as amended, 
+restated, amended and restated, supplemented or otherwise modified from time to time, the “2016 NPA”)  between us and 
+certain accredited institutional investors, we issued senior unsecured notes (the “2016 Private Placement Notes”)  consisting 
+of (i)  $150.0 million of senior notes due June 1, 2021 (the “June 2021 Private Placement Notes”) , (ii)  $200.0 million of 
+senior notes due June 1, 2023, (iii) $150.0 million of senior notes due April 20, 2024, (iv) $400.0 million of senior notes 
+due June 1, 2026 and (v) $250.0 million of senior notes due April 20, 2027.  
+
+Pursuant to the terms and conditions of a Master Note Purchase Agreement dated as of July 15, 2008 (as amended, 
+restated,  amended  and  restated,  assumed,  supplemented  or  otherwise  modified  from  time  to  time,  the  “2008  NPA”)  
+between us and certain accredited institutional investors, we issued senior unsecured notes (the “2008 Private Placement 
+Notes” and together with the 2016 Private Placement Notes, the “Private Placement Notes”)  consisting of (i)  $100.0 million 
+of senior notes due  April 1, 2021 (the  “April 2021 Private Placement Notes” and together  with the  June  2021 Private 
+Placement Notes, the “2021 Private Placement Notes”) , (ii)  $125.0 million of senior notes due August 20, 2022 and (iii)  
+$375.0 million of senior notes due August 20, 2025.  
+
+We repaid at maturity the 2021 Private Placement Notes and repaid the other Private Placement Notes in connection 
+
+with the Offering (defined below) in September 2021.  
+
+19 
+
+On November 16, 2018, we completed an underwritten public offering of $500.0 million aggregate principal amount 
+of our 4.25% Senior Notes due December 1, 2028 (the “2028 Senior Notes”) . The 2028 Senior Notes were issued under 
+the Indenture, dated as of November 16, 2018 (as amended, restated, amended and restated, supplemented or otherwise 
+modified from time to time, the “Indenture”) , by and between the Company and U.S. Bank National Association, as trustee 
+(the “Trustee”) , as supplemented through the First Supplemental Indenture, dated as of November 16, 2018. 
+
+On April 16, 2019, we completed an underwritten public offering of $500.0 million aggregate principal amount of our 
+3.50% Senior Notes due May 1, 2029 (the “2029 Senior Notes”) . The 2029 Senior Notes were issued under the Indenture, 
+as supplemented through the Second Supplemental Indenture, dated as of April 16, 2019. 
+
+On January 23, 2020, we completed an underwritten public offering of $600.0 million aggregate principal amount of 
+2.60%  Senior  Notes  due  February  1,  2030  (the  “2030  Senior  Notes”) .  The  2030  Senior  Notes  were  issued  under  the 
+Indenture, as supplemented through the Third Supplemental Indenture, dated as of January 23, 2020. 
+
+On March 13, 2020, we completed an underwritten public offering of $500.0 million aggregate principal amount of 
+3.05% Senior Notes due April 1, 2050 (the “2050 Senior Notes”) . The 2050 Senior Notes were issued under the Indenture, 
+as supplemented through the Fourth Supplemental Indenture, dated as of March 13, 2020. 
+
+On September 20, 2021, we completed an underwritten public offering (the “Offering”)  of $650.0 million aggregate 
+principal amount of 2.20% Senior Notes due January 15, 2032 (the “2032 Senior Notes”)  and $850.0 million aggregate 
+principal amount of 2.95% Senior Notes due January 15, 2052 (the “2052 Senior Notes”) .  The 2032 Senior Notes and the 
+2052 Senior Notes were issued under the Indenture, as supplemented through the Fifth Supplemental Indenture, dated as 
+of September 20, 2021. 
+
+In connection with the Offering, we exercised our right to repay the $1.500 billion of Private Placement Notes then 
+outstanding governed by the 2008 NPA and the 2016 NPA.  We repaid the Private Placement Notes then outstanding, 
+including the $110.6 million make-whole premium, with the net proceeds from the Offering and borrowings under the 
+revolving  credit  facility  provided  under  our  Credit  Agreement.    We  recorded  $115.3  million  to  Loss  on  early 
+extinguishment of debt during the year ended December 31, 2021 due to the repayment of the Private Placement Notes 
+and associated make-whole premium and related fees. 
+
+On March 9, 2022, we completed an underwritten public offering of $500.0 million aggregate principal amount of 
+3.20% Senior Notes due June 1, 2032 (the “New 2032 Senior Notes”) . The New 2032 Senior Notes were issued under the 
+Indenture, as supplemented through the Sixth Supplemental Indenture, dated as of March 9, 2022. 
+
+On August 18, 2022, we completed an underwritten public offering of $750.0 million aggregate principal amount of 
+4.20% Senior Notes due January 15, 2033 (the “2033 Senior Notes” and, together with the 2028 Senior Notes, the 2029 
+Senior Notes, the 2030 Senior Notes, the 2032 Senior Notes, the New 2032 Senior Notes, the 2050 Senior Notes and the 
+2052 Senior Notes, the “Senior Notes”). The 2033 Senior Notes were issued under the Indenture, as supplemented through 
+the Seventh Supplemental Indenture, dated as of August 18, 2022. 
+
+We pay interest on the Senior Notes semi-annually in arrears.  The Senior Notes are our senior unsecured obligations, 
+ranking  equally  in  right  of  payment  with  our  existing  and  future  unsubordinated  debt  and  senior  to  any  of  our  future 
+subordinated debt.  The Senior Notes are not guaranteed by any of our subsidiaries. 
+
+On October 31, 2022, we, as borrower, Bank of America, N.A., as administrative agent, and the other lenders from 
+time to time party thereto (the “New TL Lenders”)  entered into that certain Term Loan Agreement (as amended, restated, 
+supplemented or otherwise  modified from time to time, the “Term Loan Agreement”) , pursuant to which the New TL 
+Lenders  made  loans  to  us  in  an  aggregate  stated  principal  amount  of  $800.0  million.  We  used  substantially  all  of  the 
+proceeds  of  borrowings  under  the  Term  Loan  Agreement  to  repay  revolving  borrowings  under  the  Credit  Agreement.  
+Amounts  borrowed  under  the  Term  Loan  Agreement  and  repaid  or  prepaid  may  not  be  reborrowed.    The  Term  Loan 
+Agreement has a scheduled maturity date of July 30, 2026. 
+
+20
+
+See  Note 11  to  the  consolidated  financial  statements  included  in  Item 8  of  this  Annual  Report  on  Form 10-K  for 
+
+further details on the debt agreements. 
+
+Contractual Obligations 
+
+As of December 31, 2022, we had the following contractual obligations: 
+
+Recorded Obligations 
+Long-term debt 
+Cash interest payments 
+Contingent consideration 
+Operating leases 
+Final capping, closure and post-closure 
+
+Long-term debt payments include: 
+
+Payments Due by Period 
+(amounts in thousands of U.S. dollars) 
+1 to 3 
+Years 
+
+Less Than 
+1 Year 
+
+3 to 5 Years 
+
+Over 5 
+Years 
+
+Total 
+
+$  6,963,401  $ 
+ 6,759  $   17,748  $  2,076,331  $  4,862,563 
+$  2,516,432  $  256,586  $  523,604  $   379,935  $  1,356,307 
+ 32,241 
+$ 
+ 3,224  $ 
+ 3,224  $ 
+ 41,845  $ 
+$   230,784  $   40,499  $   59,390  $ 
+ 89,050 
+ 12,945  $  1,565,334 
+$  1,627,130  $   11,926  $   36,925  $ 
+
+ 98,781  $   60,092  $ 
+
+1) $614.7 million in principal payments due July 2026 related to our revolving credit facility under our Credit
+Agreement. Advances are available under the Credit Agreement in U.S. dollars and Canadian dollars and
+bear interest at fluctuating rates (See Note 11). At December 31, 2022, $391.0 million of the outstanding
+borrowings drawn under the revolving credit facility were in U.S. Term SOFR rate loans, bearing interest at
+a total rate of 5.42% on such date.  At December 31, 2022, $223.7 million of the outstanding borrowings
+drawn under the revolving credit facility were in Canadian-based bankers’ acceptances, bearing interest at a
+total rate of 5.74% on such date.
+
+2) $650.0 million in principal payments due July 2026 related to our term loan under our Credit Agreement.
+Outstanding amounts on the term loan can be either base rate loans or Term SOFR loans. At December 31,
+2022, all amounts outstanding under the term loan were in Term SOFR loans which bear interest at the Term
+SOFR rate plus the applicable margin (for a total rate of 5.42% on such date).
+
+3) $800.0 million in principal payments due July 2026 related to our term loan under our Term Loan Agreement.
+Outstanding amounts on the term loan can be either base rate loans or Term SOFR loans. At December 31,
+2022, all amounts outstanding under the term loan were in Term SOFR loans which bear interest at the Term
+SOFR rate plus the applicable margin (for a total rate of 5.42% on such date).
+
+4) $500.0 million in principal payments due 2028 related to our 2028 Senior Notes. The 2028 Senior Notes bear
+
+interest at a rate of 4.25%.
+
+5) $500.0 million in principal payments due 2029 related to our 2029 Senior Notes. The 2029 Senior Notes bear
+
+interest at a rate of 3.50%.
+
+6) $600.0 million in principal payments due 2030 related to our 2030 Senior Notes. The 2030 Senior Notes bear
+
+interest at a rate of 2.60%.
+
+7) $650.0 million in principal payments due 2032 related to our 2032 Senior Notes. The 2032 Senior Notes bear
+
+interest at a rate of 2.20%.
+
+8) $500.0 million in principal payments due 2032 related to our New 2032 Senior Notes. The New 2032 Senior
+
+Notes bear interest at a rate of 3.20%.
+
+9) $750.0 million in principal payments due 2033 related to our 2033 Senior Notes. The 2033 Senior Notes bear
+
+interest at a rate of 4.20%.
+
+21 
+
+10) $500.0 million in principal payments due 2050 related to our 2050 Senior Notes. The 2050 Senior Notes bear
+
+interest at a rate of 3.05%.
+
+11) $850.0 million in principal payments due 2052 related to our 2052 Senior Notes. The 2052 Senior Notes bear
+
+interest at a rate of 2.95%.
+
+12) $37.2 million in principal payments related to our notes payable to sellers and other third parties. Our notes
+payable to sellers and other third parties bear interest at rates between 2.42% and 10.35% at December 31,
+2022, and have maturity dates ranging from 2024 to 2036.
+
+13) $11.5 million in principal payments related to our financing leases.  Our financing leases bear interest at rates
+between 1.89% and 2.16% at December 31, 2022, and have expiration dates ranging from 2026 to 2027.
+
+The following assumptions were made in calculating cash interest payments: 
+
+1) We calculated cash interest payments on the Credit Agreement using the Term SOFR rate plus the applicable
+Term SOFR margin, the base rate plus the applicable base rate margin, the Canadian Dollar Offered Rate
+plus  the  applicable  acceptance  fee  and  the  Canadian  prime  rate  plus  the  applicable  prime  rate  margin  at
+December 31, 2022. We assumed the Credit Agreement is paid off when it matures in July 2026.
+
+2) We  calculated  cash  interest  payments  on  the  Term  Loan  Agreement  using  the  Term  SOFR  rate  plus  the
+applicable Term SOFR margin at December 31, 2022. We assumed the Term Loan Agreement is paid off
+when it matures in July 2026.
+
+3) We calculated cash interest payments  on our interest rate swaps using the stated interest rate in the swap
+agreement less the Term SOFR rate through the earlier expiration of the term of the swaps or the term of the
+credit facility.
+
+Contingent  consideration  payments  include  $81.4  million  recorded  as  liabilities  in  our  consolidated  financial 
+statements at December 31, 2022, and $17.4 million of future interest accretion on the recorded obligations. 
+
+We are party to operating lease agreements and finance leases as discussed in Note 7 to the consolidated financial 
+statements included in Item 8 of this Annual Report on Form 10-K. These lease agreements are established in the 
+ordinary  course  of  our  business  and  are  designed  to  provide  us  with  access  to  facilities  and  equipment  at 
+competitive, market-driven prices.  
+
+The estimated final capping, closure and post-closure expenditures presented above are in current dollars. 
+
+Unrecorded Obligations(1) 
+Unconditional purchase obligations 
+
+Amount of Commitment Expiration Per Period 
+(amounts in thousands of U.S. dollars) 
+3 to 5 
+Years 
+
+Less Than 
+1 Year 
+$  184,918   $  149,858   $  35,060   $ 
+
+1 to 3 
+Years 
+
+ —   $ 
+
+Total 
+
+Over 5 
+Years 
+ — 
+
+(1) We  are  party  to  unconditional  purchase  obligations  as  discussed  in  Note  13  to  the  consolidated  financial
+statements included in Item 8 of this Annual Report on Form 10-K. These purchase obligations are established in
+the ordinary course of our business and are designed to provide us with access to products at competitive, market-
+driven prices. At December 31, 2022, our unconditional purchase obligations consisted of multiple fixed-price
+fuel purchase contracts under which we have 57.9 million gallons remaining to be purchased for a total of $184.9
+million. The current fuel purchase contracts expire on or before December 31, 2024. These arrangements have
+not materially affected our financial position, results of operations or liquidity during the year ended December
+31, 2022, nor are they expected to have a material impact on our future financial position, results of operations
+or liquidity.
+
+22 
+
+We have obtained standby letters of credit as discussed in Note 11 to the consolidated financial statements included 
+in Item 8 of this  Annual Report on Form 10-K and financial surety bonds as discussed  in  Note 13 to the consolidated 
+financial statements included in Item 8 of this Annual Report on Form 10-K. These standby letters of credit and financial 
+surety bonds are generally obtained to support our financial assurance needs and landfill and E&P waste operations. These 
+arrangements have not materially affected our financial position, results of operations or liquidity during the year ended 
+December 31, 2022, nor are they expected to have a material impact on our future financial position, results of operations 
+or liquidity. 
+
+From time to time, we evaluate our existing operations and their strategic importance to us. If we determine that a 
+given  operating  unit  does  not  have  future  strategic  importance,  we  may  sell  or  otherwise  dispose  of  those  operations. 
+Although we believe our reporting units would not be impaired by such dispositions, we could incur losses on them. 
+
+New Accounting Pronouncements 
+
+See  Note 2  to  the  consolidated  financial  statements  included  in  Item 8  of  this  Annual  Report on  Form 10-K  for  a 
+
+description of the new accounting standards that are applicable to us. 
+
+Non-GAAP Financial Measures 
+
+Adjusted Free Cash Flow 
+
+We present adjusted free cash flow, a  non-GAAP  financial  measure, supplementally because it  is  widely  used by 
+investors as a valuation and liquidity measure in the solid waste industry. Management uses adjusted free cash flow as one 
+of the principal measures to evaluate and monitor the ongoing financial performance of our operations. We define adjusted 
+free cash flow as net cash provided by operating activities, plus or minus change in book overdraft, plus proceeds from 
+disposal of assets, less capital expenditures for property and equipment and distributions to noncontrolling interests. We 
+further adjust this calculation to exclude the effects of items management believes impact the ability to assess the operating 
+performance of our business. This measure is not a substitute for, and should be used in conjunction with, GAAP liquidity 
+or financial measures. Other companies may calculate adjusted free cash flow differently. Our adjusted free cash flow for 
+the years ended December 31, 2022, 2021 and 2020, are calculated as follows (amounts in thousands of U.S. dollars): 
+
+Net cash provided by operating activities 
+Plus (less): Change in book overdraft 
+Plus: Proceeds from disposal of assets 
+Less: Capital expenditures for property and equipment 
+Adjustments: 
+
+Payment of contingent consideration recorded in earnings (a) 
+Cash received for divestitures (b) 
+Transaction-related expenses (c) 
+Pre-existing Progressive Waste share-based grants (d) 
+Tax effect (e) 
+
+Adjusted free cash flow 
+
+2022 
+
+Years Ended December 31,  
+2021 
+$  2,022,492  $  1,698,229  $  1,408,521 
+1,096
+19,084
+ (597,053) 
+
+(367) 
+ 42,768 
+ (744,315)  
+
+ (1,076)  
+ 30,676 
+ (912,677)  
+
+2020 
+
+ 2,982 
+ (5,671)  
+ 30,825 
+ 286 
+ (2,993)  
+
+ 10,371 
+ (10,673) 
+ 9,803 
+ 5,770 
+ (5,021) 
+$  1,164,844  $  1,009,598  $   841,898 
+
+ 520 
+ (17,118)  
+ 30,771 
+ 397 
+ (1,287)  
+
+(a) Reflects the addback of acquisition-related payments for contingent consideration that were recorded as expenses in earnings
+and as a component of cash flows from operating activities as the amounts paid exceeded the fair value of the contingent
+consideration recorded at the acquisition date.
+
+(b) Reflects the elimination of cash received in conjunction with the divestiture of certain operations.
+(c) Reflects the addback of acquisition-related transaction costs and the settlement of an acquired tax liability.
+(d) Reflects the cash settlement of pre-existing Progressive Waste share-based awards during the period.
+(e) The aggregate tax effect of footnotes (a) through (d) is calculated based on the applied tax rates for the respective periods.
+
+23 
+
+Adjusted EBITDA 
+
+We present adjusted EBITDA, a non-GAAP financial measure, supplementally because it is widely used by investors 
+as a performance and valuation measure in the solid waste industry. Management uses adjusted EBITDA as one of the 
+principal  measures  to  evaluate  and  monitor  the  ongoing  financial  performance  of  our  operations.  We  define  adjusted 
+EBITDA as net income attributable to Waste Connections, plus or minus net income (loss) attributable to noncontrolling 
+interests,  plus  income  tax  provision,  plus  interest  expense,  less  interest  income,  plus  depreciation  and  amortization 
+expense,  plus  closure  and  post-closure  accretion  expense,  plus  or  minus  any  loss  or  gain  on  impairments  and  other 
+operating items, plus other expense, less other income, plus loss on early extinguishment of debt. We further adjust this 
+calculation  to  exclude  the  effects  of  other  items  management  believes  impact  the  ability  to  assess  the  operating 
+performance of our business. This measure is not a substitute for, and should be used in conjunction with, GAAP financial 
+measures.  Other  companies  may  calculate  adjusted  EBITDA  differently.  Our  adjusted  EBITDA  for  the years  ended 
+December 31, 2022, 2021 and 2020, are calculated as follows (amounts in thousands of U.S. dollars): 
+
+2022 
+
+2020 
+
+Years Ended December 31,  
+2021 
+$   835,662  $   618,047  $   204,677 
+ (685) 
+ 49,922 
+ 162,375 
+ (5,253) 
+ 752,404 
+ 15,095 
+ 466,718 
+ 1,392 
+ — 
+
+ 442 
+ 152,253 
+ 162,796 
+ (2,916)  
+ 813,009 
+ 14,497 
+ 32,316 
+ (6,285)  
+ 115,288 
+
+ 339 
+ 212,962 
+ 202,331 
+ (5,950)  
+ 918,960 
+ 16,253 
+ 18,230 
+ (3,154)  
+ — 
+
+ 24,933 
+ 86 
+
+ 9,803 
+ 5,536 
+$  2,220,652  $  1,919,158  $  1,661,984 
+
+ 11,318 
+ 8,393 
+
+Net income attributable to Waste Connections 
+Plus (less): Net income (loss) attributable to noncontrolling interests 
+Plus: Income tax provision 
+Plus: Interest expense 
+Less: Interest income 
+Plus: Depreciation and amortization 
+Plus: Closure and post-closure accretion 
+Plus: Impairments and other operating items 
+Plus (less): Other expense (income), net 
+Plus: Loss on early extinguishment of debt 
+Adjustments: 
+
+Plus: Transaction-related expenses (a) 
+Plus: Fair value changes to equity awards (b) 
+
+Adjusted EBITDA 
+
+(a) Reflects the addback of acquisition-related transaction costs.
+(b) Reflects fair value accounting changes associated with certain equity awards.
+
+24 
+
+Adjusted Net Income Attributable to Waste Connections and Adjusted Net Income per Diluted Share Attributable to Waste 
+Connections 
+
+We  present  adjusted  net  income  attributable  to  Waste  Connections  and  adjusted  net  income  per  diluted  share 
+attributable to Waste Connections, both non-GAAP financial measures, supplementally because they are widely used by 
+investors as a valuation measure in the solid waste industry. Management uses adjusted net income attributable to Waste 
+Connections and adjusted net income per diluted share attributable to Waste Connections as one of the principal measures 
+to evaluate and monitor the ongoing financial performance of our operations. We provide adjusted net income attributable 
+to Waste Connections to exclude the effects of items management believes impact the comparability of operating results 
+between periods. Adjusted net income attributable to Waste Connections has limitations due to the fact that it excludes 
+items that have an impact on our financial condition and results of operations. Adjusted net income attributable to Waste 
+Connections and adjusted net income per diluted share  attributable to Waste  Connections are  not a substitute  for, and 
+should be used in conjunction with, GAAP financial measures. Other companies may calculate these non-GAAP financial 
+measures differently. Our adjusted net income attributable to Waste Connections and adjusted net income per diluted share 
+attributable  to  Waste  Connections  for  the years  ended  December 31,  2022,  2021  and  2020,  are  calculated  as  follows 
+(amounts in thousands of U.S. dollars, except per share amounts): 
+
+Reported net income attributable to Waste Connections 
+Adjustments: 
+
+Amortization of intangibles (a) 
+Impairments and other operating items (b) 
+Transaction-related expenses (c) 
+Fair value changes to equity awards (d) 
+Loss on early extinguishment of debt (e) 
+Tax effect (f) 
+Tax items (g) 
+
+Adjusted net income attributable to Waste Connections 
+
+2022 
+$  835,662 
+
+Years Ended December 31,  
+2021 
+$  618,047 
+
+2020 
+$   204,677 
+
+ 155,675 
+ 18,230 
+ 24,933 
+ 86 
+ — 
+ (49,312)  
+ — 
+$  985,274 
+
+ 139,279 
+ 32,316 
+ 11,318 
+ 8,393 
+ 115,288 
+ (78,041)  
+ — 
+$  846,600 
+
+ 131,302 
+ 466,718 
+ 9,803 
+ 5,536 
+ — 
+ (153,758) 
+ 31,508 
+$   695,786 
+
+Diluted earnings per common share attributable to Waste Connections’ 
+common shareholders: 
+Reported net income 
+Adjusted net income 
+
+$ 
+$ 
+
+ 3.24 
+ 3.82 
+
+$ 
+$ 
+
+ 2.36 
+ 3.23 
+
+$ 
+$ 
+
+ 0.78 
+ 2.64 
+
+(a) Reflects the elimination of the non-cash amortization of acquisition-related intangible assets.
+(b) Reflects adjustments for impairments and other operating items.
+(c) Reflects the addback of acquisition-related transaction costs.
+(d) Reflects fair value accounting changes associated with certain equity awards.
+(e) Reflects the make-whole premium and related fees associated with the early termination of $1.5 billion in senior notes.
+(f) The aggregate tax effect of the adjustments in footnotes (a) through (e) is calculated based on the applied tax rates for the
+
+(g)
+
+respective periods.
+In 2020, reflects the impact of a portion of our 2019 inter-entity payments no longer being deductible for tax purposes due to the
+finalization of tax regulations on April 7, 2020 under Internal Revenue Code Section 267A and an increase in deferred tax liabilities 
+resulting from the E&P impairment.
+
+Leverage Ratio 
+
+The Leverage Ratio is calculated by dividing our Consolidated Total Funded Debt by Consolidated EBITDA (each as 
+defined substantially identically in our Credit Agreement and Term Loan Agreement). The Leverage Ratio is based on 
+EBITDA, a non-GAAP financial measure. We present this ratio because it is used for the purposes of calculating financial 
+covenants under our Credit Agreement and Term Loan Agreement. Management also uses this ratio as one of the principal 
+measures to evaluate and monitor the indebtedness of the Company relative to its ability to generate income to service 
+such debt. The Leverage Ratio is not a substitute for, and should be used in conjunction with, GAAP financial ratios. Other 
+companies may calculate leverage ratios differently. 
+
+25 
+
+Inflation 
+
+In the current environment, we have seen inflationary pressures resulting from higher fuel, materials and labor costs 
+in certain markets and higher resulting third-party costs in areas such as brokerage, repairs and construction.  Consistent 
+with industry practice, many of our contracts allow us to pass through certain costs to our customers, including increases 
+in landfill tipping fees and, in some cases, fuel costs.  To the extent that there are decreases in fuel costs, in some cases, a 
+portion of these reductions are passed through to customers in the form of lower fuel and material surcharges. Therefore, 
+we believe that we should be able to increase prices to offset many cost increases that result from inflation in the ordinary 
+course of business. However, competitive pressures or delays in the timing of rate increases under certain of our contracts 
+may require us to absorb at least part of these cost increases, especially if cost increases exceed the average rate of inflation. 
+Management’s estimates associated with inflation have an impact on our accounting for landfill liabilities. 
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+In the normal course of business, we are exposed to market risk, including changes in interest rates, prices of certain 
+commodities and foreign currency exchange rate risks. We use hedge agreements to manage a portion of our risks related 
+to  interest  rates.  While  we  are  exposed  to  credit  risk  in  the  event  of  non-performance  by  counterparties  to  our  hedge 
+agreements,  in  all  cases  such  counterparties  are  highly  rated  financial  institutions  and  we  do  not  anticipate  non-
+performance  under  current  market  conditions.  We  do  not  hold  or  issue  derivative  financial  instruments  for  trading 
+purposes. We monitor our hedge positions by regularly evaluating the positions at market and by performing sensitivity 
+analyses over the unhedged variable rate debt positions.  
+
+At December 31, 2022, our derivative instruments included five interest rate swap agreements that effectively fix the 
+interest rate on the applicable notional amounts of our variable rate debt as follows (dollars in thousands of U.S. dollars): 
+
+Date Entered (b) 
+August 2017 
+August 2017 
+June 2018 
+June 2018 
+December 2018 
+
+Notional 
+Amount 
+$   200,000 
+$   150,000 
+$   200,000 
+$   200,000 
+$   200,000 
+
+Fixed 
+Interest 
+  Rate Paid(a)  
+
+Variable 
+Interest Rate 
+Received 
+
+Effective Date 
+
+Expiration Date 
+ 2.1230 %   1-month Term SOFR  November 2022    October 2025 
+ 1.7720 %   1-month Term SOFR  November 2022    February 2023 
+ 2.8480 %   1-month Term SOFR  November 2022    October 2025 
+ 2.8284 %   1-month Term SOFR  November 2022    October 2025 
+ 2.7715 %   1-month Term SOFR  November 2022    July 2027 
+
+(a) Plus applicable margin.
+(b)
+
+In October 2022, we amended the reference rate in all of our outstanding interest rate swap contracts to replace One-Month
+LIBOR with One-Month Term SOFR and certain credit spread adjustments. We did not record any gains or losses upon the
+conversion  of  the  reference  rates  in  these  interest  rate  swap  contracts,  and  we  believe  these  amendments  will  not  have  a
+material impact on our consolidated financial statements.
+
+On September 28, 2020, we terminated four of our interest rate swaps with notional amounts totaling $400.0 million, 
+which  would  have  expired  in  January  2021.    As  a  result  of  terminating  these  interest  rate  swaps,  we  made  total  cash 
+payments of $0.9 million to the counterparties of the swap agreements. 
+
+Under derivatives and hedging guidance, the interest rate  swap agreements are considered cash flow  hedges for a 
+portion of our variable rate debt, and we apply hedge accounting to account for these instruments. The notional amounts 
+and all other significant terms of the swap agreements are matched to the provisions and terms of the variable rate debt 
+being hedged. 
+
+We  have  performed  sensitivity  analyses  to  determine  how  market  rate  changes  will  affect  the  fair  value  of  our 
+unhedged  floating  rate  debt.  Such  an  analysis  is  inherently  limited  in  that  it  reflects  a  singular,  hypothetical  set  of 
+assumptions.  Actual  market  movements  may  vary  significantly  from  our  assumptions.  Fair  value  sensitivity  is  not 
+necessarily  indicative  of  the  ultimate  cash  flow  or  earnings  effect  we  would  recognize  from  the  assumed  market  rate 
+movements. We are exposed to cash flow risk due to changes in interest rates with respect to the unhedged floating rate 
+balances owed at December 31, 2022 and 2021, of $1.115 billion and $603.9 million, respectively, including floating rate 
+
+26 
+
+debt under our Credit Agreement and Term  Loan  Agreement.  A one percentage  point increase in interest rates on our 
+variable-rate debt as of December 31, 2022 and 2021, would decrease our annual pre-tax income by approximately $11.1 
+million and $6.0 million, respectively. All of our remaining debt instruments are at fixed rates, or effectively fixed under 
+the  interest  rate  swap  agreements  described  above;  therefore,  changes  in  market  interest  rates  under  these  instruments 
+would not significantly impact our cash flows or results of operations, subject to counterparty default risk. 
+
+The market price of diesel fuel is unpredictable and can fluctuate significantly. Because of the  volume of fuel  we 
+purchase each year, a significant increase in the price of fuel could adversely affect our business and reduce our operating 
+margins. To manage a portion of this risk, we periodically enter into fuel hedge agreements related to forecasted diesel 
+fuel purchases, and we also enter into fixed price fuel purchase contracts. At December 31, 2022, we had no fuel hedge 
+agreements in place; however, we have entered into fixed price diesel fuel purchase contracts for 2023 as described below. 
+
+For the year ending December 31, 2023, we expect to purchase approximately 89.2 million gallons of diesel fuel, of 
+which 47.1 million gallons will be purchased at market prices and 42.1 million gallons will be purchased under our fixed 
+price diesel fuel purchase contracts. We have performed sensitivity analyses to determine how market rate changes will 
+affect the fair value of our unhedged, market rate diesel fuel purchases. Such an analysis is inherently limited in that it 
+reflects  a  singular,  hypothetical  set  of  assumptions.  Actual  market  movements  may  vary  significantly  from  our 
+assumptions.  Fair  value  sensitivity  is  not  necessarily  indicative  of  the  ultimate  cash  flow  or  earnings  effect  we  would 
+recognize from the assumed market rate movements. With respect to the approximately 47.1 million gallons of unhedged 
+diesel fuel we expect to purchase in 2023 at market prices, a $0.10 per gallon increase in the price of diesel fuel over 
+the year would decrease our pre-tax income during this period by approximately $4.7 million. 
+
+We  market a  variety of recyclable  materials,  including  compost,  cardboard, mixed paper, plastic containers, glass 
+bottles  and  ferrous  and  aluminum  metals.  We  own  and  operate  recycling  operations  and  market  collected  recyclable 
+materials to third parties for processing before resale. Where possible, to reduce our exposure to commodity price risk 
+with  respect  to  recycled  materials,  we  have  adopted  a  pricing  strategy  of  charging  collection  and  processing  fees  for 
+recycling volume collected from third parties. In the event of a decline in recycled commodity prices, a 10% decrease in 
+average recycled commodity prices from the average prices that were in effect during the years ended December 31, 2022 
+and 2021, would have had a $19.7 million and $19.6 million impact on revenues for the years ended December 31, 2022 
+and 2021, respectively. 
+
+We have operations in Canada and, where significant, we have quantified and described the impact of foreign currency 
+translation on components of income, including operating revenue and operating costs. However, the impact of foreign 
+currency has not materially affected our results of operations in 2022 or 2021. A $0.01 change in the Canadian dollar to 
+U.S. dollar exchange rate would impact our annual revenue and EBITDA by approximately $13.0 million and $5.0 million, 
+respectively. 
+
+27

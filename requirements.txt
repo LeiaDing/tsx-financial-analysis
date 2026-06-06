@@ -1,0 +1,15 @@
+yfinance==0.2.54
+pandas==2.2.2
+numpy==1.26.4
+pdfminer.six==20231228
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-openai==0.2.0
+langchain-huggingface==0.1.0
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+scikit-learn==1.5.1
+streamlit==1.38.0
+python-dotenv==1.0.1
+requests==2.32.3
+anthropic>=0.40.0

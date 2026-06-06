@@ -1,0 +1,3169 @@
+# Kinaxis Inc.
+# 来源：Annual MD&A - English.pdf (23ae3f0d51eaf154)
+
+Kinaxis	Inc.
+Management’s	discussion	and	analysis	
+for	the	year	ended	December	31,	2022
+
+March	1,	2023
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Unless	 the	 context	 requires	 otherwise,	 all	 references	 in	 this	 management’s	 discussion	 and	 analysis	 (the	 “MD&A”)	 to	
+“Kinaxis”,	“we”,	“us”,	“our”	and	the	“Company”	refer	to	Kinaxis	Inc.	and	its	subsidiaries	as	constituted	on	December	31,	
+2022.	This	MD&A	has	been	prepared	with	an	effective	date	of	March	1,	2023.
+
+This	MD&A	for	the	year	ended	December	31,	2022	should	be	read	in	conjunction	with	our	annual	audited	consolidated	
+financial	 statements	 and	 the	 related	 notes	 thereto	 as	 at	 and	 for	 the	 year	 ended	 December	 31,	 2022.	 The	 financial	
+information	 presented	 in	 this	 MD&A	 is	 derived	 from	 our	 annual	 audited	 consolidated	 financial	 statements	 prepared	 in	
+accordance	with	International	Financial	Reporting	Standards	(IFRS)	as	issued	by	the	International	Accounting	Standards	
+Board.	 This	 MD&A	 contains	 forward-looking	 statements	 that	 involve	 risks,	 uncertainties	 and	 assumptions,	 including	
+statements	regarding	anticipated	developments	in	future	financial	periods	and	our	future	plans	and	objectives.	There	can	
+be	no	assurance	that	such	information	will	prove	to	be	accurate,	and	readers	are	cautioned	not	to	place	undue	reliance	on	
+such	forward-looking	statements.	See	“Forward-looking	statements”.
+
+This	MD&A	includes	certain	trademarks,	trade	names	and	service	marks	which	are	protected	under	applicable	intellectual	
+property	 laws	 and	 are	 the	 property	 of	 Kinaxis.	 Solely	 for	 convenience,	 our	 trademarks,	 such	 as	 “Kinaxis”	 and	
+“RapidResponse”,	may	appear	without	the	®	or	™	symbol,	but	such	references	are	not	intended	to	indicate,	in	any	way,	
+that	 we	 will	 not	 assert	 our	 rights	 to	 these	 trademarks,	 trade	 names	 and	 service	 marks	 to	 the	 fullest	 extent	 under	
+applicable	 law.	 Trademarks	 used	 in	 this	 MD&A,	 other	 than	 those	 that	 belong	 to	 Kinaxis,	 are	 the	 property	 of	 their	
+respective	owners.
+
+All	references	to	$	or	dollar	amounts	in	this	MD&A	are	to	U.S.	currency	unless	otherwise	indicated.	
+
+Additional	 information	 relating	 to	 Kinaxis	 Inc.,	 including	 the	 Company’s	 most	 recently	 completed	 Annual	 Information	
+Form,	can	be	found	on	SEDAR	at	www.sedar.com.
+
+Non-IFRS	measures	and	ratios
+
+This	MD&A	makes	reference	to	certain	non-IFRS	measures	and	ratios	such	as	“Adjusted	profit”,	“Adjusted	EBITDA”	and	
+“Adjusted	diluted	earnings	per	share”.	These	non-IFRS	measures	and	ratios	are	not	recognized,	defined	or	standardized	
+measures	 under	 IFRS.	 Our	 definition	 of	 Adjusted	 profit,	 Adjusted	 EBITDA	 and	 Adjusted	 diluted	 earnings	 per	 share	 will	
+likely	differ	from	that	used	by	other	companies	and	therefore	comparability	may	be	limited.	
+
+Adjusted	profit,	Adjusted	EBITDA	and	Adjusted	diluted	earnings	per	share	should	not	be	considered	a	substitute	for,	or	be	
+used	in	isolation	from	measures	prepared	in	accordance	with	IFRS.	These	non-IFRS	measures	and	ratios	should	be	read	in	
+conjunction	with	our	annual	audited	consolidated	financial	statements	and	the	related	notes	thereto	as	at	and	for	the	
+year	ended	December	31,	2022.	Readers	should	not	place	undue	reliance	on	non-IFRS	measures	and	ratios	and	should	
+instead	view	them	in	conjunction	with	the	most	comparable	IFRS	financial	measures.	See	the	reconciliations	of	Adjusted	
+profit,	Adjusted	EBITDA	and	Adjusted	diluted	earnings	per	share	to	the	most	comparable	IFRS	financial	measure	in	the	
+“Reconciliation	of	non-IFRS	measures	and	ratios”	section	of	this	MD&A.
+
+Forward-looking	statements
+
+This	MD&A	contains	forward-looking	statements	that	relate	to	our	current	expectations	and	views	of	future	events.	In	
+some	 cases,	 these	 forward-looking	 statements	 can	 be	 identified	 by	 words	 or	 phrases	 such	 as	 “may”,	 “will”,	 “could”,	
+“expect”,	“anticipate”,	“aim”,	“estimate”,	“plan”,	“seek”,	“believe”,	“potential”,	“predict”,	“ongoing”,	“continue”,	“is/are	
+likely	to”	or	the	negative	of	these	terms,	or	other	similar	expressions	intended	to	identify	forward-looking	statements.	
+
+Forward-looking	statements	are	intended	to	assist	readers	in	understanding	management’s	expectations	as	of	the	date	of	
+this	MD&A	and	may	not	be	suitable	for	other	purposes.	We	have	based	these	forward-looking	statements	on	our	current	
+expectations	and	projections	about	future	events	and	financial	trends	that	we	believe	may	affect	our	financial	condition,	
+results	 of	 operations,	 business	 strategy	 and	 financial	 needs.	 These	 forward-looking	 statements	 include,	 among	 other	
+things,	statements	relating	to:
+
+•
+
+•
+
+•
+
+our	expectations	about	our	revenue,	expenses	and	operations;
+
+our	expectations	about	the	benefits	of	our	acquisitions
+
+our	anticipated	cash	needs;
+
+2
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+
+•
+
+•
+
+our	 ability	 to	 protect,	 maintain	 and	 enforce	 our	 intellectual	 property	 rights,	 including	 our	 ability	 to	 defend	
+against	third	party	claims;
+
+third	party	claims	of	infringement	or	violation	of,	or	other	conflicts	with,	intellectual	property	rights	by	us;
+
+our	plans	for	and	timing	of	expansion	of	our	solutions	and	services;
+
+our	future	growth	plans	and	strategy;
+
+the	acceptance	by	our	customers	and	the	marketplace	of	new	technologies	and	solutions;
+
+our	ability	to	attract	new	customers	and	develop	and	maintain	existing	customers;
+
+our	ability	to	attract	and	retain	our	people;
+
+our	expectations	with	respect	to	advancement	in	our	technologies;
+
+our	competitive	position	and	our	expectations	regarding	competition;
+
+regulatory	developments	and	the	regulatory	environments	we	operate	in;
+
+anticipated	trends	and	challenges	in	our	business	and	the	markets	we	operate	in;
+
+expansion	of	our	partnerships;
+expectations	 relating	 to	 a	 hybrid	 office/work-from-home	 approach	 and	 results	 on	 the	 Company’s	 carbon	
+footprint;
+
+anticipated	trends,	standards	and	challenges	in	our	business	and	the	markets	we	operate	in;	and
+
+expected	impact	of	pandemics	on	the	Company’s	future	operations	and	performance.
+
+Forward-looking	 statements	 are	 based	 on	 certain	 assumptions	 and	 analyses	 made	 by	 us	 in	 light	 of	 our	 experience	 and	
+perception	of	historical	trends,	current	conditions	and	expected	future	developments	and	other	factors	we	believe	are	
+appropriate.	 Expected	 future	 developments	 include	 growth	 in	 our	 target	 market,	 an	 increase	 in	 our	 subscription	 and	
+professional	services	revenue	based	on	trends	in	customer	behavior,	increasing	sales	and	marketing	expenses,	research	
+and	 development	 expenses	 and	 general	 and	 administrative	 expenses	 based	 on	 our	 business	 plans	 and	 our	 continued	
+ability	to	realize	on	the	benefits	of	tax	credits	in	the	near	term.	Although	we	believe	that	the	assumptions	underlying	the	
+forward-looking	statements	are	reasonable,	they	may	prove	to	be	incorrect.	
+
+Whether	 actual	 results,	 performance	 or	 achievements	 will	 conform	 to	 our	 expectations	 and	 predictions	 is	 subject	 to	 a	
+number	 of	 known	 and	 unknown	 risks	 and	 uncertainties,	 including	 those	 set	 forth	 below	 under	 the	 heading	 “Risks	 and	
+Uncertainties”.	These	risks	and	uncertainties	could	cause	our	actual	results,	performance,	achievements	and	experience	
+to	differ	materially	from	the	future	expectations	expressed	or	implied	by	the	forward-looking	statements.	In	light	of	these	
+risks	and	uncertainties,	readers	should	not	place	undue	reliance	on	forward-looking	statements.	
+
+All	of	the	forward-looking	statements	in	this	MD&A	are	qualified	by	these	cautionary	statements	and	other	cautionary	
+statements	or	factors	contained	herein.	There	is	no	assurance	that	the	actual	results	or	developments	will	be	realized	or,	
+even	if	substantially	realized,	that	they	will	have	the	expected	consequences	to,	or	effects	on,	Kinaxis.
+
+The	forward-looking	statements	made	in	this	MD&A	relate	only	to	events	or	information	as	of	the	date	of	this	MD&A	and	
+are	 expressly	 qualified	 in	 their	 entirety	 by	 this	 cautionary	 statement.	 We	 do	 not	 assume	 any	 obligation	 to	 update	 or	
+revise	any	forward-looking	statements,	whether	as	a	result	of	new	information,	future	events	or	otherwise,	unless	we	are	
+required	by	law	to	do	so.
+
+Risks	and	uncertainties
+
+We	are	exposed	to	risks	and	uncertainties	in	our	business,	including	the	risk	factors	set	forth	below:
+
+Strategic	risks
+
+•
+
+•
+
+If	we’re	unable	to	develop	new	products	and	services,	sell	our	solutions	into	new	markets	or	further	penetrate	
+our	existing	markets,	our	revenue	will	not	grow	as	expected.	
+
+If	 we	 do	 not	 adequately	 scale	 our	 operations	 to	 meet	 and	 sustain	 our	 growth	 objectives,	 it	 could	 affect	 our	
+ability	to	remain	competitive	and	adversely	affect	our	business.
+
+3
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+•
+
+•
+
+•
+
+•
+
+If	we	do	not	maintain	the	compatibility	of	our	solutions	with	third	party	applications	that	our	customers	use	in	
+their	business	processes,	demand	for	our	solutions	could	decline.
+
+If	we’re	unable	to	 assess	and	adapt	to	rapid	technological	developments,	it	could	impair	our	ability	 to	remain	
+competitive.
+
+If	we	fail	to	protect	our	intellectual	property	and	proprietary	rights	adequately,	our	business	could	be	adversely	
+affected.
+
+If	a	third	party	makes	an	assertion	that	we’re	infringing	its	intellectual	property,	it	could	subject	us	to	costly	and	
+time-consuming	litigation	or	expensive	licenses	which	could	harm	our	business.
+
+• We	participate	in	highly	competitive	markets,	and	our	failure	to	compete	successfully	would	make	it	difficult	for	
+
+us	to	add	and	retain	customers	and	would	reduce	or	impede	the	growth	of	our	business.
+
+•
+
+If	we’re	unable	to	retain	our	key	employees,	or	effectively	compete	for	talent,	our	business	would	be	harmed	
+and	we	might	not	be	able	to	implement	our	business	plan	successfully.
+
+• Our	growth	depends	on	the	continued	development	of	our	direct	sales	force.
+
+•
+
+As	we	increase	our	emphasis	on	our	partner	ecosystem,	we	may	encounter	new	risks,	such	as	dependence	on	
+partners	for	a	material	portion	of	our	revenue	and	potential	channel	conflict.
+
+• Mergers	or	other	strategic	transactions	involving	our	competitors	or	customers	could	weaken	our	competitive	
+
+position,	which	could	harm	our	results	of	operations.
+
+• We	may	not	receive	significant	revenue	as	a	result	of	our	current	research	and	development	efforts.
+
+• Our	business	may	suffer	if	we	do	not	develop	widespread	brand	awareness	cost-effectively.
+
+• Our	strategy	includes	pursuing	acquisitions	and	our	potential	inability	to	successfully	integrate	newly-acquired	
+
+companies	or	businesses	may	adversely	affect	our	financial	results.
+
+•
+
+Efforts	to	reduce	climate	change	could	affect	our	sales	and	financial	results.
+
+• We	may	need	to	raise	additional	funds	to	pursue	our	growth	strategy	or	continue	our	operations,	and	we	may	be	
+
+unable	to	raise	capital	when	needed	or	on	acceptable	terms.
+
+•
+
+There	 is	 an	 increased	 expectation	 by	 various	 stakeholders	 to	 address	 social	 and	 environmental	 challenges,	
+including	 climate	 change,	 human	 rights,	 racism	 and	 inequality,	 and	 to	 demonstrate	 exemplary	 governance	 in	
+managing	Environmental,	Social	and	Governance	risks.	An	inability	to	manage	this	risk	can	can	result	in	higher	
+costs	for	capital,	regulatory	compliance	and	disclosures.	
+
+Financial	risks
+
+•
+
+If	 we’re	 unable	 to	 attract	 new	 customers	 or	 sell	 additional	 products	 to	 our	 existing	 customers,	 our	 revenue	
+growth	and	profitability	will	be	adversely	affected.
+
+• We	 derive	 a	 significant	 portion	 of	 our	 revenue	 from	 a	 relatively	 small	 number	 of	 customers,	 and	 our	 growth	
+
+depends	on	our	ability	to	retain	existing	customers	and	add	new	customers.
+
+• We	encounter	long	sales	cycles,	particularly	with	our	larger	customers,	which	could	have	an	adverse	effect	on	
+
+the	amount,	timing	and	predictability	of	our	revenue.
+
+• We	rely	significantly	on	recurring	revenue,	and	if	recurring	revenue	declines	or	contracts	are	not	renewed,	our	
+
+future	results	of	operations	could	be	harmed.	
+
+•
+
+Downturns	or	upturns	in	new	sales	will	not	be	immediately	reflected	in	operating	results	and	may	be	difficult	to	
+discern.	
+
+• Our	quarterly	results	of	operations	may	fluctuate.	As	a	result,	we	may	fail	to	meet	or	exceed	the	expectations	of	
+
+investors	or	securities	analysts	which	could	cause	our	share	price	to	decline.
+
+• We	may	incur	operating	losses	in	the	future.
+
+•
+
+Downturns	in	general	economic	and	market	conditions	and	reductions	in	IT	spending	may	reduce	demand	for	
+our	solutions,	which	could	negatively	affect	our	revenue,	results	of	operations	and	cash	flows.
+
+• We	are	subject	to	fluctuations	in	currency	exchange	rates.
+
+•
+
+If	we	experience	significant	fluctuations	in	our	rate	of	anticipated	growth	and	do	not	balance	our	expenses	with	
+our	revenue	forecasts,	our	results	could	be	harmed.
+
+4
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Operational	risks
+
+• Our	solutions	are	complex	and	customers	may	experience	difficulty	in	implementing	or	upgrading	our	products	
+
+successfully	or	otherwise	achieving	the	benefits	attributable	to	our	products.
+
+•
+
+Security	and	privacy	breaches,	including	ransomware	and	cyberattacks,	could	delay	or	interrupt	service	to	our	
+customers,	 harm	 our	 reputation	 or	 subject	 us	 to	 significant	 liability	 and	 adversely	 affect	 our	 business	 and	
+financial	 results.	 Our	 ability	 to	 retain	 customers	 and	 attract	 new	 customers	 could	 be	 adversely	 affected	 by	 an	
+actual	or	perceived	breach	of	security	or	privacy	relating	to	customer	information.
+
+• We	 enter	 into	 service	 level	 agreements	 with	 all	 our	 customers.	 If	 we	 do	 not	 meet	 these	 contractual	
+commitments,	 we	 could	 be	 obligated	 to	 provide	 credits	 or	 refunds	 for	 prepaid	 amounts	 related	 to	 unused	
+subscription	services	or	face	contract	terminations,	which	could	adversely	affect	our	revenues.
+
+•
+
+•
+
+•
+
+If	our	productivity	is	impacted	as	a	result	of	remote	work,	we	may	incur	additional	costs	to	address	such	issues	
+and	our	financial	condition	and	results	may	be	adversely	impacted.
+
+Events	that	are	out	of	our	control,	such	as	a	geopolitical	crisis,	widespread	outbreak	of	an	illness	or	other	health	
+issue,	a	natural	disaster	or	terrorist	attack	could	negatively	affect	various	aspects	of	our	business.
+Interruptions	or	delays	in	the	services	provided	by	third	parties	could	impair	the	delivery	of	our	solutions	and	our	
+business	could	suffer.
+
+• We	 may	 experience	 service	 failures	 or	 interruptions	 due	 to	 defects	 in	 the	 software,	 infrastructure,	 third	 party	
+components	or	processes	that	comprise	our	existing	or	new	solutions,	any	of	which	could	adversely	affect	our	
+business.
+
+•
+
+•
+
+•
+
+The	 use	 of	 open	 source	 software	 in	 our	 products	 may	 expose	 us	 to	 additional	 risks	 and	 harm	 our	 intellectual	
+property.
+
+Because	our	long-term	success	depends,	in	part,	on	our	ability	to	continue	to	expand	the	sales	of	our	solutions	to	
+customers	located	outside	North	America,	our	business	will	be	susceptible	to	risks	associated	with	international	
+operations.
+
+The	outcome	of	any	litigation,	arbitration	or	other	dispute	resolution	proceedings	that	we	may	engage	in	from	
+time	to	time	is	inherently	uncertain.	We	may	become	defendants	in	legal	proceedings	where	we	are	unable	to	
+assess	our	exposure	and	this	could	result	in	significant	liabilities	in	the	event	of	an	adverse	judgment	or	decision.	
+
+Regulatory	and	compliance	risks
+
+•
+
+•
+
+Privacy	and	security	concerns,	including	evolving	laws	and	regulations	in	these	areas,	could	adversely	affect	our	
+business	and	operating	results.
+
+Current	and	future	accounting	pronouncements	and	other	financial	reporting	standards	might	negatively	impact	
+our	financial	results.
+
+• We	are	subject	to	taxation	in	various	jurisdictions	and	the	taxing	authorities	may	disagree	with	our	tax	positions.
+
+Other	risks
+
+•
+
+•
+
+Future	pandemics	may	heighten	many	of	the	risks	and	uncertainties	identified	herein,	and	could	have	a	material	
+adverse	impact	on	our	business,	operations	or	financial	performance	in	a	manner	that	is	difficult	to	predict.	
+
+The	market	price	of	our	common	shares	may	be	volatile	and	may	experience	significant	fluctuations	in	response	
+to	numerous	factors,	many	of	which	are	beyond	our	control.	
+
+• We	 may	 issue	 and	 sell	 additional	 securities	 to	 finance	 our	 operations	 or	 issue	 securities	 to	 directors,	 officers,	
+employees	 and	 consultants	 of	 the	 Company	 in	 connection	 with	 security	 based	 compensation	 arrangements.	
+Sales	or	issuances	of	substantial	amounts	of	our	securities,	or	the	perception	that	such	issuances	or	sales	could	
+occur,	may	adversely	affect	prevailing	market	prices	for	our	securities	issued	and	outstanding	from	time	to	time.
+
+These	 risks	 are	 described	 in	 further	 detail	 in	 the	 section	 entitled	 “Risk	 Factors”	 in	 our	 most	 recently	 filed	 Annual	
+Information	Form.
+
+5
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Overview
+
+Kinaxis®	is	a	leading	provider	of	cloud-based	subscription	software	that	enables	its	customers	to	improve	and	accelerate	
+analysis	 and	 decision-making	 across	 their	 supply	 chain	 operations.	 We	 combine	 human	 intelligence	 with	 artificial	
+intelligence	 (AI)	 and	 our	 unique	 concurrent	 technique	 to	 help	 companies	 plan	 for	 the	 future,	 monitor	 risks	 and	
+opportunities	 and	 respond	 at	 the	 pace	 of	 change.	 Our	 industry-proven	 applications	 and	 extensible,	 cloud-based	
+RapidResponse®	platform	empowers	planners,	managers,	business	leaders	and	information	technology	(IT)	professionals	
+to	know	sooner,	act	faster	and	remove	waste	so	they	can	make	decisions	that	improve	the	bottom	line,	make	better	use	
+of	resources	and	facilitate	better	work-life	balance.	
+
+We	 serve	 the	 needs	 of	 Global	 Fortune	 100,	 Fortune	 500	 and	 other	 large	 and	 mid-size	 companies	 across	 seven	 vertical	
+markets:	 high	 technology	 and	 electronics	 manufacturing,	 aerospace	 and	 defense,	 industrial	 products,	 life	 sciences	 and	
+pharmaceuticals,	 automotive,	 consumer	 products	 and	 retail.	 Customers	 are	 primarily	 global	 enterprises	 with	 complex	
+supply	 chain	 networks	 and	 significant	 unresolved	 supply	 chain	 challenges.	 Our	 customers	 include	 many	 leading	
+organizations	 like	 Merck	 &	 Co.,	 Ford	 Motor	 Company,	 Proctor	 &	 Gamble	 and	 Schneider	 Electric,	 and	 tend	 to	 select	
+RapidResponse	as	a	purpose-built	solution	to	holistically	address	an	end-to-end	supply	chain	management	requirement,	
+rather	than	using	bundled	solutions	from	enterprise	resource	planning	(ERP)	vendors	like	Oracle	or	SAP.	We	believe	this	
+market	 is	 growing	 because	 of	 several	 factors,	 including	 the	 increased	 complexity	 and	 globalization	 of	 supply	 chains,	
+outsourcing,	a	diversity	of	data	sources	and	systems,	competitive	pressures	and	a	growing	awareness	of	the	criticality	of	
+creating	truly	agile	supply	chains,	as	highlighted	by	the	COVID-19	crisis.
+
+Recurring	revenue	model
+
+We	 sell	 our	 product	 using	 a	 subscription-based	 model,	 with	 the	 product	 being	 delivered	 from	 the	 cloud	 in	 the	 vast	
+majority	 of	 cases,	 from	 locations	 we	 manage	 within	 leased	 third-party	 data	 center	 facilities.	 Revenue	 from	 product	
+delivered	 from	 the	 cloud	 is	 recorded	 as	 Software	 as	 a	 Service	 (“SaaS”)	 revenue.	 Certain	 customers	 have	 licensed	 our	
+subscription	 product	 on	 an	 on-premise	 basis	 or	 have	 retained	 the	 option	 to	 take	 the	 hosted	 software	 on-premise	 as	 a	
+hybrid	 subscription.	 Under	 IFRS	 15,	 for	 on-premise	 and	 hybrid	 customers,	 the	 deemed	 software	 component	 for	 the	
+applicable	 subscription	 term	 is	 recognized	 as	 “subscription	 term	 license	 revenue”	 upon	 initiation	 or	 renewal	 of	 the	
+subscription	 contract	 term,	 with	 the	 remaining	 maintenance	 and	 support	 component	 and	 hosting	 services	 for	 hybrid	
+subscriptions	recognized	ratably	over	the	term	as	“maintenance	and	support	revenue”.	
+
+Our	subscription	customers	generally	enter	into	three	to	five	year	agreements	which	are	paid	annually	in	advance.	SaaS	
+and	 on-premise	 subscription	 agreements	 are	 generally	 subject	 to	 price	 increases	 upon	 renewal	 reflecting	 both	
+inflationary	increases	and	the	additional	value	provided	by	our	solutions.	In	addition	to	the	expected	increase	in	SaaS	and	
+subscription	 term	 license	 revenue	 from	 price	 increases	 over	 time,	 existing	 customers	 may	 subscribe	 for	 additional	
+applications,	users	or	sites	during	the	terms	of	their	agreements.	Our	subscription	fee	generally	depends	on	the	size	of	
+our	 customer,	 the	 number	 of	 applications	 deployed,	 the	 number	 of	 users	 and	 the	 number	 of	 licensed	 manufacturing,	
+distribution	 and	 inventory	 sites.	 The	 average	 annual	 contract	 value	 fluctuates	 from	 period	 to	 period	 depending	 on	 the	
+number	and	size	of	new	customer	arrangements	and	the	extent	to	which	we	are	successful	in	expanding	adoption	of	our	
+products	 by	 existing	 customers.	 For	 certain	 contracts,	 a	 component	 of	 consideration	 is	 recognized	 on	 a	 unit	 basis	 in	
+accordance	with	transaction	volume.		We	also	provide	professional	services	for	implementation	and	configuration	of	the	
+product,	as	well	as	ongoing	technical	services	and	training.	Professional	services	are	typically	billed	on	a	time	and	material	
+basis.
+
+Our	 subscription	 model	 results	 in	 a	 high	 proportion	 of	 recurring	 revenue,	 which	 includes	 SaaS	 and	 maintenance	 and	
+support	revenue	(see	“Significant	Factors	Affecting	Results	of	Operations	–	Revenue”).	While	the	underlying	contracts	for	
+on-premise	subscription	agreements	are	typically	structured	in	the	same	manner	as	for	our	cloud-delivered	customers,	
+including	contracted,	recurring	annual	payments,	under	IFRS	15	for	on-premise	customers	we	are	required	to	separately	
+report	revenue	as	two	components:	the	deemed	software	component	and	the	maintenance	and	support	component.	The	
+deemed	 software	 component	 for	 the	 entire	 term	 of	 these	 on-premise	 subscriptions	 is	 recognized	 as	 revenue	 upon	
+contract	 term	 commencement	 or	 renewal	 (as	 a	 subscription	 term	 license).	 The	 amount	 and	 timing	 of	 any	 recurring	
+subscription	 term	 license	 revenue	 from	 on-premise	 subscription	 agreements	 is	 subject	 to	 the	 timing	 and	 length	 of	 the	
+renewal	term	of	the	agreement.	
+
+6
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+We	 believe	 the	 power	 of	 the	 subscription	 model	 is	 only	 fully	 realized	 when	 a	 vendor	 has	 high	 retention	 rates.	 High	
+customer	retention	rates	generate	a	long	customer	lifetime	and	a	very	high	lifetime	value	of	the	customer.	Our	annual	
+net	revenue	retention	rates	remain	over	100%,	which	includes	sales	of	additional	applications,	users	and	sites	to	existing	
+customers.	
+
+The	recurring	nature	of	our	revenue	provides	high	visibility	into	future	performance,	and	upfront	payments	result	in	cash	
+flow	generation	in	advance	of	revenue	recognition.	Typically,	approximately	80%	of	our	expected	annual	SaaS	revenue	is	
+recognized	 from	 customer	 contracts	 that	 are	 in	 place	 at	 the	 beginning	 of	 the	 year	 and	 this	 continues	 to	 be	 our	 target	
+model	 going	 forward.	 However,	 this	 also	 means	 that	 agreements	 with	 new	 customers	 or	 agreements	 with	 existing	
+customers	purchasing	additional	applications,	users	or	sites	in	a	quarter	may	not	contribute	significantly	to	revenue	in	the	
+current	quarter.	For	example,	a	new	customer	who	enters	into	an	agreement	late	in	a	quarter	will	typically	have	limited	
+contribution	to	the	revenue	recognized	in	that	quarter.	
+
+Strong	financial	track	record	
+
+We	have	established	a	consistent	financial	track	record	of	strong	revenue	growth,	solid	earnings	performance	and	cash	
+generation.	 Our	 SaaS	 revenue	 growth	 is	 driven	 both	 by	 contracts	 with	 new	 customers	 and	 expansion	 of	 our	 solution	
+within	our	existing	customer	base.	Subscription	term	license	revenue	is	generally	driven	by	the	timing	of	renewals	of	the	
+underlying	 on-premise	 customer	 contracts.	 Our	 combined	 net	 revenue	 retention	 from	 both	 SaaS	 and	 on-premise	
+subscriptions	is	greater	than	100%,	reflecting	our	longer	term	contract	structure	and	strong	renewal	history.
+
+For	the	three	months	and	year	ended	December	31,	2022,	our	SaaS	revenue	was	$58.8	million	and	$213.3	million	(three	
+months	and	year	ended	December	31,	2021	–	$46.9	million	and	$174.5	million),	subscription	term	license	revenue	was	
+$9.1	million	and	$38.8	million	(three	months	and	year	ended	December	31,	2021	–	$1.4	million	and	$6.1	million)	and	total	
+revenue	 was	 $98.5	 million	 and	 $366.9	 million	 (three	 months	 and	 year	 ended	 December	 31,	 2021	 –	 $68.5	 million	 and	
+$250.7	 million).	 For	 the	 three	 months	 and	 year	 ended	 December	 31,	 2022	 our	 Adjusted	 EBITDA	 was	 21%	 of	 revenue	
+(three	months	and	year	ended	December	31,	2021	–	16%).	Our	ending	cash,	cash	equivalents	and	short-term	investment	
+balance	was	$225.8	million	(December	31,	2021	–	$233.4	million).	
+
+For	 the	 three	 months	 and	 year	 ended	 December	 31,	 2022	 our	 ten	 largest	 customers	 accounted	 for	 24%	 of	 our	 total	
+revenues	(three	months	and	year	ended	December	31,	2021	–	26%	and	25%)	with	no	customer	accounting	for	greater	
+than	10%	of	total	revenues	(three	months	and	year	ended	December	31,	2021	–	no	customers).	
+
+Growth	strategy
+
+Increasing	 revenues	 through	 new	 customer	 wins	 is	 one	 of	 our	 highest	 organizational	 priorities.	 Our	 sales	 cycle	 can	 be	
+lengthy,	up	to	18	months.	We	generally	target	very	large	organizations	with	significant	internal	processes	for	adoption	of	
+new	 systems.	 We	 currently	 pursue	 a	 revenue	 growth	 model	 that	 includes	 both	 direct	 sales	 through	 our	 internal	 sales	
+force,	as	well	as	indirect	sales	supported	by	our	system	integrator,	value	added	reseller	and	other	service	partners.	
+
+We	 continue	 to	 invest	 in	 our	 partnerships	 both	 from	 a	 sales	 and	 product	 implementation	 perspective.	 We	 work	 with	
+global	and	regional	system	integrators,	which	are	able	to	positively	influence	the	decision-making	process	at	major	target	
+customers	 and	 help	 customers	 realize	 end-to-end	 supply	 chain	 optimization	 by	 implementing	 our	 industry-leading	
+concurrent	planning	solution.	Such	partners	include	Accenture,	Deloitte,	EY,	Genpact,	mSE	Solutions,	Argon	Groupe	and	
+Cognizant.	Our	referral	partners	direct	new	opportunities	to	us	under	a	business	arrangement.	We	regard	Value	Added	
+Resellers	as	an	extension	of	our	sales	force	that	resells	and	supports	RapidResponse	in	select	markets,	with	a	focus	on	
+mid-market	 companies.	 Finally,	 we	 work	 with	 solution	 extension	 partners,	 such	 as	 4flow,	 OCYO	 Consulting,	 and	
+PlanetTogether	to	provide	additional	applications	on	our	platform,	and	project44,	LevaData	and	Blume	Global	to	provide	
+additional	 data	 streams	 and	 signaling	 to	 increase	 the	 value	 that	 customers	 gain	 from	 RapidResponse.	 These	 partners,	
+which	 we	 work	 with	 under	 revenue	 sharing	 agreements,	 deliver	 digital	 inputs	 or	 domain-specific	 applications	 that	
+leverage	the	power	of	concurrent	planning	and	extend	the	capabilities	of	the	platform.
+
+Due	to	the	growth	in	the	market	and	the	increasing	need	for	solutions,	we	expect	competition	in	the	industry	from	new	
+entrants	 and	 larger	 incumbent	 vendors	 to	 increase.	 In	 addition	 to	 this	 increased	 competitive	 pressure,	 changes	 in	 the	
+global	economy,	most	notably	due	to	COVID-19	in	recent	periods,	may	have	an	impact	on	the	timing	and	ability	of	these	
+enterprises	to	make	buying	decisions,	which	may	have	an	impact	on	our	performance.
+
+7
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+We	are	headquartered	in	Ottawa,	Ontario.	We	have	subsidiaries	located	in	the	United	States,	France,	Germany,	Romania,	
+Ireland,	the	United	Kingdom,	Hong	Kong,	South	Korea,	and	Singapore,	and	subsidiaries	and	offices	in	Tokyo,	Japan,	the	
+Netherlands	and	Chennai,	India.	We	continue	to	expand	our	operations	internationally.	For	the	three	months	and	year	
+ended	December	31,	2022	62%	of	our	revenues	were	derived	from	North	American	customers	(three	months	and	year	
+ended	 December	 31,	 2021	 –	 59%	 and	 62%)	 and	 our	 remaining	 revenues	 were	 derived	 from	 European	 and	 Asian	
+customers.	
+
+On	February	11,	2022,	we	acquired	100%	of	the	outstanding	shares	of	a	supply	chain	solutions	company	in	exchange	for	
+total	consideration	of	$3.1	million	in	cash.	The	acquired	company	is	a	provider	of	algorithm-driven	supply	chain	planning	
+software	modules.
+
+On	August	15,	2022,	the	Company	acquired	100%	of	the	outstanding	shares	of	MP	Objects	B.V.	(“MPO”)	and	all	wholly	
+owned	subsidiaries	in	exchange	for	total	consideration	of	$33.8	million	in	cash	and	contingent	consideration	of	86,335	
+shares	 of	 the	 Company	 that	 had	 a	 fair	 value	 at	 the	 date	 of	 acquisition	 of	 approximately	 $10.0	 million.	 MPO	 offers	 a	
+natively	unified	cloud	platform	for	Multi-Party	Orchestration,	which	optimizes	order,	inventory,	and	transportation	across	
+dynamic,	multi-party	networks.	
+
+Key	performance	indicators
+
+We	use	a	number	of	key	performance	indicators	to	assess	the	performance	of	our	business	including	Annual	Recurring	
+Revenue	 (ARR)	 and	 Remaining	 Performance	 Obligation	 (RPO).	 These	 financial	 measures	 do	 not	 have	 any	 standardized	
+meaning	prescribed	by	IFRS	and	therefore	may	not	be	comparable	to	similar	measures	presented	by	other	issuers	and	
+cannot	 be	 reconciled	 to	 a	 directly	 comparable	 IFRS	 measure.	 We	 evaluate	 our	 performance	 by	 comparing	 our	 actual	
+results	 to	 budgets,	 forecasts	 and	 prior	 period	 results.	 Our	 key	 performance	 indicators	 may	 be	 calculated	 in	 a	 manner	
+different	than	similar	key	performance	indicators	used	by	other	companies.
+
+Annual	Recurring	Revenue
+
+Annual	Recurring	Revenue	(ARR)	is	the	total	annualized	value	of	recurring	subscription	amounts	(ultimately	recognized	as	
+SaaS,	Subscription	 Term	Licenses	and	Maintenance	&	Support	revenue)	of	all	subscription	contracts	at	a	point	in	time.	
+Annualized	 subscription	 amounts	 are	 determined	 solely	 by	 reference	 to	 the	 underlying	 contracts,	 normalizing	 for	 the	
+varying	revenue	recognition	treatments	under	IFRS	for	cloud-based	versus	on-premise	subscription	amounts.	It	excludes	
+one-time	 fees,	 such	 as	 for	 non-recurring	 professional	 services,	 and	 assumes	 that	 customers	 will	 renew	 the	 contractual	
+commitments	 on	 a	 periodic	 basis	 as	 those	 commitments	 come	 up	 for	 renewal,	 unless	 such	 renewal	 is	 known	 to	 be	
+unlikely	at	period	end.	We	believe	that	this	measure	provides	a	more	current	indication	of	our	performance	in	the	growth	
+of	our	subscription	business	than	other	metrics.
+
+The	 Company’s	 ARR	 at	 December	 31,	 2022	 is	 $274	 million,	 an	 increase	 of	 24%	 year-over-year	 or	 26%	 on	 a	 constant	
+currency	 basis.	 We	 calculate	 constant	 currency	 growth	 rates	 by	 applying	 the	 applicable	 prior	 period	 exchange	 rates	 to	
+current	period	results. 
+
+8
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Year-over-year	growth
+
+17%
+
+Year-over-year	growth	in	
+constant	currency
+
+15%
+
+19%
+
+21%
+
+22%
+
+24%
+
+21%
+
+25%
+
+25%
+
+30%
+
+24%
+
+26%
+
+Remaining	Performance	Obligation
+
+Remaining	Performance	Obligation	(RPO)	represents	the	minimum	contracted	revenue	expected	to	be	recognized	in	the	
+future	related	to	performance	obligations	that	are	unsatisfied	or	partially	unsatisfied	at	period	end.	Our	business	model	
+continues	to	focus	on	delivering	long-term	value	to	our	customers.	As	a	result,	we	typically	enter	into	three	to	five-year	
+agreements	with	our	customers.	RPO	is	not	necessarily	indicative	of	future	revenue	growth	and	is	influenced	by	several	
+factors,	 including	 seasonality,	 the	 timing	 of	 renewals,	 average	 contract	 terms,	 foreign	 currency	 exchange	 rates	 and	
+fluctuations	in	new	business	growth.	RPO	is	also	impacted	by	acquisitions.	
+
+As	at	December	31,	2022,	RPO	amounts	to	$598	million,	including	$550	million	in	SaaS	revenue	(December	31,	2021	–	
+$484	million	and	$423	million).
+
+9
+
+Millions	$185$221$232$241$259$274FY20FY21Q1’22Q2’22Q3’22FY22$0$50$100$150$200$250$300Millions$381$484$598SaaSnon-SaaSFY20FY21FY22$0$100$200$300$400$500$600MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Significant	factors	affecting	results	of	operations
+
+Our	results	of	operations	are	influenced	by	a	variety	of	factors,	including:
+
+Revenue
+
+Our	revenue	consists	of	SaaS	revenue,	subscription	term	license	revenue,	professional	services	revenue	and	maintenance	
+and	support	revenue.	
+
+SaaS	revenue	is	comprised	of	subscription	fees	for	provision	of	our	products	as	software	as	a	service	in	our	hosted,	cloud	
+environment.	This	includes	hosting	services	and	maintenance	and	support	for	the	solution	over	the	term	of	the	contract	
+when	the	product	is	provided	from	the	cloud	under	a	SaaS	arrangement.
+
+Professional	 services	 revenue	 is	 comprised	 of	 fees	 charged	 to	 assist	 organizations	 to	 implement	 and	 integrate	 our	
+solution	and	train	their	staff	to	use	and	deploy	our	solution.	Professional	service	engagements	are	contracted	on	a	time	
+and	materials	basis	including	billable	travel	expenses	and	are	billed	and	recognized	as	revenue	as	the	service	is	delivered.	
+In	 certain	 circumstances,	 we	 enter	 into	 arrangements	 for	 professional	 services	 on	 a	 fixed	 price	 basis;	 in	 these	 cases,	
+revenue	is	recognized	by	reference	to	the	stage	of	completion	of	the	contract.
+
+Subscription	term	license	revenue	is	comprised	of	fees	for	the	implied	software	component	for	on-premise	and	hybrid	
+subscriptions,	 which	 is	 recognized	 as	 revenue	 upon	 term	 commencement.	 Hybrid	 subscription	 refers	 to	 the	 option	 of	
+certain	customers	to	take	the	hosted	software	on-premise.
+
+Maintenance	 and	 support	 revenue	 is	 comprised	 of	 fees	 for	 the	 implied	 maintenance	 and	 support	 component	 for	 on-
+premise	and	hybrid	subscriptions.	
+
+Cost	of	revenue
+
+Cost	of	revenue	consists	of	personnel,	travel	and	other	overhead	costs	related	to	implementation	teams	supporting	initial	
+deployments,	 training	 services	 and	 subsequent	 stand-alone	 engagements	 for	 additional	 services.	 Cost	 of	 revenue	 also	
+includes	 personnel	 and	 overhead	 costs	 associated	 with	 our	 customer	 support	 team,	 amortization	 related	 to	 acquired	
+technology	 and	 internally	 developed	 software,	 depreciation	 related	 to	 our	 computer	 hardware	 and	 leased	 data	 center	
+facilities	 where	 we	 physically	 host	 our	 SaaS	 solution,	 and	 network	 connectivity	 costs	 for	 the	 provisioning	 of	 hosting	
+services	under	SaaS	arrangements.	
+
+Selling	and	marketing	expenses
+
+Selling	 and	 marketing	 expenses	 consist	 primarily	 of	 personnel	 and	 related	 costs	 for	 our	 sales	 and	 marketing	 teams,	
+including	salaries	and	benefits,	contract	acquisition	costs	including	commissions	earned	by	sales	personnel	and	partner	
+referral	fees,	partner	programs	support	and	training,	and	trade	show	and	promotional	marketing	costs.
+
+We	plan	to	continue	to	invest	in	sales	and	marketing	by	expanding	our	domestic	and	international	selling	and	marketing	
+activities,	building	brand	awareness,	developing	partners,	and	sponsoring	additional	marketing	events.	We	expect	that	in	
+the	future,	selling	and	marketing	expenses,	in	absolute	dollars,	will	continue	to	increase.	
+
+Research	and	development	expenses
+
+Research	and	development	expenses	consist	primarily	of	personnel	and	related	costs	for	the	teams	responsible	for	the	
+ongoing	 research,	 development	 and	 product	 management	 of	 our	 supply	 chain	 management	 solutions.	 These	 expenses	
+are	recorded	net	of	any	applicable	scientific	research	and	experimental	development	investment	tax	credits	(“investment	
+tax	credits”)	earned	for	expenses	incurred	in	Canada	against	eligible	projects.	We	only	record	non-refundable	tax	credits	
+to	the	extent	there	is	reasonable	assurance	we	will	be	able	to	use	the	investment	tax	credits	to	reduce	current	or	future	
+tax	liabilities.	As	the	Company	has	an	established	history	of	profits,	we	do	expect	to	realize	the	benefit	of	these	tax	credits	
+in	 the	 near	 term.	 Further,	 we	 anticipate	 that	 spending	 on	 research	 and	 development	 will	 also	 be	 higher	 in	 absolute	
+dollars	as	we	expand	our	research	and	development	and	product	management	teams.
+
+10
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+General	and	administrative	expenses
+
+General	 and	 administrative	 expenses	 consist	 primarily	 of	 personnel	 and	 related	 costs	 associated	 with	 administrative	
+functions	of	the	business	including	finance,	human	resources	and	internal	information	system	support,	as	well	as	legal,	
+accounting	and	other	professional	fees	and	amortization	related	to	customer	relationships.	We	expect	that,	in	the	future,	
+general	and	administrative	expenses	will	continue	to	increase	in	absolute	dollars	as	we	invest	in	our	infrastructure	and	we	
+incur	 additional	 employee-related	 costs	 and	 professional	 fees	 related	 to	 the	 growth	 of	 our	 business	 and	 international	
+expansion.
+
+Foreign	exchange
+
+Our	 presentation	 and	 functional	 currency	 is	 USD	 with	 the	 exception	 of	 our	 subsidiaries	 in	 South	 Korea	 (Korean	 Won),	
+Japan	 (Japanese	 Yen),	 the	 Netherlands,	 Romania,	 France,	 Germany	 and	 Ireland	 (Euro),	 the	 United	 Kingdom	 (British	
+Pound)	and	India	(Indian	Rupee).	We	derive	most	of	our	revenue	in	USD.	Our	head	office	and	a	significant	portion	of	our	
+employees	 are	 located	 in	 Ottawa,	 Canada,	 and	 as	 such	 approximately	 half	 of	 our	 expenses	 are	 incurred	 in	 Canadian	
+dollars.
+
+11
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Results	of	operations
+
+Summary	of	results
+
+The	following	table	sets	forth	a	summary	of	our	results	of	operations:
+
+Three	months	ended	December	31,
+
+2022
+
+2021
+
+2022
+
+Year	ended	December	31,
+2021
+
+2020
+
+(In	thousands	of	USD,	except	earnings	per	share)
+
+Statement	of	Operations
+Revenue    ............................................................................ $	
+Cost	of	revenue    .................................................................
+Gross	profit    .......................................................................
+Operating	expenses      ..........................................................
+
+Foreign	exchange	gain	(loss)    .............................................
+Net	finance	and	other	income	(expense)      .........................
+Change	in	fair	value	of	contingent	consideration     .............
+Profit	(loss)	before	income	taxes    ......................................
+Income	tax	expense	(recovery)    .........................................
+Profit	(loss)      ........................................................................ $	
+Adjusted	profit(1)
+     ............................................................... $	
+Adjusted	EBITDA(1)
+     ............................................................ $	
+Basic	earnings	(loss)	per	share      .......................................... $	
+Diluted	earnings	(loss)	per	share   ...................................... $	
+Adjusted	diluted	earnings	per	share(1)
+  .............................. $	
+
+Note:	
+
+98,483	 $	
+37,217	
+61,266	
+54,511	
+6,755	
+1,648	
+891	
+(1,367)	 	
+7,927	
+(635)	
+8,562	 $	
+17,487	 $	
+21,116	 $	
+0.31	 $	
+0.30	 $	
+0.61	 $	
+
+68,506	 $	
+24,619	
+43,887	
+46,608	
+(2,721)	
+(194)	
+(36)	
+—	
+(2,951)	
+(32)	
+(2,919)	 $	
+4,430	 $	
+11,277	 $	
+(0.11)	 $	
+(0.11)	 $	
+0.16	 $	
+
+366,889	 $	
+131,102	
+235,787	
+207,866	
+27,921	
+1,499	
+1,240	
+826	
+31,486	
+11,406	
+20,080	 $	
+45,492	 $	
+79,446	 $	
+0.73	 $	
+0.70	 $	
+1.59	 $	
+
+250,726	 $	
+
+86,755	
+163,971	
+162,052	
+1,919	
+(558)	
+(264)	
+—	
+1,097	
+2,262	
+(1,165)	 $	
+15,988	 $	
+39,851	 $	
+(0.04)	 $	
+(0.04)	 $	
+0.56	 $	
+
+224,189	
+70,131	
+154,058	
+133,282	
+20,776	
+(196)	
+890	
+—	
+21,470	
+7,740	
+13,730	
+30,947	
+53,751	
+0.51	
+0.49	
+1.10	
+
+(1) Adjusted	profit,	Adjusted	EBITDA	and	Adjusted	diluted	earnings	per	share	are	non-IFRS	measures	and	ratios.	See	“Non-IFRS	measures	and	ratios”.	
+For	 a	 reconciliation	 of	 these	 measures	 to	 the	 closest	 IFRS	 measure,	 where	 a	 comparable	 IFRS	 measure	 exists,	 see	 “Reconciliation	 of	 non-IFRS	
+measures	and	ratios”	below.	
+
+As	at
+December	31,	2022
+
+As	at	
+December	31,	2021
+(In	thousands	of	USD)
+
+As	at	
+December	31,	2020
+
+Total	assets     ....................................................................... $	
+Total	non-current	liabilities   ...............................................
+
+648,273	 $	
+
+56,838	
+
+520,269	 $	
+
+53,242	
+
+428,410	
+14,794	
+
+Reconciliation	of	non-IFRS	measures	and	ratios
+
+To	 supplement	 our	 consolidated	 financial	 statements,	 which	 are	 prepared	 and	 presented	 in	 accordance	 with	 IFRS,	 we	
+provide	 investors	 with	 the	 following	 non-IFRS	 financial	 measures	 and	 ratios:	 Adjusted	 profit,	 Adjusted	 diluted	 earnings	
+per	share	and	Adjusted	EBITDA.	We	believe	that	securities	analysts,	investors	and	other	interested	parties	frequently	use	
+non-IFRS	measures	and	ratios	in	the	evaluation	of	performance.	Management	also	uses	non-IFRS	measures	and	ratios	in	
+order	 to	 facilitate	 operating	 performance	 comparisons	 from	 period	 to	 period,	 prepare	 annual	 operating	 budgets	 and	
+assess	our	ability	to	meet	our	capital	expenditure	and	working	capital	requirements.	
+
+12
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Adjusted	profit	and	Adjusted	diluted	earnings	per	share
+
+Adjusted	profit	represents	profit	adjusted	to	exclude	the	change	in	the	fair	value	of	contingent	consideration,	our	equity	
+compensation	 plans	 and	 other	 non-recurring	 items.	 The	 other	 non-recurring	 item	 during	 the	 three	 months	 ended	
+December	31,	2021	of	$0.7	million	relates	to	the	provision	for	future	variable	lease	payments	for	our	former	head	office	
+space	which	is	no	longer	in	use.	The	non-recurring	items	during	the	year	ended	December	31,	2021	of	$7.2	million	relate	
+to	non-refundable	government	grants	related	to	the	pandemic	of	$7.9	million	net	of	the	$0.7	million	provision	for	future	
+variable	 lease	 payments.	 Adjusted	 diluted	 earnings	 per	 share	 represents	 diluted	 earnings	 per	 share	 calculated	 using	
+Adjusted	profit.	We	use	Adjusted	profit	and	Adjusted	diluted	earnings	per	share	as	these	measures	and	ratios	better	align	
+with	our	performance	and	improve	comparability	against	our	peers.
+
+Adjusted	EBITDA
+
+Adjusted	EBITDA	represents	profit	adjusted	to	exclude	the	change	in	the	fair	value	of	contingent	consideration,	our	equity	
+compensation	 plans,	 other	 non-recurring	 items,	 income	 tax	 expense	 (recovery),	 depreciation	 and	 amortization,	 foreign	
+exchange	loss	(gain),	and	net	finance	expense	(income).	We	use	Adjusted	EBITDA	to	provide	readers	with	a	supplemental	
+measure	 of	 our	 operating	 performance	 and	 thus	 highlight	 trends	 in	 our	 core	 business	 that	 may	 not	 otherwise	 be	
+apparent	when	relying	solely	on	IFRS	financial	measures.
+
+We	have	reconciled	Adjusted	profit	and	Adjusted	EBITDA	to	the	most	comparable	IFRS	financial	measure	as	follows:
+
+Three	months	ended
+December	31,
+
+2022
+
+2021
+
+Year	ended	December	31,
+2021
+
+2022
+(In	thousands	of	USD)
+
+2020
+
+Profit	(loss)  .................................................................... $	
+Change	in	fair	value	of	contingent	consideration    ........
+Share-based	compensation     ..........................................
+Non-recurring	other	items   ............................................
+Adjusted	profit     .............................................................. $	
+Income	tax	expense	(recovery)    ....................................
+Depreciation	and	amortization  .....................................
+Foreign	exchange	loss	(gain)      ........................................
+Net	finance	expense	(income)      ......................................
+
+Adjusted	EBITDA    ........................................................... $	
+Adjusted	EBITDA	as	a	percentage	of	revenue    ..............
+
+8,562	 $	
+1,367	
+7,558	
+—	
+17,487	 $	
+(635)	
+6,761	
+(1,648)	
+(849)	
+3,629	
+
+21,116	 $	
+	21.4%	
+
+(2,919)	 $	
+—	
+6,633	
+716	
+4,430	 $	
+(32)	
+6,557	
+194	
+128	
+6,847	
+
+11,277	 $	
+	16.5%	
+
+$	
+
+$	
+
+$	
+
+20,080	
+(826)	
+26,238	
+—	
+45,492	
+11,406	
+25,060	
+(1,499)	
+(1,013)	
+33,954	
+79,446	
+	21.7%	
+
+(1,165)	 $	
+—	
+24,343	
+(7,190)	
+15,988	 $	
+
+2,262	
+20,409	
+558	
+634	
+23,863	
+39,851	 $	
+	15.9%	
+
+13,730	
+—	
+17,217	
+—	
+30,947	
+7,740	
+15,562	
+196	
+(694)	
+22,804	
+53,751	
+	24.0%	
+
+13
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Revenue
+
+Three	months	ended	December	31,
+
+2022
+
+2021
+
+2021	to	
+2022
+%
+
+Year	ended	December	31,
+
+2022
+
+2021
+
+2021	to	
+2022
+%
+
+(In	thousands	of	USD)
+
+SaaS  ........................................... $	
+Subscription	term	license   .........
+Professional	services  .................
+Maintenance	and	support   ........
+
+58,839	 $	
+
+9,131	
+26,156	
+4,357	
+98,483	
+
+46,855	
+1,442	
+17,036	
+3,173	
+68,506	
+
+26%
+533%
+54%
+37%
+44%
+
+$	
+
+213,306	 $	
+
+38,810	
+98,613	
+16,160	
+366,889	
+
+174,463	
+6,118	
+57,640	
+12,505	
+250,726	
+
+22%
+534%
+71%
+29%
+46%
+
+Total	revenue	for	the	three	months	and	year	ended	December	31,	2022	was	$98.5	million	and	$366.9	million,	an	increase	
+of	$30.0	million	and	$116.2	million	compared	to	the	same	periods	in	2021.	This	growth	in	our	revenue	was	due	to	a	26%	
+and	 22%	 increase	 in	 SaaS	 revenue	 in	 the	 three	 months	 and	 year	 ended	 December	 31,	 2022,	 as	 well	 as	 a	 substantial	
+increase	 in	 subscription	 term	 license	 revenue	 and	 an	 increase	 in	 professional	 services	 revenue.	 The	 increase	 in	 total	
+revenue	was	partially	offset	by	the	negative	impact	of	currency	exchange	conversion	on	foreign	denominated	revenue	
+resulting	from	the	strengthening	USD.
+
+SaaS	revenue	
+
+SaaS	revenue	for	the	three	months	and	year	ended	December	31,	2022	was	$58.8	million	and	$213.3	million,	an	increase	
+of	$12.0	million	and	$38.8	million	compared	to	the	same	periods	in	2021.	These	increases	were	due	to	contracts	secured	
+with	new	customers,	as	well	as	expansion	of	existing	customer	subscriptions.	These	increases	were	partially	offset	by	the	
+negative	impact	of	converting	SaaS	revenue	for	subsidiaries	reporting	in	foreign	currencies	to	USD.	
+
+Subscription	term	license	revenue
+
+Subscription	term	license	revenue	for	the	three	months	and	year	ended	December	31,	2022	was	$9.1	million	and	$38.8	
+million,	an	increase	of	$7.7	million	and	$32.7	million	compared	to	the	same	periods	in	2021.	Generally,	subscription	term	
+license	 revenue	 varies	 quarter	 to	 quarter	 due	 to	 the	 timing	 of	 renewals	 and	 expansions	 for	 on-premise	 and	 hybrid	
+subscription	arrangements.	The	current	period	fluctuations	reflect	the	normal	cycle	of	such	renewals	and	expansions	with	
+existing	customers.
+
+Professional	services	revenue
+
+Professional	 services	 revenue	 for	 the	 three	 months	 and	 year	 ended	 December	 31,	 2022	 was	 $26.2	 million	 and	 $98.6	
+million,	an	increase	of	$9.1	million	and	$41.0	million	compared	to	the	same	periods	in	2021.	The	increases	were	due	to	
+significant	 deployment	 activity	 driven	 by	 new	 subscription	 customers	 and	 expansion	 engagements	 with	 our	 existing	
+customers.	 Professional	 services	 revenue	 varies	 quarter	 to	 quarter	 due	 to	 the	 size,	 timing	 and	 scheduling	 of	 customer	
+engagements	and	the	level	of	partner-led	engagements.
+
+Maintenance	and	support	revenue
+
+Maintenance	and	support	revenue	for	the	three	months	and	year	ended	December	31,	2022	was	$4.4	million	and	$16.2	
+million,	an	increase	of	$1.2	million	and	$3.7	million	compared	to	the	same	periods	in	2021,	mostly	driven	by	expansion	of	
+existing	on-premise	customers,	as	well	as	contracts	with	new	customers.	
+
+14
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Cost	of	revenue
+
+Three	months	ended	December	31,
+
+2022
+
+2021
+
+2021	to	
+2022
+%
+
+Year	ended	December	31,
+
+2022
+
+2021
+
+(In	thousands	of	USD)
+
+Cost	of	revenue    ......................... $	
+Gross	profit    ...............................
+Gross	margin      .............................
+Software(1)
+     .........................
+Professional	services    .........
+
+$	
+
+37,217	
+61,266	
+	62%	
+	80%	
+	13%	
+
+24,619	
+43,887	
+	64%	
+	81%	
+	12%	
+
+$	
+
+51%
+40%
+
+$	
+
+131,102	
+235,787	
+	64%	
+	81%	
+	18%	
+
+86,755	
+163,971	
+	65%	
+	82%	
+	11%	
+
+Note:
+
+(1)
+
+Software	gross	margin	corresponds	to	SaaS,	subscription	term	license	and	maintenance	and	support	revenue.
+
+2021	to	
+2022
+%
+
+51%
+44%
+
+Cost	of	revenue	for	the	three	months	and	year	ended	December	31,	2022	was	$37.2	million	and	$131.1	million,	increases	
+of	$12.6	million	and	$44.3	million	compared	to	the	same	periods	in	2021	as	we	invest	in	the	business	and	support	our	
+growing	customer	base.	The	areas	of	increases	were	headcount	and	related	compensation	costs,	partner	and	third-party	
+provider	costs,	IT	costs,	depreciation	and	the	absence	of	non-refundable	government	grants	we	claimed	in	the	prior	year.	
+
+Gross	margin	for	the	three	months	and	year	ended	December	31,	2022	was	62%	and	64%,	compared	to	64%	and	65%	for	
+the	same	periods	in	2021.	Gross	margin	is	driven	by	a	mix	of	software	and	professional	services	gross	margins.	Overall	
+gross	margin	decreased	in	part	because	professional	services	revenue	was	a	higher	percentage	of	total	revenue	in	2022.	
+
+Software	gross	margin	for	the	three	months	and	year	ended	December	31,	2022	was	80%	and	81%,	compared	to	81%	and	
+82%	 for	 the	 same	 periods	 in	 2021.	 The	 gross	 margin	 percentage	 for	 software	 for	 the	 three	 months	 and	 year	 ended	
+December	 31,	 2022	 is	 lower	 compared	 to	 the	 same	 periods	 in	 2021	 due	 primarily	 to	 the	 negative	 impact	 of	 a	
+strengthening	 USD	 on	 conversion	 of	 foreign	 denominated	 SaaS	 revenue	 offset	 by	 the	 higher	 gross	 margin	 realized	 on	
+subscription	term	license	revenue.	Professional	services	gross	margin	for	the	three	months	and	year	ended	December	31,	
+2022	was	13%	and	18%,	compared	to	12%	and	11%	for	the	same	periods	in	2021.	The	higher	professional	services	gross	
+margin	 was	 due	 to	 an	 increase	 in	 headcount	 utilization	 and	 economies	 of	 scale	 as	 related	 revenues	 increased	 in	 the	
+period.
+
+Selling	and	marketing	expenses
+
+Three	months	ended	December	31,
+
+2022
+
+2021
+
+2021	to	
+2022
+%
+
+Year	ended	December	31,
+
+2022
+
+2021
+
+2021	to	
+2022
+%
+
+(In	thousands	of	USD)
+
+Selling	and	marketing................ $	
+As	a	percentage	of	revenue     ......
+
+21,213	 $	
+
+	22%	
+
+16,960	
+	25%	
+
+25%
+
+$	
+
+79,446	 $	
+
+	22%	
+
+59,078	
+	24%	
+
+34%
+
+Selling	and	marketing	expenses	for	the	three	months	and	year	ended	December	31,	2022	were	$21.2	million	and	$79.4	
+million,	an	increase	of	$4.3	million	and	$20.4	million	compared	to	the	same	periods	in	2021.		The	increases	were	due	to	
+higher	headcount	and	related	compensation	costs	and	marketing	program	costs	as	we	aim	to	expand	our	customer	base	
+during	this	sustained	global	shift	to	digital	supply	chain	solutions.		In	addition,	last	year	we	benefited	from	non-refundable	
+government	grants	during	the	pandemic	recognized	as	an	offset	to	salary	costs.	These	cost	increases	in	2022	were	slightly	
+mitigated	by	a	strengthening	USD	on	foreign	denominated	expenses.
+
+15
+
+	
+	
+	
+	
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Research	and	development	expenses
+
+Three	months	ended	December	31,
+
+2022
+
+2021
+
+2021	to	
+2022
+%
+
+Year	ended	December	31,
+
+2022
+
+2021
+
+2021	to	
+2022
+%
+
+(In	thousands	of	USD)
+
+Research	and	development     ...... $	
+As	a	percentage	of	revenue     ......
+
+19,494	 $	
+
+	20%	
+
+16,465	
+	24%	
+
+18%
+
+$	
+
+74,147	 $	
+
+	20%	
+
+57,424	
+	23%	
+
+29%
+
+Research	and	development	expenses	for	the	three	months	and	year	ended	December	31,	2022	were	$19.5	million	and	
+$74.1	million,	an	increase	of	$3.0	million	and	$16.7	million	compared	to	the	same	periods	in	2021.	The	increases	were	
+due	to	higher	headcount	and	related	compensation	costs	and	public	cloud	development	environment	costs	incurred	in	
+the	 current	 year.	 In	 addition,	 last	 year	 we	 benefited	 from	 non-refundable	 government	 grants	 during	 the	 pandemic	
+recognized	 as	 an	 offset	 to	 salary	 costs.	 These	 cost	 increases	 in	 2022	 were	 partially	 offset	 by	 the	 positive	 impact	 of	 a	
+strengthening	USD	on	foreign	denominated	expenses.	Our	investment	in	headcount	supports	ongoing	programs	to	drive	
+further	innovation	in	our	RapidResponse	platform	and	ensure	sustainable	market	leadership.
+
+General	and	administrative	expenses
+
+Three	months	ended	December	31,
+
+2022
+
+2021
+
+2021	to	
+2022
+%
+
+Year	ended	December	31,
+
+2022
+
+2021
+
+2021	to	
+2022
+%
+
+(In	thousands	of	USD)
+
+General	and	administrative  ...... $	
+As	a	percentage	of	revenue     .....
+
+13,804	 $	
+
+	14%	
+
+13,183	
+	19%	
+
+5%
+
+$	
+
+54,273	 $	
+
+	15%	
+
+45,550	
+	18%	
+
+19%
+
+General	and	administrative	expenses	for	the	three	months	and	year	ended	December	31,	2022	were	$13.8	million	and	
+$54.3	million,	an	increase	of	$0.6	million	and	$8.7	million	compared	to	the	same	periods	in	2021.	The	increases	were	due	
+to	higher	headcount	and	related	compensation	costs,	IT	costs	and	depreciation.	In	addition,	last	year	we	benefited	from	
+non-refundable	 government	 grants	 during	 the	 pandemic	 recognized	 as	 an	 offset	 to	 salary	 costs.	 These	 cost	 increases	
+were	 partially	 offset	 by	 the	 positive	 impact	 of	 a	 strengthening	 USD	 on	 foreign	 denominated	 expenses.	 The	 increase	 in	
+general	and	administrative	expenses	reflects	investments	in	corporate	infrastructure	and	capability	to	support	our	global	
+expansion	and	growth	strategy.	
+
+16
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Other	income	and	expense
+
+Three	months	ended	December	31,
+
+2022
+
+2021
+
+2021	to	
+2022
+%
+
+Year	ended	December	31,
+
+2022
+
+2021
+
+2021	to	
+2022
+%
+
+(In	thousands	of	USD)
+
+Other	income	(expense):
+
+Foreign	exchange	gain	(loss)    . $	
+
+1,648	 $	
+
+(194)	 —(1)
+
+$	
+
+1,499	 $	
+
+(558)	 —(1)
+
+Net	finance	and	other	
+income	(expense)    ..................
+
+Change	in	fair	value	of	
+contingent	consideration   ......
+Total	other	income	(expense)    ....
+
+891	
+
+(1,367)	
+1,172	
+
+(36)	 —(1)
+
+—	
+
+—(1)
+(230)	 —(1)
+
+1,240	
+
+826	
+3,565	
+
+(264)	 —(1)
+
+—	
+
+—(1)
+(822)	 —(1)
+
+Note:
+
+(1)
+
+The	percentage	change	has	been	excluded	as	it	is	not	meaningful.
+
+Total	other	income	(expense)	for	the	three	months	and	year	ended	December	31,	2022	was	$1.2	million	and	$3.6	million,	
+compared	to	$(0.2)	million	and	$(0.8)	million	for	the	same	periods	in	2021.	The	increase	in	other	income	(expense)	for	the	
+three	 months	 and	 year	 ended	 December	 31,	 2022	 was	 due	 to	 an	 increase	 in	 foreign	 exchange	 gain	 (loss)	 and	 interest	
+income	compared	to	the	same	periods	in	2021	and	offset	by	a	decrease	in	the	fair	value	of	contingent	consideration	for	
+the	three	months	ended	December	31,	2022	and	includes	a	net	increase	in	the	fair	value	of	the	contingent	consideration	
+for	 the	 year	 ended	 December	 31,	 2022.	 The	 increase	 in	 foreign	 exchange	 gains	 in	 three	 months	 and	 year	 ended	
+December	31,	2022	was	driven	by	gains	realized	on	USD	denominated	assets	held	in	our	foreign	subsidiaries.
+
+Income	taxes
+
+Three	months	ended	December	31,
+
+2022
+
+2021
+
+2021	to
+2022
+
+%
+
+Year	ended	December	31,
+
+2022
+
+2021
+
+2021	to	
+2022
+
+%
+
+(In	thousands	of	USD)
+
+Income	tax	expense	(recovery)    . $	
+
+(635)	 $	
+
+(32)	
+
+—(1)
+
+$	
+
+11,406	 $	
+
+2,262	
+
+—(1)
+
+Note:
+
+(1)
+
+The	percentage	change	has	been	excluded	as	it	is	not	meaningful.
+
+Income	tax	recovery	for	the	three	months	ended	December	31,	2022	was	$0.6	million	compared	to	a	nominal	amount	for	
+the	same	period	in	2021.	The	decrease	in	income	tax	expense	was	due	to	lower	non-deductible	share-based	payments,	
+and	adjustments	to	filed	positions	recorded	in	the	period.		This	decrease	is	offset	by	a	higher	tax	expense	due	to	foreign	
+tax	rate	changes	on	higher	profit	in	the	period	and	differentials	to	the	statutory	Canadian	tax	rate.	
+
+Income	tax	expense	for	the	year	ended	December	31,	2022	was	$11.4	million	compared	to	an	income	tax	expense	of	$2.3	
+million	for	the	same	period	in	2021.	The	increase	in	income	tax	expense	was	primarily	due	to	an	increase	in	profit	before	
+tax	 of	 the	 Company	 and	 adjustments	 to	 filed	 positions	 recorded	 in	 the	 period.	 This	 was	 also	 driven	 by	 a	 decrease	 in	
+unrecognized	deferred	tax	assets,	as	all	deferred	tax	assets	have	been	recognized	in	2022.	
+
+17
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Profit
+
+Three	months	ended	December	31,
+
+2022
+
+2021
+
+2021	to
+2022
+%
+
+Year	ended	December	31,
+
+2022
+
+2021
+
+2021	to	
+2022
+%
+
+(In	thousands	of	USD	except	earnings	per	share)
+
+  .......................
+  ....................
+
+Profit	(loss)  ................................ $	
+Adjusted	profit(2)
+Adjusted	EBITDA(2)
+Basic	earnings	(loss)		per	share  . $	
+Diluted	earnings	(loss)	per	
+share      ......................................... $	
+Adjusted	diluted	earnings	per	
+share(2)
+
+    ...................................... $	
+
+8,562	 $	
+
+17,487	
+21,116	
+
+0.31	 $	
+
+(2,919)	
+4,430	
+11,277	
+(0.11)	
+
+—(1)
+295%
+87%
+
+0.30	 $	
+
+(0.11)	
+
+0.61	 $	
+
+0.16	
+
+$	
+
+$	
+
+$	
+
+$	
+
+20,080	 $	
+45,492	
+79,446	
+
+0.73	 $	
+
+(1,165)	
+15,988	
+39,851	
+(0.04)	
+
+—(1)
+185%
+99%
+
+0.70	 $	
+
+(0.04)	
+
+1.59	 $	
+
+0.56	
+
+Notes:
+
+(1)
+
+The	percentage	change	has	been	excluded	as	it	is	not	meaningful.
+
+(2) Adjusted	profit,	Adjusted	EBITDA	and	Adjusted	diluted	earnings	per	share	are	non-IFRS	measures	and	ratios.	See	“Non-IFRS	measures	and	ratios”.	
+For	 a	 reconciliation	 of	 these	 measures	 to	 the	 closest	 IFRS	 measure,	 where	 a	 comparable	 IFRS	 measure	 exists,	 see	 “Reconciliation	 of	 non-IFRS	
+measures	and	ratios”.
+
+Profit	for	the	three	months	and	year	ended	December	31,	2022	was	$8.6	million	and	$20.1	million	or	$0.31	and	$0.73	per	
+basic	share	and	$0.30	and	$0.70	per	diluted	share,	compared	to	a	loss	of	$2.9	million	and	$1.2	million	or	$0.11	and	$0.04	
+per	basic	and	$0.11	and	$0.04	diluted	share	for	the	same	periods	in	2021
+
+The	improved	profitability	reflects	revenue	growth	being	realized	in	profit	as	we	continued	to	grow	the	business	over	the	
+year.	 The	 45%	 and	 47%	 increases	 in	 revenue	 for	 the	 three	 months	 and	 year	 ended	 December	 31,	 2022	 were	 driven	
+primarily	 by	 new	 customers	 additions	 and	 expansion	 of	 our	 existing	 customer	 subscriptions	 related	 to	 the	 sustained	
+global	 shift	 to	 digitized	 supply	 chain	 solutions.	 Cost	 of	 revenues	 increased	 to	 support	 this	 revenue,	 while	 operating	
+expenses	remained	consistent	or	decreased	as	a	percentage	of	sales,	which	further	supported	profitability	this	year.	
+
+Adjusted	 EBITDA	 for	 the	 three	 months	 and	 year	 ended	 December	 31,	 2022	 was	 $21.1	 million	 and	 $79.4	 million,	 an	
+increase	 of	 $9.8	 million	 and	 $39.6	 million	 compared	 to	 the	 same	 periods	 in	 2021.	 These	 increases	 also	 reflect	 the	
+realization	 of	 revenue	 growth	 in	 profit	 as	 the	 business	 grows	 from	 the	 addition	 of	 new	 customers	 and	 expansion	 of	
+services	to	existing	customers.	Adjusted	EBITDA	highlights	the	growth	in	our	core	business	operations	because	compared	
+to	profit,	it	excludes	the	impact	of	higher	expenses	recognized	in	2022	for	income	taxes,	depreciation	and	amortization,	
+and	stock	compensation.	
+
+18
+
+	
+	
+	
+	
+	
+	
+	
+	
+Key	balance	sheet	items
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+As	at
+December	31,	2022
+
+As	at
+December	31,	2021
+
+(In	thousands	of	USD)
+
+Total	assets     ....................................................................... $	
+Total	liabilities     ...................................................................
+
+648,273	 $	
+246,845	
+
+520,269	
+199,051	
+
+An	analysis	of	the	key	balance	sheet	items	driving	the	change	in	total	assets	and	liabilities	is	as	follows:
+
+Trade	and	other	receivables
+
+As	at
+December	31,	2022
+
+As	at	
+December	31,	2021
+
+(In	thousands	of	USD)
+
+Trade	accounts	receivable    ................................................ $	
+Unbilled	receivables   ..........................................................
+Taxes	receivable     ................................................................
+Other     .................................................................................
+Loss	allowance      ..................................................................
+Total	trade	and	other	receivables  .....................................
+
+121,669	 $	
+
+30,623	
+1,830	
+3,847	
+(312)	
+157,657	
+
+71,118	
+15,413	
+217	
+2,499	
+—	
+89,247	
+
+Trade	 accounts	 receivable	 at	 December	 31,	 2022	 were	 $121.7	 million,	 an	 increase	 of	 $50.6	 million	 compared	 to	
+December	31,	2021	due	to	growth	in	revenue	and	variances	in	the	timing	of	billings	and	collections.	The	aging	of	trade	
+receivables	 is	 generally	 current	 or	 within	 30	 days	 past	 due	 and	 overdue	 amounts	 do	 not	 reflect	 any	 significant	 credit	
+issues.	 The	 balance	 at	 any	 point	 in	 time	 is	 impacted	 by	 the	 timing	 of	 the	 annual	 subscription	 billing	 cycle	 for	 each	
+customer	and	when	new	customer	contracts	are	secured.	Unbilled	receivables	at	December	31,	2022	were	$30.6	million,	
+an	 increase	 of	 $15.2	 million	 compared	 to	 December	 31,	 2021	 due	 to	 renewals	 and	 expansion	 of	 on-premise	 or	 hybrid	
+subscription	agreements	resulting	in	recognition	of	subscription	term	license	revenue	in	advance	of	invoicing	under	the	
+respective	agreements,	as	well	as	an	increase	in	unbilled	professional	services.	
+
+Property	and	equipment
+
+As	at
+December	31,	2022
+
+As	at	
+December	31,	2021
+
+(In	thousands	of	USD)
+
+Land    ................................................................................... $	
+Computer	equipment     .......................................................
+Computer	software    ...........................................................
+Office	furniture	and	equipment   ........................................
+Leasehold	improvements ..................................................
+Total	property	and	equipment    .........................................
+
+18	 $	
+
+27,595	
+984	
+2,395	
+20,860	
+51,852	
+
+18	
+29,509	
+781	
+2,831	
+18,954	
+52,093	
+
+Property	and	equipment	at	December	31,	2022	was	$51.9	million,	a	decrease	of	$0.2	million	compared	to	December	31,	
+2021.	The	decrease	was	due	to	regular	depreciation,		partly	offset	by	additions	to	leasehold	improvements	for	the	new	
+head	offices	in	Ottawa	and	Chennai.	
+
+19
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Right-of-use	assets	&	lease	obligations
+
+As	at
+December	31,	2022
+
+As	at
+December	31,	2021
+
+(In	thousands	of	USD)
+
+Right-of-use	assets    ............................................................ $	
+
+53,537	 $	
+
+53,578	
+
+Lease	obligations:
+
+Current    ...........................................................................
+Non-current    ....................................................................
+
+6,991	
+49,977	
+56,968	
+
+2,526	
+53,233	
+55,759	
+
+The	right-of-use	assets	and	lease	obligations	relate	to	our	leases	for	office	space	and	data	centres.	Right-of-use	assets	at	
+December	31,	2022	were	$53.5	million,	consistent	with	December	31,	2021.	Lease	obligations	at	December	31,	2022	were	
+$57.0	million,	an	increase	of	$1.2	million	compared	to	December	31,	2021.	The	increase	in	lease	obligations	was	due	to	
+the	 additions	 of	 new	 office	 leases	 in	 Chennai	 and	 from	 the	 MPO	 acquisition,	 and	 were	 offset	 by	 the	 impact	 of	 the	
+strengthening	of	the	USD	on	foreign	denominated	lease	obligations.
+
+Contract	acquisition	costs
+
+As	at
+December	31,	2022
+
+As	at
+December	31,	2021
+
+(In	thousands	of	USD)
+
+Contract	acquisition	costs     ................................................. $	
+
+24,892	 $	
+
+19,691	
+
+Contract	acquisition	costs	are	capitalized	and	amortized	over	the	expected	life	of	the	customer	upon	commencement	of	
+the	 related	 revenue	 being	 recognized.	 Contract	 acquisition	 costs	 consist	 of	 sales	 commissions	 paid	 to	 employees	 and	
+third-party	 referral	 fees.	 Variable	 compensation	 plans	 are	 determined	 on	 an	 annual	 basis	 and	 may	 differ	 in	 how	 they	
+correlate	to	revenue	from	year	to	year.	Contract	acquisition	costs	at	December	31,	2022	were	$24.9	million,	an	increase	
+of	 $5.2	 million	 compared	 to	 December	 31,	 2021.	 This	 increase	 was	 due	 to	 commissions	 incurred	 in	 the	 period,	 partly	
+offset	by	regular	amortization.
+
+Deferred	revenue	
+
+As	at
+December	31,	2022
+
+As	at
+December	31,	2021
+
+(In	thousands	of	USD)
+
+Deferred	revenue    .............................................................. $	
+
+133,467	 $	
+
+99,239	
+
+Deferred	 revenue	 at	 December	 31,	 2022	 was	 $133.5	 million,	 an	 increase	 of	 $34.2	 million	 compared	 to	 December	 31,	
+2021.	We	generally	bill	our	customers	annually	in	advance	for	SaaS	agreements	resulting	in	initially	recording	the	amount	
+billed	 as	 deferred	 revenue	 which	 is	 subsequently	 drawn	 down	 to	 revenue	 over	 the	 agreement	 term.	 The	 change	 in	
+deferred	 revenue	 was	 due	 to	 contracts	 secured	 with	 new	 customers	 and	 expansion	 of	 existing	 customers	 subject	 to	
+variances	 in	 the	 timing	 of	 billings	 for	 new	 and	 existing	 customer	 contracts.	 There	 was	 no	 deferred	 revenue	 relating	 to	
+subscription	term	periods	beyond	one	year.	
+
+20
+
+	
+	
+	
+	
+	
+	
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Summary	of	quarterly	results
+
+The	following	table	summarizes	selected	results	for	the	eight	most	recent	completed	quarters:
+
+Dec	31,
+2022
+
+Sep	30,
+2022
+
+Jun	30,
+2022
+
+Mar	31,
+2022
+
+Dec	31,
+2021
+
+Sep	30,
+2021
+
+Jun	30,
+2021
+
+Mar	31,
+2021
+
+Three	months	ended
+
+(In	thousands	of	USD)
+
+Revenue:
+
+SaaS     ................................................................... $	 58,839	 $	 54,038	 $	 51,109	 $	 49,320	 $	 46,855	 $	 44,731	 $	 42,301	 $	 40,576	
+
+Professional	services   .........................................
+
+26,156	
+
+25,613	
+
+25,386	
+
+17,036	
+
+14,576	
+
+14,001	
+
+12,027	
+
+Maintenance	and	support	  ................................
+
+Subscription	term	licenses      ................................
+
+Cost	of	revenue    .................................................
+
+Gross	profit    ........................................................
+
+Operating	expenses  ...........................................
+
+Foreign	exchange	gain	(loss)   .............................
+
+Net	finance	and	other	income	(expense)   ..........
+
+Change	in	fair	value	of	contingent	
+consideration    .....................................................
+
+Profit	(loss)	before	income	taxes    ......................
+
+Income	tax	expense	(recovery)      .........................
+
+4,357	
+
+9,131	
+
+98,483	
+
+37,217	
+
+61,266	
+
+54,511	
+
+6,755	
+
+1,648	
+
+891	
+
+(1,367)	
+
+7,927	
+
+(635)	
+
+4,020	
+
+5,827	
+
+89,498	
+
+34,395	
+
+55,103	
+
+52,857	
+
+2,246	
+
+393	
+
+723	
+
+2,193	
+
+5,555	
+
+3,927	
+
+3,927	
+
+378	
+
+80,800	
+
+31,024	
+
+49,776	
+
+52,031	
+
+(2,255)	
+
+623	
+
+(14)	
+
+—	
+
+21,458	
+
+3,856	
+
+23,474	
+
+98,108	
+
+28,466	
+
+69,642	
+
+48,467	
+
+21,175	
+
+(1,165)	
+
+(360)	
+
+3,173	
+
+1,442	
+
+68,506	
+
+24,619	
+
+43,887	
+
+46,608	
+
+(2,721)	
+
+(194)	
+
+(36)	
+
+—	
+
+—	
+
+(1,646)	
+
+19,650	
+
+(2,951)	
+
+986	
+
+7,128	
+
+(32)	
+
+3,132	
+
+1,997	
+
+64,436	
+
+21,847	
+
+42,589	
+
+41,557	
+
+1,032	
+
+547	
+
+(69)	
+
+—	
+
+1,510	
+
+1,310	
+
+3,134	
+
+620	
+
+60,056	
+
+19,783	
+
+40,273	
+
+35,825	
+
+4,448	
+
+(443)	
+
+(1)	
+
+—	
+
+4,004	
+
+916	
+
+3,066	
+
+2,059	
+
+57,728	
+
+20,506	
+
+37,222	
+
+38,062	
+
+(840)	
+
+(468)	
+
+(158)	
+
+—	
+
+(1,466)	
+
+68	
+
+Profit	(loss)   ........................................................ $	
+
+8,562	 $	
+
+1,628	 $	
+
+(2,632)	 $	 12,522	 $	
+
+(2,919)	 $	
+
+200	 $	
+
+3,088	 $	
+
+(1,534)	
+
+Change	in	fair	value	of	contingent	
+consideration    .....................................................
+
+Share-based	compensation   ...............................
+
+Non-recurring	item   ............................................
+Adjusted	profit(1)
+Income	tax	expense	(recovery)      .........................
+
+Depreciation	and	amortization    .........................
+
+Foreign	exchange	loss	(gain)   .............................
+
+Net	finance	expense	(income)  ..........................
+
+Adjusted	EBITDA(1)
+Basic	earnings	(loss)	per	share   .......................... $	
+
+Diluted	earnings	(loss)	per	share   ....................... $	
+Adjusted	diluted	earnings	per	share(1)
+
+    .............. $	
+
+Note:
+
+   ................................................ $	 17,487	 $	
+
+5,609	 $	
+
+3,871	 $	 18,525	 $	
+
+4,430	 $	
+
+6,701	 $	
+
+1,084	 $	
+
+3,773	
+
+1,367	
+
+7,558	
+
+—	
+
+(2,193)	
+
+6,174	
+
+—	
+
+—	
+
+—	
+
+6,503	
+
+6,003	
+
+—	
+
+—	
+
+—	
+
+6,633	
+
+716	
+
+—	
+
+6,501	
+
+—	
+
+—	
+
+5,902	
+
+(7,906)	
+
+—	
+
+5,307	
+
+—	
+
+(635)	
+
+6,761	
+
+(1,648)	
+
+(849)	
+
+3,629	
+
+3,927	
+
+6,324	
+
+(393)	
+
+(662)	
+
+986	
+
+6,061	
+
+(623)	
+
+81	
+
+7,128	
+
+5,914	
+
+1,165	
+
+417	
+
+(32)	
+
+6,557	
+
+194	
+
+128	
+
+1,310	
+
+4,784	
+
+(547)	
+
+136	
+
+916	
+
+4,598	
+
+443	
+
+108	
+
+68	
+
+4,470	
+
+468	
+
+262	
+
+9,196	
+
+6,505	
+
+14,624	
+
+6,847	
+
+5,683	
+
+6,065	
+
+5,268	
+
+    ............................................. $	 21,116	 $	 14,805	 $	 10,376	 $	 33,149	 $	 11,277	 $	 12,384	 $	
+
+7,149	 $	
+
+9,041	
+
+0.31	 $	
+
+0.06	 $	
+
+(0.10)	 $	
+
+0.46	 $	
+
+(0.11)	 $	
+
+0.01	 $	
+
+0.11	 $	
+
+(0.06)	
+
+0.30	 $	
+
+0.06	 $	
+
+(0.10)	 $	
+
+0.44	 $	
+
+(0.11)	 $	
+
+0.01	 $	
+
+0.11	 $	
+
+(0.06)	
+
+0.61	 $	
+
+0.20	 $	
+
+0.14	 $	
+
+0.65	 $	
+
+0.16	 $	
+
+0.24	 $	
+
+0.04	 $	
+
+0.13	
+
+(1) Adjusted	profit,	Adjusted	EBITDA	and	Adjusted	diluted	earnings	per	share	are	non-IFRS	measures	and	ratios.	See	“Non-IFRS	measures	and	ratios”.	
+For	 a	 reconciliation	 of	 these	 measures	 to	 the	 closest	 IFRS	 measure,	 where	 a	 comparable	 IFRS	 measure	 exists,	 see	 “Reconciliation	 of	 non-IFRS	
+measures	and	ratios”.
+
+Our	 quarterly	 revenue	 has	 generally	 trended	 upwards	 over	 the	 past	 eight	 quarters,	 primarily	 due	 to	 sales	 of	 new	
+subscriptions	for	RapidResponse	as	well	as	new	customer	deployment	activity.	Subscription	term	license	revenue	varies	
+quarter	to	quarter	due	to	the	timing	of	new	contracts,	expansions	and	renewals	for	on-premise	and	hybrid	subscription	
+arrangements.
+
+Cost	of	revenue	has	increased	as	we	continue	to	invest	in	personnel	to	support	the	growth	in	our	business.	Gross	margin	
+has	ranged	from	62%	to	71%	of	revenue,	with	fluctuations	due	to	the	change	in	revenue	mix	between	subscription	term	
+license	and	professional	services	compared	to	SaaS,	our	main	contributor	of	revenue.	Operating	expenses	have	increased	
+for	the	majority	of	the	periods	presented	primarily	due	to	the	addition	of	personnel	in	connection	with	the	expansion	of	
+our	business.	
+
+21
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Liquidity	and	capital	resources
+
+Our	primary	source	of	cash	flow	is	sales	of	subscriptions	for	our	software	and	sales	of	professional	services.	Our	approach	
+to	managing	liquidity	is	to	ensure,	to	the	extent	possible,	that	we	always	have	sufficient	liquidity	to	meet	our	liabilities	as	
+they	come	due.	We	do	so	by	continuously	monitoring	cash	flow	and	actual	operating	expenses	compared	to	budget.
+
+As	at
+December	31,	2022
+
+As	at
+December	31,	2021
+
+(In	thousands	of	USD)
+
+Cash	and	cash	equivalents     ................................................ $	
+Short-term	investments   ....................................................
+
+175,347	 $	
+
+50,476	
+225,823	
+
+203,220	
+30,168	
+233,388	
+
+Cash	and	cash	equivalents	decreased	by	$27.9	million	to	$175.3	million	at	December	31,	2022.	Short-term	investments	
+increased	 by	 $20.3	 million	 to	 $50.5	 million	 at	 December	 31,	 2022.	 Total	 cash,	 cash	 equivalents	 and	 short-term	
+investments	decreased	by	$7.6	million	to	$225.8	million	at	December	31,	2022.
+
+In	 addition	 to	 the	 cash,	 cash	 equivalents	 and	 short-term	 investment	 balances,	 we	 have	 a	 $20.0	 million	 CAD	 revolving	
+demand	facility	available	to	meet	ongoing	working	capital	requirements.	As	part	of	the	acquisition	of	Rubikloud	in	2020,	a	
+Standby	 Letter	 of	 Credit	 has	 been	 issued	 against	 this	 facility	 in	 the	 amount	 of	 $1.4	 million	 CAD.	 Our	 principal	 cash	
+requirements	 are	 for	 working	 capital	 and	 capital	 expenditures.	 Excluding	 deferred	 revenue,	 working	 capital	 at	
+December	 31,	 2022	 was	 $340.6	 million.	 Given	 the	 ongoing	 cash	 generated	 from	 operations	 and	 our	 existing	 cash	 and	
+credit	facilities,	we	believe	there	is	sufficient	liquidity	to	meet	our	current	contractual	obligations	of	$189.8	million	and	
+finance	our	longer-term	growth.
+
+Cash	flow
+
+The	following	table	provides	a	summary	of	cash	inflows	and	outflows	by	activity:
+
+Three	months	ended	December	31,
+
+Year	ended	December	31,
+
+2022
+
+2021
+
+2022
+
+2021
+
+(In	thousands	of	USD)
+
+Cash	inflow	(outflow)	by	activity
+
+Operating	activities   ............................................................ $	
+Investing	activities  ..............................................................
+Financing	activities    .............................................................
+Effects	of	exchange	rates      ...................................................
+Net	cash	inflows	(outflows)     ..................................................
+Less:	Net	purchase	of	short-term	investments  ....................
+
+(2,327)	 $	
+
+3,238	 $	
+
+(28,245)	
+4,575	
+(1,420)	
+(27,417)	
+20,000	
+
+(11,464)	
+1,166	
+(102)	
+(7,162)	
+—	
+
+24,518	 $	
+(74,987)	
+26,840	
+(4,244)	
+(27,873)	
+20,000	
+
+50,138	
+(34,633)	
+5,851	
+(1,094)	
+20,262	
+—	
+
+Net	cash	inflows	(outflows)	excluding	short-term	investing  
+
+(7,417)	
+
+(7,162)	
+
+(7,873)	
+
+20,262	
+
+Cash	provided	by	operating	activities
+
+Cash	 used	 by	 operating	 activities	 for	 the	 three	 months	 ended	 December	 31,	 2022	 was	 $2.3	 million	 compared	 to	 $3.2	
+million	 cash	 generated	 for	 the	 same	 period	 in	 2021.	 The	 decrease	 was	 due	 to	 a	 net	 increase	 in	 operating	 assets	 and	
+liabilities	 compared	 to	 the	 same	 period	 in	 2021,	 offset	 by	 the	 higher	 profit	 in	 the	 three	 months	 ended	 December	 31,	
+2022.	Cash	generated	by	operating	activities	for	the	year	ended	December	31,	2022	was	$24.5	million	compared	to	$50.1	
+million	for	the	same	period	in	2021.	The	decrease	was	due	to	a	net	increase	in	operating	assets	and	liabilities,	partially	
+offset	by	higher	profit,	depreciation,	share	based	payments	and	income	tax	expense	in	2022.
+
+22
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Cash	used	in	investing	activities
+
+Cash	used	in	investing	activities	for	the	three	months	ended	December	31,	2022	was	$28.2	million	compared	to	$11.5	
+million	 for	 the	 same	 period	 in	 2021.	 The	 increase	 was	 due	 to	 an	 increase	 in	 the	 purchase	 of	 short-term	 investments,	
+partially	offset	by	a	decrease	in	purchases	of	property	and	equipment.	Cash	used	in	investing	activities	for	the	year	ended	
+December	31,	2022	was	$75.0	million	compared	to	$34.6	million	for	the	same	period	in	2021.	The	increase	was	due	to	
+the	two	acquisitions	in	2022	and	an	increase	in	the	purchase	of	short-term	investments,	partially	offset	by	a	decrease	in	
+purchases	of	property	and	equipment.	
+
+Cash	provided	by	financing	activities	
+
+Cash	provided	by	financing	activities	for	the	three	months	and	year	ended	December	31,	2022	was	$4.6	million	and	$26.8	
+million	compared	to	$1.2	million	and	$5.9	million	for	the	same	periods	in	2021.	The	increase	for	the	three	months	ended	
+December	31,	2022	was	due	to	proceeds	from	stock	options	exercised,	and	for	the	year	ended	December	31,	2022,	the	
+increase	was	due	to	proceeds	from	stock	options	exercised	and	lease	incentives	received.	
+
+Contractual	obligations
+
+Our	 lease	 commitments	 are	 primarily	 for	 office	 premises	 and	 secure	 data	 center	 facilities	 with	 expiry	 dates	 that	 range	
+from	March	2023	to	February	2037.	The	largest	lease	commitment	relates	to	our	new	head	office	in	Ottawa,	Canada,	the	
+lease	of	which	commenced	September	2021	and	expires	in	2037.	Given	the	ongoing	cash	generated	from	operations	and	
+our	existing	cash	and	credit	facilities,	we	believe	there	is	sufficient	liquidity	to	meet	our	contractual	obligations.
+
+In	2022,	we	contracted	to	purchase	cloud	data	services	for	a	minimum	purchase	commitment	of	$100.0	million	over	a	
+seven-year	term.
+
+The	following	table	summarizes	our	contractual	obligations	as	at	December	31,	2022,	including	commitments	relating	to	
+leasing	contracts:
+
+Less	than	
+1	year
+
+1	to	
+3	years
+
+3	to	
+5	years
+
+More	than	
+5	years
+
+Total
+amount
+
+(In	thousands	of	USD)
+
+Commitments
+Lease	agreements      .................................. $	
+
+7,919	 $	
+
+8,795	 $	
+
+6,436	 $	
+
+26,736	 $	
+
+Cloud	services	agreements     ....................
+
+6,706	
+
+18,125	
+
+40,000	
+
+35,000	
+
+49,886	
+
+99,831	
+
+Financial	obligations
+Trade	payables	and	accrued	liabilities      ...
+
+40,107	
+
+—	
+
+—	
+
+—	
+
+40,107	
+
+Total	contractual	obligations      ................. $	
+
+54,732	 $	
+
+26,920	 $	
+
+46,436	 $	
+
+61,736	 $	
+
+189,824	
+
+The	following	table	summarizes	our	contractual	obligations	as	at	December	31,	2021,	including	commitments	relating	to	
+leasing	contracts:
+
+Less	than	
+1	year
+
+1	to	
+3	years
+
+3	to	
+5	years
+
+More	than	
+5	years
+
+Total
+amount
+
+(In	thousands	of	USD)
+
+Commitments
+Lease	agreements      .................................. $	
+
+Financial	obligations
+Trade	payables	and	accrued	liabilities      ...
+
+9,475	 $	
+
+13,215	 $	
+
+7,362	 $	
+
+31,546	 $	
+
+61,598	
+
+43,328	
+
+—	
+
+—	
+
+—	
+
+43,328	
+
+Total	contractual	obligations      ................. $	
+
+52,803	 $	
+
+13,215	 $	
+
+7,362	 $	
+
+31,546	 $	
+
+104,926	
+
+23
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Off-balance	sheet	arrangements
+
+We	 have	 no	 off-balance	 sheet	 arrangements,	 other	 than	 variable	 payments	 related	 to	 operating	 leases	 with	 terms	 of	
+twelve	 months	 or	 less	 (which	 have	 been	 included	 in	 the	 disclosed	 obligations	 under	 “Liquidity	 and	 capital	 resources	 –	
+Contractual	obligations”),	that	have,	or	are	likely	to	have,	a	current	or	future	material	effect	on	our	consolidated	financial	
+position,	financial	performance,	liquidity,	capital	expenditures	or	capital	resources.	
+
+Transactions	with	related	parties
+
+We	did	not	have	any	transactions	during	the	three	months	and	year	ended	December	31,	2022	and	2021	between	the	
+Company	and	a	related	party	outside	the	normal	course	of	business.	
+
+Financial	instruments	and	other	instruments
+
+We	recognize	financial	assets	and	liabilities	when	we	become	party	to	the	contractual	provisions	of	the	instrument.	On	
+initial	recognition,	financial	assets	and	liabilities	are	measured	at	fair	value	plus	transaction	costs	directly	attributable	to	
+the	financial	assets	and	liabilities,	except	for	financial	assets	or	liabilities	at	fair	value	through	profit	and	loss,	whereby	the	
+transactions	 costs	 are	 expensed	 as	 incurred.	 The	 carrying	 amounts	 of	 our	 financial	 instruments	 approximate	 fair	 value	
+due	to	the	short-term	maturity	of	these	instruments.
+
+Credit	risk
+
+Credit	 risk	 is	 the	 risk	 of	 an	 unexpected	 loss	 if	 a	 customer	 or	 counterparty	 to	 a	 financial	 instrument	 fails	 to	 meet	 its	
+contractual	obligations.	Our	credit	risk	is	primarily	attributable	to	trade	and	other	receivables.
+
+The	 nature	 of	 our	 subscription-based	 business	 results	 in	 payments	 being	 received	 in	 advance	 of	 the	 majority	 of	 the	
+services	being	delivered,	as	a	result,	our	credit	risk	exposure	is	low.	
+
+We	invest	our	excess	cash	in	short-term	investments	with	the	objective	of	maintaining	safety	of	principal	and	providing	
+adequate	liquidity	to	meet	all	current	payment	obligations	and	future	planned	capital	expenditures	with	the	secondary	
+objective	of	maximizing	the	overall	yield	of	the	investment.	We	manage	our	credit	risk	on	investments	by	dealing	only	
+with	major	Canadian	banks	and	investing	only	in	instruments	that	we	believe	have	high	credit	ratings.	Given	these	high	
+credit	ratings,	we	do	not	expect	any	counterparties	to	these	investments	to	fail	to	meet	their	obligations.
+
+Market	risk	
+
+Market	 risk	 is	 the	 risk	 that	 changes	 in	 market	 prices,	 such	 as	 foreign	 exchange	 rates	 and	 interest	 rates,	 will	 affect	 our	
+income	or	the	value	of	our	holdings	of	financial	instruments.
+
+Currency	risk
+
+A	portion	of	our	revenues	and	operating	costs	are	realized	in	currencies	other	than	our	functional	currency,	such	as	the	
+Canadian	 dollar,	 Japanese	 Yen,	 Euro,	 and	 British	 Pound.	 As	 a	 result,	 we	 are	 exposed	 to	 currency	 risk	 on	 these	
+transactions.	Also,	additional	earnings	volatility	arises	from	the	translation	of	monetary	assets	and	liabilities,	investment	
+tax	credits	recoverable	and	deferred	tax	assets	and	liabilities	denominated	in	foreign	currencies	at	the	rate	of	exchange	
+on	each	date	of	our	consolidated	statements	of	financial	position;	the	impact	of	which	is	reported	as	a	foreign	exchange	
+gain	or	loss	or	as	income	tax	expense	for	deferred	tax	assets	and	liabilities.
+
+Our	objective	in	managing	our	currency	risk	is	to	minimize	exposure	to	currencies	other	than	our	functional	currency.	We	
+do	 not	 engage	 in	 hedging	 activities.	 We	 manage	 currency	 risk	 by	 matching	 foreign	 denominated	 assets	 with	 foreign	
+denominated	liabilities.
+
+24
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Interest	rate	risk
+
+Interest	rate	risk	is	the	risk	that	the	fair	value	or	future	cash	flows	of	a	financial	instrument	will	fluctuate	due	to	changes	
+in	market	interest	rates.	We	believe	that	interest	rate	risk	is	low	for	our	financial	assets	as	the	majority	of	investments	are	
+made	in	fixed	rate	instruments.	We	do	have	interest	rate	risk	related	to	our	credit	facilities.	The	rates	on	our	Revolving	
+Facility	 are	 variable	 tied	 to	 Royal	 Bank	 prime	 rate	 and	 Royal	 Bank	 US	 base	 rate.	 No	 amounts	 have	 been	 drawn	 as	 at	
+December	31,	2022.
+
+Capital	management
+
+Our	 capital	 is	 composed	 of	 shareholders’	 equity	 which	 includes	 our	 common	 shares.	 Our	 objective	 in	 managing	 our	
+capital	is	financial	stability	and	sufficient	liquidity	to	increase	shareholder	value	through	organic	growth	and	investment	in	
+sales,	marketing	and	product	development.	Our	senior	management	team	is	responsible	for	managing	the	capital	through	
+regular	review	of	financial	information	to	ensure	sufficient	resources	are	available	to	meet	operating	requirements	and	
+investments	to	support	our	growth	strategy.	The	Board	of	Directors	of	Kinaxis	(the	“Board”)	is	responsible	for	overseeing	
+this	process.	In	order	to	maintain	or	adjust	our	capital	structure,	we	could	issue	new	shares,	repurchase	shares,	approve	
+special	dividends	or	issue	debt.
+
+Critical	accounting	policies	and	estimates
+
+See	our	annual	consolidated	financial	statements	for	the	year	ended	December	31,	2022	and	the	related	notes	thereto	
+for	a	discussion	of	the	accounting	policies	and	estimates	that	are	critical	to	the	understanding	of	our	business	operations	
+and	the	results	of	our	operations.
+
+Contingencies
+
+We	are	involved	in	litigation	with	a	competitor,	whereby	the	competitor	has	made	certain	allegations	concerning	patent	
+infringement.	We	will	accrue	a	liability	if	we	determine	that	it	is	more	likely	than	not	that	a	present	obligation	exists	that	
+will	result	in	an	outflow	of	resources	and	the	amount	of	the	obligation	can	be	reliably	estimated.	Significant	judgment	is	
+required	 in	 both	 the	 determination	 of	 probability	 and	 the	 determination	 as	 to	 whether	 an	 amount	 of	 an	 obligation	 is	
+reliably	estimable.	We	have	assessed	that	our	defense	against	these	allegations	will	more	likely	than	not	be	successful	
+and	 a	 present	 obligation	 does	 not	 exist.	 At	 December	 31,	 2022,	 we	 have	 not	 recognized	 a	 liability	 regarding	 these	
+allegations.	
+
+We	are	required	to	apply	judgment	with	respect	to	any	potential	loss	or	range	of	loss	in	connection	with	litigation.	The	
+outcome	of	litigation	and	claims	is	intrinsically	subject	to	considerable	uncertainty.
+
+Controls	and	procedures
+
+Disclosure	controls	and	procedures
+
+The	 Company’s	 Chief	 Executive	 Officer	 (CEO)	 and	 Chief	 Financial	 Officer	 (CFO)	 are	 responsible	 for	 establishing	 and	
+maintaining	our	disclosure	controls	and	procedures.	We	maintain	a	set	of	disclosure	controls	and	procedures	designed	to	
+provide	reasonable	assurance	that	information	required	to	be	publicly	disclosed	is	recorded,	processed,	summarized	and	
+reported	on	a	timely	basis.	Our	CEO	and	CFO	have	evaluated	the	design	and	effectiveness	of	our	disclosure	controls	and	
+procedures	 at	 the	 end	 of	 the	 quarter	 and	 based	 on	 the	 evaluation	 have	 concluded	 that	 the	 disclosure	 controls	 and	
+procedures	are	effectively	designed.
+
+25
+
+MANAGEMENT’S	DISCUSSION	AND	ANALYSIS
+
+Internal	controls	over	financial	reporting
+
+Our	internal	controls	over	financial	reporting	(ICFR)	are	designed	to	provide	reasonable	assurance	regarding	the	reliability	
+of	 financial	 reporting	 and	 the	 preparation	 of	 financial	 statements	 for	 external	 purposes	 in	 accordance	 with	 IFRS.	 Our	
+management	 is	 responsible	 for	 establishing	 and	 maintaining	 adequate	 ICFR.	 Management,	 including	 our	 CEO	 and	 CFO,	
+does	not	expect	that	our	ICFR	will	prevent	or	detect	all	errors	and	all	fraud	or	will	be	effective	under	all	future	conditions.	
+A	control	system	is	subject	to	inherent	limitations	and	even	those	systems	determined	to	be	effective	can	provide	only	
+reasonable,	 but	 not	 absolute,	 assurance	 that	 the	 control	 objectives	 will	 be	 met	 with	 respect	 to	 financial	 statement	
+preparation	and	presentation.
+
+National	Instrument	52-109	–	Certification	of	Disclosure	in	Issuers’	Annual	and	Interim	Filings	of	the	Canadian	Securities	
+Administrators	requires	our	CEO	and	CFO	to	certify	that	they	are	responsible	for	establishing	and	maintaining	ICFR	and	
+that	 those	 internal	 controls	 have	 been	 designed	 and	 are	 effective	 in	 providing	 reasonable	 assurance	 regarding	 the	
+reliability	of	financial	reporting	and	the	preparation	of	financial	statements	in	accordance	with	IFRS.	Our	CEO	and	CFO	are	
+also	 responsible	 for	 disclosing	 any	 changes	 to	 our	 internal	 controls	 during	 the	 most	 recent	 period	 that	 have	 materially	
+affected,	 or	 are	 reasonably	 likely	 to	 materially	 affect,	 our	 internal	 control	 over	 financial	 reporting.	 Our	 management	
+under	the	supervision	of	our	CEO	and	CFO	has	evaluated	the	design	and	effectiveness	of	our	ICFR	based	on	the	Internal	
+Control	 –	 Integrated	 Framework	 issued	 in	 2013	 by	 the	 Committee	 of	 Sponsoring	 Organizations	 of	 the	 Treadway	
+Commission.	As	at	December	31,	2022,	management	assessed	the	design	and	effectiveness	of	our	ICFR	and	concluded	
+that	our	ICFR	is	appropriately	designed	and	there	are	no	material	weaknesses	that	have	been	identified.	There	were	no	
+significant	changes	to	our	ICFR	for	the	year	ended	December	31,	2022.
+Outstanding	share	information
+
+As	at	December	31,	2022,	our	authorized	capital	consists	of	an	unlimited	number	of	common	shares	with	no	stated	par	
+value.	Changes	in	the	number	of	common	shares,	options,	restricted	share	units,	deferred	share	units	and	performance	
+share	units	outstanding	for	the	year	ended	December	31,	2022	and	as	of	March	1,	2023	are	summarized	as	follows:
+
+Class	of	Security
+
+Common	shares
+Stock	options
+Restricted	Share	Units
+Deferred	Share	Units
+Performance	Share	Units
+
+Number
+outstanding	at
+December	31,
+2021
+
+Net	issued
+
+Number
+outstanding	at
+December	31,	
+2022
+
+Net	issued
+
+Number
+outstanding	at
+March	1,	2023
+
+27,462,834	
+2,143,375	
+96,583	
+65,441	
+31,640	
+
+589,795	
+(423,049)	
+84,156	
+9,954	
+39,738	
+
+28,052,629	
+1,720,326	
+180,739	
+75,395	
+71,378	
+
+6,215	
+(7,715)	
+(1,065)	
+—	
+—	
+
+28,058,844	
+1,712,611	
+179,674	
+75,395	
+71,378	
+
+Our	outstanding	common	shares	increased	by	589,795	shares	in	of	2022	due	to	the	exercise	of	492,631	stock	options	and	
+vesting	of	97,164	restricted	and	performance	share	units.
+
+Our	outstanding	stock	options	decreased	by	423,049	options	in	2022	due	to	the	grant	of	194,646	options	less	492,631	
+options	exercised	and	125,064	options	forfeited.	Each	option	is	exercisable	for	one	common	share.
+
+Our	outstanding	restricted	share	units	increased	by	84,156	units	in	2022	due	to	the	grant	of	200,865	units	less	93,388	
+units	 vested	 and	 23,321	 units	 forfeited.	 Our	 outstanding	 deferred	 share	 units	 increased	 by	 9,954	 units	 in	 2022	 due	 to	
+9,954	 units	 granted.	 Our	 outstanding	 performance	 share	 units	 increased	 by	 39,738	 units	 in	 2022	 due	 to	 52,209	 units	
+granted	less	3,776	units	vested	and	8,695	units	forfeited.	Upon	vesting,	each	share	unit	can	be	paid	out	or	settled	in	cash,	
+an	equivalent	number	of	common	shares,	or	a	combination	thereof,	as	elected	by	the	Compensation	Committee	of	the	
+Board.	
+
+26

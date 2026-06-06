@@ -1,0 +1,4723 @@
+# Canadian Pacific Railway Limited
+# 来源：Annual MD&A - English.pdf (cee1ea90f39857a9)
+
+1  CP 2022 ANNUAL REPORT
+
+ITEM  7.  MANAGEMENT'S  DISCUSSION  AND  ANALYSIS  OF  FINANCIAL 
+CONDITION AND RESULTS OF OPERATIONS
+
+INDEX TO MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+Executive Summary 
+
+Performance Indicators 
+
+Results of Operations 
+
+Operating Revenues 
+
+Operating Expenses 
+
+Other Income Statement Items 
+
+Impact of Foreign Exchange on Earnings and Foreign Exchange Risk 
+
+Impact of Fuel Price on Earnings 
+
+Impact of Share Price on Earnings and Stock-based Compensation 
+
+Liquidity and Capital Resources 
+
+Share Capital 
+
+Non-GAAP Measures 
+
+Critical Accounting Estimates 
+
+Forward-Looking Statements 
+
+Page 
+
+ 2
+
+  2
+
+  3
+
+  3
+
+  7
+
+  9
+
+10
+
+11
+
+11
+
+11
+
+16
+
+16
+
+27
+
+31
+
+  CP 2022 ANNUAL REPORT  2
+
+The  following  Management’s  Discussion  and  Analysis  of  Financial  Condition  and  Results  of  Operations  (“MD&A”)  is  intended  to  enhance  a  reader’s 
+understanding  of  the  Company’s  results  of  operations  and  financial  condition.  The  MD&A  is  provided  as  a  supplement  to,  and  should  be  read  in 
+conjunction with the Company’s Consolidated Financial Statements and the related notes in Item 8. Financial Statements and Supplementary Data, and 
+other information in this annual report. Except where otherwise indicated, all financial information reflected herein is expressed in Canadian dollars. The 
+following section generally discusses 2022 and 2021 items and year-to-year comparisons between 2022 and 2021. Discussions of 2020 items and year-
+to-year  comparisons  between  2021  and  2020  that  are  not  included  in  this  Form  10-K  can  be  found  in  "Management's  Discussion  and  Analysis  of 
+Financial Condition and Results of Operations" in Part II, Item 7, of the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 
+2021. 
+
+For purposes of this report, all references herein to “CP”, “the Company”, “we”, “our” and “us” refer to Canadian Pacific Railway Limited ("CPRL"), 
+CPRL and its subsidiaries, CPRL and one or more of its subsidiaries, or one or more of CPRL's subsidiaries, as the context may require. 
+
+Executive Summary
+2022 Results
+• Financial performance – In 2022, the Company reported Diluted earnings per share ("EPS") of $3.77, a 10% decrease from $4.18 in 2021.  
+Core adjusted diluted EPS has remained unchanged at $3.77. The Company’s commitment to service and operational efficiency produced an Operating 
+ratio of 62.2% and an Adjusted operating ratio of 61.4%. Core adjusted diluted EPS and Adjusted operating ratio are defined and reconciled in Non-
+GAAP  Measures  and  discussed  further  in  Results  of  Operations  of  this  Item  7.  Management’s  Discussion  and  Analysis  of  Financial  Condition  and 
+Results of Operations.
+
+• Total revenues – The Company’s Total revenues increased by 10% to $8,814 million in 2022 from $7,995 million in 2021, driven primarily by  
+
+higher fuel surcharge revenue as a result of higher fuel prices and higher freight rates.
+
+Performance Indicators
+The following table lists the key measures of the Company’s operating performance:
+
+For the year ended December 31
+Gross ton-miles (“GTMs”) (millions)
+
+Train miles (thousands)
+
+Fuel efficiency (U.S. gallons of locomotive fuel consumed /1,000 GTMs)
+
+Total employees (average)
+
+2022
+
+  269,134    271,921 
+
+2021 % Change
+ (1) 
+
+28,899   
+
+29,397 
+
+0.955   
+
+0.931 
+
+12,570
+
+12,337
+
+ (2) 
+
+ 3 
+
+ 2 
+
+These  key  measures  are  used  by  management  as  comparisons  to  historical  operating  results  and  in  the  planning  process  to  facilitate  decisions  that 
+continue  to  drive  further  productivity  improvements  in  the  Company's  operations.  Results  of  these  key  measures  reflect  how  effective  the  Company’s 
+management is at controlling costs and executing the Company’s operating plan and strategy. Continued monitoring of these key measures ensures that 
+the Company can take appropriate actions to ensure the delivery of superior service and be able to grow its business at low incremental cost.
+
+A GTM is defined as the movement of one ton of train weight over one mile. GTMs are calculated by multiplying total train weight by the distance the 
+train  moved.  Total  train  weight  comprises  the  weight  of  the  freight  cars,  their  contents,  and  any  inactive  locomotives.  An  increase  in  GTMs  indicates 
+additional workload. GTMs for 2022 were 269,134 million, a slight decrease compared with 271,921 million in 2021. The decrease in GTMs was mainly 
+attributable  to  lower  volumes  of  Canadian  grain,  Coal,  and  Energy,  chemicals  and  plastics.  This  decrease  was  partially  offset  by  higher  volumes  of 
+Intermodal, U.S. grain, Potash, and frac sand. 
+
+Train  miles  are  defined  as  the  sum  of  the  distance  moved  by  all  trains  operated  on  the  network.  Train  miles  provide  a  measure  of  the  productive 
+utilization of our network. A smaller increase in train miles  relative to increases in volumes, as measured by RTMs, and/or workload, as  measured by 
+GTMs, indicates improved train productivity. Train miles for 2022 were 28,899 thousands, a decrease of 2% compared with 29,397 thousands in 2021. 
+This decrease reflects the impact of a slight decrease in workload (GTMs), as well as the impact of a 1% increase in average train weights. 
+
+Fuel  efficiency  is  defined  as  U.S.  gallons  of  locomotive  fuel  consumed  per  1,000  GTMs.  Fuel  consumed  includes  gallons  from  freight,  yard  and 
+commuter service but excludes fuel used in capital projects and other non-freight activities. An improvement in fuel efficiency indicates operational cost 
+savings and the Company's commitment to corporate sustainability through a reduction of greenhouse gas emissions intensity. Fuel efficiency for 2022 
+was 0.955 U.S. gallons/1,000 GTMs, a decrease of 3% compared to 0.931 U.S. gallons/1,000 GTMs in 2021. This decrease was due to harsher winter 
+
+ 
+ 
+ 
+3  CP 2022 ANNUAL REPORT
+
+operating conditions in 2022, higher volumes of Intermodal, which has lower horsepower utilization, and lower locomotive productivity defined as the 
+daily average GTMs divided by daily average operating horsepower. 
+
+An employee is defined as an individual currently engaged in full-time, part-time, or seasonal employment with the Company. The Company monitors 
+employment levels in order to efficiently meet service and strategic requirements. The number of employees is a key driver to total compensation and 
+benefits costs.
+
+The average number of total employees for 2022 was 12,570, an increase of 233, or 2%, compared to 12,337 in 2021 to support anticipated future 
+volume growth.
+
+Results of Operations
+Operating Revenues
+
+For the year ended December 31
+Freight revenues (in millions)(1)
+Non-freight revenues (in millions)
+
+Total revenues (in millions)
+
+Carloads (in thousands)
+
+Revenue ton-miles (in millions)
+
+Freight revenue per carload (in dollars)
+
+Freight revenue per revenue ton-mile (in cents)
+
+2022
+
+2021
+
+Total 
+Change
+
+% 
+Change
+
+$  8,627  $  7,816  $ 
+
+811 
+
+187   
+
+179   
+
+8 
+
+$  8,814  $  7,995  $ 
+
+819 
+
+ 2,782.1    2,735.5   
+
+46.6 
+
+ 148,228    149,686   
+
+(1,458) 
+
+$  3,101  $  2,857  $ 
+
+244 
+
+5.82   
+
+5.22   
+
+0.60 
+
+ 10 
+
+ 4 
+
+ 10 
+
+ 2 
+
+ (1) 
+
+ 9 
+
+ 11 
+
+(1)  Freight  revenues  include  fuel  surcharge  revenues  of  $1,303  million  in  2022  and  $535  million  in  2021.  Fuel  surcharge  revenues  include  recoveries  of  carbon  taxes,  levies,  and 
+
+obligations under cap-and-trade program
+
+The  Company’s  revenues  are  primarily  derived  from  transporting  freight.  Changes  in  freight  volumes  as  measured  by  RTMs  generally  contribute  to 
+corresponding changes in freight revenues and certain variable expenses, such as fuel, crew costs, and equipment rents. Non-freight revenue is generated 
+from leasing of certain assets; other arrangements, including contracts with passenger service operators and logistical services; switching fees; and other 
+arrangements. 
+
+Total Revenues
+The increase in Freight revenues was primarily due to increased freight revenue per RTM, partially offset by lower volumes as measured by RTMs. The 
+increase in Non-freight revenues was primarily due to higher leasing revenue, higher passenger revenue from passenger service operators, and higher 
+interline switching fees, partially offset by lower revenue from logistical services.
+
+RTMs
+RTMs are defined as the movement of one revenue-producing ton of freight over a distance of one mile. RTMs measure the relative weight and distance 
+of rail freight moved by the Company. The decrease in RTMs was mainly attributable to lower volumes of Canadian grain, Coal, and Energy, chemicals 
+and plastics. This decrease was partially offset by higher volumes of Intermodal, U.S. grain, Potash, and frac sand.
+
+Freight revenue per RTM
+Freight revenue per RTM is defined as freight revenue per revenue-producing ton of freight over a distance of one mile. This is an indicator of yield. The 
+increase in Freight revenue per RTM was primarily due to higher fuel surcharge revenue as a result of higher fuel prices of $709 million, higher freight 
+rates, and the favourable impact of the change in foreign exchange ("FX") of $142 million. This increase was partially offset by lower crude liquidated 
+damages, including customer volume commitments, due to completion of customer contracts.
+
+ 
+ 
+Lines of Business
+Grain
+
+For the year ended December 31
+
+Freight revenues (in millions)
+
+Carloads (in thousands)
+
+Revenue ton-miles (in millions)
+
+Freight revenue per carload (in dollars)
+
+Freight revenue per revenue ton-mile (in cents)
+
+  CP 2022 ANNUAL REPORT  4
+
+2022
+
+2021
+
+Total 
+Change
+
+% 
+Change
+
+$  1,776  $  1,684  $ 
+
+92 
+
+  382.1   
+
+426.2   
+
+(44.1) 
+
+  35,325    37,999   
+
+(2,674) 
+
+$  4,648  $  3,951  $ 
+
+697 
+
+5.03   
+
+4.43   
+
+0.60 
+
+ 5 
+
+ (10) 
+
+ (7) 
+
+ 18 
+
+ 14 
+
+The increase in Grain revenue was primarily due to increased freight revenue per RTM and higher volumes of U.S. corn from the U.S. Midwest to western 
+Canada,  partially  offset  by  lower  volumes  of  Canadian  grain  to  Vancouver,  B.C.  and  eastern  Canada  due  to  drought  conditions  that  impacted  the 
+2021-2022 Canadian crop size. Freight revenue per RTM increased due to higher fuel surcharge revenue as a result of higher fuel prices, higher freight 
+rates,  and  the  favourable  impact  of  the  change  in  FX.  RTMs  decreased  less  than  carloads  due  to  moving  higher  volumes  of  U.S.  corn  from  the  U.S. 
+Midwest to western Canada, which has a longer length of haul.
+
+Coal
+
+For the year ended December 31
+
+Freight revenues (in millions)
+
+Carloads (in thousands)
+
+Revenue ton-miles (in millions)
+
+Freight revenue per carload (in dollars)
+
+Freight revenue per revenue ton-mile (in cents)
+
+2022
+
+2021
+
+Total 
+Change
+
+% 
+Change
+
+$ 
+
+577  $ 
+
+625  $ 
+
+(48) 
+
+  269.8   
+
+291.5   
+
+(21.7) 
+
+  14,970    18,345   
+
+(3,375) 
+
+$  2,139  $  2,144  $ 
+
+(5) 
+
+3.85   
+
+3.41   
+
+0.44 
+
+ (8) 
+
+ (7) 
+
+ (18) 
+
+ — 
+
+ 13 
+
+The  decrease  in  Coal  revenue  was  primarily  due  to  lower  volumes  of  Canadian  coal  to Vancouver  as  a  result  of  production  challenges  at  the  mines, 
+partially offset by higher volumes of Canadian coal to Kamloops, B.C. and increased freight revenue per RTM. Freight revenue per RTM increased due to 
+higher fuel surcharge revenue as a result of higher fuel prices and higher freight rates. RTMs decreased more than carloads due to moving lower volumes 
+of Canadian coal to Vancouver, which has a longer length of haul, and moving higher volumes of Canadian coal to Kamloops, which has a shorter length 
+of haul.
+
+Potash
+
+For the year ended December 31
+
+Freight revenues (in millions)
+
+Carloads (in thousands)
+
+Revenue ton-miles (in millions)
+
+Freight revenue per carload (in dollars)
+
+Freight revenue per revenue ton-mile (in cents)
+
+2022
+
+2021
+
+Total 
+Change
+
+% 
+Change
+
+$ 
+
+581  $ 
+
+463  $ 
+
+118 
+
+  160.0   
+
+150.9   
+
+9.1 
+
+  18,176    16,671    1,505 
+
+$  3,631  $  3,068  $ 
+
+563 
+
+3.20   
+
+2.78   
+
+0.42 
+
+ 25 
+
+ 6 
+
+ 9 
+
+ 18 
+
+ 15 
+
+The increase in Potash revenue was primarily due to increased freight revenue per RTM and higher volumes of export potash to Vancouver and Thunder 
+Bay,  Ontario.  Freight  revenue  per  RTM  increased  due  to  higher  fuel  surcharge  revenue  as  a  result  of  higher  fuel  prices,  the favourable  impact  of  the 
+change in FX, and higher freight rates. 
+
+ 
+ 
+ 
+ 
+5  CP 2022 ANNUAL REPORT
+
+Fertilizers and Sulphur
+
+For the year ended December 31
+
+Freight revenues (in millions)
+
+Carloads (in thousands)
+
+Revenue ton-miles (in millions)
+
+Freight revenue per carload (in dollars)
+
+Freight revenue per revenue ton-mile (in cents)
+
+2022
+
+2021
+
+Total 
+Change
+
+% 
+Change
+
+$ 
+
+332  $ 
+
+305  $ 
+
+27 
+
+61.8   
+
+64.4   
+
+  4,772   
+
+4,845   
+
+(2.6) 
+
+(73) 
+
+$  5,372  $  4,736  $ 
+
+636 
+
+6.96   
+
+6.30   
+
+0.66 
+
+ 9 
+
+ (4) 
+
+ (2) 
+
+ 13 
+
+ 10 
+
+The increase in Fertilizers and sulphur revenue was primarily due to increased freight revenue per RTM and higher volumes of dry fertilizers, partially offset 
+by lower volumes of wet fertilizers and sulphur. Freight revenue per RTM increased due to higher fuel surcharge revenue as a result of higher fuel prices, 
+higher freight rates, and the favourable impact of the change in FX. 
+
+Forest Products
+
+For the year ended December 31
+
+Freight revenues (in millions)
+
+Carloads (in thousands)
+
+Revenue ton-miles (in millions)
+
+Freight revenue per carload (in dollars)
+
+Freight revenue per revenue ton-mile (in cents)
+
+2022
+
+2021
+
+Total 
+Change
+
+% 
+Change
+
+$ 
+
+403  $ 
+
+348  $ 
+
+55 
+
+73.1   
+
+73.6   
+
+(0.5) 
+
+  5,741   
+
+5,718   
+
+23 
+
+$  5,513  $  4,728  $ 
+
+785 
+
+7.02   
+
+6.09   
+
+0.93 
+
+ 16 
+
+ (1) 
+
+ — 
+
+ 17 
+
+ 15 
+
+The increase in Forest products revenue was primarily due to increased freight revenue per RTM and higher volumes of newsprint from Saint John, New 
+Brunswick, partially offset by lower volumes of lumber. Freight revenue per RTM increased due to higher fuel surcharge revenue as a result of higher fuel 
+prices, higher freight rates, and the favourable impact of the change in FX.  
+
+Energy, Chemicals and Plastics
+
+For the year ended December 31
+
+Freight revenues (in millions)
+
+Carloads (in thousands)
+
+Revenue ton-miles (in millions)
+
+Freight revenue per carload (in dollars)
+
+Freight revenue per revenue ton-mile (in cents)
+
+2022
+
+2021
+
+Total 
+Change
+
+% 
+Change
+
+$  1,394  $  1,563  $ 
+
+(169) 
+
+ (11) 
+
+  297.4   
+
+320.1   
+
+(22.7) 
+
+  24,625    25,469   
+
+(844) 
+
+$  4,687  $  4,883  $ 
+
+(196) 
+
+5.66   
+
+6.14   
+
+(0.48) 
+
+ (7) 
+
+ (3) 
+
+ (4) 
+
+ (8) 
+
+The decrease in Energy, chemicals and plastics revenue was primarily due to decreased freight revenue per RTM and lower volumes of conventional crude, 
+LPG, and other energy products. This decrease was partially offset by higher fuel surcharge revenue as a result of higher fuel prices, higher volumes of 
+DRUbitTM  crude to Kansas City, Missouri and ethylene glycol to Vancouver, the favourable impact of the change in FX, and higher freight rates. Freight 
+revenue per RTM decreased due to lower crude liquidated damages, including customer volume commitments, as a result of the completion of customer 
+contracts. RTMs decreased less than carloads due to moving higher volumes of DRUbitTM  crude to Kansas City, which has a longer length of haul.
+
+ 
+ 
+ 
+ 
+ 
+Metals, Minerals and Consumer Products
+
+For the year ended December 31
+
+Freight revenues (in millions)
+
+Carloads (in thousands)
+
+Revenue ton-miles (in millions)
+
+Freight revenue per carload (in dollars)
+
+Freight revenue per revenue ton-mile (in cents)
+
+  CP 2022 ANNUAL REPORT  6
+
+2022
+
+2021
+
+Total 
+Change
+
+% 
+Change
+
+$ 
+
+884  $ 
+
+728  $ 
+
+156 
+
+  248.3   
+
+236.7   
+
+11.6 
+
+  11,710    11,170   
+
+$  3,560  $  3,076  $ 
+
+540 
+
+484 
+
+7.55   
+
+6.52   
+
+1.03 
+
+ 21 
+
+ 5 
+
+ 5 
+
+ 16 
+
+ 16 
+
+The increase in Metals, minerals and consumer products revenue was primarily due to increased freight revenue per RTM and higher volumes of frac sand 
+to the Marcellus and Bakken shale formations, partially offset by lower volumes of steel and aggregates. Freight revenue per RTM increased due to higher 
+fuel surcharge revenue as a result of higher fuel prices, higher freight rates, and the favourable impact of the change in FX. 
+
+Automotive
+
+For the year ended December 31
+
+Freight revenues (in millions)
+
+Carloads (in thousands)
+
+Revenue ton-miles (in millions)
+
+Freight revenue per carload (in dollars)
+
+Freight revenue per revenue ton-mile (in cents)
+
+2022
+
+2021
+
+Total 
+Change
+
+% 
+Change
+
+$ 
+
+438  $ 
+
+376  $ 
+
+62 
+
+  104.4   
+
+109.2   
+
+  1,736   
+
+1,765   
+
+(4.8) 
+
+(29) 
+
+$  4,195  $  3,443  $ 
+
+752 
+
+  25.23   
+
+21.30   
+
+3.93 
+
+ 16 
+
+ (4) 
+
+ (2) 
+
+ 22 
+
+ 18 
+
+The increase in Automotive revenue was primarily due to increased freight revenue per RTM, partially offset by lower volumes as a result of global supply 
+chain challenges. Freight revenue per RTM increased due to higher fuel surcharge revenue as a result of higher fuel prices, the favourable impact of the 
+change in FX, and higher freight rates. 
+
+Intermodal
+
+For the year ended December 31
+
+Freight revenues (in millions)
+
+Carloads (in thousands)
+
+Revenue ton-miles (in millions)
+
+Freight revenue per carload (in dollars)
+
+Freight revenue per revenue ton-mile (in cents)
+
+2022
+
+2021
+
+Total 
+Change
+
+% 
+Change
+
+$  2,242  $  1,724  $ 
+
+518 
+
+ 1,185.2    1,062.9    122.3 
+
+  31,173    27,704    3,469 
+
+$  1,892  $  1,622  $ 
+
+270 
+
+7.19   
+
+6.22   
+
+0.97 
+
+ 30 
+
+ 12 
+
+ 13 
+
+ 17 
+
+ 16 
+
+The  increase  in  Intermodal  revenue  was  primarily  due  to  increased  freight  revenue  per  RTM,  higher  volumes  due  to  onboarding  new  international 
+intermodal customers, higher international intermodal volumes to and from the Port of Saint John, the Port of Vancouver, and the Port of Montreal, and 
+higher domestic intermodal retail and wholesale volumes. This increase was partially offset by lower domestic intermodal cross-border volumes. Freight 
+revenue per RTM increased due to higher fuel surcharge revenue as a result of higher fuel prices, higher intermodal ancillary revenue, higher freight rates, 
+and the favourable impact of the change in FX. 
+
+ 
+ 
+ 
+7  CP 2022 ANNUAL REPORT
+
+Operating Expenses
+
+For the year ended December 31 
+(in millions of Canadian dollars)
+
+Compensation and benefits
+
+Fuel
+
+Materials
+
+Equipment rents
+
+Depreciation and amortization
+
+Purchased services and other
+
+Total operating expenses
+
+2022 Operating Expenses
+
+2022
+
+2021
+
+Total 
+Change
+
+% 
+Change
+
+$  1,570  $  1,570  $  — 
+
+  1,400   
+
+260   
+
+140   
+
+853   
+
+854   
+
+215   
+
+121   
+
+811   
+
+  1,262   
+
+1,218   
+
+546 
+
+45 
+
+19 
+
+42 
+
+44 
+
+$  5,485  $  4,789  $ 
+
+696 
+
+ — 
+
+ 64 
+
+ 21 
+
+ 16 
+
+ 5 
+
+ 4 
+
+ 15 
+
+Operating expenses were $5,485 million in 2022, an increase of $696 million, or 15%, from $4,789 million in 2021. This increase was primarily due to:
+•
+•
+•
+•
+•
+
+the unfavourable impact of higher fuel prices of $483 million; 
+the impact of cost inflation;
+the unfavourable impact of the change in FX of $71 million;
+a gain on the exchange of property and construction easements in Chicago of $50 million in 2021 and lower gains on land sales of $15 million; and
+a decrease in efficiencies primarily due to harsh winter weather conditions in the first quarter of 2022.
+
+This increase was partially offset by lower acquisition-related costs of $109 million associated with the KCS acquisition recorded in Purchased services and 
+other, and lower incentive and stock-based compensation primarily due to lower payout assumptions.
+
+Compensation and Benefits
+Compensation  and  benefits  expense  includes  employee  wages,  salaries,  fringe  benefits,  and  stock-based  compensation.  Compensation  and  benefits 
+expense  was  $1,570  million  in  2022,  unchanged  compared  to  $1,570  million  in  2021.  This  was  primarily  due  to  lower  incentive  and  stock-based 
+compensation primarily due to lower payout assumptions, and lower post-retirement benefits current service cost of $24 million.
+
+These decreases were offset by:
+•
+•
+•
+
+the impact of wage and benefit inflation;
+the unfavourable impact of the change in FX of $18 million; and
+increased new hire training cost.
+
+Fuel
+Fuel expense consists mainly of fuel used by locomotives and includes provincial, state, and federal fuel taxes. Fuel expense was $1,400 million in 2022, 
+an increase of $546 million, or 64%, from $854 million in 2021. This increase was primarily due to:
+•
+
+the unfavourable impact of higher fuel prices of $483 million; 
+
+Purchased services and other:23%Compensation and benefits: 29%Fuel: 26%Materials:5%Equipment rents: 2%Depreciationand amortization: 15% 
+ 
+ 
+  CP 2022 ANNUAL REPORT  8
+
+•
+
+•
+
+a decrease in fuel efficiency of 3% due to harsher winter operating conditions in 2022, higher volumes of Intermodal, which has lower horsepower 
+utilization, and lower locomotive productivity defined as the daily average GTMs divided by daily average operating horsepower; and
+the unfavourable impact of the change in FX of $27 million;
+
+This increase was partially offset by a decrease in workload, as measured by GTMs.
+
+Materials
+Materials expense includes the cost of material used for maintenance of track, locomotives, freight cars, and buildings as well as software sustainment. 
+Materials expense was $260 million in 2022, an increase of $45 million, or 21%, from $215 million in 2021. This increase was primarily due to:
+•
+•
+•
+
+the impact of cost inflation particularly in non-locomotive fuel prices;
+higher spending on track and locomotive maintenance and;
+an increase in non-locomotive fuel consumption.
+
+Equipment Rents
+Equipment  rents  expense  includes  the  cost  associated  with  using  other  companies’  freight  cars,  intermodal  equipment,  and  locomotives,  net  of  rental 
+income received from other railways for the use of the Company’s equipment. Equipment rents expense was $140 million in 2022, an increase of $19 
+million, or 16%, from $121 million in 2021. This increase was primarily due to:
+•
+•
+•
+
+lower price incentives received on intermodal cars;
+slower cycle times; and
+greater usage of pooled freight cars.
+
+This increase was partially offset by higher receipts for CP freight cars used by other railways.
+
+Depreciation and Amortization
+Depreciation and amortization expense represents the charge associated with the use of track and roadway, buildings, rolling stock, information systems, 
+and other depreciable assets. Depreciation and amortization expense was $853 million for 2022, an increase of $42 million, or 5%, from $811 million in 
+2021.  This  increase  was  primarily  due  to  a  higher  asset  base,  as  a  result  of  the  capital  program  spending  in  2022  and  recent  years  as  well  as  the 
+unfavourable impact of the change in FX of $8 million.
+
+Purchased Services and Other
+
+For the year ended December 31 
+(in millions of Canadian dollars)
+Support and facilities
+Track and operations
+Intermodal
+Equipment
+Casualty
+Property taxes
+Other
+Land sales
+Total Purchased services and other
+
+$ 
+
+2022
+334  $ 
+294   
+225   
+112   
+103   
+133   
+85   
+(24)   
+$  1,262  $ 
+
+2021
+293  $ 
+260   
+205   
+105   
+125   
+128   
+191   
+(89)   
+1,218  $ 
+
+Total 
+Change
+
+% 
+Change
+
+ 14 
+ 13 
+ 10 
+ 7 
+ (18) 
+ 4 
+ (55) 
+ (73) 
+ 4 
+
+41 
+34 
+20 
+7 
+(22) 
+5 
+(106) 
+65 
+44 
+
+Purchased services and other expense encompasses a wide range of third-party costs, including contractor and consulting fees, locomotive and freight car 
+repairs performed by third parties, property and other taxes, intermodal pickup and delivery services, casualty expense, expenses for joint facilities, and 
+gains on land sales. Purchased services and other expense was $1,262 million in 2022, an increase of $44 million, or 4%, from $1,218 million in 2021. 
+This increase was primarily due to:
+•
+•
+•
+•
+•
+•
+
+the impact of cost inflation, including higher pickup and delivery, which is reported in Intermodal;
+a gain on the exchange of property and construction easements in Chicago of $50 million in 2021 and lower gains on land sales of $15 million; 
+higher expenses primarily due to higher events and sponsorship costs;
+the unfavourable impact of the change in FX of $13 million;
+increased purchased services due to harsher weather conditions, reported in Track and operations; and
+a $7 million arbitration settlement in 2021, reported in Track and operations.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9  CP 2022 ANNUAL REPORT
+
+This increase was partially offset by: 
+•
+•
+•
+
+lower acquisition-related costs of $109 million associated with the KCS acquisition, reported in Other;
+lower expenses from lower volumes, reported in Intermodal, and Track and operations; and
+lower expenses primarily due to the reduced severity of casualty incidents.
+
+Other Income Statement Items
+Equity Earnings (Loss) of Kansas City Southern 
+On December 14, 2021, following the consummation of the KCS acquisition, the shares of KCS were placed into a voting trust while the United States 
+Surface Transportation Board (“STB”) considers the Company's application for control of KCS.
+
+In 2022, the Company recognized $1,074 million (U.S. $820 million) of equity earnings of KCS in the Company's Consolidated Statements of Income. This 
+amount is net of amortization of basis differences of $163 million (U.S. $125 million) associated with KCS purchase accounting, and includes acquisition-
+related costs incurred by KCS. These basis differences relate to depreciable property, plant and equipment, intangible assets with definite lives, and long-
+term debt, and are amortized over the related assets' remaining useful lives, and the remaining terms to maturity of the debt instruments. Equity earnings 
+for 2022 represent a full year of income attributable to CP, whereas the $141 million equity loss recognized in 2021 was limited to the 18 day period 
+from the date of acquisition of KCS closing into the voting trust to December 31, 2021. The equity loss in 2021 was attributable to acquisition-related 
+costs incurred by KCS during that period. Equity earnings of KCS recognized in 2022 also included KCS's gain on unwinding of interest rate hedges of 
+$212  million,  which  is  net  of  CP's  associated  purchase  accounting  basis  difference  and  tax.  KCS's  gain  on  unwinding  of  interest  rate  hedges  and 
+acquisition-related costs are discussed further and reconciled in Non-GAAP Measures of this Item 7. Management's Discussion and Analysis of Financial 
+Condition and Results of Operations.
+
+On a historical basis, without any effect of purchase accounting, KCS recorded net income attributable to controlling interests of $1,278 million (U.S. 
+$982  million)  in  2022,  a  favourable  change  of  $620  million  (U.S.  $457  million),  or  94%,  from  $658  million  (U.S.  $525  million)  net  income  in  2021. 
+Included within the $1,278 million (U.S $982 million) net income was a $254 million (net of tax) (U.S $195 million) gain from the unwinding of interest 
+rate hedges. The remainder of the change was primarily due to higher revenues of $692 million (U.S. $423 million) and lower acquisition related costs, 
+partially offset by higher fuel cost of $208 million (U.S. $148 million). Acquisition-related costs (net of tax) incurred by KCS in 2022 were $50 million (U.S. 
+$38 million), a decrease of $221 million (U.S. $178 million), or 82%, from $271 million (U.S. $216 million) in the same period of 2021. These values 
+have been translated at the average FX rate of $1.30 and $1.25 CAD per USD for 2022 and 2021, respectively.
+
+Other Expense (Income) 
+Other expense (income) consists of gains and losses from the change in FX on debt and lease liabilities and working capital, costs related to financing, 
+shareholder costs, equity income, and other non-operating expenditures. Other expense was $17 million in 2022, a decrease of $220 million, or 93%, 
+from expense of $237 million in 2021. This decrease was primarily due to acquisition-related costs of $247 million in 2021, which included losses on 
+interest  rate  hedges  of  $264  million  and  bridge  facility  and  backstop  revolver  fees  of  $52  million,  partially  offset  by  gains  on  cash  held  for  the  KCS 
+acquisition of $56 million, and gains on FX hedges of $13 million. This decrease was partially offset by lower net FX gains on US-denominated cash, 
+working  capital,  debt,  and  lease  liabilities  of  $11  million  in  2022  and  higher  amortization  of  fees  of  $11  million  related  to  debt  issued  for  the  KCS 
+acquisition in the last quarter of 2021.
+
+FX translation gains and losses on debt and lease liabilities and acquisition-related costs are discussed further in Non-GAAP Measures of this Item 7. 
+Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+Merger Termination Fee
+On May 21, 2021, KCS terminated the Agreement and Plan of Merger (the "Original Merger Agreement") with CP to enter into a definitive agreement 
+with CN. At the same time and in accordance with the terms of the Original Merger Agreement, KCS paid CP a termination fee of $845 million (U.S. 
+$700 million). This amount was reported as "Merger termination fee" in the Company's Consolidated Statements of Income in 2021. No similar items 
+were received in 2022. Merger termination fee is discussed further and reconciled in Non-GAAP Measures of this Item 7. Management's Discussion and 
+Analysis of Financial Condition and Results of Operations.  
+
+Other Components of Net Periodic Benefit Recovery
+Other components of net periodic benefit recovery is related to the Company's pension and other post-retirement and post-employment benefit plans. It 
+includes interest cost on benefit obligations, expected return on plan assets, recognized net actuarial losses, and amortization of prior service costs. Other 
+components of net periodic benefit recovery were $411 million in 2022, an increase of $24 million, or 6%, from $387 million in 2021. This increase was 
+primarily due to a decrease in recognized net actuarial losses of $57 million, partially offset by an increase in interest cost on the benefit obligation of 
+$32 million.
+
+  CP 2022 ANNUAL REPORT  10
+
+Net Interest Expense
+Net interest expense includes interest on long-term debt and finance leases. Net interest expense was $652 million in 2022, an increase of $212 million, 
+or 48%, from $440 million in 2021. This increase was primarily due to interest of $234 million on long-term debt issuances and term facility related to the 
+KCS acquisition, a change in FX of $15 million, and higher commercial paper interest of $10 million. This increase was partially offset by the favourable 
+impacts of maturing long-term debt repayments of $32 million and $14 million resulting from lower effective interest rates.
+
+Income Tax Expense
+Income tax expense was $628 million in 2022, a decrease of $140 million, or 18%, from $768 million in 2021. This decrease was primarily due to:
+•
+
+lower taxable earnings, mainly due to the $845 million (U.S. $700 million) merger termination payment received in 2021 in connection with KCS's 
+termination of the Original Merger Agreement, partially offset by lower acquisition-related costs associated with the KCS acquisition; 
+a reversal of an uncertain tax position related to a prior period of $24 million; and
+income tax recoveries of $12 million as a result of a decrease in the Iowa state tax rate.
+
+•
+•
+
+This decrease was partially offset by lower deferred tax recoveries of $14 million on changes in the outside basis difference of the equity investment in 
+KCS. 
+
+The effective income tax rate for 2022 was 15.16% and 22.24% on an adjusted basis. The effective income tax rate for 2021 was 21.23% and 23.85% 
+on an adjusted basis. The adjusted effective tax rate is a Non-GAAP measure, calculated as the effective tax rate adjusted for significant items as they are 
+not considered indicative of future financial trends either by nature or amount or provide improved comparability to past performance, and, in 2022, the 
+adjusted effective tax rate also excluded equity earnings of KCS. This Non-GAAP measure does not have a standardized meaning and is not defined by 
+GAAP and, therefore, may not be comparable to similar measures presented by other companies. Significant items are discussed further in Non-GAAP 
+Measures of this Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+The Company's 2023 effective tax rate is expected to be approximately 24%, which excludes discrete tax items, the impact of the change in the equity 
+investment in KCS, and associated deferred tax on the outside basis difference during the year (discussed further in Critical Accounting Estimates of this 
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operation). The Company’s 2023 outlook for its effective tax rate is 
+based on certain assumptions about events and developments that may or may not materialize, or that may be offset entirely or partially by new events 
+and developments. These assumptions are discussed further in Item 1A. Risk Factors. 
+
+Impact of Foreign Exchange on Earnings and Foreign Exchange Risk
+Although  the  Company  conducts  business  primarily  in  Canada,  a  significant  portion  of  its  revenues,  expenses,  assets  and  liabilities  including  debt  are 
+denominated in U.S. dollars. In addition, equity earnings or losses of KCS are denominated in U.S. dollars. The value of the Canadian dollar is affected by 
+a  number  of  domestic  and  international  factors,  including,  without  limitation,  economic  performance,  commodity  prices,  and  Canadian,  U.S.,  and 
+international monetary policies. Fluctuations in FX affect the Company's results because U.S. dollar-denominated revenues and expenses are translated 
+into Canadian dollars. U.S. dollar-denominated revenues and expenses increase (decrease) when the Canadian dollar weakens (strengthens) in relation to 
+the U.S. dollar. 
+
+In 2022, the U.S. dollar has strengthened to an average rate of $1.30 Canadian/U.S. dollar, compared to $1.25 Canadian/U.S. dollar in 2021. In 2022, 
+the impact of a stronger U.S. dollar resulted in an increase in Total revenues of $143 million, an increase in Total operating expenses of $71 million, and 
+an increase in Net interest expense of $15 million.
+
+In 2023, excluding impacts of KCS, the Company expects that every $0.01 weakening (or strengthening) of the Canadian dollar relative to the U.S. dollar, 
+positively  (or  negatively)  impacts  Total  revenues  by  approximately  $37  million  (2022  –  approximately  $35  million),  negatively  (or  positively)  impacts 
+Operating  expenses  by  approximately  $18  million  (2022  –  approximately  $19  million),  and  negatively  (or  positively)  impacts  Net  interest  expense  by 
+approximately $4 million (2022 – approximately $4 million) on an annualized basis.
+
+The Company uses U.S. dollar-denominated debt and operating lease liabilities to hedge its net investment in U.S. operations. As at December 31, 2022, 
+the  net  investment  in  U.S.  operations  is  greater  than  the  total  U.S.  denominated  debt.  Consequently,  FX  translation  on  the  Company's  unhedged  net 
+investment in U.S. operations is recognized in Other comprehensive income. There is no additional impact on earnings in Other expense (income) related 
+to the FX translation on the Company’s debt and operating lease liabilities. 
+
+To manage its exposure to fluctuations in exchange rates between Canadian and U.S. dollars, the Company may sell or purchase U.S. dollar forwards at 
+fixed rates in future periods. In addition, changes in the exchange rate between the Canadian dollar and other currencies (including the U.S. dollar) make 
+the goods transported by the Company more or less competitive in the world marketplace and may in turn positively or negatively affect revenues. 
+
+ 
+11  CP 2022 ANNUAL REPORT
+
+Impact of Fuel Price on Earnings
+Fluctuations in fuel prices affect the Company’s results because fuel expense constitutes a significant portion of the Company's operating costs. As fuel 
+prices fluctuate, there will be a timing impact on earnings, as discussed further in Item 1. Business, Operations, Fuel Cost Adjustment Program and Item 
+1A. Risk Factors, Fuel Cost Volatility. 
+
+The impact of fuel price on earnings includes the impacts of provincial and federal carbon taxes and levies recovered and paid on revenues and expenses, 
+respectively.
+
+In 2022, the favourable impact of fuel prices on Operating income was $226 million. Higher fuel prices and increased carbon tax recoveries resulted in an 
+increase in Total revenues of $709 million from 2021. Higher fuel prices resulted in an increase in Total operating expenses of $483 million. 
+
+Impact of Share Price on Earnings and Stock-Based Compensation
+Fluctuations  in  the  Common  Share  price  affect  the  Company's  operating  expenses  because  share-based  liabilities  are  measured  at  fair  value.  The 
+Company's Common Shares are listed on the Toronto Stock Exchange ("TSX") and the New York Stock Exchange ("NYSE") with ticker symbol "CP". 
+
+In 2022, the impact of the change in Common Share prices resulted in stock-based compensation expense of $16 million, an increase of $5 million, from 
+$11 million in 2021.
+
+Based on information available at December 31, 2022 and expectations for 2023 grants, excluding impacts of KCS, for every $1.00 change in share price, 
+stock-based  compensation  expense  has  a  corresponding  change  of  approximately $1.2  million  to  $1.8  million  (2021  –  approximately  $1.5  million  to 
+$2.0 million). This excludes the impact of changes in share price relative to the S&P/TSX 60 Index, S&P 500 Industrials Index, and to Class I railways, 
+which may trigger different performance share unit payouts. Stock-based compensation may also be impacted by non-market performance conditions.
+
+Additional information concerning stock-based compensation is included in Item 8. Financial Statements and Supplementary Data, Note 22 Stock-based 
+compensation.
+
+Liquidity and Capital Resources 
+The  Company's  primary  sources  of  liquidity  include  its  Cash  and  cash  equivalents,  commercial  paper  program,  bilateral  letter  of  credit  facilities,  and 
+revolving  credit  facility.  The  Company  believes  that  these  sources  as  well  as  cash  flow  generated  through  operations  and  existing  debt  capacity  are 
+adequate to meet its short-term and long-term cash requirements. The Company is not aware of any material trends, events, or uncertainties that would 
+create any deficiencies in the Company's liquidity. 
+
+As at December 31, 2022, the Company had $451 million of Cash and cash equivalents compared to $69 million at December 31, 2021. 
+
+As at December 31, 2022, the Company's revolving credit facility was undrawn, unchanged from December 31, 2021, from a total available amount of 
+U.S. $1.3 billion. Effective April 9, 2021, the Company amended its revolving credit facility to modify certain provisions relating to the calculation of the 
+financial covenant ratio in its revolving credit facility. Effective September 24, 2021, the Company entered into an amendment to extend the two-year 
+tranche and the five-year tranche of its revolving credit facility to September 27, 2023 and September 27, 2026, respectively. Effective September 29, 
+2021,  the  Company  entered  into  a  further  amendment  to  its  revolving  credit  facility  in  order  to  provide  financial  covenant  flexibility  for  acquisition 
+financing pertaining to the KCS acquisition, which is in place for a two-year period until December 14, 2023. In 2021, the Company also entered into a 
+U.S. $500 million unsecured non-revolving term credit facility with a maturity date of March 15, 2022.  Effective March 14, 2022, the Company extended 
+the maturity date of the U.S. $500 million term facility to September 15, 2022. During the year ended December 31, 2022, the Company repaid in full the 
+borrowings  of  $636  million  (U.S.  $500  million)  on  this  unsecured  non-revolving  term  credit  facility.  The  facility  was  automatically  terminated  on 
+September 15, 2022, following the final principal repayment.
+
+The Company has a commercial paper program that enables it to issue commercial paper up to a maximum aggregate principal amount of U.S. $1.0 
+billion in the form of unsecured promissory notes. This commercial paper program is backed by the revolving credit facility. As at December 31, 2022, the 
+Company did not have any borrowings on its commercial paper program (December 31, 2021 – U.S. $265 million).
+
+As  at  December  31,  2022,  under  its  bilateral  letter  of  credit  facilities,  the  Company  had  letters  of  credit  drawn  of $75  million  from  a  total  available 
+amount of $300 million (December 31, 2021 - $58 million). Under the bilateral letter of credit facilities, the Company has the option to post collateral in 
+the form of Cash or cash equivalents, equal at least to the face value of the letter of credit issued. As at December 31, 2022, the Company did not have 
+any collateral posted on its bilateral letter of credit facilities (December 31, 2021 – Nil). 
+
+  CP 2022 ANNUAL REPORT  12
+
+Contractual Commitments
+The Company’s material cash requirements from known contractual obligations and commitments to make future payments primarily consist of long-term 
+debt and related interest, supplier purchases, leases, and other long term liabilities. Outstanding obligations related to debt and leases can be found in 
+Item 8. Financial Statements and Supplementary Data, Note 15 Debt and Note 18 Leases. Interest obligations related to debt and finance leases amount 
+to $649 million within the next 12 months, with the remaining amount committed thereafter of $13,710 million. 
+
+Supplier purchase agreements and other long-term liabilities amount to $1,036 million and $57 million within the next 12 months, respectively, with the 
+remaining amount committed thereafter of $364 million and $443 million, respectively. Other long-term liabilities includes expected cash payments for 
+environmental  remediation,  post-retirement  benefits,  worker’s  compensation  benefits,  long-term  disability  benefits,  pension  benefit  payments  for  the 
+Company’s  non-registered  supplemental  pension  plan,  and  certain  other  long-term  liabilities.  Pension  payments  are  discussed  further  in  Critical 
+Accounting Estimates of this Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Guarantees
+Refer to Item 8. Financial Statements and Supplementary Data, Note 25 Guarantees for details.
+
+Operating Activities
+Cash  provided  by  operating  activities  was  $4,142  million  in  2022,  an  increase  of  $454  million,  or  12%,  compared  to  $3,688  million  in  2021.  This 
+increase was primarily due to higher cash generating income in 2022 including dividends received from KCS of $1,157 million, partially offset by the $845 
+million merger termination fee received in 2021. 
+
+Investing Activities
+Cash used in investing activities was $1,496 million in 2022, a decrease of $12,234 million, or 89%, from $13,730 million in 2021. This decrease was 
+primarily due to cash payments made to KCS and their stockholders for the acquisition of KCS in 2021.
+
+Capital Programs
+
+For the year ended December 31
+(in millions of Canadian dollars, except for track miles and crossties)
+Additions to capital
+
+Track and roadway
+
+Rolling stock 
+
+Buildings 
+Other(1) 
+
+Total – accrued additions to capital
+
+Less:
+
+Non-cash transactions
+
+2022
+
+$ 
+
+1,048  $ 
+
+243   
+
+75   
+
+199   
+
+1,565   
+
+8   
+
+Cash invested in additions to properties (per Consolidated Statements of Cash Flows)
+
+$ 
+
+1,557  $ 
+
+Track installation capital programs
+
+Track miles of rail laid (miles)
+
+Track miles of rail capacity expansion (miles)
+
+Crossties installed (thousands)
+
+(1) Comparative figures have been reclassified to conform with current period presentation. 
+
+271   
+
+17   
+
+1,215   
+
+2021
+
+970 
+
+297 
+
+105 
+
+179 
+
+1,551 
+
+19 
+
+1,532 
+
+284 
+
+9 
+
+1,222 
+
+Track  and  roadway  expenditures  include  the  replacement  and  enhancement  of  the  Company’s  track  infrastructure.  Of  the $1,048  million  additions  in 
+2022 (2021 – $970 million), approximately $967 million (2021 – $917 million) was invested in the renewal of depleted assets, namely rail, ties, ballast, 
+signals, and bridges. Approximately $81 million (2021 – $53 million) was invested in network improvements and growth initiatives.
+
+Rolling  stock  investments  encompass  locomotives  and  railcars.  In  2022,  expenditures  on  locomotives  were  approximately  $84  million  (2021  –  $121 
+million) and were focused on the continued re-investment in the Company's existing locomotive fleet. Railcar investment of approximately $159 million 
+(2021 – $176 million) was largely focused on renewal of depleted assets, including the acquisition of covered hoppers for grain transportation.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13  CP 2022 ANNUAL REPORT
+
+In 2022, investments in buildings were approximately $75 million (2021 - $105 million) and included items such as facility upgrades, renovations, and 
+shop  equipment.  Other  items  were  $199  million  (2021  –  $179  million)  and  included  investments  in  work  equipment,  information  system  software, 
+vehicles, containers, and other growth initiatives.
+
+For 2023, the Company expects to invest approximately $1.6 billion in its standalone capital programs, excluding any capital spend that the Company 
+may require following acquisition of control of KCS. Capital programs will be financed with cash generated from operations. Approximately 60% to 70% 
+of the planned capital programs is for track and roadway. Approximately 15% to 20% is expected to be allocated to rolling stock, including railcars and 
+locomotive improvements. Approximately 5% is expected to be allocated to information services, and 5% is expected to be allocated to buildings. Other 
+investments is expected to be 5% to 10%. Additional discussion of capital commitments can be found in Item 8. Financial Statements and Supplementary 
+Data, Note 24 Commitments and Contingencies.
+
+Financing Activities
+Cash used in financing activities was $2,297 million in 2022, a change of $12,233 million, or 123%, from cash provided by financing activities of $9,936 
+million in 2021. This change was primarily due to:
+•
+
+issuance of U.S $6.7 billion and $2.2 billion notes (total proceeds of $10,673 million) along with a U.S. $500 million ($633 million) term loan to 
+fund the cash consideration component of the KCS acquisition in 2021;
+principal repayments of $636 million (U.S. $500 million) on a term loan in 2022;
+principal repayments of $125 million of the Company's 5.100% 10-year Medium Term Notes, $313 million (U.S. $250 million) of the Company's 
+4.500% 10-year Notes at maturity in January 2022, and principal repayment of $97 million (U.S. $76 million) of the Company's 6.99% Finance 
+lease at maturity in March 2022, compared to principal repayment of $312 million (U.S $250 million) of the Company's 9.450% notes in 2021; and
+increased dividend payments of $200 million in 2022 due to a higher number of shares outstanding resulting from shares issued to fund the share 
+consideration component of the KCS acquisition at the end of 2021.
+
+•
+•
+
+•
+
+Credit Measures
+Credit ratings provide information relating to the Company’s operations and liquidity, and affect the Company’s ability to obtain short-term and long-term 
+financing and/or the cost of such financing. The applicable margin that applies to outstanding loans under the Company’s revolving credit facility is based 
+on the credit rating assigned to CP’s senior unsecured and unsubordinated debt.
+
+If CP’s credit ratings were to decline to below investment-grade levels, the Company could experience a significant increase in its interest cost for new 
+debt along with a negative effect on its ability to readily issue new debt. 
+
+Credit ratings and outlooks are based on the rating agencies’ methodologies and can change from time to time to reflect their views of the Company. 
+Their  views  are  affected  by  numerous  factors  including,  but  not  limited  to,  the  Company’s  financial  position  and  liquidity  along  with  external  factors 
+beyond the Company’s control.
+
+As  at  December  31,  2022,  the  Company's  credit  ratings  from  Standard  &  Poor's  Rating  Services  ("Standard  &  Poor's")  and  Moody's  Investor  Service 
+("Moody's") remain unchanged from December 31, 2021. The following table shows the ratings issued for CP by the rating agencies noted herein as of 
+December 31, 2022 and is being presented as it relates to the Company’s cost of funds and liquidity.
+
+Credit ratings as at December 31, 2022(1)
+
+Long-term debt
+
+Standard & Poor's
+
+Moody's
+
+Commercial paper program
+
+Standard & Poor's
+
+Moody's
+
+BBB+
+
+Baa2
+
+A-2
+
+P-2
+
+Outlook
+
+stable
+
+stable
+
+N/A
+
+N/A
+
+(1) Credit ratings are not recommendations to purchase, hold, or sell securities and do not address the market price or suitability of a specific security for a particular investor. Credit 
+
+ratings are based on the rating agencies' methodologies and may be subject to revision or withdrawal at any time by the rating agencies.
+
+Financial Ratios
+The Long-term debt to Net income ratio was 5.6 in 2022, compared with 7.1 in 2021. This decrease was due to higher net income for the year ended 
+December 31, 2022 and lower long-term debt. 
+
+  CP 2022 ANNUAL REPORT  14
+
+The Pro-forma Adjusted Net Debt to Pro-forma Adjusted earnings before interest, tax, depreciation, and amortization ("EBITDA") ratio was 3.8 in 2022, 
+compared with 4.0 in 2021. This decrease was primarily due to higher pro-forma adjusted EBITDA for the year ended December 31, 2022. Beginning in 
+the first quarter of 2022, the Company added disclosure of Pro-forma Adjusted Net Debt to Pro-forma Adjusted EBITDA Ratio to better align with the 
+Company’s debt covenant calculation, which takes into account the trailing twelve month adjusted EBITDA of KCS as well as KCS’s outstanding debt. 
+Please  see  Non-GAAP  Measures  of  this  Item  7.  Management's  Discussion  and  Analysis  of  Financial  Condition  and  Results  of  Operations  for  further 
+discussion. Over the long term, the Company targets a Pro-forma Adjusted Net debt to Pro-forma Adjusted EBITDA ratio of 2.0 to 2.5. 
+
+Although the Company has provided a target Non-GAAP measure (Pro-forma Adjusted Net Debt to Pro-forma Adjusted EBITDA ratio), management is 
+unable to reconcile, without unreasonable efforts, the target Pro-forma Adjusted Net debt to Pro-forma Adjusted EBITDA ratio to the most comparable 
+GAAP measure (Long-term debt to Net income ratio), due to unknown variables and uncertainty related to future results. These unknown variables may 
+include  unpredictable  transactions  of  significant  value.  In  recent  years, the  Company  has  recognized  acquisition-related  costs,  the  merger  termination 
+payment received, KCS's gain on unwinding of interest rate hedges (net of CP's associated purchase accounting basis differences and tax), the FX impact 
+of translating the Company’s debt and lease liabilities (including borrowings under the credit facility), discrete tax items, changes in the outside basis tax 
+difference between the carrying amount of the Company's equity investment in KCS and its tax basis of the investment, changes in income tax rates, and 
+changes to an uncertain tax item. Acquisition-related costs include legal, consulting, financing fees, integration planning costs consisting of third-party 
+services and system migration, fair value gain or loss on FX forward contracts and interest rate hedges, FX gain on U.S. dollar-denominated cash on hand 
+from the issuances of long-term debt to fund the KCS acquisition, and transaction and integration costs incurred by KCS which were recognized within 
+Equity earnings of Kansas City Southern in the Company's Consolidated Statements of Income. KCS has also recognized significant transaction costs and 
+FX gains and losses. These or other similar, large unforeseen transactions affect Net income but may be excluded from the Company’s Pro-forma Adjusted 
+EBITDA. Additionally, the U.S.-to-Canada dollar exchange rate is unpredictable and can have a significant impact on the Company’s reported results, but 
+may,  along  with  interest,  taxes,  and  FX  impact  of  translating  the  Company’s  debt  and  lease  liabilities,  be  excluded  from  Pro-forma  Adjusted  EBITDA. 
+Please see Forward-Looking Statements in this Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations for further 
+discussion.
+
+Supplemental Guarantor Financial Information
+Canadian Pacific Railway Company (“CPRC”), a 100%-owned subsidiary of Canadian Pacific Railway Limited (“CPRL”), is the issuer of certain securities 
+which are fully and unconditionally guaranteed by CPRL on an unsecured basis. The other subsidiaries of CPRC do not guarantee the securities and are 
+referred  to  below  as  the  “Non-Guarantor  Subsidiaries”.  The  following  is  a  description  of  the  terms  and  conditions  of  the  guarantees  with  respect  to 
+securities for which CPRC is the issuer and CPRL provides a full and unconditional guarantee.
+
+As of the date of the filing of the Form 10-K, CPRC had U.S. $12,050 million principal amount of debt securities outstanding due through 2115, and U.S. 
+$30 million and GBP £3 million in perpetual 4% consolidated debenture stock, for all of which CPRL is the guarantor subject to Section 13(a) or 15(d) of 
+the Securities Exchange Act of 1934 (the "Exchange Act"), as amended. As of the same date, CPRC also had $3,300 million principal amount of debt 
+securities issued under Canadian Securities Law due through 2050 for which CPRL is the guarantor and not subject to the Exchange Act.
+
+CPRL  fully  and  unconditionally  guarantees  the  payment  of  the  principal  (and  premium,  if  any)  and  interest  on  the  debt  securities  and  consolidated 
+debenture stock issued by CPRC, any sinking fund or analogous payments payable with respect to such securities, and any additional amounts payable 
+when they become due, whether at maturity or otherwise. The guarantee is CPRL’s unsubordinated and unsecured obligation and ranks equally with all of 
+CPRL’s other unsecured, unsubordinated obligations.
+
+CPRL will be released and relieved of its obligations under the guarantees after obligations to the holders are satisfied in accordance with the terms of the 
+respective instruments. 
+
+Pursuant  to  Rule  13-01  of  the  SEC's  Regulation  S-X,  the  Company  provides  summarized  financial  and  non-financial  information  of  CPRC  in  lieu  of 
+providing separate financial statements of CPRC.
+
+More information on the securities under this guarantee structure can be found in Exhibit 22.1 List of Issuers and Guarantor Subsidiaries of this annual 
+report.
+
+Summarized Financial Information
+
+The  following  tables  present  summarized  financial  information  for  CPRC  (Subsidiary  Issuer)  and  CPRL  (Parent  Guarantor)  on  a  combined  basis  after 
+elimination  of  (i)  intercompany  transactions  and  balances  among  CPRC  and  CPRL;  (ii)  equity  in  earnings  from  and  investments  in  the  Non-Guarantor 
+Subsidiaries; and (iii) intercompany dividend income.
+
+ 
+15  CP 2022 ANNUAL REPORT
+
+Statements of Income
+
+(in millions of Canadian dollars)
+Total revenues
+
+Total operating expenses
+Operating income (1)
+Less: Other (2)
+Income before income tax expense
+
+Net income
+
+CPRC (Subsidiary Issuer) and CPRL (Parent Guarantor)
+
+For the year ended 
+December 31, 2022
+
+For the year ended 
+December 31, 2021
+
+$ 
+
+$ 
+
+6,384  $ 
+
+4,110   
+
+2,274   
+
+234   
+
+2,040   
+
+1,533  $ 
+
+5,924 
+
+3,712 
+
+2,212 
+
+(522) 
+
+2,734 
+
+2,548 
+
+(1) Includes net lease costs incurred from non-guarantor subsidiaries for the year ended December 31, 2022, and 2021 of $410 million and $431 million, respectively. 
+(2) Includes Other expense (income), Merger termination fee, Other components of net periodic benefit recovery, and Net interest expense.
+
+Balance Sheets
+
+(in millions of Canadian dollars)
+Assets
+
+Current assets
+
+Properties
+
+Other non-current assets
+
+Liabilities
+
+Current liabilities
+
+Long-term debt
+
+Other non-current liabilities
+
+CPRC (Subsidiary Issuer) and CPRL (Parent Guarantor)
+
+As at December 31, 2022
+
+As at December 31, 2021
+
+$ 
+
+$ 
+
+1,395  $ 
+
+11,791   
+
+3,337   
+
+2,759  $ 
+
+18,137   
+
+3,178   
+
+963 
+
+11,342 
+
+2,536 
+
+2,789 
+
+18,574 
+
+3,008 
+
+Excluded from the Income Statements and Balance Sheets above are the following significant intercompany transactions and balances that CPRC and 
+CPRL have with the Non-Guarantor Subsidiaries:
+
+Cash Transactions with Non-Guarantor Subsidiaries
+
+(in millions of Canadian dollars)
+Dividend income from non-guarantor subsidiaries
+
+Capital contributions to non-guarantor subsidiaries
+
+Return of capital from non-guarantor subsidiaries
+
+CPRC (Subsidiary Issuer) and CPRL (Parent Guarantor)
+
+For the year ended 
+December 31, 2022
+
+For the year ended 
+December 31, 2021
+
+$ 
+
+133  $ 
+
+—   
+
+115   
+
+297 
+
+(134) 
+
+1,370 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balances with Non-Guarantor Subsidiaries
+
+(in millions of Canadian dollars)
+Assets
+
+Accounts Receivable, intercompany
+
+Short-term advances to affiliates
+
+Long-term advances to affiliates
+
+Liabilities
+
+Accounts payable, intercompany
+
+Short-term advances from affiliates
+
+Long-term advances from affiliates
+
+  CP 2022 ANNUAL REPORT  16
+
+CPRC (Subsidiary Issuer) and CPRL (Parent Guarantor)
+
+As at December 31, 2022
+
+As at December 31, 2021
+
+$ 
+
+$ 
+
+186  $ 
+
+2,209   
+
+7,502   
+
+199  $ 
+
+2,649   
+
+88   
+
+344 
+
+2,859 
+
+7,616 
+
+212 
+
+2,777 
+
+82 
+
+Share Capital
+At February 23, 2023, the latest practicable date prior to the date of this Annual Report on Form 10-K, there were 930,767,959 Common Shares and no 
+preferred  shares  issued  and  outstanding,  which  consisted  of  14,837  holders  of  record  of  the  Common  Shares.  In  addition,  the  Company  has  a 
+Management  Stock  Option  Incentive  Plan  (“MSOIP”),  under  which  key  officers  and  employees  are  granted  options  to  purchase  the  Common  Shares. 
+Options  issued  prior  to  the  share  split  further  described  in  Item  1.  Business,  Business  Developments  now  each  provide  rights  over  five  shares.  For 
+consistency, all number of options presented herein are shown on the basis of the number of shares subject to the options. On April 27, 2022, at the 
+Annual and Special Meeting, the Company's shareholders approved an amendment to the MSOIP to increase the maximum number of shares available for 
+issuance  under  the  MSOIP,  effective  at  and  after  April  27,  2022,  by  20,000,000  Common  Shares.  At  February  23,  2023,  7,708,866  options  were 
+outstanding under the MSOIP and stand-alone option agreements entered into with Mr. Keith Creel. There are 21,883,561 options available to be issued 
+by the Company’s MSOIP in the future. The Company also has a Director's Stock Option Plan (“DSOP”), under which directors are granted options to 
+purchase Common Shares. There are no outstanding options under the DSOP, which has 1,700,000 options available to be issued in the future. 
+
+Non-GAAP Measures
+The Company presents Non-GAAP measures to provide a basis for evaluating underlying earnings and liquidity trends in the Company’s business that can 
+be  compared  with  the  results  of  operations  in  prior  periods.  In  addition,  these  Non-GAAP  measures  facilitate  a  multi-period  assessment  of  long-term 
+profitability, allowing management and other external users of the Company’s consolidated financial information to compare profitability on a long-term 
+basis, including assessing future profitability, with that of the Company’s peers. 
+
+These Non-GAAP measures have no standardized meaning and are  not defined by GAAP and, therefore, may not be comparable to similar measures 
+presented by other companies. The presentation of these Non-GAAP measures is not intended to be considered in isolation from, as a substitute for, or as 
+superior to the financial information presented in accordance with GAAP.
+
+Non-GAAP Performance Measures
+The Company uses adjusted earnings results including Adjusted income, Adjusted diluted earnings per share, Adjusted operating income, and Adjusted 
+operating ratio to evaluate the Company’s operating performance and for planning and forecasting future business operations and future profitability. 
+Core adjusted income and Core adjusted diluted earnings per share are presented to provide financial statement users with additional transparency by 
+isolating for the impact of KCS purchase accounting. KCS purchase accounting represents the amortization of basis differences, being the difference in 
+value between the consideration paid to acquire KCS and the underlying carrying value of the net assets of KCS immediately prior to its acquisition by the 
+Company, net of tax, as recognized within Equity (earnings) loss of Kansas City Southern in the Company's Consolidated Statements of Income. All assets 
+subject to KCS purchase accounting contribute to income generation and will continue to amortize over their estimated useful lives. These Non-GAAP 
+measures are discussed further in other sections of this Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+These Non-GAAP measures provide meaningful supplemental information regarding operating results because they exclude certain significant items that 
+are not considered indicative of future financial trends either by nature or amount or provide improved comparability to past performance. As a result, 
+these items are excluded for management's assessment of operational performance, allocation of resources, and preparation of annual budgets. These 
+significant items may include, but are not limited to, restructuring and asset impairment charges, individually significant gains and losses from sales of 
+assets,  acquisition-related  costs,  the  merger  termination  payment  received,  KCS's  gain  on  unwinding  of  interest  rate  hedges  (net  of  CP's  associated 
+purchase  accounting  basis  differences  and  tax),  as  recognized  within  Equity  (earnings)  loss  of  Kansas  City  Southern  in  the  Company's  Consolidated 
+Statements of Income, the FX impact of translating the Company’s debt and lease liabilities (including borrowings under the credit facility), discrete tax 
+
+ 
+ 
+ 
+ 
+ 
+17  CP 2022 ANNUAL REPORT
+
+items, changes in the outside basis tax difference between the carrying amount of CP's equity investment in KCS and its tax basis of this investment, 
+changes in income tax rates, changes to an uncertain tax item, and certain items outside the control of management. Acquisition-related costs include 
+legal, consulting, financing fees, integration planning costs consisting of third-party services and system migration, fair value gain or loss on FX forward 
+contracts and interest rate hedges, FX gain on U.S. dollar-denominated cash on hand from the issuances of long-term debt to fund the KCS acquisition, 
+and transaction and integration costs incurred by KCS, net of tax, which were recognized within Equity (earnings) loss of Kansas City Southern in the 
+Company's  Consolidated  Statements  of  Income.  These  items  may  not  be  non-recurring.  However,  excluding  these  significant  items  from  GAAP  results 
+allows  for  a  consistent  understanding  of  the  Company's  consolidated  financial  performance  when  performing  a  multi-period  assessment  including 
+assessing the likelihood of future results. Accordingly, these Non-GAAP financial measures may provide insight to investors and other external users of the 
+Company's consolidated financial information.
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+In 2022, there were five significant items included in Net income as follows:
+•
+
+in the fourth quarter, a gain of $212 million due to KCS's gain on unwinding of interest rate hedges (net of CP's associated purchase accounting 
+basis differences and tax) recognized in Equity earnings of KCS that favourably impacted Diluted EPS by 23 cents;
+in the fourth quarter, a deferred tax recovery of $24 million as a result of a reversal of an uncertain tax item related to a prior period that favourably 
+impacted Diluted EPS by 3 cents;
+in the third quarter, a deferred tax recovery of $12 million due to a decrease in the Iowa state tax rate that favourably impacted Diluted EPS by 
+1 cent;
+during the course of the year, a net deferred tax recovery of $19 million on changes in the outside basis difference of the equity investment in KCS 
+that favourably impacted Diluted EPS by 2 cents as follows:
+–
+
+in the fourth quarter, a deferred tax recovery of $27 million on changes in the outside basis difference of the equity investment in KCS that 
+favourably impacted Diluted EPS by 3 cents;
+in  the  third  quarter,  a  deferred  tax  recovery  of  $9  million  on  changes  in  the  outside  basis  difference  of  the  equity  investment  in  KCS  that 
+favourably impacted Diluted EPS by 1 cent;
+in the second quarter, a deferred tax expense of $49 million on changes in the outside basis difference of the equity investment in KCS that 
+unfavourably impacted Diluted EPS by 5 cents; and
+in  the  first  quarter,  a  deferred  tax  recovery  of  $32  million  on  changes  in  the  outside  basis  difference  of  the  equity  investment  in  KCS  that 
+favourably impacted Diluted EPS by 3 cents; and
+
+–
+
+–
+
+–
+
+during  the  course  of  the  year,  acquisition-related  costs  of  $123  million  in  connection  with  the  KCS  acquisition  ($108  million  after  current  tax 
+recovery of $15 million), including costs of $74 million recognized in Purchased services and other, and $49 million recognized in Equity earnings of 
+KCS, that unfavourably impacted Diluted EPS by 12 cents as follows:
+–
+
+in  the  fourth  quarter,  acquisition-related  costs  of  $27  million  ($16  million  after  current  tax  recovery  of  $11  million),  including  costs  of 
+$17  million  recognized  in  Purchased  services  and  other  and $10  million  recognized  in  Equity  earnings  of  KCS,  that  unfavourably  impacted 
+Diluted EPS by 3 cents;
+in the third quarter, acquisition-related costs of $30 million ($33 million after current tax expense of $3 million), including costs of $18 million 
+recognized in Purchased services and other and $12 million recognized in Equity earnings of KCS, that unfavourably impacted Diluted EPS by 3 
+cents;
+in  the  second  quarter,  acquisition-related  costs  of $33  million  ($29  million  after  current  tax  recovery  of  $4  million),  including  costs  of  $19 
+million recognized in Purchased services and other and $14 million recognized in Equity earnings of KCS, that unfavourably impacted Diluted 
+EPS by 3 cents; and
+in the first quarter, acquisition-related costs of $33 million ($30 million after current tax recovery of $3 million), including costs of $20 million 
+recognized in Purchased services and other and $13 million recognized in Equity earnings of KCS, that unfavourably impacted Diluted EPS by 3 
+cents.
+
+–
+
+–
+
+–
+
+In 2021, there were four significant items included in Net income as follows:
+•
+
+in  the  fourth  quarter,  a  deferred  tax  recovery  of  $33  million  on  changes  in  the  outside  basis  difference  of  the  equity  investment  in  KCS  that 
+favourably impacted Diluted EPS by 5 cents;  
+in  the  second  quarter,  the  merger  termination  payment  received  of  $845  million  ($748  million  after  current  taxes)  in  connection  with  KCS's 
+termination of the Original Merger Agreement effective May 21, 2021, that favourably impacted Diluted EPS by $1.11;
+during  the  course  of  the  year,  acquisition-related  costs  of  $599  million  in  connection  with  the  KCS  acquisition  ($500  million  after  current  tax 
+recovery of $107 million net of deferred tax expense of $8 million), including costs of $183 million recognized in Purchased services and other, $169 
+million recognized in Equity loss of KCS, and $247 million recognized in Other expense (income), that unfavourably impacted Diluted EPS by 75 
+cents as follows:
+–
+
+in  the  fourth  quarter,  acquisition-related  costs  of  $157  million  ($157  million  after  current  tax  recovery  of  $13  million  net  of  deferred  tax 
+expense of $13 million), including costs of $36 million recognized in Purchased services and other, $169 million in Equity loss of KCS, and a 
+$48 million recovery recognized in Other (income) expense, that unfavourably impacted Diluted EPS by 22 cents; 
+in the third quarter, acquisition-related costs of $98 million ($80 million after current tax recovery of $61 million net of deferred tax expense of 
+$43 million), including costs of $15 million recognized in Purchased services and other and $83 million recognized in Other expense (income), 
+that unfavourably impacted Diluted EPS by 12 cents; 
+
+–
+
+  CP 2022 ANNUAL REPORT  18
+
+–
+
+–
+
+in  the  second  quarter,  acquisition-related  costs  of  $308  million  ($236  million  after  current  taxes  of  $25  million  and  deferred  taxes  of 
+$47 million), including costs of $99 million recognized in Purchased services and other and $209 million recognized in Other expense (income), 
+that unfavourably impacted Diluted EPS by 35 cents; and
+in  the  first  quarter,  acquisition-related  costs  of $36  million  ($27  million  after  current  taxes  of $8  million  and  deferred  taxes  of $1  million), 
+including  costs  of  $33  million  recognized  in  Purchased  services  and  other  and  $3  million  recognized  in  Other  expense  (income),  that 
+unfavourably impacted Diluted EPS by 4 cents; and
+
+during the course of the year, a net non-cash gain of $7 million ($6 million after deferred tax) due to FX translation of debt and lease liabilities that 
+favourably impacted Diluted EPS by 1 cent as follows:
+–
+–
+–
+–
+
+in the fourth quarter, a $32 million loss ($28 million after deferred tax) that unfavourably impacted Diluted EPS by 4 cents;
+in the third quarter, a $46 million loss ($40 million after deferred tax) that unfavourably impacted Diluted EPS by 6 cents;
+in the second quarter, a $52 million gain ($45 million after deferred tax) that favourably impacted Diluted EPS by 7 cents; and
+in the first quarter, a $33 million gain ($29 million after deferred tax) that favourably impacted Diluted EPS by 4 cents.  
+
+•
+
+•
+
+•
+
+•
+
+•
+
+In 2020, there were two significant items included in Net income as follows:
+•
+
+in the fourth quarter, a deferred tax recovery of $29 million due to a change relating to a tax return filing election for the state of North Dakota that 
+favourably impacted Diluted EPS by 5 cents; and 
+during the course of the year, a net non-cash gain of $14 million ($12 million after deferred tax) due to FX translation of debt and lease liabilities 
+that favourably impacted Diluted EPS by 2 cents as follows:
+–
+–
+–
+–
+
+in the fourth quarter, a $103 million gain ($90 million after deferred tax) that favourably impacted Diluted EPS by 13 cents;
+in the third quarter, a $40 million gain ($38 million after deferred tax) that favourably impacted Diluted EPS by 6 cents;
+in the second quarter, an $86 million gain ($82 million after deferred tax) that favourably impacted Diluted EPS by 12 cents; and
+in the first quarter, a $215 million loss ($198 million after deferred tax) that unfavourably impacted Diluted EPS by 28 cents.  
+
+In 2019, there were three significant items included in Net income as follows:
+•
+
+in the fourth quarter, a deferred tax expense of $24 million as a result of a provision for an uncertain tax item of a prior period that unfavourably 
+impacted Diluted EPS by 3 cents; 
+in the second quarter, a deferred tax recovery of $88 million due to the change in the Alberta provincial corporate income tax rate that favourably 
+impacted Diluted EPS by 13 cents; and
+during the course of the year, a net non-cash gain of $94 million ($86 million after deferred tax) due to FX translation of debt and lease liabilities 
+that favourably impacted Diluted EPS by 12 cents as follows:
+–
+–
+–
+–
+
+in the fourth quarter, a $37 million gain ($32 million after deferred tax) that favourably impacted Diluted EPS by 4 cents;
+in the third quarter, a $25 million loss ($22 million after deferred tax) that unfavourably impacted Diluted EPS by 3 cents;
+in the second quarter, a $37 million gain ($34 million after deferred tax) that favourably impacted Diluted EPS by 4 cents; and
+in the first quarter, a $45 million gain ($42 million after deferred tax) that favourably impacted Diluted EPS by 6 cents. 
+
+In 2018, there were two significant items included in Net income as follows:
+•
+
+in the second quarter, a deferred tax recovery of $21 million due to reductions in the Missouri and Iowa state tax rates that favourably impacted 
+Diluted EPS by 3 cents; and 
+during the course of the year, a net non-cash loss of $168 million ($150 million after deferred tax) due to FX translation of debt that unfavourably 
+impacted Diluted EPS by 21 cents as follows:  
+–
+–
+–
+–
+
+in the fourth quarter, a $113 million loss ($103 million after deferred tax) that unfavourably impacted Diluted EPS by 14 cents;
+in the third quarter, a $38 million gain ($33 million after deferred tax) that favourably impacted Diluted EPS by 5 cents; 
+in the second quarter, a $44 million loss ($38 million after deferred tax) that unfavourably impacted Diluted EPS by 5 cents; and
+in the first quarter, a $49 million loss ($42 million after deferred tax) that unfavourably impacted Diluted EPS by 6 cents. 
+
+ 
+19  CP 2022 ANNUAL REPORT
+
+Reconciliation of GAAP Performance Measures to Non-GAAP Performance Measures
+The  following  tables  reconcile  the  most  directly  comparable  measures  presented  in  accordance  with  GAAP  to  the  Non-GAAP  measures  as  discussed 
+further in other sections of this Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations:
+
+Adjusted income is calculated as Net income reported on a GAAP basis adjusted for significant items. Core adjusted income is calculated as Adjusted 
+income less KCS purchase accounting.
+
+(in millions of Canadian dollars)
+
+Net income as reported
+
+Less significant items (pre-tax):
+
+KCS net gain on unwind of interest rate hedges
+
+Acquisition-related costs
+
+Merger termination fee
+
+Impact of FX translation gain (loss) on debt and lease liabilities
+
+Add:
+
+Tax effect of adjustments(1)
+Deferred tax recovery on the outside basis difference of the investment 
+in KCS
+Income tax rate changes
+
+(Reversal of) provision for uncertain tax item
+
+For the year ended December 31
+
+2022
+
+2021
+
+2020
+
+2019
+
+$ 
+
+3,517  $ 
+
+2,852  $ 
+
+2,444  $ 
+
+2,440  $ 
+
+212   
+
+(123)   
+
+—   
+
+—   
+
+(15)   
+
+(19)   
+
+(12)   
+
+(24)   
+
+—   
+
+(599)   
+
+845   
+
+7   
+
+(1)   
+
+(33)   
+
+—   
+
+—   
+
+—   
+
+—   
+
+—   
+
+14   
+
+2   
+
+—   
+
+(29)   
+
+—   
+
+—   
+
+—   
+
+—   
+
+94   
+
+8   
+
+—   
+
+(88)   
+
+24   
+
+2018
+
+1,951 
+
+— 
+
+— 
+
+— 
+
+(168) 
+
+(18) 
+
+— 
+
+(21) 
+
+— 
+
+Adjusted income
+
+Less: KCS purchase accounting
+
+Core adjusted income
+
+$ 
+
+$ 
+
+3,358  $ 
+
+2,565  $ 
+
+2,403  $ 
+
+2,290  $ 
+
+2,080 
+
+(163)   
+
+(8)   
+
+—   
+
+—   
+
+— 
+
+3,521  $ 
+
+2,573  $ 
+
+2,403  $ 
+
+2,290  $ 
+
+2,080 
+
+(1) The tax effect of adjustments was calculated as the pre-tax effect of the adjustments multiplied by the applicable tax rate for the above items of 16.97%, 0.51%, 13.58%, 8.55% 
+and 10.64% for the years presented, respectively. The applicable tax rates reflect the taxable jurisdictions and nature, being on account of capital or income, of the significant items.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  CP 2022 ANNUAL REPORT  20
+
+Adjusted diluted earnings per share is calculated using Adjusted income, as defined above, divided by the weighted-average diluted number of Common 
+Shares outstanding during the period as determined in accordance with GAAP. Core adjusted diluted earnings per share is calculated as Adjusted diluted 
+earnings per share less KCS purchase accounting.
+
+2018
+
+2.72 
+
+— 
+
+— 
+
+— 
+
+Diluted earnings per share as reported
+
+$ 
+
+3.77  $ 
+
+4.18  $ 
+
+3.59  $ 
+
+3.50  $ 
+
+For the year ended December 31
+
+2022
+
+2021
+
+2020
+
+2019
+
+Less significant items (pre-tax):
+
+KCS net gain on unwind of interest rate hedges
+
+Acquisition-related costs
+
+Merger termination fee
+Impact of FX translation gain (loss) on debt and lease liabilities
+
+Add:
+
+Tax effect of adjustments(1)
+Deferred tax recovery on the outside basis difference of the investment 
+in KCS
+Income tax rate changes
+
+(Reversal of) provision for uncertain tax item
+
+Adjusted diluted earnings per share
+
+Less: KCS purchase accounting
+
+Core adjusted diluted earnings per share
+
+0.23   
+
+(0.14)   
+
+—   
+
+—   
+
+—   
+
+(0.88)   
+
+1.24   
+
+0.01   
+
+—   
+
+—   
+
+—   
+
+—   
+
+—   
+
+—   
+
+0.02   
+
+0.13   
+
+(0.23) 
+
+(0.02)   
+
+—   
+
+—   
+
+0.01   
+
+(0.02) 
+
+(0.02)   
+
+(0.01)   
+
+(0.03)   
+
+3.60  $ 
+
+(0.17)   
+
+3.77  $ 
+
+(0.05)   
+
+—   
+
+—   
+
+3.76  $ 
+
+(0.01)   
+
+3.77  $ 
+
+—   
+
+(0.04)   
+
+—   
+
+—   
+
+(0.13)   
+
+0.04   
+
+3.53  $ 
+
+3.29  $ 
+
+—   
+
+—   
+
+3.53  $ 
+
+3.29  $ 
+
+— 
+
+(0.03) 
+
+— 
+
+2.90 
+
+— 
+
+2.90 
+
+$ 
+
+$ 
+
+(1) The tax effect of adjustments was calculated as the pre-tax effect of the adjustments multiplied by the applicable tax rate for the above items of 16.97%, 0.51%, 13.58%, 8.55% 
+and 10.64% for the years presented, respectively. The applicable tax rates reflect the taxable jurisdictions and nature, being on account of capital or income, of the significant items.
+
+Adjusted operating income is calculated as Operating income reported on a GAAP basis less significant items. 
+
+(in millions of Canadian dollars)
+Operating income as reported
+
+Less significant item:
+
+Acquisition-related costs
+
+Adjusted operating income
+
+For the year ended December 31
+
+2022
+
+2021
+
+2020
+
+2019
+
+$ 
+
+3,329  $ 
+
+3,206  $ 
+
+3,311  $ 
+
+3,124  $ 
+
+2018
+
+2,831 
+
+(74)   
+
+(183)   
+
+—   
+
+—   
+
+— 
+
+$ 
+
+3,403  $ 
+
+3,389  $ 
+
+3,311  $ 
+
+3,124  $ 
+
+2,831 
+
+Operating ratio is calculated as operating expenses divided by revenues. Adjusted operating ratio excludes those significant items that are reported within 
+Operating income. 
+
+Operating ratio as reported
+
+Less significant item:
+
+Acquisition-related costs
+
+Adjusted operating ratio
+
+For the year ended December 31
+
+2022
+
+ 62.2 %
+
+ 0.8 
+
+ 61.4 %
+
+2021
+
+ 59.9 %
+
+ 2.3 
+
+ 57.6 %
+
+2020
+
+ 57.1 %
+
+2019
+
+ 59.9 %
+
+2018
+
+ 61.3 %
+
+— 
+
+— 
+
+— 
+
+ 57.1 %
+
+ 59.9 %
+
+ 61.3 %
+
+Adjusted Return on Invested Capital ("Adjusted ROIC")
+Return on average shareholders' equity is calculated as Net income divided by average shareholders' equity, averaged between the beginning and ending 
+balance over a trailing twelve month period. Adjusted ROIC is calculated as Adjusted return divided by Adjusted average invested capital. Adjusted return 
+is defined as Net income adjusted for interest expense, tax effected at the Company’s adjusted annualized effective tax rate, and significant items in the 
+Company’s Consolidated Financial Statements, tax effected at the applicable tax rate. Adjusted average invested capital is defined as the sum of total 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21  CP 2022 ANNUAL REPORT
+
+Shareholders' equity, Long-term debt, and Long-term debt maturing within one year, as presented in the Company's Consolidated Financial Statements, 
+each averaged between the beginning and ending balance over a trailing twelve month period, adjusted for the impact of significant items, tax effected at 
+the applicable tax rate, on closing balances as part of this average. Adjusted ROIC excludes significant items reported in the Company's Consolidated 
+Financial Statements, as these significant items are not considered indicative of future financial trends either by nature or amount, and excludes interest 
+expense,  net  of  tax,  to  incorporate  returns  on  the  Company’s  overall  capitalization.  Adjusted  ROIC  is  a  performance  measure  that  measures  how 
+productively  the  Company  uses  its  long-term  capital  investments,  representing  critical  indicators  of  good  operating  and  investment  decisions  made  by 
+management,  and  is  an  important  performance  criteria  in  determining  certain  elements  of  the  Company's  long-term  incentive  plan.  Adjusted  ROIC  is 
+reconciled below from Return on average shareholders' equity, the most comparable measure calculated in accordance with GAAP.  
+
+Calculation of Return on average shareholders' equity
+
+(in millions of Canadian dollars, except for percentages)
+Net income as reported
+
+Average shareholders' equity
+
+Return on average shareholders' equity
+
+Reconciliation of Net Income to Adjusted Return
+
+(in millions of Canadian dollars)
+Net income as reported
+
+Add: 
+
+Net interest expense
+Tax on interest(1)
+Significant items (pre-tax):
+
+KCS net gain on unwind of interest rate hedges
+
+Acquisition-related costs
+
+Merger termination fee
+
+Impact of FX translation (gain) loss on debt and lease liabilities
+
+Tax on significant items(2)
+Deferred tax recovery on the outside basis difference of the investment 
+in KCS
+Income tax rate changes
+
+(Reversal of) provision for uncertain tax item 
+
+For the year ended December 31
+
+2022
+
+2021
+
+2020
+
+2019
+
+$ 
+
+3,517  $ 
+
+2,852  $ 
+
+2,444  $ 
+
+2,440  $ 
+
+36,358 
+
+ 9.7% 
+
+20,574 
+
+ 13.9% 
+
+7,194 
+
+ 34.0% 
+
+6,853 
+
+ 35.6% 
+
+For the year ended December 31
+
+2022
+
+2021
+
+2020
+
+2019
+
+$ 
+
+3,517  $ 
+
+2,852  $ 
+
+2,444  $ 
+
+2,440  $ 
+
+652   
+
+(145)   
+
+(212)   
+
+123   
+
+—   
+
+—   
+
+(15)   
+
+(19)   
+
+(12)   
+
+(24)   
+
+440   
+
+(106)   
+
+—   
+
+599   
+
+(845)   
+
+(7)   
+
+(1)   
+
+(33)   
+
+—   
+
+—   
+
+458   
+
+(113)   
+
+448   
+
+(112)   
+
+—   
+
+—   
+
+—   
+
+(14)   
+
+2   
+
+—   
+
+(29)   
+
+—   
+
+—   
+
+—   
+
+—   
+
+(94)   
+
+8   
+
+—   
+
+(88)   
+
+24   
+
+2018
+
+1,951 
+
+6,537 
+
+ 29.8% 
+
+2018
+
+1,951 
+
+453 
+
+(112) 
+
+— 
+
+— 
+
+— 
+
+168 
+
+(18) 
+
+— 
+
+(21) 
+
+— 
+
+Adjusted return
+
+$ 
+
+3,865  $ 
+
+2,899  $ 
+
+2,748  $ 
+
+2,626  $ 
+
+2,421 
+
+(1) Tax was calculated at the adjusted annualized effective tax rate of 22.24%, 23.85%, 24.61%, 24.96%, and 24.55% for each of the above items for the years presented, respectively.
+(2) Tax was calculated as the pre-tax effect of the adjustments multiplied by the applicable tax rate of 16.97%, 0.51%, 13.58%, 8.55%, and 10.64% for each of the above items for the 
+
+years presented, respectively. The applicable tax rates reflect the taxable jurisdictions and nature, being on account of capital or income, of the significant items.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  CP 2022 ANNUAL REPORT  22
+
+Reconciliation of Average shareholders' equity to Adjusted average invested capital
+
+(in millions of Canadian dollars)
+Average shareholders' equity
+
+Average long-term debt, including long-term debt maturing within one 
+year
+
+For the year ended December 31
+
+2022
+
+2021
+
+2020
+
+2019
+
+$ 
+
+36,358  $ 
+
+20,574  $ 
+
+7,194  $ 
+
+6,853  $ 
+
+2018
+
+6,537 
+
+19,889   
+
+14,949   
+
+9,264   
+
+8,726   
+
+8,427 
+
+$ 
+
+56,247  $ 
+
+35,523  $ 
+
+16,458  $ 
+
+15,579  $ 
+
+14,964 
+
+Less:
+
+Significant items (pre-tax):
+
+KCS net gain on unwind of interest rate hedges
+
+Acquisition-related costs
+
+Merger termination fee
+Tax on significant items(1)
+
+Deferred tax recovery on the outside basis difference of the investment 
+in KCS
+Income tax rate changes
+
+(Reversal of) provision for uncertain tax item
+
+106   
+
+(62)   
+
+—   
+
+8   
+
+10   
+
+6   
+
+12   
+
+—   
+
+(300)   
+
+423   
+
+1   
+
+16   
+
+—   
+
+—   
+
+—   
+
+—   
+
+—   
+
+—   
+
+—   
+
+15   
+
+—   
+
+—   
+
+—   
+
+—   
+
+—   
+
+—   
+
+44   
+
+(12)   
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+11 
+
+— 
+
+Adjusted average invested capital 
+
+$ 
+
+56,167  $ 
+
+35,383  $ 
+
+16,443  $ 
+
+15,547  $ 
+
+14,953 
+
+(1) Tax was calculated at the pre-tax effect of the adjustments multiplied by the applicable tax rate of 16.97% and 0.90% for 2022 and 2021, respectively. The applicable tax rate 
+
+reflects the taxable jurisdictions and nature, being on account of capital or income, of the significant items.
+
+Calculation of Adjusted ROIC
+
+(in millions of Canadian dollars, except for percentages)
+Adjusted return
+
+Adjusted average invested capital
+
+Adjusted ROIC
+
+For the year ended December 31
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+$ 
+
+3,865 
+
+$ 
+
+2,899 
+
+$ 
+
+2,748 
+
+$ 
+
+2,626 
+
+$ 
+
+2,421 
+
+56,167 
+
+35,383 
+
+16,443 
+
+15,547 
+
+14,953 
+
+ 6.9% 
+
+ 8.2% 
+
+ 16.7% 
+
+ 16.9% 
+
+ 16.2% 
+
+Free Cash
+Free cash is calculated as Cash provided by operating activities, less Cash used in investing activities, adjusted for changes in Cash and cash equivalents 
+balances resulting from FX fluctuations, cash settlement of hedges settled upon issuance of debt, the operating cash flow impacts of acquisition-related 
+costs associated with the KCS transaction including settlement of cash flow hedges upon debt issuance and FX gain on U.S. dollar-denominated cash held 
+to  fund  the  KCS  acquisition,  the  merger  termination  payment  received  related  to  KCS's  termination  of  the  Original  Merger  Agreement,  and  the 
+acquisitions of KCS, Central Maine & Québec Railway ("CMQ"), and Detroit River Tunnel Partnership ("DRTP"). Free cash is a measure that management 
+considers  to  be  a  valuable  indicator  of  liquidity.  Free  cash  is  useful  to  investors  and  other  external  users  of  the  Company's  Consolidated  Financial 
+Statements  as  it  assists  with  the  evaluation  of  the  Company's  ability  to  generate  cash  to  satisfy  debt  obligations  and  discretionary  activities  such  as 
+dividends, share repurchase programs, and other strategic opportunities, and is an important performance criteria in determining certain elements of the 
+Company's long-term incentive plan. The cash settlement of forward starting swaps that occurred in conjunction with the issuance of long-term debt, the 
+acquisition-related costs associated with the KCS acquisition, and the merger termination payment received related to KCS's termination of the Original 
+Merger Agreement are not indicative of operating trends and have been excluded from Free cash. Similarly, the acquisitions of KCS, CMQ, and DRTP are 
+not indicative of investment trends and have also been excluded from Free cash. Free cash should be considered in addition to, rather than as a substitute 
+for, Cash provided by operating activities. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23  CP 2022 ANNUAL REPORT
+
+Reconciliation of Cash Provided by Operating Activities to Free Cash
+
+(in millions of Canadian dollars)
+
+For the year ended December 31
+
+2022
+
+2021
+
+2020
+
+2019
+
+Cash provided by operating activities
+
+$ 
+
+4,142  $ 
+
+3,688  $ 
+
+2,802  $ 
+
+2,990  $ 
+
+2018
+
+2,712 
+
+Cash used in investing activities
+
+(1,496)   
+
+(13,730)   
+
+(2,030)   
+
+(1,803)   
+
+(1,458) 
+
+Effect of foreign currency fluctuations on U.S. dollar-denominated cash 
+and cash equivalents
+
+20   
+
+41   
+
+6   
+
+(4)   
+
+11 
+
+Less:
+
+Settlement of forward starting swaps on debt issuance
+Acquisition-related costs(1)
+
+Merger termination fee
+
+Investment in Kansas City Southern
+
+Investment in Central Maine & Québec Railway
+
+Investment in Detroit River Tunnel Partnership
+
+—   
+
+(67)   
+
+—   
+
+—   
+
+—   
+
+—   
+
+—   
+
+(340)   
+
+845   
+
+(12,299)   
+
+—   
+
+—   
+
+—   
+
+—   
+
+—   
+
+—   
+
+19   
+
+(398)   
+
+—   
+
+—   
+
+—   
+
+—   
+
+(174)   
+
+—   
+
+(24) 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Free cash
+
+$ 
+
+2,733  $ 
+
+1,793  $ 
+
+1,157  $ 
+
+1,357  $ 
+
+1,289 
+
+(1) Including settlement of cash flow hedges upon debt issuance of $226 million for the year ended December 31, 2021.
+
+Foreign Exchange Adjusted % Change
+FX  adjusted  %  change  allows  certain  financial  results  to  be  viewed  without  the  impact  of  fluctuations  in  foreign  currency  exchange  rates,  thereby 
+facilitating period-to-period comparisons in the analysis of trends in business performance. Financial result variances at constant currency are obtained by 
+translating the comparable period of the prior year results denominated in U.S. dollars at the foreign exchange rates of the current period. 
+
+FX adjusted % changes in revenues are further used in calculating FX adjusted % change in freight revenue per carload and RTM.
+
+(in millions of Canadian dollars)
+Freight revenues by line of business
+
+Reported 2022
+
+Reported 2021
+
+Variance
+due to FX
+
+2022 vs. 2021
+
+FX Adjusted 
+2021
+
+FX Adjusted 
+% Change
+
+Grain
+
+Coal
+
+Potash
+
+Fertilizers and sulphur
+
+Forest products
+
+Energy, chemicals and plastics
+
+Metals, minerals, and consumer products
+
+Automotive
+
+Intermodal
+
+Freight revenues
+
+Non-freight revenues
+
+Total revenues
+
+$ 
+
+1,776  $ 
+
+1,684  $ 
+
+34  $ 
+
+1,718 
+
+577   
+
+581   
+
+332   
+
+403   
+
+1,394   
+
+884   
+
+438   
+
+2,242   
+
+8,627   
+
+187   
+
+625   
+
+463   
+
+305   
+
+348   
+
+1,563   
+
+728   
+
+376   
+
+1,724   
+
+7,816   
+
+179   
+
+$ 
+
+8,814  $ 
+
+7,995  $ 
+
+3   
+
+9   
+
+9   
+
+12   
+
+31   
+
+22   
+
+9   
+
+13   
+
+142   
+
+1   
+
+143  $ 
+
+628 
+
+472 
+
+314 
+
+360 
+
+1,594 
+
+750 
+
+385 
+
+1,737 
+
+7,958 
+
+180 
+
+8,138 
+
+ 3 
+
+ (8) 
+
+ 23 
+
+ 6 
+
+ 12 
+
+ (13) 
+
+ 18 
+
+ 14 
+
+ 29 
+
+ 8 
+
+ 4 
+
+ 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  CP 2022 ANNUAL REPORT  24
+
+FX adjusted % changes in operating expenses are discussed in Operating Expenses of this Item 7. Management’s Discussion and Analysis of Financial 
+Condition and Results of Operations.
+
+(in millions of Canadian dollars)
+
+Compensation and benefits
+
+Fuel
+
+Materials
+
+Equipment rents
+
+Depreciation and amortization
+
+Purchased services and other
+
+Total operating expenses
+
+Reported 2022
+
+Reported 2021
+
+$ 
+
+$ 
+
+1,570  $ 
+
+1,400   
+
+260   
+
+140   
+
+853   
+
+1,262   
+
+5,485  $ 
+
+1,570  $ 
+
+854   
+
+215   
+
+121   
+
+811   
+
+1,218   
+
+4,789  $ 
+
+Variance
+due to FX
+
+2022 vs. 2021
+FX Adjusted 
+2021
+
+FX Adjusted 
+% Change
+
+18  $ 
+
+27   
+
+2   
+
+3   
+
+8   
+
+13   
+
+71  $ 
+
+1,588 
+
+881 
+
+217 
+
+124 
+
+819 
+
+1,231 
+
+4,860 
+
+ (1) 
+
+ 59 
+
+ 20 
+
+ 13 
+
+ 4 
+
+ 3 
+
+ 13 
+
+Dividend Payout Ratio and Core Adjusted Dividend Payout Ratio
+Dividend payout ratio is calculated as dividends declared per share divided by Diluted EPS. Core adjusted dividend payout ratio is calculated as dividends 
+declared per share divided by Core adjusted diluted EPS, as defined above. This ratio is a measure of shareholder return and provides information on the 
+Company's ability to declare dividends on an ongoing basis, excluding significant items and the impact of KCS purchase accounting. 
+
+Starting  in  2022,  Core  adjusted  dividend  payout  ratio  is  presented  to  provide  users  with  additional  transparency  by  isolating  for  the  impact  of  KCS 
+purchase accounting.
+
+Calculation of Dividend Payout Ratio
+
+(in Canadian dollars, except for percentages)
+Dividends declared per share
+
+Diluted EPS
+
+Dividend payout ratio
+
+Calculation of Core Adjusted Dividend Payout Ratio
+
+For the year ended December 31
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+$  0.7600 
+
+$  0.7600 
+
+$  0.7120 
+
+$  0.6280 
+
+$  0.5025 
+
+3.77 
+
+ 20.2% 
+
+4.18 
+
+ 18.2% 
+
+3.59 
+
+ 19.8% 
+
+3.50 
+
+ 17.9% 
+
+2.72 
+
+ 18.5% 
+
+(in Canadian dollars, except for percentages)
+Dividends declared per share
+
+Core adjusted diluted EPS
+
+Core adjusted dividend payout ratio
+
+For the year ended December 31
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+$  0.7600 
+
+$  0.7600 
+
+$  0.7120 
+
+$  0.6280 
+
+$  0.5025 
+
+3.77 
+
+ 20.2% 
+
+3.77 
+
+ 20.2% 
+
+3.53 
+
+ 20.1% 
+
+3.29 
+
+ 19.1% 
+
+2.90 
+
+ 17.3% 
+
+Adjusted Net Debt to Adjusted EBITDA Ratio and Pro-forma adjusted Net Debt to Pro-forma adjusted EBITDA 
+Ratio
+Adjusted net debt to Adjusted earnings before interest, tax, depreciation and amortization ("EBITDA") ratio is calculated as Adjusted net debt divided by 
+Adjusted EBITDA. The Adjusted net debt to Adjusted EBITDA  ratio is a key credit measure used to assess the Company’s financial capacity.  The  ratio 
+provides information on the Company’s ability to service its debt and other long-term obligations from operations, excluding significant items, and is an 
+important performance criteria in determining certain elements of the Company's long-term incentive plan. The Adjusted net debt to Adjusted EBITDA 
+ratio is reconciled below from the Long-term debt to Net income ratio, the most comparable measure calculated in accordance with GAAP.
+
+Beginning in the first quarter of 2022, CP added disclosure of Pro-forma adjusted net debt to Pro-forma adjusted EBITDA ratio to better align with CP’s 
+debt covenant calculation, which incorporates the trailing twelve month adjusted EBITDA of KCS as well as KCS’s outstanding debt. CP is incorporating 
+the trailing twelve month adjusted EBITDA of KCS on a pro-forma basis, as CP is not entitled to earnings prior to the acquisition date of December 14, 
+2021. CP does not control KCS while it is in the voting trust during review of our merger application by the STB, though CP is the beneficial owner of 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25  CP 2022 ANNUAL REPORT
+
+KCS’s outstanding shares and receives cash dividends from KCS. The adjustment to include the trailing twelve month EBITDA and KCS’s outstanding debt 
+provides  users  of  the  financial  statements  with  better  insight  into  CP’s  progress  in  achieving  deleveraging  commitments.  KCS’s  disclosed  U.S.  dollar 
+financial  values  for  the  years  ended  December  31,  2022,  and  December  31,  2021,  were  adjusted  to  Canadian  dollars  reflecting  the  FX  rate  for  the 
+appropriate  period  presented,  respectively.  The  Pro-forma  adjusted  Net  Debt  to  Pro-forma  adjusted  EBITDA  ratio  is  discussed  further  in  Liquidity  and 
+Capital Resources of this Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Calculation of Long-term Debt to Net Income Ratio
+Long-term debt to Net income ratio is calculated as long-term debt, including long-term debt maturing within one year, divided by Net income.
+
+(in millions of Canadian dollars, except for ratios)
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+Long-term debt including long-term debt maturing within one year as at 
+December 31
+
+Net income for the year ended December 31
+
+Long-term debt to Net income ratio
+
+$ 
+
+19,651  $ 
+
+20,127  $ 
+
+9,771  $ 
+
+8,757  $ 
+
+3,517   
+
+5.6   
+
+2,852   
+
+2,444   
+
+2,440   
+
+7.1   
+
+4.0   
+
+3.6   
+
+8,696 
+
+1,951 
+
+4.5 
+
+Reconciliation of Long-term Debt to Adjusted Net Debt and Pro-forma Adjusted Net Debt
+Adjusted  net  debt  is  defined  as  Long-term  debt,  Long-term  debt  maturing  within  one  year  and  Short-term  borrowing  as  reported  on  the  Company’s 
+Consolidated Balance Sheets adjusted for pension plans deficit, operating lease liabilities recognized on the Company's Consolidated Balance Sheets, and 
+Cash and cash equivalents. Adjusted net debt is used as a measure of debt and long-term obligations as part of the calculation of Adjusted Net Debt to 
+Adjusted EBITDA.
+
+(in millions of Canadian dollars)(1)
+CP long-term debt including long-term debt maturing within 
+one year as at December 31
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+$ 
+
+19,651  $ 
+
+20,127  $ 
+
+9,771  $ 
+
+8,757  $ 
+
+8,696 
+
+Add:
+
+Pension plans deficit(2)
+Operating lease liabilities
+
+Less:
+
+Cash and cash equivalents
+
+CP Adjusted net debt as at December 31
+
+KCS's long-term debt including long-term debt maturing within 
+one year as at December 31 
+Add:
+
+$ 
+
+$ 
+
+KCS operating lease liabilities
+
+Less:
+
+KCS cash and cash equivalents
+
+KCS Adjusted net debt as at December 31
+
+CP Adjusted net debt as at December 31
+
+175   
+
+270   
+
+263   
+
+283   
+
+328   
+
+311   
+
+294   
+
+354   
+
+266 
+
+387 
+
+451   
+
+69   
+
+147   
+
+133   
+
+61 
+
+19,645  $ 
+
+20,604  $ 
+
+10,263  $ 
+
+9,272  $ 
+
+9,288 
+
+5,119  $ 
+
+4,789 
+
+136   
+
+87 
+
+281   
+
+4,974   
+
+19,645   
+
+430 
+
+4,446 
+
+20,604 
+
+25,050 
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Pro-forma Adjusted net debt as at December 31
+
+$ 
+
+24,619  $ 
+
+(1) KCS's amounts were translated at the period end FX rate of $1.35 and $1.27 for the years ended December 31, 2022 and 2021, respectively.
+(2) Pension plans deficit is the total funded status of the Pension plans in deficit only.
+
+Reconciliation of Net Income to EBIT, Adjusted EBIT and Adjusted EBITDA and Pro-forma Adjusted EBITDA
+Earnings  before  interest  and  tax  ("EBIT")  is  calculated  as  Net  income  before  Net  interest  expense  and  Income  tax  expense.  Adjusted  EBIT  excludes 
+significant items reported in both Operating income and Other expense (income). Adjusted EBITDA is calculated as Adjusted EBIT plus operating lease 
+expense and Depreciation and amortization, less Other components of net periodic benefit recovery. Adjusted EBITDA is used as a measure of liquidity 
+derived from operations, excluding significant items, as part of the calculation of Adjusted Net Debt to Adjusted EBITDA.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  CP 2022 ANNUAL REPORT  26
+
+For the year ended December 31
+
+2022
+
+2021
+
+2020
+
+2019
+
+$ 
+
+3,517  $ 
+
+2,852  $ 
+
+2,444  $ 
+
+2,440  $ 
+
+652   
+
+628   
+
+440   
+
+768   
+
+458   
+
+758   
+
+448   
+
+706   
+
+2018
+
+1,951 
+
+453 
+
+637 
+
+4,797   
+
+4,060   
+
+3,660   
+
+3,594   
+
+3,041 
+
+212   
+
+(123)   
+
+—   
+
+—   
+
+—   
+
+(599)   
+
+845   
+
+7   
+
+—   
+
+—   
+
+—   
+
+14   
+
+—   
+
+—   
+
+—   
+
+94   
+
+4,708   
+
+3,807   
+
+3,646   
+
+3,500   
+
+75   
+
+853   
+
+72   
+
+811   
+
+78   
+
+779   
+
+83   
+
+706   
+
+— 
+
+— 
+
+— 
+
+(168) 
+
+3,209 
+
+97 
+
+696 
+
+387   
+
+342   
+
+381   
+
+384 
+
+4,303  $ 
+
+4,161  $ 
+
+3,908  $ 
+
+3,618 
+
+411   
+
+5,225  $ 
+
+1,290  $ 
+
+$ 
+
+$ 
+
+204   
+
+426   
+
+675 
+
+196 
+
+269 
+
+1,920   
+
+1,140 
+
+(60)   
+
+352   
+
+(310) 
+
+— 
+
+1,628   
+
+1,450 
+
+43   
+
+509   
+
+$ 
+
+$ 
+
+2,180  $ 
+
+5,225  $ 
+
+1,074   
+
+49   
+
+(212)   
+
+40 
+
+459 
+
+1,949 
+
+4,303 
+
+(141) 
+
+169 
+
+— 
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+(in millions of Canadian dollars)(1)
+
+CP Net income as reported
+
+Add:
+
+Net interest expense
+
+Income tax expense
+
+EBIT
+
+Less significant items (pre-tax):
+
+KCS net gain on unwind of interest rate hedges
+
+Acquisition-related costs
+
+Merger termination fee
+
+Impact of FX translation gain (loss) on debt and lease liabilities
+
+Adjusted EBIT
+
+Add:
+
+Operating lease expense
+
+Depreciation and amortization
+
+Less:
+
+Other components of net periodic benefit recovery
+
+CP Adjusted EBITDA
+
+Net income attributable to KCS and subsidiaries 
+
+Add:
+
+KCS interest expense
+
+KCS income tax expense
+
+KCS EBIT
+
+Less significant items (pre-tax):
+
+KCS merger costs
+
+KCS gain on settlement of treasury lock agreements
+
+KCS Adjusted EBIT
+
+Add:
+
+KCS total lease cost
+
+KCS depreciation and amortization
+
+KCS Adjusted EBITDA 
+
+CP Adjusted EBITDA
+
+Less:
+
+Equity earnings (loss) of KCS(2)
+Acquisition-related costs of KCS(3)
+KCS net gain on unwind of interest rate hedges(4)
+
+Pro-forma Adjusted EBITDA
+
+$ 
+
+6,494  $ 
+
+6,224 
+
+(1) KCS's amounts were translated at the quarterly average FX rate of $1.36, $1.30, $1.28, and $1.27 for Q4 2022, Q3 2022, Q2 2022 and Q1 2022 and $1.26, $1.26, $1.23, and 
+
+$1.27 for Q4 2021, Q3 2021, Q2 2021, and Q1 2021, respectively.
+
+(2)  Equity earnings (loss) of KCS were part of CP's reported net income and therefore have been deducted in arriving to the Pro-forma Adjusted EBITDA.
+(3) Acquisition-related costs of KCS have been adjusted in CP's Adjusted EBITDA calculation above, therefore have been deducted in arriving to the Pro-forma Adjusted EBITDA.
+(4)  KCS  net  gain  on  unwind  of  interest  rate  hedges  has  been  adjusted  in  CP's  Adjusted  EBITDA  calculation  above  and  therefore  has  been  added  back  in  arriving  to  the  Pro-forma 
+
+Adjusted EBITDA.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27  CP 2022 ANNUAL REPORT
+
+Calculation of Adjusted Net Debt to Adjusted EBITDA Ratio and Pro-forma Adjusted Net Debt to Pro-forma Adjusted
+EBITDA Ratio
+
+(in millions of Canadian dollars, except for ratios)
+Adjusted net debt as at December 31
+
+Adjusted EBITDA for the year ended December 31
+
+Adjusted net debt to Adjusted EBITDA ratio
+
+2022
+
+2021
+
+2020
+
+2019
+
+$ 
+
+19,645  $ 
+
+20,604  $ 
+
+10,263  $ 
+
+9,272  $ 
+
+5,225   
+
+3.8   
+
+4,303   
+
+4,161   
+
+3,908   
+
+4.8   
+
+2.5   
+
+2.4   
+
+2018
+
+9,288 
+
+3,618 
+
+2.6 
+
+(in millions of Canadian dollars, except for ratios)
+Pro-forma adjusted net debt as at December 31
+
+Pro-forma adjusted EBITDA for the year ended December 31
+
+Pro-forma adjusted net debt to Pro-forma adjusted EBITDA 
+ratio 
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+$ 
+
+24,619  $ 
+
+25,050 
+
+6,494   
+
+6,224 
+
+3.8   
+
+4.0 
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Critical Accounting Estimates
+To prepare the Consolidated Financial Statements that conform with GAAP, the Company is required to make estimates and assumptions that affect the 
+reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the Consolidated Financial Statements and the 
+reported amounts of revenues and expenses during the reported periods. Using the most current information available, the Company reviews estimates on 
+an ongoing basis.
+
+The  development,  selection  and  disclosure  of  these  estimates,  and  this  Management's  Discussion  and  Analysis  of  Financial  Condition  and  Results  of 
+Operations, have been reviewed by the Board of Directors’ Audit and Finance Committee, which is composed entirely of independent directors.
+
+Environmental Liabilities
+Environmental  remediation  accruals  cover  site-specific  remediation  programs.  The  Company's  estimates  of  the  probable  costs  to  be  incurred  in  the 
+remediation of properties contaminated by past activities reflect the nature of contamination at individual sites according to typical activities and scale of 
+operations  conducted.  The  Company  screens  and  classifies  sites  according  to  typical  activities  and  scale  of  operations  conducted.  The  Company  has 
+developed remediation strategies for each property based on the nature and extent of the contamination, as well as the location of the property and 
+surrounding areas that may be adversely affected by the presence of contaminants. The Company also considers available technologies, treatment and 
+disposal facilities and the acceptability of site-specific plans based on the local regulatory environment. Site-specific plans range from containment and 
+risk management of the contaminants through to the removal and treatment of the contaminants and affected soils and groundwater. The details of the 
+estimates reflect the environmental liability at each property. The Company is committed to fully meeting regulatory and legal obligations with respect to 
+environmental matters. 
+
+Some  sites  include  remediation  activities  that  are  projected  beyond  the  10-year  period,  which  the  Company  is  unable  to  reasonably  estimate  and 
+determine. Therefore, the Company's accruals of the environmental liabilities are based on an estimate of costs for a rolling 10-year period covered by the 
+environmental program. Payments are expected to be made over 10 years to 2032.
+
+As  of  December  31,  2022  and  2021  the  Company's  provision  for  specific  environmental  sites  including  discounting  was $83  million  and  $79  million 
+respectively.
+
+Provisions  for  environmental  remediation  costs  are  recorded  in  “Other  long-term  liabilities”  (refer  to  Item  8.  Financial  Statements  and  Supplementary 
+Data, Note 17 Other long-term liabilities), except for the current portion which is recorded in “Accounts payable and accrued liabilities” (refer to Item 8. 
+Financial Statements and Supplementary Data, Note 14 Accounts payable and accrued liabilities). The accruals for environmental remediation represent 
+the  Company’s  best  estimate  of  its  probable  future  obligations  and  include  both  asserted  and  unasserted  claims,  without  reduction  for  anticipated 
+recoveries  from  third  parties.  Although  the  recorded  accruals  include  the  Company’s  best  estimate  of  all  probable  costs,  the  Company’s  total 
+environmental  remediation  costs  cannot  be  predicted  with  certainty.  Accruals  for  environmental  remediation  may  change  from  time  to  time  as  new 
+information  about  previously  untested  sites  becomes  known,  environmental  laws  and  regulations  evolve  and  advances  are  made  in  environmental 
+remediation technology. The accruals may also vary as the courts decide legal proceedings against outside parties responsible for contamination. These 
+potential charges, which cannot be quantified at this time, are not expected to be material to the Company’s financial position, but may materially affect 
+income in the period in which a charge is recognized. 
+
+ 
+ 
+ 
+ 
+  CP 2022 ANNUAL REPORT  28
+
+The environmental liabilities are also sensitive to the increase in cost of materials which would be reflected as increases to "Other long-term liabilities" 
+and "Accounts payable and accrued liabilities" on the Company’s Consolidated Balance Sheets and to "Purchased services and other" within Operating 
+expenses on the Company's Consolidated Statements of Income. The Company's cash payments for environmental initiatives were $10 million in 2021, 
+$8 million in 2022 and are estimated to be approximately $12 million in 2023, $11 million in 2024, $10 million in 2025 and a total of approximately 
+$53 million over the remaining years through 2032. All payments will be funded from general operations.
+
+Pensions and Other Benefits
+The  Company  has  defined  benefit  and  defined  contribution  pension  plans.  Other  benefits  include  post-retirement  medical  and  life  insurance  for 
+pensioners,  and  some  post-employment  workers’  compensation  and  long-term  disability  benefits  in  Canada.  Workers’  compensation  and  long-term 
+disability benefits are discussed in the Personal Injury and Other Claims Liabilities section below.
+
+The obligations and costs for pensions and other benefits are based on the discounted present value of future benefits. The underlying benefits are paid 
+over many years and are estimated based on uncertain demographic and economic assumptions. As a result, the obligations and costs themselves involve 
+a significant amount of estimation uncertainty.
+
+Information  concerning  the  measurement  of  obligations  and  costs  for  pensions  and  other  benefits  is  discussed  in  Item  8.  Financial  Statements  and 
+Supplementary Data, Note 1 Summary of significant accounting policies, and Note 21 Pensions and other benefits. 
+
+Net Periodic Benefit Costs
+The  Company  estimates  net  periodic  benefit  recoveries  for  defined  benefit  pensions  to  be  approximately $293  million  in  2023  ($70  million  in  current 
+service cost and $363 million in other components of net periodic benefit recovery), and net periodic benefit costs for defined contribution pensions to be 
+approximately $13 million in 2023. Net periodic benefit costs for post-retirement benefits in 2023 are not expected to differ materially from the 2022 
+costs. Total net periodic benefit recoveries for all plans are estimated to be approximately $250 million in 2023 (2022 – $240 million), comprising $92 
+million (2022 – $171 million) in current service cost and $342 million (2022 – $411 million) in other components of net periodic benefit recovery.
+
+Pension Plan Contributions
+The Company estimates its aggregate pension contributions, including its defined benefit and defined contribution plans, to be in the range of $25 million 
+to $35 million in 2023, and in the range of $25 million to $50 million per year from 2024 to 2026. 
+
+The  Company’s  main  Canadian  defined  benefit  pension  plan  accounts  for  nearly  all  of  the  Company’s  pension  obligation  and  can  produce  significant 
+volatility  in  pension  funding  requirements,  given  the  pension  fund’s  size,  the  many  factors  that  drive  the  pension  plan’s  funded  status,  and  Canadian 
+statutory pension funding requirements. The Company made voluntary prepayments totaling $1,750 million between 2009 and 2011 to the Company’s 
+main  Canadian  defined  benefit  pension  plan.  The  Company  has  applied $1,324  million  of  these  voluntary  prepayments  to  reduce  its  pension  funding 
+requirements in 2012–2022, leaving $426 million of the voluntary prepayments still available at December 31, 2022, to reduce the Company’s pension 
+funding  requirements  in 2023  and  future  years.  The  Company  continues  to  have  significant  flexibility  with  respect  to  the  rate  at  which  the  remaining 
+voluntary  prepayments  are  applied  to  reduce  future  years’  pension  contribution  requirements,  which  allows  the  Company  to  manage  the  volatility  of 
+future pension funding requirements. At this time, the Company estimates it will not apply any of the remaining voluntary prepayments against its 2023 
+pension funding requirements.
+
+Future pension contributions will be highly dependent on the Company’s actual experience with respect to variables such as investment returns, interest 
+rate  fluctuations,  and  demographic  changes,  on  the  rate  at  which  previous  years’  voluntary  prepayments  are  applied  against  pension  contribution 
+requirements,  and  on  any  changes  in  the  regulatory  environment.  The  Company  will  continue  to  make  contributions  to  the  pension  plans  that,  at  a 
+minimum, meet pension legislative requirements.
+
+Pension Plan Risks
+Fluctuations  in  the  obligations  and  net  periodic  benefit  costs  for  pensions  result  from  favourable  or  unfavourable  investment  returns,  changes  to  the 
+outlook for future investment returns, and changes in long-term interest rates. The impact of favourable or unfavourable investment returns is moderated 
+by the use of a market-related asset value for the main Canadian defined benefit pension plan’s public equity securities and absolute return strategies. 
+The  impact  of  changes  in  long-term  interest  rates  on  pension  obligations  is  partially  offset  by  their  impact  on  the  pension  plans’  investments  in  fixed 
+income assets.
+
+The plans’ investment policy provides a target allocation of approximately 45% of the plans’ assets to be invested in public equity securities. As a result, 
+stock market performance is a key driver in determining the pension plans’ asset performance. If the rate of investment return on the plans’ public equity 
+securities in 2022 had been 10% higher (or lower) than the actual 2022 rate of investment return on such securities, 2023 net periodic benefit costs for 
+pensions would be lower (or higher) by approximately $21 million.
+
+ 
+29  CP 2022 ANNUAL REPORT
+
+For computing the net periodic benefit recovery in 2023, the Company is continuing to use an expected rate of return on the market-related asset value of 
+6.90% to reflect the Company's current view of future long-term investment returns. Changes to the outlook for future long-term investment returns can 
+result in changes to the expected rate of return on the market-related asset value. If the expected rate of return as at December 31, 2022 had been higher 
+(or lower) by 0.1%, 2023 net periodic benefit recoveries for pensions would be higher (or lower) by approximately $13 million.
+
+Changes in bond yields can result in changes to discount rates and to the value of fixed income assets. If the discount rate as at December 31, 2022 had 
+been higher (or lower) by 0.1% with no related changes in the value of the pension plans’ investments in fixed income assets, 2023 net periodic benefit 
+recoveries for pensions would be higher (or lower) by approximately $8 million and 2023 current service costs for pensions would be lower (or higher) by 
+approximately $3 million. However, a change in bond yields would also lead to a change in the value of the pension funds’ investments in fixed income 
+assets, and this change would partially offset the impact on net periodic benefit costs noted above.
+
+The Company estimates that an increase in the discount rate of 0.1% would decrease the defined benefit pension plans’ projected benefit obligations by 
+approximately  $112  million,  and  that  a  decrease  in  the  discount  rate  of  0.1%  would  increase  the  defined  benefit  pension  plans’  projected  benefit 
+obligations by approximately $115 million. Similarly, for every 0.1% that the actual return on assets varies above (or below) the estimated return for the 
+year, the value of the defined benefit pension plans’ assets would increase (or decrease) by approximately $13 million.
+
+Adverse experience with respect to these factors could eventually increase funding and pension expense significantly, while favourable experience with 
+respect to these factors could eventually decrease funding and pension expense significantly.
+
+Fluctuations in the post-retirement benefit obligation also can result from changes in the discount rate used. A 0.1% increase (decrease) in the discount 
+rate would decrease (increase) the obligation by approximately $3 million.
+
+The  Company  reviews  its  pensioner  mortality  experience  to  ensure  that  the  mortality  assumption  continues  to  be  appropriate,  or  to  determine  what 
+changes to the assumption are needed.
+
+Property, Plant and Equipment
+The Company follows the group depreciation method under which a single depreciation rate is applied to the total cost in a particular class of property, 
+despite differences in the service life or salvage value of individual properties within the same class. The Company performs depreciation studies of each 
+property asset class approximately every three years to update depreciation rates. The studies are conducted with assistance from third-party specialists 
+and analyzed and reviewed by the Company's management. Depreciation studies for U.S. assets are reviewed and approved by the STB. Depreciation 
+studies for Canadian assets are provided to the Canadian Transportation Agency (the "Agency"), but the Agency does not approve depreciation rates. In 
+determining appropriate depreciation rates, management is required to make judgments and assumptions about a variety of key factors that are subject 
+to future variability due to inherent uncertainties. These include the following:
+
+Key Assumptions
+• Whole and remaining asset lives 
+
+•
+
+Salvage values
+
+Assessments 
+•
+•
+
+Statistical analysis of historical retirement patterns; 
+Evaluation of management strategy and its impact on operations and the future 
+use of specific property assets;
+Assessment of technological advances;
+Engineering  estimates  of  changes  in  current  operations  and  analysis  of  historic, 
+current, and projected future usage;
+Additional factors considered for track assets: density of traffic and whether rail is 
+new or has been re-laid in a subsequent position; 
+Assessment  of  policies  and  practices  for  the  management  of  assets  including 
+maintenance; and
+Comparison with industry data.
+
+Analysis of historical, current, and estimated future salvage values.
+
+•
+•
+
+•
+
+•
+
+•
+
+•
+
+The  estimates  of  economic  lives  are  uncertain  and  can  vary  due  to  changes  in  any  of  the  assessed  factors  noted  in  the  table  above  for  whole  and 
+remaining asset lives. Additionally, the depreciation rates are updated to reflect the change in residual values of the assets in the class. 
+
+It is anticipated that there will be changes in the estimates of weighted-average useful lives and net salvage for each property asset class as assets are 
+acquired, used, and retired. Substantial changes in either the useful lives of properties or the salvage assumptions could result in significant changes to 
+depreciation  expense.  For  example,  if  the  estimated  average  life  of  track  assets,  including  rail,  ties,  ballast,  and  other  track  material,  increased  (or 
+decreased) by one year, annual depreciation expense would decrease (or increase) by approximately $19 million. 
+
+  CP 2022 ANNUAL REPORT  30
+
+Due to the capital intensive nature of the railway industry, depreciation represents a significant part of operating expenses. The estimated useful lives of 
+properties have a direct impact on the amount of depreciation recorded as a component of "Properties" on the Company’s Consolidated Balance Sheets. 
+
+Deferred Income Taxes
+The Company accounts for deferred income taxes based on the liability method. This method focuses on the Company’s balance sheet and the temporary 
+differences otherwise calculated from the comparison of book versus tax values. The provision for deferred income taxes arises from temporary differences 
+in the carrying values of assets and liabilities for financial statement and income tax purposes and the effect of loss carryforwards. The provision amount is 
+sensitive to any changes in book and tax values and changes to statutory tax rates. For example, a change in temporary differences of $10 million would 
+result in an approximate deferred income tax change of $3 million. It is assumed that such temporary differences will be settled in the deferred income tax 
+assets and liabilities at the balance sheet date.
+
+In determining deferred income taxes, the Company makes estimates and assumptions regarding deferred tax matters, including estimating the timing of 
+the realization and settlement of deferred income tax assets (including the benefit of tax losses) and liabilities, and estimating unrecognized tax benefits 
+for uncertain tax positions. Deferred income taxes are calculated using enacted federal, provincial, and state future income tax rates, which may differ in 
+future periods.
+
+Deferred income tax expense is included in "Income tax expense" on the Company's Consolidated Statements of Income. At December 31, 2022 and 
+2021, deferred income tax expense was $136 million and $242 million, respectively. Management does anticipate the total net deferred tax liabilities will 
+change significantly within the next 12 months as a result of the pending business combination with KCS, subject to STB approval. A future fair value 
+remeasurement  of  the  carrying  value  of  the  Company's  investment  in  KCS  would  result  in  a  change  in  the  deferred  tax  liability  recognized  in  the 
+Company’s income statement. Upon the Company obtaining control, the entire deferred tax liability of $7.5 billion at December 31, 2022, reflecting the 
+outside  basis  of  the  investment  in  KCS,  would  be  reversed  through  deferred  tax  expense  in  the  Company’s  income  statement.  Under  a  business 
+combination,  the  Company  would  allocate  the  purchase  price  to  the  individual  assets  and  liabilities  assumed,  and  goodwill  would  be  recognized.  A 
+deferred tax liability would be recognized on an inside basis based on the liability method described above with a resultant offsetting increase in goodwill. 
+Additional disclosures are provided in Item 8. Financial Statements and Supplementary Data, Note 5 Income taxes.
+
+Personal Injury and Other Claims Liabilities
+The Company estimates the potential liability arising from incidents, claims and pending litigations relating to personal injury claims by employees, third-
+party claims, certain occupation-related claims, and property damage claims.
+
+Personal Injury
+In Canada, employee occupational injuries are governed by provincial workers' compensation legislation. Occupational injury claims in the provinces of 
+Québec, Ontario, Manitoba, and B.C. are self-insured and administered through each Worker's Compensation Board ("WCB"). The future costs related to 
+occupation-related  injuries  are  actuarially  determined  based  on  past  experience  and  assumptions  associated  with  the  injury,  compensation,  income 
+replacement,  health  care,  and  administrative  costs.  In  the  four  provinces  where  the  Company  is  self-insured,  a  discount  rate  is  applied  to  the  future 
+estimated  costs  based  on  market  rates  for  investment-grade  corporate  bonds  to  determine  the  liability.  An  actuarial  study  is  performed  on  an  annual 
+basis. In the provinces of Saskatchewan and Alberta, the Company is assessed an annual WCB contribution on a premium basis and this amount is not 
+subject  to  estimation  by  management.  Changes  to  these  assumptions  could  have  a  material  adverse  impact  to  the  Company's  results  of  operations, 
+financial position and liquidity. At December 31, 2022 and 2021, respectively, the WCB liability was $74 million and $77 million in "Pension and other 
+benefit liabilities"; $11 million and $11 million in "Accounts payable and accrued liabilities", offset by deposits paid to WCB of $1 million and $1 million 
+in "Other assets" on the Company's Consolidated Balance Sheets.
+
+Fluctuations in WCB can result from changes in the discount rate used. A 0.1% increase (decrease) in the discount rate would decrease (increase) the 
+obligation by approximately $1 million.
+
+U.S.  railway  employees  are  covered  by  federal  law  under  the  Federal  Employers'  Liability  Act  ("FELA")  rather  than  workers'  compensation  programs. 
+Accruals  are  set  for  individual  cases  based  on  facts,  legal  opinion  and  statistical  analysis. U.S.  accruals  are  also  set  and  include  alleged  occupational 
+exposure or injury. 
+
+Other Claims 
+A provision for litigation matters, equipment damages or other claims will be accrued according to applicable accounting standards and any such accrual 
+will  be  based  on  an  ongoing  assessment  of  the  strengths  and  weaknesses  of  the  litigation  or  claim  and  its  likelihood  of  success,  together  with  an 
+evaluation of the damages or other monetary relief sought. The Company accrues for probable claims when the facts of an incident become known and 
+investigation results provide a reasonable basis for estimating the liability. The lower end of the range is accrued if the facts and circumstances permit only 
+a range of reasonable estimates and no single amount in that range is a better estimate than any other. Facts and circumstances related to asserted 
+claims  can  change,  and  a  process  is  in  place  to  monitor  accruals  for  changes  in  accounting  estimates.  The  final  outcome  with  respect  to  actions 
+
+ 
+31  CP 2022 ANNUAL REPORT
+
+outstanding or pending at December 31, 2022, or with respect to future claims cannot be predicted with certainty. Material changes to litigation trends, 
+equipment damages, or other claims could have a material adverse impact to the Company's results of operations, financial position, and liquidity.
+
+Forward-Looking Statements
+This Management's Discussion and Analysis of Financial Condition and Results of Operations and Annual Report on Form 10-K contains certain forward-
+looking statements within the meaning of the United States Private Securities Litigation Reform Act of 1995 and forward-looking information within the 
+meaning  of  other  relevant  securities  legislation,  including  applicable  securities  laws  in  Canada  (collectively  referred  to  herein  as  "forward-looking 
+statements").  Forward-looking  statements  typically  include  words  such  as  “financial  expectations”,  “key  assumptions”,  “anticipate”,  “believe”, 
+“expect”, “plan”, “will”, “outlook”, “should” or similar words suggesting future outcomes. To the extent that the Company has provided forecasts or 
+targets using Non-GAAP financial measures, the Company may not be able to provide a reconciliation to a GAAP measure without unreasonable efforts, 
+due to unknown variables and uncertainty related to future results.
+
+This Management's Discussion and Analysis of Financial Condition and Results of Operations and Annual Report on Form 10-K includes forward-looking 
+statements relating, but not limited to statements concerning the Company’s defined benefit pension expectations for 2023 and through 2026, expected 
+impacts resulting from changes in the U.S.-to-Canadian dollar exchange rate, and the effective tax rate, as well as statements concerning the Company’s 
+operations, anticipated financial performance, business prospects and strategies, including statements concerning the anticipation that cash flow from 
+operations  and  various  sources  of  financing  will  be  sufficient  to  meet  debt  repayments  and  obligations  in  the  foreseeable  future  and  concerning 
+anticipated  capital  programs,  statements  regarding  future  payments  including  income  taxes,  statements  regarding  the  Company's  greenhouse  gas 
+("GHG") emissions targets, and statements concerning the pending KCS business combination. 
+
+The forward-looking statements contained in this Management’s Discussion and Analysis of Financial Condition and Results of Operations and Annual 
+Report  on  Form  10-K  are  based  on  current  expectations,  estimates,  projections  and  assumptions,  having  regard  to  the  Company's  experience  and  its 
+perception of historical trends, and includes, but is not limited to, expectations, estimates, projections and assumptions relating to: North American and 
+global  economic  growth;  commodity  demand  growth;  sustainable  industrial  and  agricultural  production;  commodity  prices  and  interest  rates;  foreign 
+exchange rates (as specified herein); effective tax rates (as specified herein); performance of our assets and equipment; sufficiency of our budgeted capital 
+expenditures in carrying out our business plan; geopolitical conditions; applicable laws, regulations and government policies; the availability and cost of 
+labour, services and infrastructure; the satisfaction by third parties of their obligations to the Company; and the anticipated impacts of the COVID-19 
+pandemic  on  the  Company's  business,  operating  results,  cash  flows  and/or  financial  condition.  Although  the  Company  believes  the  expectations, 
+estimates, projections and assumptions reflected in the forward-looking statements presented herein are reasonable as of the date hereof, there can be 
+no  assurance  that  they  will  prove  to  be  correct.  Current  conditions,  economic  and  otherwise,  render  assumptions,  although  reasonable  when  made, 
+subject to greater uncertainty.
+
+With respect to the pending KCS business combination, we can provide no assurance when or if the combination will be completed. Completion of the 
+combination is subject to the receipt of final approval from the STB of the CP-KCS control application by December 31, 2023. There can be no assurance 
+of receipt of this final approval by December 31, 2023. Additionally, even if such final approval is received, there can be no guarantee of the successful 
+integration  of  KCS  or  that  the  combined  company  will  realize  the  anticipated  benefits  of  the  business  combination,  whether  financial,  strategic  or 
+otherwise, and this may be exacerbated by changes to the economic, political and global environment in which the merged company will operate.
+
+Our  GHG  emissions  targets  are  subject  to  a  number  of  inherent  risks,  assumptions  and  uncertainties  that  include,  but  are  not  limited  to,  changes  in 
+carbon markets, evolving sustainability strategies and scientific or technological developments. Additionally, although our data underlying GHG emissions 
+estimates  have  been  internally  vetted  using  accepted  and  relevant  scientific  and  technical  methodologies,  historical  performance  data  may  become 
+outdated due to a variety of factors, including improvement in our data collection and measuring systems, activities such as joint ventures, mergers and 
+acquisitions or divestitures, and industry-driven changes to methodologies. As a result of these and other factors, we may not achieve our stated targets.
+
+Undue reliance should not be placed on forward-looking statements as actual results may differ materially from those expressed or implied by forward-
+looking statements. By their nature, forward-looking statements involve numerous inherent risks and uncertainties that could cause actual results to differ 
+materially from the forward-looking statements, including but not limited to the following factors: changes in business strategies; general North American 
+and global economic, credit and business conditions; risks associated with agricultural production such as weather conditions and insect populations; the 
+availability  and  price  of  energy  commodities;  the  effects  of  competition  and  pricing  pressures;  industry  capacity;  shifts  in  market  demand;  changes  in 
+commodity prices; uncertainty surrounding timing and volumes of commodities being shipped via the Company; inflation; geopolitical instability; changes 
+in  laws,  regulations  and  government  policies,  including  regulation  of  rates;  changes  in  taxes  and  tax  rates;  potential  increases  in  maintenance  and 
+operating  costs;  changes  in  fuel  prices;  uncertainties  of  investigations,  proceedings  or  other  types  of  claims  and  litigation;  labour  disputes;  risks  and 
+liabilities arising from derailments; transportation of dangerous goods; timing of completion of capital and maintenance projects; currency and interest 
+rate fluctuations; effects of changes in market conditions and discount rates on the financial position of pension plans and investments; trade restrictions 
+or other changes to international trade arrangements; climate change; various events that could disrupt operations, including severe weather, such as 
+droughts,  floods,  avalanches  and  earthquakes,  and  cybersecurity  attacks,  as  well  as  security  threats  and  governmental  response  to  them,  and 
+technological changes; and the pandemic created by the outbreak of COVID-19 and its variants and resulting effects on economic conditions, the demand 
+
+  CP 2022 ANNUAL REPORT  32
+
+environment  for  logistics  requirements  and  energy  prices,  restrictions  imposed  by  public  health  authorities  or  governments,  fiscal  and  monetary  policy 
+responses by governments and financial institutions, and disruptions to global supply chains. The foregoing list of factors is not exhaustive.
+
+There are more specific factors that could cause actual results to differ materially from those described in the forward-looking statements contained in this 
+Management's Discussion and Analysis of Financial Condition and Results of Operations and Annual Report on Form 10-K. These more specific factors are 
+identified and discussed in Item 1A. Risk Factors. Other risks are detailed from time to time in reports filed by the Company with securities regulators in 
+Canada and the United States.
+
+The forward-looking statements contained in this Management’s Discussion and Analysis of Financial Condition and Results of Operations and Annual 
+Report on Form 10-K are made as of the date hereof. Except as required by law, the Company undertakes no obligation to update publicly or otherwise 
+revise any forward-looking statements, or the foregoing assumptions and risks affecting such forward-looking statements, whether as a result of new 
+information, future events or otherwise.
+
+ 
+33  CP 2022 ANNUAL REPORT
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Information  concerning  market  risk  sensitive  instruments  is  set  forth  under Item  7.  Management’s  Discussion  and  Analysis  of  Financial  Condition  and 
+Results of Operations – Impact of Foreign Exchange on Earnings and Foreign Exchange Risk and Impact of Changes in Share Price on Earnings and Stock-
+Based Compensation.
+
+Interest Rate Risk
+Debt financing forms part of the Company's capital structure. The debt agreements entered into expose the Company to increased interest costs on future 
+fixed debt instruments and existing variable rate debt instruments, should market rates increase. As at December 31, 2022, a hypothetical one percentage 
+point change in interest rates on the Company's floating rate debt obligations outstanding is not material. In addition, the present value of the Company’s 
+assets and liabilities will also vary with interest rate changes. To manage interest rate exposure, the Company may enter into forward rate agreements 
+such as treasury rate locks or bond forwards that lock in rates for a future date, thereby protecting against interest rate increases. The Company may also 
+enter into swap agreements whereby one party agrees to pay a fixed rate of interest while the other party pays a floating rate. Contingent on the direction 
+of interest rates, the Company may incur higher costs depending on the contracted rate.
+
+The fair value of the Company’s fixed rate debt may fluctuate with changes in market interest rates. A hypothetical one percentage point decrease in 
+interest rates as of December 31, 2022, would result in an increase of approximately $1.5 billion to the fair value of the Company's debt as at December 
+31, 2022 (December 31, 2021 - approximately $2.3 billion). Fair values of the Company’s fixed rate debt are estimated by considering the impact of the 
+hypothetical interest rates on quoted market prices and current borrowing rates, but do not consider other factors that could impact actual results.
+
+Information concerning market risks is supplemented in Item 8. Financial Statements and Supplementary Data, Note 16 Financial instruments.
+
+  CP 2022 ANNUAL REPORT   34
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures
+As of December 31, 2022, an evaluation was carried out under the supervision of and with the participation of the Company's management, including 
+CEO and CFO, of the effectiveness of the design and operation of the Company's disclosure controls and procedures as defined in Rules 13a-15(e) and 
+15d-15(e) of the Exchange Act. Based on that evaluation, the CEO and CFO concluded that these disclosure controls and procedures were effective as of 
+December 31, 2022, to ensure that information required to be disclosed by the Company in reports that they file or submit under the Exchange Act is (i) 
+recorded, processed, summarized and reported within the time periods specified by the SEC rules and forms and (ii) accumulated and communicated to 
+the Company’s management, including the CEO and CFO, as appropriate, to allow timely decisions regarding required disclosure.
+
+Management's Report on Internal Control over Financial Reporting
+Management is responsible for the financial statements and for establishing and maintaining adequate internal control over financial reporting for the 
+Company as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act. The Corporation’s internal control system was designed to provide reasonable 
+assurance to the Corporation’s management and Board of Directors regarding the preparation and fair presentation of published financial statements. 
+Due to its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of 
+effectiveness  to  future  periods  are  subject  to  the  risk  that  controls  may  become  inadequate  because  of  changes  in  conditions,  or  that  the  degree  of 
+compliance with the policies or procedures may deteriorate. 
+
+Management has assessed the effectiveness of the Company’s internal control over financial reporting in accordance with the criteria set forth by the 
+Committee  of  Sponsoring  Organizations  of  the  Treadway  Commission  in Internal  Control  –  Integrated  Framework  (2013).  Based  on  this  assessment, 
+management concluded that the Company maintained effective internal control over financial reporting as of December 31, 2022. All internal control 
+systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide only reasonable 
+assurance with respect to the reliability of financial reporting and preparation of financial statements in accordance with generally accepted accounting 
+principles. 
+
+The  effectiveness  of  the  Company's  internal  control  over  financial  reporting  as  of  December  31,  2022  has  been  audited  by  EY  LLP,  the  Company's 
+independent registered public accounting firm who audited the Company's Consolidated Financial Statements included in this Form 10-K, as stated in 
+their report, which is included herein.
+
+Changes in Internal Control over Financial Reporting 
+During the three months ended December 31, 2022, the Company has not identified any changes in internal control over financial reporting that have 
+materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.

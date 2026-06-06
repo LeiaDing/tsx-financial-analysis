@@ -1,0 +1,2477 @@
+# Enbridge Inc.
+# 来源：Annual MD&A - English.pdf (37e2c6982129d6dd)
+
+ENBRIDGE INC. 
+
+ MANAGEMENT’S DISCUSSION AND ANALYSIS 
+
+December 31, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+INTRODUCTION
+The following discussion and analysis of our financial condition and results of operations is based on and 
+should be read in conjunction with "Forward-Looking Information" and "Non-GAAP and Other Financial 
+Measures", Part I. Item 1A. Risk Factors and our consolidated financial statements and the 
+accompanying notes included in Part II. Item 8. Financial Statements and Supplementary Data of this 
+Annual Report on Form 10-K.
+
+This section of our Annual Report on Form 10-K discusses 2022 and 2021 items and year-over-year 
+comparisons between 2022 and 2021. For discussion of 2020 items and year-over-year comparisons 
+between 2021 and 2020, refer to Part II. Item 7. Management's Discussion and Analysis of Financial 
+Condition and Results of Operations of our Annual Report on Form 10-K for the year ended December 
+31, 2021.
+
+RECENT DEVELOPMENTS
+
+Chair of the Board and CEO Appointments
+Pamela L. Carter was appointed Chair of the Board of Directors (the Board) effective January 1, 2023. 
+Gregory L. Ebel was appointed as President and Chief Executive Officer (CEO) effective the same date. 
+Mr. Ebel succeeds retiring President and CEO, Al Monaco. To support Mr. Ebel through the transition, Mr. 
+Monaco will serve as an advisor until June 30, 2023. Mr. Ebel will continue as a member of the Board. 
+Ms. Carter has served as a director of the Board since 2017 and with Spectra Energy Corp since 2007. 
+Most recently she has served as Chair of the Human Resources & Compensation Committee of the 
+Board, as a member of the Sustainability and Safety & Reliability Committees and as a former Chair of 
+the Governance Committee.
+
+ASSET TRANSACTIONS
+Joint Venture Merger Transaction to Advance US Gulf Coast Oil Strategy
+On August 17, 2022, we completed a joint venture merger transaction with Phillips 66 (P66) resulting in a 
+single joint venture, DCP Midstream LLC, holding both Enbridge Inc.'s (Enbridge) and P66's indirect 
+ownership interests in Gray Oak Pipeline, LLC (Gray Oak) and DCP Midstream, LP (DCP), as well as an 
+agreement to realign our respective economic and governance interests in the underlying business 
+operations. Our effective economic interest in Gray Oak has increased to 58.5% from 22.8%, and we will 
+assume operatorship of Gray Oak in the second quarter of 2023. Simultaneously, our effective economic 
+interest in DCP has been reduced to 13.2% from 28.3%. We received approximately $522 million 
+(US$404 million) in cash proceeds and recorded an accounting gain of approximately $1.1 billion 
+(US$832 million) in the Consolidated Statements of Earnings as a result of the transaction.
+
+Acquisition of Tri Global Energy, LLC
+On September 27, 2022, we acquired Tri Global Energy, LLC (TGE), a leading United States (US) 
+renewable power project developer, for approximately US$270 million in cash and assumed debt. The 
+acquisition of TGE enhances our renewable power platform and further builds on our inventory of North 
+American growth opportunities for wind and solar projects.
+
+Athabasca Indigenous Investments Partnership
+On October 5, 2022, we completed a transaction with Athabasca Indigenous Investments Limited 
+Partnership (Aii), a newly created entity representing 23 First Nation and Métis communities, in which Aii 
+acquired an 11.6% non-operating interest in seven Regional Oil Sands pipelines in northern Alberta for 
+$1.1 billion.
+
+1
+
+Increased Ownership in Cactus II Pipeline
+On November 2, 2022, we acquired an additional 10.0% ownership in Cactus II Pipeline from Western 
+Midstream Partners, L.P., for cash payment of $241 million (US$177 million), bringing our total non-
+operating ownership to 30.0%. Plains All-American Pipeline, L.P. remains the operator with a 70% 
+ownership stake.
+
+Woodfibre LNG Limited Partnership Agreement
+On November 29, 2022, we finalized our partnership agreement with Pacific Energy Corporation Limited. 
+We acquired, for cash payment of $533 million (US$392 million), an effective 30.0% interest in Woodfibre 
+LNG Limited Partnership (Woodfibre), which will operate the 2.1 million tonnes per annum Woodfibre LNG 
+facility located in Squamish, British Columbia (BC). The facility, via an interconnect with FortisBC Energy 
+Inc., is an extension of the BC Pipeline System, which will supply gas to the facility under a 40-year 
+transportation agreement.
+
+GAS TRANSMISSION AND MIDSTREAM PROCEEDINGS
+Texas Eastern Transmission
+Texas Eastern Transmission, LP (Texas Eastern) filed two rate cases in the third quarter of 2021. These 
+two rate proceedings have since been consolidated and settlement negotiations began during the first 
+quarter of 2022. An uncontested settlement in principle was reached on July 7, 2022. Texas Eastern filed 
+an uncontested Stipulation and Agreement on September 8, 2022 to resolve all issues from the rate 
+proceedings. The Federal Energy Regulatory Commission (FERC) approved the Stipulation and 
+Agreement on November 30, 2022, and the Stipulation and Agreement became effective on January 1, 
+2023.
+
+Maritimes & Northeast Pipeline
+The toll settlement agreement for the Canadian portion of our Maritimes & Northeast (M&N Canada) 
+Pipeline system expired in December 2021. In December 2021, the Canada Energy Regulator (CER) 
+approved interim tolls for M&N Canada effective January 1, 2022, which were based on the negotiated 
+2022 tolls in the 2022-2023 settlement agreement and unanimously supported by shippers. The 
+2022-2023 M&N Canada settlement agreement was approved by the CER in February 2022. 
+
+British Columbia Pipeline
+The toll settlement agreement for our BC Pipeline system expired in December 2021. In December 2021, 
+the CER approved interim tolls for BC Pipeline effective January 1, 2022. In the fourth quarter of 2022, a 
+five-year 2022-2026 BC Pipeline settlement agreement was approved by shippers and subsequently 
+approved as filed by the CER. 
+
+GAS DISTRIBUTION AND STORAGE RATE APPLICATIONS
+2022 Rate Application
+Enbridge Gas Inc.'s (Enbridge Gas) rate applications are filed in two phases. In June 2021, Enbridge Gas 
+filed Phase 1 of the application with the Ontario Energy Board (OEB) for the setting of rates for 2022 (the 
+2022 Application). The 2022 Application was filed in accordance with the parameters of Enbridge Gas' 
+OEB approved Price Cap Incentive Regulation (IR) rate setting mechanism and represents the fourth year 
+of a five-year term. In October 2021, the OEB approved a Phase 1 Settlement Proposal and Interim Rate 
+Order effective January 1, 2022. In April 2022, the OEB issued its decision on Phase 2 of the 2022 
+Application filed in October 2021, addressing incremental capital module (ICM) funding requirements, 
+under which $127 million of the requested capital funding was approved and incorporated into final rates, 
+effective July 1, 2022.
+
+2
+
+2023 Rate Application
+In June 2022, Enbridge Gas filed Phase 1 of the application with the OEB for the setting of rates for 2023 
+(the 2023 Application). The 2023 Application was filed in accordance with the parameters of Enbridge 
+Gas' OEB approved Price Cap IR rate setting mechanism and represents the final year of a five-year 
+term. In November 2022, the OEB approved the Phase 1 Settlement Proposal and Final Rate Order 
+effective January 1, 2023. In addition, Enbridge Gas did not anticipate 2023 capital investments to require 
+incremental funding during the final year of its current Price Cap IR term, and, as such, Enbridge Gas did 
+not make a Phase 2 ICM request as part of the 2023 Application.
+
+2024 Rebasing and Incentive Rate-Setting Mechanism Application
+In October 2022, Enbridge Gas filed its application with the OEB to establish a 2024 through 2028 rate 
+setting framework. The application and framework seek approval to establish 2024 base rates on a cost-
+of-service basis and to establish a price cap IR rate setting mechanism to be used for the remainder of 
+the IR term (2025-2028). The OEB has determined it will hear the application in two phases, with Phase 1 
+addressing items that affect rates effective January 1, 2024, and Phase 2 addressing items that will affect 
+rates subsequent to January 1, 2024. An OEB decision is expected on Phase 1 of the application in the 
+second half of 2023.
+
+Purchase Gas Variance
+The Purchase Gas Variance Account (PGVA) captures the difference between actual and forecasted 
+natural gas prices reflected in rates. Account balances are typically recovered or refunded over a 
+prospective 12-month period through Quarterly Rate Adjustment Mechanism (QRAM) applications.
+
+In March and June 2022, the OEB approved Enbridge Gas' April 1, 2022 and July 1, 2022 QRAM 
+applications, respectively. Due to the significant increase in natural gas prices, the approvals have also 
+included rate mitigation plans intended to ease bill impacts to ratepayers. Specifically, the approved rate 
+mitigation plans extended the PGVA recovery period from 12 months to 24 months in both applications. 
+As an additional mitigation measure, as part of the April 1, 2022 QRAM, a portion of the PGVA balance 
+was deferred for recovery, which was subsequently approved for recovery as part of the July 1, 2022 
+QRAM. In September and December 2022, the October 1, 2022 and January 1, 2023 QRAM applications 
+were filed and approved by the OEB with no adjustments to the prior period rate mitigation plans and did 
+not include any additional rate mitigation measures.
+
+As at December 31, 2022, Enbridge Gas' PGVA receivable balance was $434 million.
+
+FINANCING UPDATE
+We completed long-term debt issuances totaling US$3.2 billion and $3.4 billion during the year ended 
+December 31, 2022, including $900 million of 10-year sustainability-linked medium-term notes in 
+November 2022. We increased our credit facilities during our annual renewal process by approximately 
+$640 million and also entered into new term loans with maturities ranging from 2023 to 2027 totaling 
+approximately $3.2 billion. 
+
+Our 2022 financing activities have provided significant liquidity that we expect will enable us to fund our 
+current portfolio of capital projects without requiring access to the capital markets for the next 12 months 
+should market access be restricted or pricing be unattractive. Refer to Liquidity and Capital Resources. 
+
+As at December 31, 2022, after adjusting for the impact of floating-to-fixed interest rate swap hedges, 
+approximately 6% of our total debt is exposed to floating rates. Refer to Part II. Item 8. Financial 
+Statements and Supplementary Data - Note 24. Risk Management and Financial Instruments for more 
+information on our interest rate hedging program.
+
+3
+
+NORMAL COURSE ISSUER BID
+On January 4, 2023, we announced that the Toronto Stock Exchange (TSX) had approved our new 
+normal course issuer bid (NCIB) to purchase for cancellation up to 27,938,163 of the outstanding 
+common shares of Enbridge to an aggregate amount of up to $1.5 billion, subject to certain restrictions on 
+the number of common shares that may be purchased on a single day. The NCIB follows on the 
+termination of our prior NCIB, which expired on January 4, 2023.
+
+Purchases under the NCIB may be made through the facilities of the TSX, the New York Stock Exchange 
+and other designated exchanges and alternative trading systems commencing on January 6, 2023 and 
+continuing until January 5, 2024, when the NCIB expires, or such earlier date on which Enbridge has 
+either acquired the maximum number of common shares allowable under the NCIB or otherwise decided 
+not to make any further repurchases under the NCIB. The maximum number of common shares that 
+Enbridge may purchase for cancellation under the NCIB represents approximately 1.38% of the 
+2,024,890,423 common shares issued and outstanding as at December 23, 2022.
+
+FORWARD-LOOKING INFORMATION
+
+Forward-looking information, or forward-looking statements, have been included in this management's discussion and 
+analysis (MD&A) to provide information about us and our subsidiaries and affiliates, including management’s 
+assessment of our and our subsidiaries’ future plans and operations. This information may not be appropriate for 
+other purposes. Forward-looking statements are typically identified by words such as ‘‘anticipate”, “believe”, 
+“estimate”, “expect”, “forecast”, “intend”, “likely”, “plan”, “project”, “target” and similar words suggesting future 
+outcomes or statements regarding an outlook. Forward-looking information or statements included or incorporated by 
+reference in this document include, but are not limited to, statements with respect to the following: our corporate 
+vision and strategy, including strategic priorities and enablers; expected supply of, demand for, exports of and prices 
+of crude oil, natural gas, natural gas liquids (NGL), liquified natural gas (LNG) and renewable energy; energy 
+transition and lower-carbon energy, and our approach thereto; environmental, social and governance (ESG) goals, 
+practices and performance; industry and market conditions; anticipated utilization of our assets; dividend growth and 
+payout policy; financial strength and flexibility; expectations on sources of liquidity and sufficiency of financial 
+resources; expected strategic priorities and performance of the Liquids Pipelines, Gas Transmission and Midstream, 
+Gas Distribution and Storage, Renewable Power Generation and Energy Services businesses; expected costs, 
+benefits and in-service dates related to announced projects and projects under construction; expected capital 
+expenditures; investable capacity and capital allocation priorities; share repurchases under our normal course issuer 
+bid; expected equity funding requirements for our commercially secured growth program; expected future growth, 
+development and expansion opportunities; expected optimization and efficiency opportunities; expectations about our 
+joint venture partners’ ability to complete and finance projects under construction; expected closing of acquisitions 
+and dispositions and the timing thereof; expected benefits of transactions; expected future actions of regulators and 
+courts, and the timing and impact thereof;  toll and rate cases discussions and proceedings and anticipated timeline 
+and impact therefrom, including Mainline Contracting and those relating to the Gas Transmission and Midstream and 
+Gas Distribution and Storage businesses; operational, industry, regulatory, climate change and other risks associated 
+with our businesses; and our assessment of the potential impact of the various risk factors identified herein.
+
+4
+
+Although we believe these forward-looking statements are reasonable based on the information available on the date 
+such statements are made and processes used to prepare the information, such statements are not guarantees of 
+future performance and readers are cautioned against placing undue reliance on forward-looking statements. By their 
+nature, these statements involve a variety of assumptions, known and unknown risks and uncertainties and other 
+factors, which may cause actual results, levels of activity and achievements to differ materially from those expressed 
+or implied by such statements. Material assumptions include assumptions about the following: the expected supply of, 
+demand for, export of and prices of crude oil, natural gas, NGL, LNG and renewable energy; anticipated utilization of 
+assets; exchange rates; inflation; interest rates; the COVID-19 pandemic and the duration and impact thereof; 
+availability and price of labor and construction materials; the stability of our supply chain; operational reliability; 
+maintenance of support and regulatory approvals for our projects; anticipated in-service dates; weather; the timing 
+and closing of acquisitions and dispositions; the realization of anticipated benefits of transactions; governmental 
+legislation; litigation; estimated future dividends and impact of our dividend policy on our future cash flows; our credit 
+ratings; capital project funding; hedging program; expected earnings before interest, income taxes, and depreciation 
+and amortization (EBITDA); expected earnings/(loss); expected future cash flows; and expected distributable cash 
+flow. Assumptions regarding the expected supply of and demand for crude oil, natural gas, NGL, LNG and renewable 
+energy, and the prices of these commodities, are material to and underlie all forward-looking statements, as they may 
+impact current and future levels of demand for our services. Similarly, exchange rates, inflation and interest rates and 
+the COVID-19 pandemic impact the economies and business environments in which we operate and may impact 
+levels of demand for our services and cost of inputs, and are therefore inherent in all forward-looking statements. The 
+most relevant assumptions associated with forward-looking statements regarding announced projects and projects 
+under construction, including estimated completion dates and expected capital expenditures, include the following: 
+the availability and price of labor and construction materials; the stability of our supply chain; the effects of inflation 
+and foreign exchange rates on labor and material costs; the effects of interest rates on borrowing costs; the impact of 
+weather and customer, government, court and regulatory approvals on construction and in-service schedules and 
+cost recovery regimes; and the COVID-19 pandemic and the duration and impact thereof.
+
+Our forward-looking statements are subject to risks and uncertainties pertaining to the successful execution of our 
+strategic priorities, operating performance; legislative and regulatory parameters; litigation; acquisitions, dispositions 
+and other transactions and the realization of anticipated benefits therefrom; operational dependence on third parties; 
+dividend policy; project approval and support; renewals of rights-of-way; weather; economic and competitive 
+conditions; public opinion; changes in tax laws and tax rates; exchange rates; inflation; interest rates; commodity 
+prices; access to and cost of capital; political decisions; global geopolitical conditions; the supply of, demand for and 
+prices of commodities and other alternative energy; and the COVID-19 pandemic, including but not limited to, those 
+risks and uncertainties discussed in this MD&A and in our other filings with Canadian and US securities regulators. 
+The impact of any one assumption, risk, uncertainty or factor on a particular forward-looking statement is not 
+determinable with certainty as these are interdependent and our future course of action depends on management’s 
+assessment of all information available at the relevant time. Except to the extent required by applicable law, Enbridge 
+assumes no obligation to publicly update or revise any forward-looking statement made in this MD&A or otherwise, 
+whether as a result of new information, future events or otherwise. All forward-looking statements, whether written or 
+oral, attributable to us or persons acting on our behalf, are expressly qualified in their entirety by these cautionary 
+statements.
+
+Non-GAAP and Other Financial Measures
+
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) makes 
+reference to non-GAAP and other financial measures, including EBITDA. EBITDA is defined as earnings before 
+interest, income taxes and depreciation and amortization. Management uses EBITDA to assess performance of 
+Enbridge and to set targets. Management believes the presentation of EBITDA gives useful information to investors 
+as it provides increased transparency and insight into the performance of Enbridge.
+
+The non-GAAP and other financial measures are not measures that have a standardized meaning prescribed by the 
+accounting principles generally accepted in the United States of America (US GAAP) and are not US GAAP 
+measures. Therefore, these measures may not be comparable with similar measures presented by other issuers. A 
+reconciliation of historical non-GAAP and other financial measures to the most directly comparable GAAP measures 
+is set out in this MD&A and is available on our website. Additional information on non-GAAP and other financial 
+measures may be found on our website, www.sedar.com or www.sec.gov.
+
+5
+
+RESULTS OF OPERATIONS
+
+Year ended December 31,
+(millions of Canadian dollars, except per share amounts)
+Segment earnings/(loss) before interest, income taxes and 
+depreciation and amortization1
+Liquids Pipelines
+Gas Transmission and Midstream
+Gas Distribution and Storage
+Renewable Power Generation
+Energy Services
+Eliminations and Other
+
+Earnings before interest, income taxes and depreciation and 
+amortization1
+Depreciation and amortization
+Interest expense
+Income tax expense
+(Earnings)/loss attributable to noncontrolling interests and 
+
+redeemable noncontrolling interests
+
+Preference share dividends
+
+Earnings attributable to common shareholders
+
+Earnings per common share attributable to common shareholders
+Diluted earnings per common share attributable to common 
+shareholders
+
+1  Non-GAAP financial measures.
+
+EARNINGS ATTRIBUTABLE TO COMMON SHAREHOLDERS
+
+2022
+
+2021
+
+2020
+
+8,364   
+3,126   
+1,827   
+262   
+(417)  
+(1,124)  
+
+7,897   
+3,671   
+2,117   
+508   
+(313)  
+356   
+
+7,683 
+1,087 
+1,748 
+523 
+(236) 
+(113) 
+
+12,038   
+(4,317)  
+(3,179)  
+(1,604)  
+
+14,236   
+(3,852)  
+(2,655)  
+(1,415)  
+
+10,692 
+(3,712) 
+(2,790) 
+(774) 
+
+65   
+(414)  
+2,589   
+1.28   
+
+(125)  
+(373)  
+5,816   
+2.87   
+
+(53) 
+(380) 
+2,983 
+1.48 
+
+1.28   
+
+2.87   
+
+1.48 
+
+Year ended December 31, 2022 compared with year ended December 31, 2021
+
+Earnings attributable to common shareholders decreased by $3,368 million due to certain infrequent or 
+other non-operating factors, primarily explained by the following:
+
+• a goodwill impairment of $2.5 billion relating to our Gas Transmission reporting unit;
+• non-cash, net unrealized derivative fair value losses of $1,265 million ($964 million after-tax) in 2022, 
+compared with unrealized gains of $197 million ($150 million after-tax) in 2021, reflecting changes in 
+the mark-to-market value of derivative financial instruments used to manage foreign exchange risks;
+
+• an asset impairment loss of $227 million ($173 million after-tax) to our Magic Valley Wind Farm 
+
+(Magic Valley);
+
+• an asset impairment loss of $183 million ($137 million after-tax) on the US and Canadian components 
+
+of the interstate pipeline transportation system within the North Dakota System of our Bakken 
+System;
+
+• a transaction cost of $114 million in relation to our investment purchase in the Woodfibre LNG project;
+
+6
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• an impairment of $44 million ($34 million after-tax) for lease assets due to office relocation plans;
+• an asset impairment loss of $40 million ($30 million after-tax) relating to MacKay River line within our 
+
+Alberta Regional Oil Sands System;
+
+• the absence in 2022 of a gain of $303 million ($298 million after-tax) from the sale of our investment 
+
+in Noverco Inc. (Noverco); and
+
+• the absence in 2022 of a $57 million ($43 million after-tax) property tax settlement received in 2021 
+
+related to the resolution of Minnesota property tax appeals for 2012-2018.
+
+The factors above were partially offset by:
+
+• a gain of $1,076 million ($732 million after-tax) on the closing of the joint venture merger transaction 
+
+with P66 realigning our effective economic interests in Gray Oak and DCP;
+
+• a gain of $118 million ($89 million after-tax) on Texas Eastern recorded to reflect a settlement with a 
+
+transportation customer undergoing bankruptcy;
+
+• a deferred tax benefit of $95 million recognized as a result of the reduced Pennsylvania state 
+
+corporate income tax;
+
+• a non-cash, net negative equity earnings adjustment of $10 million ($7 million after-tax) in 2022, 
+
+compared to a net negative adjustment of $44 million ($33 million after-tax) in 2021 relating to our 
+share of changes in the mark-to-market value of derivative financial instruments of our equity method 
+investee, DCP;
+
+• transition and transformation costs of $66 million ($50 million after-tax) in 2022, compared to $147 
+
+million ($112 million after-tax) in 2021; and
+
+• the absence in 2022 of an impairment loss of $111 million ($83 million after-tax) to our investment in 
+
+the PennEast Pipeline Company, LLC (PennEast) pipeline project.
+
+The non-cash, unrealized derivative fair value gains and losses discussed above generally arise as a 
+result of our comprehensive economic hedging program to mitigate foreign exchange and commodity 
+price risks. This program creates volatility in reported short-term earnings through the recognition of 
+unrealized non-cash gains and losses on derivative instruments used to hedge these risks. Over the long-
+term, we believe our hedging program supports the reliable cash flows and dividend growth upon which 
+our investor value proposition is based.
+
+After taking into consideration the factors above, the remaining $141 million increase in earnings 
+attributable to common shareholders is primarily explained by the following significant business factors:
+• higher throughput within our Liquids Pipelines segment driven by higher demand and incremental 
+
+Line 3 Replacement (L3R) capacity that came into service October 2021;
+
+• increased earnings within our Liquids Pipelines segment from the implementation of the full L3R 
+surcharge when compared to the lower surcharge on the Canadian portion of the project in effect 
+prior to October 2021, as well as from new US export assets acquired in October 2021;
+
+• increased earnings from our Gas Transmission and Midstream segment primarily as a result of higher 
+commodity prices benefiting our investments in DCP and Aux Sable, as well as higher contributions 
+from projects placed into service in November 2021; and
+
+• recognition of revenues attributable to the Texas Eastern rate case resulting from a FERC-approved 
+
+Stipulation and Agreement; partially offset by
+
+• the recognition of a provision against the interim Mainline International Joint Tariff (IJT) for barrels 
+shipped for the full year in 2022, as compared to the barrels shipped in the second half of 2021 
+following the expiry of the Competitive Toll Settlement (CTS);
+
+• higher interest expense primarily due to higher interest rates and higher average principal, as well as 
+reduced capitalized interest associated with the US portion of the L3R Project placed into service in 
+the fourth quarter of 2021; 
+
+• higher depreciation and amortization expense as a result of several projects placed into service in the 
+
+fourth quarter of 2021, as well as for new US export assets acquired in October 2021; and
+
+• higher income tax expense due to higher earnings, higher US minimum taxes, and the effect of rate-
+
+regulated accounting for income taxes.
+
+7
+
+REVENUES
+We generate revenues from three primary sources: transportation and other services, gas distribution 
+sales and commodity sales.
+
+Transportation and other services revenues of $18.5 billion, $16.2 billion and $16.2 billion for the years 
+ended December 31, 2022, 2021 and 2020, respectively, were earned from our crude oil and natural gas 
+pipeline transportation businesses and also include power generation revenues from our portfolio of 
+renewable and power generation assets. For our transportation assets operating under market-based 
+arrangements, revenues are driven by volumes transported and the corresponding tolls for transportation 
+services. For assets operating under take-or-pay contracts, revenues reflect the terms of the underlying 
+contract for services or capacity. For rate-regulated assets, revenues are charged in accordance with tolls 
+established by the regulator and, in most cost-of-service based arrangements, are reflective of our cost to 
+provide the service plus a regulator-approved rate of return.
+
+Gas distribution sales revenues of $5.7 billion, $4.0 billion and $3.7 billion for the years ended 
+December 31, 2022, 2021 and 2020, respectively, were recognized in a manner consistent with the 
+underlying rate-setting mechanism mandated by the regulator. Revenues generated by the gas 
+distribution businesses are primarily driven by volumes delivered, which vary with weather and customer 
+composition and utilization, as well as regulator-approved rates. The cost of natural gas is passed through 
+to customers through rates and does not ultimately impact earnings due to its flow-through nature.
+
+Commodity sales revenues of $29.2 billion, $26.9 billion and $19.3 billion for the years ended 
+December 31, 2022, 2021 and 2020, respectively, were generated primarily through our Energy Services 
+operations. Energy Services includes the contemporaneous purchase and sale of crude oil, natural gas, 
+power and Natural Gas Liquids (NGL) to generate a margin, which is typically a small fraction of gross 
+revenue. While sales revenue generated from these operations are impacted by commodity prices, net 
+margins and earnings are relatively insensitive to commodity prices and reflect activity levels which are 
+driven by differences in commodity prices between locations, grades and points in time, rather than on 
+absolute prices. Any residual commodity margin risk is closely monitored and managed. Revenues from 
+these operations depend on activity levels, which vary from year-to-year depending on market conditions 
+and commodity prices.
+
+Our revenues also include changes in unrealized derivative fair value gains and losses related to foreign 
+exchange and commodity price contracts used to manage exposures from movements in foreign 
+exchange rates and commodity prices. The mark-to-market accounting creates volatility and impacts the 
+comparability of revenues in the short-term, but we believe over the long-term, the economic hedging 
+program supports reliable cash flows.
+
+8
+
+BUSINESS SEGMENTS
+
+LIQUIDS PIPELINES
+
+Year ended December 31,
+(millions of Canadian dollars)
+Earnings before interest, income taxes and depreciation and 
+amortization1
+
+1  Non-GAAP financial measure.
+
+2022
+
+2021
+
+2020
+
+8,364   
+
+7,897   
+
+7,683 
+
+Year ended December 31, 2022 compared with year ended December 31, 2021
+
+EBITDA was negatively impacted by $710 million due to certain infrequent or other non-operating factors, 
+primarily explained by the following:
+
+• non-cash, net unrealized losses of $183 million in 2022, compared with unrealized gains of $120 
+
+million in 2021, reflecting net fair value gains and losses arising from changes in the mark-to-market 
+value of derivative financial instruments used to manage foreign exchange risks; 
+
+• total asset impairment loss of $183 million on the US and Canadian components of the interstate 
+
+pipeline transportation system within the North Dakota System of our Bakken System;
+
+• an asset impairment loss of $40 million relating to MacKay River line within our Alberta Regional Oil 
+
+Sands System; and
+
+• the absence in 2022 of a $57 million property tax settlement received in 2021 related to the resolution 
+
+of Minnesota property tax appeals for 2012-2018.
+
+After taking into consideration the factors above, the remaining $1.2 billion increase is primarily explained 
+by the following significant business factors:
+
+• higher Mainline System ex-Gretna average throughput of 3.0 million barrels per day (mmbpd) in 2022 
+
+as compared to 2.8 mmbpd in 2021 driven by higher demand and incremental L3R capacity that 
+came into service October 2021;
+
+• implementation of the full L3R surcharge when compared to the lower surcharge on the Canadian 
+
+portion of the project in effect prior to October 2021;
+
+• higher contributions from the Gulf Coast and Mid-Continent System due primarily to the acquisition of 
+the Enbridge Ingleside Energy Center and related assets in the fourth quarter of 2021 in addition to 
+the increased effective economic interest in the Gray Oak pipeline during the third quarter of 2022 
+and higher volumes from Flanagan South Pipeline;
+
+• higher contributions from the Bakken System due to higher volumes; and
+• the favorable effect of translating US dollar EBITDA at a higher average exchange rate in 2022 
+
+compared to the same period in 2021; partially offset by 
+
+• the recognition of a provision against the interim Mainline IJT for barrels shipped for the full year in 
+
+2022, as compared to the barrels shipped in the second half of 2021 following the expiry of the CTS;
+
+• lower contributions from the Seaway Crude Pipeline System, as well as from the Cushing and 
+
+Hardisty storage assets as a result of lower demand; and
+
+• higher power costs as a result of increased volumes and power prices.
+
+9
+
+ 
+ 
+ 
+ 
+GAS TRANSMISSION AND MIDSTREAM
+
+Year ended December 31,
+
+2022
+
+2021
+
+2020
+
+(millions of Canadian dollars)
+Earnings before interest, income taxes and depreciation and 
+
+amortization1
+
+1  Non-GAAP financial measure.
+
+3,126   
+
+3,671   
+
+1,087 
+
+Year ended December 31, 2022 compared with year ended December 31, 2021
+
+EBITDA was negatively impacted by $1.1 billion due to certain infrequent or other non-operating factors 
+primarily explained by the following:
+
+• a goodwill impairment of $2.5 billion; partially offset by
+• a gain of $1,076 million on the closing of the joint venture merger transaction with P66 realigning our 
+
+effective economic interests in Gray Oak and DCP;
+
+• the absence of the $111 million impairment loss in 2021 to our investment in the PennEast pipeline 
+
+project after a decision by project partners to cease development;
+
+• a gain of $118 million on Texas Eastern recorded for a customer bankruptcy settlement; and
+• a non-cash, net negative equity earnings adjustment of $10 million in 2022, compared to a net 
+
+negative adjustment of $44 million in 2021 relating to our share of changes in the mark-to-market 
+value of derivative financial instruments of our equity method investees, DCP and Aux Sable.
+
+After taking into consideration the factors above, we saw a $567 million increase, primarily explained by 
+the following significant business factors:
+
+• higher commodity prices benefiting our DCP and Aux Sable joint ventures;
+• the favorable effect of translating US dollar EBITDA at a higher average exchange rate in 2022 
+
+compared to the same period in 2021;
+
+• recognition of revenues attributable to the Texas Eastern rate case resulting from a FERC-approved 
+
+Stipulation and Agreement;
+
+• contributions from the T-South and Spruce Ridge expansion projects, the Cameron and Middlesex 
+Extension projects, and the Appalachia to Market project after service commenced in the fourth 
+quarter of 2021;
+
+• higher AECO-Chicago basis differential and lower costs benefiting earnings from our investment in 
+
+Alliance; and
+
+• recognition of revenues attributable to the BC Pipeline rate settlement; partially offset by
+• higher operating costs; and
+• a reduction in earnings from our investment in DCP as a result of our decreased effective economic 
+interest due to the joint venture merger transaction with P66 that closed during the third quarter of 
+2022.
+
+GAS DISTRIBUTION AND STORAGE
+
+Year ended December 31,
+(millions of Canadian dollars)
+Earnings before interest, income taxes and depreciation and 
+
+amortization1
+
+1  Non-GAAP financial measure.
+
+2022
+
+2021
+
+2020
+
+1,827   
+
+2,117   
+
+1,748 
+
+Year ended December 31, 2022 compared with year ended December 31, 2021
+
+EBITDA was negatively impacted by $293 million due to certain infrequent or other non-operating factors 
+primarily explained by the absence of a gain of $303 million resulting from the sale of our investment in 
+Noverco in 2021.
+
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+After taking into consideration the factors above, the remaining $3 million increase is primarily explained 
+by the following significant business factors:
+
+• higher distribution charges at Enbridge Gas resulting from increases in rates and customer base, as 
+
+well as higher demand in the contract market;
+
+• when compared with the normal weather forecast embedded in rates, colder than normal weather in 
+
+2022 positively impacted Enbridge Gas 2022 EBITDA by approximately $17 million while warmer than 
+normal weather in 2021 negatively impacted 2021 EBITDA by approximately $55 million; and
+
+• lower pension related costs; partially offset by
+• the absence of earnings from Noverco due to the sale of our minority investment in December 2021; 
+
+and
+
+• higher operating costs at Enbridge Gas largely driven by higher employee costs and higher 
+
+maintenance and integrity spend.
+
+RENEWABLE POWER GENERATION
+
+Year ended December 31,
+(millions of Canadian dollars)
+Earnings before interest, income taxes and depreciation and 
+
+amortization1
+
+1  Non-GAAP financial measure.
+
+2022
+
+2021
+
+2020
+
+262   
+
+508   
+
+523 
+
+Year ended December 31, 2022 compared with year ended December 31, 2021
+
+EBITDA was negatively impacted by $272 million due to certain infrequent or non-operating factors, 
+primarily explained by an impairment loss of $227 million to Magic Valley.
+
+After taking into consideration the negative factor above, the remaining $26 million increase is primarily 
+explained by the following significant business factors:
+
+• higher energy pricing at European offshore wind facilities;
+• stronger wind resources at Canadian and US onshore wind facilities; and
+• the absence in 2022 of the adverse effects from the major winter storm in Texas during February 
+
+2021; partially offset by
+
+• the absence in 2022 of a promote fee received in the first quarter of 2021 associated with the closing 
+of the sale of 49% of our interest in three European offshore wind projects to Canada Pension Plan 
+Investment Board.
+
+ENERGY SERVICES
+
+Year ended December 31,
+(millions of Canadian dollars)
+Earnings/(loss) before interest, income taxes and depreciation and 
+
+amortization1
+
+1  Non-GAAP financial measure.
+
+2022
+
+2021
+
+2020
+
+(417)  
+
+(313)  
+
+(236) 
+
+EBITDA from Energy Services is dependent on market conditions and results achieved in one period may 
+not be indicative of results to be achieved in future periods.
+
+Year ended December 31, 2022 compared with year ended December 31, 2021
+
+EBITDA was negatively impacted by $100 million due to certain non-operating factors, primarily explained 
+by non-cash, unrealized losses of $27 million in 2022, compared with unrealized gains of $53 million in 
+2021, reflecting the revaluation of derivatives used to manage the profitability of transportation and 
+storage transactions, as well as to manage the exposure to movements in commodity prices.
+
+11
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+After taking into consideration the factor above, the remaining $4 million decrease is primarily explained 
+by the following significant business factors:
+
+• more pronounced market structure backwardation than in 2021 and significant compression of 
+
+location differentials in certain markets; partially offset by
+
+• the absence of adverse impacts from the major winter storm experienced across the US Midwest 
+
+during February 2021.
+
+ELIMINATIONS AND OTHER
+
+Year ended December 31,
+(millions of Canadian dollars)
+Earnings/(loss) before interest, income taxes and depreciation and 
+
+amortization1
+
+1  Non-GAAP financial measure.
+
+2022
+
+2021
+
+2020
+
+(1,124)  
+
+356   
+
+(113) 
+
+Eliminations and Other includes operating and administrative costs that are not allocated to business 
+segments, the impact of foreign exchange hedge settlements and the activities of our wholly-owned 
+captive insurance subsidiaries. Eliminations and Other also includes the impact of new business 
+development activities and corporate investments.
+
+Year ended December 31, 2022 compared with year ended December 31, 2021
+
+EBITDA was negatively impacted by $1.2 billion due to certain infrequent or non-operating factors, 
+primarily explained by:
+
+• non-cash, net unrealized losses of $1,090 million in 2022, compared with unrealized gains of $55 
+
+million in 2021, reflecting the change in the mark-to-market value of derivative financial instruments 
+used to manage foreign exchange risk;
+
+• a transaction cost of $114 million in relation to our investment purchase in the Woodfibre LNG project; 
+
+and
+
+• an impairment of $44 million for lease assets due to office relocation plans in Houston.
+
+After taking into consideration the non-operating factors above, we saw a $239 million decrease in 
+EBITDA that is primarily explained by:
+
+• the lower realized foreign exchange gains on hedge settlements in 2022; and
+• higher Operating and administrative expense largely driven by an increase in employee costs.
+
+12
+
+ 
+ 
+ 
+ 
+GROWTH PROJECTS - COMMERCIALLY SECURED PROJECTS
+
+The following table summarizes the status of our significant commercially secured projects, organized by 
+business segment:
+
+Enbridge's 
+Ownership 
+Interest
+
+Estimated
+Capital 
+Cost1
+
+Expenditures
+to Date2
+
+Status2
+
+Expected
+In-Service
+Date
+
+(Canadian dollars, unless stated otherwise)
+GAS TRANSMISSION AND MIDSTREAM
+
+ 100 %
+
+US$0.3 billion
+
+US$0.2 billion
+
+ 100 %
+
+US$0.4 billion
+
+ 100 %
+
+US$0.4 billion
+
+US$0.1 billion
+No significant 
+expenditures to date
+No significant 
+expenditures to date
+No significant 
+expenditures to date
+No significant 
+expenditures to date
+
+Complete
+Pre-
+construction
+Pre-
+construction
+Pre-
+construction
+Pre-
+construction
+Pre-
+construction
+
+In-service
+
+2023 - 2024
+
+2024 - 2025
+
+2026
+
+2027
+
+2028
+
+Vito Gas & Oil
+Texas Eastern Venice 
+Extension Project
+
+Texas Eastern 
+
+Modernization
+
+1.
+
+2.
+
+3.
+
+4.
+
+T-North Expansion
+
+ 100 %
+
+$1.2 billion
+
+5. Woodfibre LNG Project3
+
+ 30 %
+
+US$1.5 billion
+
+T-South Expansion
+
+6.
+RENEWABLE POWER GENERATION
+
+ 100 %
+
+Saint-Nazaire France 
+
+Offshore Wind 
+Project4
+
+Fécamp Offshore Wind 
+
+Project5
+
+Calvados Offshore Wind 
+
+Project4
+
+7.
+
+8.
+
+9.
+
+ 25.5 %
+
+ 17.9 %
+
+ 21.7 %
+
+$3.6 billion
+
+$0.9 billion
+(€0.6 billion)
+$0.7 billion
+(€0.5 billion)
+$0.9 billion
+(€0.6 billion)
+
+$0.9 billion
+(€0.6 billion)
+$0.4 billion
+(€0.3 billion)
+$0.3 billion
+(€0.2 billion)
+
+Complete
+Under 
+construction
+Under 
+construction
+
+In-service
+
+2023
+
+2025
+
+1 These amounts are estimates and are subject to upward or downward adjustment based on various factors. Where appropriate, 
+
+the amounts reflect our share of joint venture projects.
+
+2 Expenditures to date and status of the project are determined as at December 31, 2022.
+3 Our equity contribution is US$0.9 billion, with the remainder financed through non-recourse project level debt.
+4 Our equity contribution is $0.2 billion for each project, with the remainder of each project financed through non-recourse project 
+
+level debt.
+
+5 Our equity contribution is $0.1 billion, with the remainder financed through non-recourse project level debt.
+
+Risks related to the development and completion of growth projects are described under Part I. Item 1A. 
+Risk Factors.
+
+GAS TRANSMISSION AND MIDSTREAM
+The following commercially secured growth project was placed into service in 2022:
+
+• Vito Gas & Oil  – Two pipelines connecting Vito Floating Production System from Mississippi Canyon 
+
+to the Shell Mars System platform in West Delta 143 and Olympic Gas. Enbridge designed, 
+fabricated, installed, and now operates, the Vito Gas & Oil export pipeline system consisting of 
+pipeline and steel catenary riser.
+
+13
+
+The following commercially secured growth projects are currently in various stages of construction:
+
+• Texas Eastern Venice Extension Project – A reversal and expansion of Texas Eastern’s Line 40 
+from its existing New Roads compressor station to a new delivery point with the proposed Gator 
+Express pipeline just south of Texas Eastern’s Larose compressor station. The project is expected to 
+deliver 1.5 billion cubic feet per day (bcf/d) of natural gas to Venture Global Plaquemines LNG, LLC’s 
+LNG export facility located in Plaquemines Parish, Louisiana and is underpinned by long-term take or 
+pay contracts.
+
+• Texas Eastern Modernization –  This program is the modernization of compression facilities in 
+
+Pennsylvania and New Jersey to increase safety and reliability and reduce associated greenhouse 
+gas emissions at multiple sites on our Texas Eastern system. The program will be completed in 
+stages over a period of years beginning in 2024.
+
+• T-North Expansion – An expansion of Westcoast Energy Inc.'s (Westcoast) BC Pipeline in northern 
+
+BC that includes pipeline looping, additional compressor units and other ancillary station modifications 
+to support 535 million cubic feet per day (MMcf/d) of additional capacity. The project will be 
+underpinned by a cost-of-service commercial model with a target in-service date of 2026.
+
+• Woodfibre LNG Project – Construction of liquefaction and floating storage facilities in Squamish, 
+BC, as well as an expansion of the BC Pipeline System. The project is expected to be placed into 
+service in 2027.
+
+• T-South Expansion – An expansion of Westcoast's BC Pipeline's T-South section that includes 
+
+pipeline looping, additional compressor units and other ancillary station modifications to support 300 
+MMcf/d of additional capacity. The project is expected to be placed in service in 2028 and will be 
+underpinned by a cost-of-service commercial model.
+
+RENEWABLE POWER GENERATION
+The following commercially secured growth projects were placed into service in 2022:
+
+• Saint-Nazaire Offshore Wind Project – A wind project located off the west coast of France that is 
+
+expected to generate approximately 480 megawatts (MW). Project revenues are backed by a 20-year 
+fixed price power purchase agreement (PPA) with added power production protection.
+
+The following commercially secured growth projects are expected to be placed into service from 2023 to 
+2025:
+
+• Fécamp Offshore Wind Project – An offshore wind project that will be comprised of 71 wind turbines 
+located off the northwest coast of France and is expected to generate approximately 500 MW. Project 
+revenues are underpinned by a 20-year fixed price PPA.
+
+• Calvados Offshore Wind Project – An offshore wind project located off the northwest coast of 
+
+France that is expected to generate approximately 448 MW. Project revenues are underpinned by a 
+20-year fixed price PPA.
+
+14
+
+OTHER ANNOUNCED PROJECTS UNDER DEVELOPMENT
+
+The following project has been announced by us, but has not yet met our criteria to be classified as 
+commercially secured:
+
+GAS TRANSMISSION AND MIDSTREAM
+
+• Valley Crossing Expansion Project – On January 10, 2022, we executed a precedent agreement 
+with Texas LNG Brownsville LLC (Texas LNG) under which, via an expansion of our Valley Crossing 
+Pipeline, we will provide 0.72 bcf/d firm transportation capacity to Texas LNG’s proposed LNG 
+liquefaction and export facility in the Port of Brownsville, Texas for a term of at least 20 years. 
+Expansion of the pipeline will be subject to Texas LNG’s export facility reaching a final investment 
+decision.
+
+We also have a portfolio of additional projects under development that have not yet progressed to the 
+point of securement.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The maintenance of financial strength and flexibility is fundamental to our growth strategy, particularly in 
+light of the significant number and size of capital projects currently secured or under development. Access 
+to timely funding from capital markets could be limited by factors outside our control including, but not 
+limited to, financial market volatility resulting from economic and political events both inside and outside 
+North America. To mitigate such risks, we actively manage financial plans and strategies to ensure we 
+maintain sufficient liquidity to meet routine operating and future capital requirements. In the near term, we 
+generally expect to utilize cash from operations together with commercial paper issuance and/or credit 
+facility draws and the proceeds of capital market offerings to fund liabilities as they become due, finance 
+capital expenditures, fund debt retirements and pay common and preference share dividends. We target 
+to maintain sufficient liquidity through securement of committed credit facilities with a diversified group of 
+banks and financial institutions to enable us to fund all anticipated requirements for approximately one 
+year without accessing the capital markets.
+
+Material contractual obligations arising in the normal course of business primarily consist of long-term 
+contracts, annual debt maturities and related interest obligations, rights-of-way and leases. See Part II. 
+Item 8. Financial Statements and Supplementary data - Note 18 - Debt and Note 27 - Leases for amounts 
+outstanding at December 31, 2022, related to debt and leases.
+
+Long-term contracts are contracts that we have signed for the purchase of services, pipe and other 
+materials totaling $7.9 billion which are expected to be paid over the next five years. Long-term contracts 
+primarily consists of the following purchase obligations: firm capacity payments for natural gas and crude 
+oil transportation and storage contracts, natural gas purchase commitments, service and product 
+purchase obligations and power commitments.
+
+Our financing plan is regularly updated to reflect evolving capital requirements and financial market 
+conditions and identifies a variety of potential sources of debt and equity funding alternatives. Our current 
+financing plan does not include any issuances of common equity.
+
+15
+
+ 
+CAPITAL MARKET ACCESS
+We ensure ready access to capital markets, subject to market conditions, through maintenance of shelf 
+prospectuses that allow for issuance of long-term debt, equity and other forms of long-term capital when 
+market conditions are attractive. In accordance with our funding plan, we completed the following long-
+term debt issuances totaling US$3.2 billion and $3.4 billion in 2022:
+
+Issuance date
+
+Type of issuance
+
+Entity
+(in millions of Canadian dollars, unless stated otherwise)
+Enbridge Inc.
+Enbridge Inc.
+Enbridge Inc.
+Enbridge Inc.
+Enbridge Inc.
+Enbridge Inc.
+Enbridge Gas Inc.
+Texas Eastern Transmission LP December 2022 Senior notes
+
+Fixed-to-fixed subordinated notes
+January 2022
+Floating rate senior notes
+February 2022
+February 2022
+Senior notes
+September 2022 Fixed-to-fixed subordinated notes
+November 2022 Medium-term notes
+November 2022 Sustainability-linked medium-term notes
+Medium-term notes
+August 2022
+
+Amount
+
+$750
+US$600
+US$900
+US$1,100
+$1,100
+$900
+$650
+US$600
+
+Credit Facilities, Ratings and Liquidity
+To ensure ongoing liquidity and to mitigate the risk of capital market disruption, we maintain ready access 
+to funds through committed bank credit facilities and actively manage our bank funding sources to 
+optimize pricing and other terms. The following table provides details of our committed credit facilities, 
+inclusive of term loans, at December 31, 2022:
+
+(millions of Canadian dollars)
+Enbridge Inc.
+Enbridge (U.S.) Inc.
+Enbridge Pipelines Inc.
+Enbridge Gas Inc.
+Total committed credit facilities
+
+Maturity1
+
+Total 
+Facilities
+
+Draws2
+
+Available
+
+2023-2027  
+2024-2027  
+2024  
+2024  
+
+10,987   
+8,604   
+2,000   
+2,000   
+23,591   
+
+7,984   
+4,199   
+312   
+2,000   
+14,495   
+
+3,003 
+4,405 
+1,688 
+— 
+9,096 
+
+1 Maturity date is inclusive of the one-year term out option for certain credit facilities.
+2 Includes facility draws and commercial paper issuances that are back-stopped by credit facilities.
+
+On February 10, 2022, we renewed our three year $1.0 billion sustainability-linked credit facility, 
+extending the maturity date out to July 2025.
+
+On May 17, 2022, we entered into a three year term loan with a syndicate of Japanese banks for 
+approximately $806 million (¥84.8 billion), which will mature in May 2025 and replaces the approximately 
+$499 million (¥52.5 billion) term loan that matured in May 2022. Additionally, on May 24, 2022, we entered 
+into a 364-day term loan for approximately $1.9 billion, which will mature in May 2023. 
+
+On June 23, 2022, we renewed approximately $5.5 billion of our 364-day extendible credit facilities to  
+July 2024, which includes a one-year term out provision from July 2023.
+
+In July and August 2022, we renewed $12.7 billion of our credit facilities, extending the maturity dates of 
+our 364-day credit facilities to July 2024, inclusive of a one year term out provision from July 2023, and 
+our five year facilities out to July 2027. As a part of the renewals, we increased our credit facilities by 
+approximately $640 million.
+
+On December 16, 2022, Enbridge (U.S.) Inc. entered into a five year delay draw term loan in support of 
+solar self-power projects for approximately $479 million, which will mature in December 2027.
+
+16
+
+ 
+ 
+ 
+ 
+ 
+   
+In addition to the committed credit facilities noted above, we maintain $1.3 billion of uncommitted demand 
+letter of credit facilities, of which $689 million was unutilized as at December 31, 2022. As at December 
+31, 2021, we had $1.3 billion of uncommitted demand letter of credit facilities, of which $854 million was 
+unutilized.
+
+As at December 31, 2022, our net available liquidity totaled $10.0 billion (2021 - $6.5 billion), consisting of 
+available credit facilities of $9.1 billion (2021 - $6.2 billion) and unrestricted Cash and cash equivalents of 
+$861 million (2021 - $286 million) as reported in the Consolidated Statements of Financial Position.
+
+Our credit facility agreements and term debt indentures include standard events of default and covenant 
+provisions, whereby accelerated repayment and/or termination of the agreements may result if we were to 
+default on payment or violate certain covenants. As at December 31, 2022, we were in compliance with all 
+debt covenants and expect to continue to comply with such covenants.
+
+Cash flow growth, ready access to liquidity from diversified sources and a stable business model have 
+enabled us to manage our credit profile. We actively monitor and manage key financial metrics with the 
+objective of sustaining investment grade credit ratings from the major credit rating agencies and ongoing 
+access to bank funding and term debt capital on attractive terms. In 2022, our credit ratings with DBRS 
+Morningstar, Fitch Ratings, Moody's Investor Services, Inc. and Standard & Poor's were all affirmed. Key 
+measures of financial strength that are closely managed include the ability to service debt obligations 
+from operating cash flow and the ratio of debt to EBITDA.
+
+There are no material restrictions on our cash. Total Restricted cash of $46 million, as reported in the 
+Consolidated Statements of Financial Position, primarily includes cash collateral and future pipeline 
+abandonment costs collected and held in trust. Cash and cash equivalents held by certain subsidiaries 
+may not be readily accessible for alternative use by us. 
+
+Excluding current maturities of long-term debt, as at December 31, 2022 and 2021, we had a negative 
+working capital position of $2.1 billion and $3.1 billion, respectively. In both periods, the major contributing 
+factor to the negative working capital position was the current liabilities associated with our growth capital 
+program.
+
+To address this negative working capital position, we maintain significant liquidity in the form of committed 
+credit facilities and other sources as previously discussed, which enable the funding of liabilities as they 
+become due. 
+
+SOURCES AND USES OF CASH
+
+Year ended December 31,
+(millions of Canadian dollars)
+Operating activities
+Investing activities
+Financing activities
+Effect of translation of foreign denominated cash and cash 
+
+equivalents and restricted cash
+
+Net change in cash and cash equivalents and restricted cash
+
+2022
+
+2021
+
+2020
+
+11,230   
+(5,270)  
+(5,428)  
+
+9,256   
+(10,657)  
+1,236   
+
+9,781 
+(5,177) 
+(4,770) 
+
+55   
+587   
+
+(5)  
+(170)  
+
+(20) 
+(186) 
+
+17
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Significant sources and uses of cash for the years ended December 31, 2022 and 2021 are summarized 
+below:
+
+Operating Activities
+Typically, the primary factors impacting cash flow from operating activities year-over-year include changes 
+in our operating assets and liabilities in the normal course due to various factors, including the impact of 
+fluctuations in commodity prices and activity levels on working capital within our business segments, the 
+timing of tax payments, as well as timing of cash receipts and payments generally. Refer to Part II. Item 8. 
+Financial Statements and Supplementary Data - Note 29. Changes in Operating Assets and Liabilities. 
+Cash provided by operating activities is also impacted by changes in earnings and certain infrequent or 
+other non-operating factors, as discussed under Results of Operations.
+
+Investing Activities
+Cash used in investing activities primarily relates to capital expenditures to execute our capital program, 
+which is further described in Growth Projects - Commercially Secured Projects. The timing of project 
+approval, construction and in-service dates impacts the timing of cash requirements.
+
+A summary of additions to property, plant and equipment for the years ended December 31, 2022, 2021 
+and 2020 is set out below:
+
+Year ended December 31,
+(millions of Canadian dollars)
+Liquids Pipelines
+Gas Transmission and Midstream
+Gas Distribution and Storage
+Renewable Power Generation 
+Energy Services
+Eliminations and Other
+Total capital expenditures
+
+2022
+
+2021
+
+2020
+
+1,418   
+1,647   
+1,499   
+50   
+—   
+33   
+4,647   
+
+4,051   
+2,353   
+1,343   
+16   
+1   
+54   
+7,818   
+
+2,032 
+2,066 
+1,134 
+81 
+2 
+90 
+5,405 
+
+2022
+The decrease in cash used in investing activities primarily resulted from the following factors:
+
+• lower capital expenditures due to the US L3R Program that was placed into service in the fourth 
+
+quarter of 2021;
+
+• lower cash outflows related to acquisitions in 2022 when compared to 2021; and
+• proceeds received from the completion of a joint venture merger transaction for DCP Midstream LLC 
+
+in August 2022.
+
+The factors above were partially offset by:
+
+• the absence in 2022 of proceeds received from dispositions in 2021 related to sale of our interest in 
+
+Noverco in December 2021; and
+
+• increased investments held by our wholly-owned captive insurance subsidiaries.
+
+2021
+The increase in cash used in investing activities primarily resulted from our acquisition of Moda Midstream 
+Operating, LLC and higher capital expenditures related to the completion of the US L3R Program in 2021, 
+partially offset by higher proceeds received from dispositions in 2021 compared to 2020 due to the sale of 
+our interest in Noverco.
+
+18
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financing Activities
+Cash used in financing activities primarily relates to issuances and repayments of external debt, as well 
+as transactions with our common and preference shareholders relating to dividends, share issuances, 
+share redemptions and common share repurchases under our NCIB. Cash flow from financing activities is 
+also impacted by changes in distributions to, and contributions from, noncontrolling interests.
+
+2022
+The increase in cash used in financing activities primarily resulted from the following factors:
+
+• net commercial paper and credit facility repayments in 2022 when compared to draws in 2021;
+• higher long-term debt repayments along with lower long-term debt issuances in 2022 when compared 
+
+to 2021;
+
+• the redemption of Preference Shares, Series 17 and Series J in the first and second quarters of 2022, 
+
+respectively;
+
+• the repurchase and cancellation of 2,737,965 common shares under our NCIB for approximately 
+
+$151 million in 2022; and
+
+• increased common share dividend payments primarily due to the increase in our common share 
+
+dividend rate.
+
+The factors above were partially offset by:
+
+• proceeds received from the sale of a non-operating interest in seven pipelines from our Regional Oil 
+
+Sands System in October 2022;
+
+• the absence in 2022 of the redemption of Westcoast's preferred shares in the first quarter of 2021; 
+
+and
+
+• higher short-term borrowings in 2022 when compared to 2021.
+
+2021
+The increase in cash provided by financing activities primarily resulted from increased issuances of long-
+term debt, commercial paper and credit facility draws and short-term borrowings, along with lower 
+repayments of long-term debt in 2021 when compared to 2020.
+
+The factors above were partially offset by the redemption of Westcoast's preferred shares in 2021 and 
+increased common share dividend payments primarily due to the increase in our common share dividend 
+rate.
+
+OFF-BALANCE SHEET ARRANGEMENTS
+
+We enter into guarantee arrangements in the normal course of business to facilitate commercial 
+transactions with third parties and can include financial guarantees, stand-by letters of credit, debt 
+guarantees, surety bonds and indemnifications. Please see Part II. Item 8. Financial Statements and 
+Supplementary Data - Note 32. Guarantees for further discussion of guarantee arrangements.
+
+We do not have material off-balance sheet financing entities or structures, except for guarantee 
+arrangements and financings entered into by our equity investments. For additional information on these 
+commitments, please refer to Part II. Item 8. Financial Statements and Supplementary Data - Note 31. 
+Commitments and Contingencies and Note 12. Variable Interest Entities.
+
+We do not have material off-balance sheet arrangements that have or are reasonably likely to have a 
+current or future effect on our financial condition, revenues or expenses, results of operations, liquidity, 
+capital expenditures or capital resources.
+
+19
+
+PREFERENCE SHARE ISSUANCES
+Characteristics of our outstanding preference shares are as follows:
+
+Dividend 
+Rate
+
+Dividend1
+
+Per Share Base
+Redemption
+Value2
+
+Redemption and
+Conversion
+Option Date2,3
+
+Right to
+Convert
+Into3,4
+
+(Canadian dollars, unless otherwise stated)
+Preference Shares, Series A
+Preference Shares, Series B5
+Preference Shares, Series D
+Preference Shares, Series F
+Preference Shares, Series H
+Preference Shares, Series L6
+Preference Shares, Series N
+Preference Shares, Series P
+Preference Shares, Series R
+Preference Shares, Series 1
+Preference Shares, Series 3
+Preference Shares, Series 5
+Preference Shares, Series 7
+Preference Shares, Series 9
+Preference Shares, Series 11
+Preference Shares, Series 13
+Preference Shares, Series 15
+Preference Shares, Series 19
+
+$1.37500
+ 5.50% 
+$1.30052
+ 5.20% 
+$1.11500
+ 4.46% 
+$1.17224
+ 4.69% 
+$1.09400
+ 4.38% 
+ 5.86%  US$1.46448
+$1.27152
+ 5.09% 
+$1.09476
+ 4.38% 
+ 4.07% 
+$1.01825
+ 5.95%  US$1.48728
+$0.93425
+ 3.74% 
+ 5.38%  US$1.34383
+$1.11224
+ 4.45% 
+$1.02424
+ 4.10% 
+$0.98452
+ 3.94% 
+$0.76076
+ 3.04% 
+$0.74576
+ 2.98% 
+$1.22500
+ 4.90% 
+
+—   
+
+$25
+$25
+$25
+US$25
+
+$25  
+June 1, 2027
+$25
+March 1, 2023
+$25
+$25
+June 1, 2023
+$25 September 1, 2023
+US$25 September 1, 2027
+December 1, 2023
+March 1, 2024
+June 1, 2024
+June 1, 2023
+$25 September 1, 2024
+US$25
+March 1, 2024
+$25
+March 1, 2024
+$25
+December 1, 2024
+$25
+March 1, 2025
+June 1, 2025
+$25
+$25 September 1, 2025
+March 1, 2023
+$25
+
+— 
+Series C
+Series E
+Series G
+Series I
+Series M
+Series O
+Series Q
+Series S
+Series 2
+Series 4
+Series 6
+Series 8
+Series 10
+Series 12
+Series 14
+Series 16
+Series 20
+
+1 The holder is entitled to receive a fixed, cumulative, quarterly preferential dividend, as declared by the Board of Directors. With 
+
+the exception of Preference Shares, Series A, such fixed dividend rate resets every five years beginning on the initial redemption 
+and conversion option date. The Preference Shares, Series 19 contain a feature where the fixed dividend rate, when reset every 
+five years, will not be less than 4.90%. No other series of Preference Shares has this feature.
+
+2 Preference Shares, Series A may be redeemed any time at our option. For all other series of preference shares, we may at our 
+option, redeem all or a portion of the outstanding preference shares for the Base Redemption Value per share plus all accrued 
+and unpaid dividends on the Redemption Option Date and on every fifth anniversary thereafter.
+
+3 The holder will have the right, subject to certain conditions, to convert their shares into Cumulative Redeemable Preference 
+
+Shares of a specified series on a one-for-one basis on the Conversion Option Date and every fifth anniversary thereafter at an 
+ascribed issue price equal to the Base Redemption Value.
+
+4 With the exception of Preference Shares, Series A, after the redemption and conversion option dates, holders may elect to 
+
+receive quarterly floating rate cumulative dividends per share at a rate equal to: $25 x (number of days in quarter/number of days 
+in year) x Three-Month Government of Canada treasury bill rate + 2.4% (Series C), 2.4% (Series E), 2.5% (Series G), 2.1% 
+(Series I), 2.7% (Series O), 2.5% (Series Q), 2.5% (Series S), 2.4% (Series 4), 2.6% (Series 8), 2.7% (Series 10), 2.6% 
+(Series 12), 2.7% (Series 14), 2.7% (Series 16), or 3.2% (Series 20); or US$25 x (number of days in quarter/number of days in 
+year) x Three-Month US Government treasury bill rate + 3.2% (Series M), 3.1% (Series 2) or 2.8% (Series 6).
+
+5 The quarterly dividend per share paid on Preference Shares, Series B was increased to $0.32513 from $0.21340 on June 1, 2022 
+
+due to reset of the annual dividend on June 1, 2022. On June 1, 2022, all outstanding Preference Shares, Series C were 
+converted to Preference Shares, Series B.
+
+6 The quarterly dividend per share paid on Preference Shares, Series L was increased to US$0.36612 from US$0.30993 on 
+
+September 1, 2022, due to reset of the annual dividend on September 1, 2022.
+
+PREFERENCE SHARE REDEMPTIONS
+On March 1, 2022, we redeemed our $750 million outstanding Cumulative Redeemable Minimum Rate 
+Reset Preference Shares, Series 17. On June 1, 2022, we also redeemed our US$200 million 
+outstanding Cumulative Redeemable Preference Shares, Series J. Dividends are cumulative, payable 
+quarterly and are included in Preference share dividends in the Consolidated Statements of Earnings.
+
+DIVIDENDS
+We have paid common share dividends in every year since we became a publicly traded company in 
+1953. In November 2022, we announced a 3.2% increase in our quarterly dividend to $0.88750 per 
+common share, or $3.55 annualized, effective with the dividend payable on March 1, 2023, thereby 
+declaring a dividend increase for 28 straight years.
+
+For the years ended December 31, 2022 and 2021, total dividends paid were $7.0 billion and $6.8 billion, 
+respectively, all of which were paid in cash and reflected in financing activities.
+
+20
+
+ 
+ 
+ 
+ 
+On November 29, 2022, our Board of Directors declared the following quarterly dividends. All dividends 
+are payable on March 1, 2023 to shareholders of record on February 15, 2023.
+
+Common Shares1
+Preference Shares, Series A
+Preference Shares, Series B2
+Preference Shares, Series D
+Preference Shares, Series F
+Preference Shares, Series H
+Preference Shares, Series L3
+Preference Shares, Series N
+Preference Shares, Series P
+Preference Shares, Series R
+Preference Shares, Series 1
+Preference Shares, Series 3
+Preference Shares, Series 5
+Preference Shares, Series 7
+Preference Shares, Series 9
+Preference Shares, Series 11
+Preference Shares, Series 13
+Preference Shares, Series 15
+Preference Shares, Series 19
+
+Dividend per share
+$0.88750 
+$0.34375 
+$0.32513 
+$0.27875 
+$0.29306 
+$0.27350 
+US$0.36612 
+$0.31788 
+$0.27369 
+$0.25456 
+US$0.37182 
+$0.23356 
+US$0.33596 
+$0.27806 
+$0.25606 
+$0.24613 
+$0.19019 
+$0.18644 
+$0.30625 
+
+1 The quarterly dividend per common share was increased 3.2% to $0.8875 from $0.860, effective March 1, 2023. 
+2  The quarterly dividend per share paid on Preference Shares Series B was increased to $0.32513 from $0.21340 on June 1, 2022, 
+
+due to reset of the annual dividend on June 1, 2022 and every five years thereafter. Following the date of conversion of 
+Preference Shares Series C, on June 1, 2022 all outstanding Preference Shares Series C were converted to Preference Shares 
+Series B.
+
+3  The quarterly dividend per share paid on Series L was increased to US$0.36612 from US$0.30993 on September 1, 2022, due to 
+
+reset of the annual dividend on September 1, 2022, and every five years thereafter.
+
+SUMMARIZED FINANCIAL INFORMATION
+
+On January 22, 2019, Enbridge entered into supplemental indentures with its wholly-owned subsidiaries, 
+Spectra Energy Partners, LP (SEP) and Enbridge Energy Partners, L.P. (EEP) (the Partnerships), 
+pursuant to which Enbridge fully and unconditionally guaranteed, on a senior unsecured basis, the 
+payment obligations of the Partnerships with respect to the outstanding series of notes issued under the 
+respective indentures of the Partnerships. Concurrently, the Partnerships entered into a subsidiary 
+guarantee agreement pursuant to which they fully and unconditionally guaranteed, on a senior unsecured 
+basis, the outstanding series of senior notes of Enbridge. The Partnerships have also entered into 
+supplemental indentures with Enbridge pursuant to which the Partnerships have issued full and 
+unconditional guarantees, on a senior unsecured basis, of senior notes issued by Enbridge subsequent to 
+January 22, 2019. As a result of the guarantees, holders of any of the outstanding guaranteed notes of 
+the Partnerships (the Guaranteed Partnership Notes) are in the same position with respect to the net 
+assets, income and cash flows of Enbridge as holders of Enbridge's outstanding guaranteed notes (the 
+Guaranteed Enbridge Notes), and vice versa. Other than the Partnerships, Enbridge subsidiaries 
+(including the subsidiaries of the Partnerships, collectively, the Subsidiary Non-Guarantors), are not 
+parties to the subsidiary guarantee agreement and have not otherwise guaranteed any of Enbridge's 
+outstanding series of senior notes.
+
+21
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consenting SEP notes and EEP notes under Guarantee
+SEP Notes1
+4.750% Senior Notes due 2024
+3.500% Senior Notes due 2025
+3.375% Senior Notes due 2026
+5.950% Senior Notes due 2043
+4.500% Senior Notes due 2045
+
+EEP Notes2
+5.875% Notes due 2025
+5.950% Notes due 2033
+6.300% Notes due 2034
+7.500% Notes due 2038
+5.500% Notes due 2040
+7.375% Notes due 2045
+
+1 As at December 31, 2022, the aggregate outstanding principal amount of SEP notes was approximately US$3.2 billion.
+2 As at December 31, 2022, the aggregate outstanding principal amount of EEP notes was approximately US$2.4 billion.
+
+Enbridge Notes under Guarantees
+
+USD Denominated1
+Floating Rate Senior Notes due 2023
+Floating Rate Senior Notes due 2024
+4.000% Senior Notes due 2023
+0.550% Senior Notes due 2023
+3.500% Senior Notes due 2024
+2.150% Senior Notes due 2024
+2.500% Senior Notes due 2025
+2.500% Senior Notes due 2025
+4.250% Senior Notes due 2026
+1.600% Senior Notes due 2026
+3.700% Senior Notes due 2027
+3.125% Senior Notes due 2029
+2.500% Sustainability-Linked Senior Notes due 2033
+4.500% Senior Notes due 2044
+5.500% Senior Notes due 2046
+4.000% Senior Notes due 2049
+3.400% Senior Notes due 2051
+
+CAD Denominated2
+3.940% Senior Notes due 2023
+3.940% Senior Notes due 2023
+3.950% Senior Notes due 2024
+2.440% Senior Notes due 2025
+3.200% Senior Notes due 2027
+5.700% Senior Notes due 2027
+6.100% Senior Notes due 2028
+2.990% Senior Notes due 2029
+7.220% Senior Notes due 2030
+7.200% Senior Notes due 2032
+6.100% Sustainability-Linked Senior Notes due 2032
+3.100% Sustainability-Linked Senior Notes due 2033
+5.570% Senior Notes due 2035
+5.750% Senior Notes due 2039
+5.120% Senior Notes due 2040
+4.240% Senior Notes due 2042
+4.570% Senior Notes due 2044
+4.870% Senior Notes due 2044
+4.100% Senior Notes due 2051
+6.510% Senior Notes due 2052
+4.560% Senior Notes due 2064
+
+1 As at December 31, 2022, the aggregate outstanding principal amount of the Enbridge US dollar denominated notes was 
+
+approximately US$11.0 billion.
+
+2 As at December 31, 2022, the aggregate outstanding principal amount of the Enbridge Canadian dollar denominated notes was 
+
+approximately $10.2 billion.
+
+Rule 3-10 of the US Securities and Exchange Commission's (SEC) Regulation S-X provides an 
+exemption from the reporting requirements of the Securities Exchange Act of 1934, as amended (the 
+Exchange Act) for fully consolidated subsidiary issuers of guaranteed securities and subsidiary guarantors 
+and allows for summarized financial information in lieu of filing separate financial statements for each of 
+the Partnerships.
+
+22
+
+The following Summarized Combined Statement of Earnings and the Summarized Combined Statements 
+of Financial Position combines the balances of EEP, SEP and Enbridge.
+
+Summarized Combined Statement of Earnings
+
+Year ended December 31,
+(millions of Canadian dollars)
+Operating loss
+Earnings
+Earnings attributable to common shareholders
+
+Summarized Combined Statements of Financial Position
+
+December 31,
+(millions of Canadian dollars)
+Cash and cash equivalents
+Accounts receivable from affiliates
+Short-term loans receivable from affiliates
+Other current assets
+Long-term loans receivable from affiliates
+Other long-term assets
+Accounts payable to affiliates
+Short-term loans payable to affiliates
+Other current liabilities
+Long-term loans payable to affiliates
+Other long-term liabilities
+
+2022
+
+(179) 
+1,921 
+1,507 
+
+2021
+
+12
+3,442
+4,947
+593
+51,983
+3,732
+1,982
+2,891
+8,110
+41,370
+41,353
+
+2022
+
+425 
+2,486 
+5,232 
+969 
+43,873 
+4,111 
+1,375 
+1,745 
+8,752 
+37,626 
+47,447 
+
+The Guaranteed Enbridge Notes and the Guaranteed Partnership Notes are structurally subordinated to 
+the indebtedness of the Subsidiary Non-Guarantors in respect of the assets of those Subsidiary Non-
+Guarantors.
+
+Under US bankruptcy law and comparable provisions of state fraudulent transfer laws, a guarantee can 
+be voided, or claims may be subordinated to all other debts of that guarantor if, among other things, the 
+guarantor, at the time the indebtedness evidenced by its guarantee or, in some states, when payments 
+become due under the guarantee:
+
+• received less than reasonably equivalent value or fair consideration for the incurrence of the 
+
+guarantee and was insolvent or rendered insolvent by reason of such incurrence;
+
+• was engaged in a business or transaction for which the guarantor’s remaining assets constituted 
+
+unreasonably small capital; or
+
+• intended to incur, or believed that it would incur, debts beyond its ability to pay those debts as they 
+
+mature.
+
+The guarantees of the Guaranteed Enbridge Notes contain provisions to limit the maximum amount of 
+liability that the Partnerships could incur without causing the incurrence of obligations under the 
+guarantee to be a fraudulent conveyance or fraudulent transfer under US federal or state law.
+
+Each of the Partnerships is entitled to a right of contribution from the other Partnership for 50% of all 
+payments, damages and expenses incurred by that Partnership in discharging its obligations under the 
+guarantees for the Guaranteed Enbridge Notes.
+
+23
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Under the terms of the guarantee agreement and applicable supplemental indentures, the guarantees of 
+either of the Partnerships of any Guaranteed Enbridge Notes will be unconditionally released and 
+discharged automatically upon the occurrence of any of the following events:
+
+• any direct or indirect sale, exchange or transfer, whether by way of merger, sale or transfer of equity 
+interests or otherwise, to any person that is not an affiliate of Enbridge, of any of Enbridge’s direct or 
+indirect limited partnership of other equity interests in that Partnership as a result of which the 
+Partnership ceases to be a consolidated subsidiary of Enbridge;
+
+• the merger of that Partnership into Enbridge or the other Partnership or the liquidation and dissolution 
+
+of that Partnership;
+
+• the repayment in full or discharge or defeasance of those Guaranteed Enbridge Notes, as 
+
+contemplated by the applicable indenture or guarantee agreement;
+
+• with respect to EEP, the repayment in full or discharge or defeasance of each of the consenting EEP 
+
+notes listed above;
+
+• with respect to SEP, the repayment in full or discharge or defeasance of each of the consenting SEP 
+
+notes listed above; or
+
+• with respect to any series of Guaranteed Enbridge Notes, with the consent of holders of at least a 
+
+majority of the outstanding principal amount of that series of Guaranteed Enbridge Notes.
+
+The guarantee obligations of Enbridge will terminate with respect to any series of Guaranteed Partnership 
+Notes if that series is discharged or defeased.
+
+The Partnerships also guarantee the obligations of Enbridge under its existing credit facilities.
+
+LEGAL AND OTHER UPDATES
+
+LIQUIDS PIPELINES
+Line 5 Easement (Bad River Band)
+On July 23, 2019, the Bad River Band of the Lake Superior Tribe of Chippewa Indians (the Band) filed a 
+complaint in the United States District Court for the Western District of Wisconsin (the Court) over our 
+Line 5 pipeline and right-of-way across the Bad River Reservation (the Reservation). Only a small portion 
+of the total easements across 12 miles of the Reservation are at issue. The Band alleges that our 
+continued use of Line 5 to transport crude oil and related liquids across the Reservation is a public 
+nuisance under federal and state law and that the pipeline is in trespass on certain tracts of land in which 
+the Band possesses ownership interests. The complaint seeks an Order prohibiting us from using Line 5 
+to transport crude oil and related liquids across the Reservation and requiring removal of the pipeline from 
+the Reservation. Subsequently amended versions of the complaint also seek recovery of profits-based 
+damages based on an unjust enrichment theory. Enbridge has responded to each claim in the initial and 
+amended complaints with an answer, defenses and counterclaims.
+
+24
+
+On August 29, 2022, the Government of Canada released a statement formally invoking the dispute 
+settlement provisions of the 1977 Transit Pipelines Treaty in respect of this litigation; reiterating its 
+concerns about the uninterrupted transmission of hydrocarbons through Line 5. On September 7, 2022, 
+the Court issued a decision on cross-motions for summary judgment. The Court determined that the 
+Band’s nuisance claim raised factual issues that could not be resolved on summary judgment. The Court 
+further determined that Enbridge is in trespass on 12 parcels on the Reservation and that the Band is 
+entitled to some measure of profits-based damages and to an injunction, with the level of damages and 
+scope of the injunction to be determined at trial, which occurred between October 24 and November 1, 
+2022. While the Court reserved judgment at the conclusion of the trial, the summary judgment decision 
+and subsequent pre-trial decisions provide that the Court will assess trespass damages calculated using 
+a pro-rata share of Enbridge’s profits from the operation of the pipeline attributable to the 12 disputed 
+parcels compared to the pipeline as a whole rather than the profits associated with the entire length of the 
+pipeline, as the Band sought. The Court has also stated that any injunction will not result in the immediate 
+closure of the pipeline but also will not allow the pipeline to operate indefinitely. On November 28, 2022, 
+the Court issued an interim Order ruling that: (a) the parties are to meet and confer by December 16 on 
+installation of EFRDs (Emergency Flow Restriction Devices) on the Reservation, an appropriate shutdown 
+and purge protocol should conditions worsen at the meander, and any other reasonable remediation 
+projects that could inhibit further erosion at the meander; (b) the parties are to submit a Joint Proposal by 
+December 23 on appropriate shutoff and purge plan for the meander, or if they cannot agree, each party 
+must submit their own best offer on a shutdown and purge protocol; and (c) denied Enbridge’s request for 
+declaratory and injunctive relief on its counterclaims asking for Court-Ordered relief relating to access and 
+erosion mitigation at the meander. The parties met and conferred by December 16 and a Joint Status 
+Report, along with individual best offers on shutdown and purge protocol, were filed on December 23. We 
+continue to wait on the Court’s rulings on the issues of financial compensation and Line 5’s operations.
+
+Michigan Line 5 Dual Pipelines - Straits of Mackinac Easement
+In 2019, the Michigan Attorney General (AG) filed a complaint in the Michigan Ingham County Circuit 
+Court (the Circuit Court) that requests the Circuit Court to declare the easement granted in 1953 that we 
+have for the operation of Line 5 in the Straits of Mackinac (the Straits) to be invalid and to prohibit 
+continued operation of Line 5 in the Straits. On December 15, 2021, we removed the case to the US 
+District Court in the Western District of Michigan (US District Court), where it was assigned to Judge Janet 
+T. Neff. The removal of the AG’s case to federal court follows a November 16, 2021 ruling which held that 
+the similar (and now dismissed) 2020 lawsuit brought by the Governor of Michigan to force Line 5’s 
+shutdown raised important federal issues that should be heard in federal court. On December 21, 2021, 
+the AG made a request to file a remand motion and on December 28, 2021, we responded to her request 
+to file that motion. On January 5, 2022, the court issued an Order allowing the AG to file a motion to 
+remand the 2019 case. The AG’s motion and brief were filed on January 14, 2022, and our response was 
+filed on February 11, 2022. The motion was fully briefed in March 2022. On August 18, 2022, Judge Neff 
+denied the AG’s motion to remand which now remains in the US District Court. On August 30, 2022, the 
+AG filed a motion to certify the US District Court’s August 18 Order to pursue an appeal on the 
+jurisdictional issue, which Enbridge opposed. We anticipate a decision on the jurisdictional issue in 2023.
+
+Dakota Access Pipeline
+We own an effective interest of 27.6% in the Bakken Pipeline System, which is inclusive of the Dakota 
+Access Pipeline (DAPL). The Standing Rock Sioux Tribe and the Cheyenne River Sioux Tribe filed 
+lawsuits in 2016 with the US Court for the District of Columbia (the District Court) contesting the 
+lawfulness of the Army Corps easement for DAPL, including the adequacy of the Army Corps’ 
+environmental review and tribal consultation process. The Oglala Sioux and Yankton Sioux Tribes also 
+filed lawsuits alleging similar claims in 2018.
+
+25
+
+On June 14, 2017, the District Court found the Army Corps’ environmental review to be deficient and 
+ordered the Army Corps to conduct further study concerning spill risks from DAPL. In August 2018, the 
+Army Corps completed on remand the further environmental review ordered by the District Court and 
+reaffirmed the issuance of the easement for DAPL. All four plaintiff Tribes subsequently amended their 
+complaints to include claims challenging the adequacy of the Army Corps’ August 2018 remand decision.
+
+On March 25, 2020, in response to amended complaints from the Tribes, the District Court found the 
+Army Corps’ environmental review on remand was deficient and ordered the Army Corps to prepare an 
+Environmental Impact Statement (EIS) to address unresolved controversy pertaining to potential spill 
+impacts resulting from DAPL. On July 6, 2020, the District Court issued an order vacating the Army Corps’ 
+easement for DAPL and ordering that the pipeline be shut down by August 5, 2020. Dakota Access, LLC 
+and the Army Corps appealed the decision and filed a motion for a stay pending appeal with the US Court 
+of Appeals for the District of Columbia Circuit. On August 5, 2020, the US Court of Appeals stayed the 
+District Court’s July 6 order to shut down and empty the pipeline, but did not stay the District Court’s 
+March 25 order requiring the Army Corps to prepare an EIS or the District Court’s July 6 order vacating 
+the DAPL easement.
+
+On January 26, 2021, the US Court of Appeals affirmed the District Court’s decision, holding that the Army 
+Corps is required to prepare an EIS and that the Army Corps’ easement for DAPL is vacated. On 
+February 22, 2022, the US Supreme Court denied the request of Dakota Access, LLC to review the 
+decision that an EIS is required. The US Court of Appeals also determined that, absent considering the 
+closure of DAPL in the context of an injunction proceeding, the District Court could not order DAPL’s 
+operations to cease. While not an issue before the US Court of Appeals, the US Court of Appeals also 
+recognized that the Army Corps could consider whether to allow DAPL to continue to operate in the 
+absence of an easement.
+
+On May 21, 2021, the District Court dismissed the plaintiff Tribes’ request for an injunction enjoining DAPL 
+from operating until the Army Corps has completed its EIS. The right of the plaintiff Tribes to appeal the 
+denial of the injunction request expired on July 20, 2021. The Army Corps earlier indicated that it did not 
+intend, at that time, to exercise its authority to bar DAPL’s continued operation, notwithstanding the 
+absence of an easement and that it anticipates completion of the EIS process.
+
+On July 22, 2021, the Army Corps filed a notice with the District Court advising that the Pipeline and 
+Hazardous Materials Safety Administration (PHMSA) issued a notice asserting violations of federal safety 
+regulations resulting from the operation of DAPL. The Army Corps stated that it would consider PHMSA’s 
+notice as part of its ongoing consideration of whether and how the Army Corps will enforce its rights on 
+property crossed by the pipeline and in the context of the ongoing EIS. The Army Corps also granted the 
+request from the Tribes to extend the draft EIS completion date to September 2022. The Army Corps now 
+expects to complete the draft EIS in the spring of 2023.
+
+OTHER LITIGATION
+We and our subsidiaries are subject to various other legal and regulatory actions and proceedings which 
+arise in the normal course of business, including interventions in regulatory proceedings and challenges 
+to regulatory approvals and permits. While the final outcome of such actions and proceedings cannot be 
+predicted with certainty, management believes that the resolution of such actions and proceedings will not 
+have a material impact on our consolidated financial position or results of operations.
+
+TAX MATTERS
+We and our subsidiaries maintain tax liabilities related to uncertain tax positions. While fully supportable in 
+our view, these tax positions, if challenged by tax authorities, may not be fully sustained on review.
+
+26
+
+CRITICAL ACCOUNTING ESTIMATES
+
+Our consolidated financial statements are prepared in accordance with generally accepted accounting 
+principles in the United States of America (US GAAP), which require management to make estimates, 
+judgments and assumptions that affect the amounts reported in our consolidated financial statements and 
+accompanying notes. In making judgments and estimates, management relies on external information 
+and observable conditions, where possible, supplemented by internal analysis as required. We believe 
+our most critical accounting policies and estimates discussed below have an impact across the various 
+segments of our business.
+
+BUSINESS COMBINATIONS
+We apply the provisions of Accounting Standards Codification (ASC) 805 Business Combinations in 
+accounting for our acquisitions. The acquired long-lived assets, intangible assets and assumed liabilities 
+are recorded at their estimated fair values at the date of acquisition. Goodwill represents the excess of the 
+purchase price over the fair value of net assets. While we use our best estimates and assumptions to 
+accurately value assets acquired and liabilities assumed at the date of acquisition, as well as any 
+contingent consideration, our estimates are inherently uncertain and subject to refinement. During the 
+measurement period, which may be up to one year from the acquisition date, we record adjustments to 
+the assets acquired and liabilities assumed with the corresponding offset to goodwill. Upon the conclusion 
+of the measurement period or final determination of values of assets acquired or liabilities assumed, 
+whichever comes first, any subsequent adjustments are recorded to our consolidated statements of 
+operations.
+
+Accounting for business combinations requires significant judgment, estimates and assumptions at the 
+acquisition date. In developing estimates of fair values at the acquisition date, we utilize a variety of 
+factors including market data, historical and future expected cash flows, growth rates and discount rates. 
+The subjective nature of our assumptions increases the risk associated with estimates surrounding the 
+projected performance of the acquired entity.
+
+GOODWILL IMPAIRMENT
+Goodwill represents the excess of the purchase price over the fair value of net identifiable assets upon 
+acquisition of a business. The carrying value of goodwill, which is not amortized, is assessed for 
+impairment annually or more frequently if events or changes in circumstances arise that suggest the 
+carrying value of goodwill may be impaired. We perform our annual review of the goodwill balance on 
+April 1.
+
+We perform our annual review for impairment at the reporting unit level, which is identified by assessing 
+whether the components of our operating segments constitute businesses for which discrete information 
+is available, whether segment management regularly reviews the operating results of those components 
+and whether the economic and regulatory characteristics are similar. Our reporting units are Liquids 
+Pipelines, Gas Transmission, Gas Distribution and Storage and Renewable Power Generation. The 
+Renewable Power Generation reporting unit had goodwill starting in the third quarter of 2022.
+
+We have the option to first assess qualitative factors to determine whether it is necessary to perform the 
+quantitative goodwill impairment assessment. When performing a qualitative assessment, we determine 
+the drivers of fair value for each reporting unit and evaluate whether those drivers have been positively or 
+negatively affected by relevant events and circumstances since the last fair value assessment. Our 
+evaluation includes, but is not limited to, the assessment of macroeconomic trends, changes to regulatory 
+environments, capital accessibility, operating income trends and changes to industry conditions. Based on 
+our assessment of qualitative factors, if we determine it is more likely than not that the fair value of the 
+reporting unit is less than its carrying amount, a quantitative goodwill impairment assessment is 
+performed.
+
+27
+
+The quantitative goodwill impairment assessment involves determining the fair value of our reporting units 
+and comparing those values to the carrying value of each reporting unit. If the carrying value of a 
+reporting unit, including allocated goodwill, exceeds its fair value, goodwill impairment is measured at the 
+amount by which the reporting unit’s carrying value exceeds its fair value. This amount should not exceed 
+the carrying amount of goodwill. The fair value of our reporting units is estimated using a combination of 
+discounted cash flow and earnings multiples techniques. The determination of fair value using the 
+discounted cash flow technique requires the use of estimates and assumptions related to discount rates, 
+projected operating income, expected future capital expenditures and working capital levels, as well as 
+terminal value growth rates for the Liquids Pipelines, Gas Transmission and Renewable Power 
+Generation reporting units, and projected regulatory rate base and rate base multiplier for the Gas 
+Distribution and Storage reporting unit. The determination of fair value using the earnings multiples 
+technique requires assumptions to be made in relation to maintainable earnings and earnings multiples 
+for reporting units. The allocation of goodwill to held-for-sale and disposed businesses is based on the 
+relative fair value of businesses included in the relevant reporting unit.
+
+On April 1, 2022, we performed our annual goodwill impairment assessment which consisted of a 
+qualitative assessment for the Liquids Pipelines, Gas Transmission and Gas Distribution and Storage 
+reporting units and did not identify impairment indicators. Due to changes in the macroeconomic 
+environment that has led to a rise in interest rates, we performed a quantitative assessment for the 
+Liquids Pipelines, Gas Transmission, Gas Distribution and Storage, and Renewable Power Generation 
+reporting units as at December 1, 2022, which resulted in the recognition of an impairment loss in Gas 
+Transmission. Goodwill impairments were not identified in relation to the Liquids Pipelines, Gas 
+Distribution, or Renewable Power Generation reporting units.
+
+ASSET IMPAIRMENT
+We evaluate the recoverability of our property, plant and equipment when events or circumstances such 
+as economic obsolescence, business climate, legal or regulatory changes, or other factors indicate we 
+may not recover the carrying amount of our assets. We regularly monitor our businesses, the market and 
+business environments to identify indicators that could suggest an asset may not be recoverable. If it is 
+determined that the carrying value of an asset exceeds the undiscounted cash flows expected from the 
+asset, we will assess the fair value of the asset. An impairment loss is recognized when the carrying 
+amount of the asset exceeds its fair value.
+
+With respect to equity method investments, we assess at each balance sheet date whether there is 
+objective evidence that the investment is impaired by completing a quantitative or qualitative analysis of 
+factors impacting the investment. If there is objective evidence of impairment, we determine whether the 
+decline below carrying value is other than temporary. If the decline is determined to be other than 
+temporary, an impairment charge is recorded in earnings with an offsetting reduction to the carrying value 
+of the investment.
+
+Asset fair value is determined by quoted market prices in active markets or present value techniques. The 
+determination of the fair value using present value techniques requires the use of projections and 
+assumptions regarding future cash flows and weighted average cost of capital. Any changes to these 
+projections and assumptions could result in revisions to the evaluation of the recoverability of the asset 
+and the recognition of an impairment loss in the Consolidated Statements of Earnings.
+
+ASSETS HELD FOR SALE
+We classify assets as held for sale when management commits to a formal plan to actively market an 
+asset or a group of assets and when management believes it is probable the sale of the assets will occur 
+within one year. We measure assets classified as held for sale at the lower of their carrying value and 
+their estimated fair value less costs to sell.
+
+28
+
+REGULATORY ACCOUNTING
+Certain of our businesses are subject to regulation by various authorities, including but not limited to, the 
+CER, the FERC, the Alberta Energy Regulator, La Régie de l’energie du Québec and the OEB. 
+Regulatory bodies exercise statutory authority over matters such as construction, rates and ratemaking 
+and agreements with customers. To recognize the economic effects of the actions of the regulator, the 
+timing of recognition of certain revenues and expenses in these operations may differ from that otherwise 
+expected under US GAAP for non-rate-regulated entities. Key determinants in the ratemaking process 
+are:
+
+• costs of providing service, including operating costs, capital invested, depreciation expense and 
+
+taxes;
+
+• allowed rate of return, including the equity component of the capital structure and related income 
+
+taxes;
+
+• interest costs on the debt component of the capital structure; and
+• contract and volume throughput assumptions.
+
+The allowed rate of return is determined in accordance with the applicable regulatory model and may 
+impact our profitability. The rates for a number of our projects are based on a cost-of-service recovery 
+model that follows the regulators’ authoritative guidance. Under the cost-of-service tolling methodology, 
+we calculate tolls based on forecast volumes and cost. A difference between forecast and actual results 
+causes an over or under recovery in any given year. Regulatory assets represent amounts that are 
+expected to be recovered from customers in future periods through rates. Regulatory liabilities represent 
+amounts that are expected to be refunded to customers in future periods through rates or expected to be 
+paid to cover future abandonment costs in relation to the CER’s Land Matters Consultation Initiative 
+(LMCI) and for future removal and site restoration costs as approved by the OEB.
+
+To the extent that the regulator’s actions differ from our expectations, the timing and amount of recovery 
+or settlement of regulatory balances could differ significantly from those recorded. In the absence of rate 
+regulation, we would generally not recognize regulatory assets or liabilities and the earnings impact would 
+be recorded in the period the expenses are incurred or revenues are earned. A regulatory asset or liability 
+is recognized in respect of deferred income taxes when it is expected the amounts will be recovered or 
+settled through future regulator-approved rates.
+
+As at December 31, 2022 and 2021, our regulatory assets totaled $6.5 billion and $5.9 billion, 
+respectively, and regulatory liabilities totaled $3.8 billion and $3.4 billion, respectively.
+
+DEPRECIATION
+Depreciation of property, plant and equipment, our largest asset with a net book value at December 31, 
+2022 and 2021, of $104.5 billion and $100.1 billion, respectively, is charged in accordance with two 
+primary methods. For distinct assets, depreciation is generally provided on a straight-line basis over the 
+estimated useful lives of the assets commencing when the asset is placed in service. For largely 
+homogeneous groups of assets with comparable useful lives, the pool method of accounting is followed 
+whereby similar assets are grouped and depreciated as a pool. When group assets are retired or 
+otherwise disposed of, gains and losses are not reflected in earnings but are booked as an adjustment to 
+accumulated depreciation.
+
+29
+
+When it is determined that the estimated service life of an asset no longer reflects the expected remaining 
+period of benefit, prospective changes are made to the estimated service life. Estimates of useful lives are 
+based on third party engineering studies, experience and/or industry practice. There are a number of 
+assumptions inherent in estimating the service lives of our assets including the level of development, 
+exploration, drilling, reserves and production of crude oil and natural gas in the supply areas served by 
+our pipelines as well as the demand for crude oil and natural gas and the integrity of our systems. 
+Changes in these assumptions could result in adjustments to the estimated service lives, which could 
+result in material changes to depreciation expense in future periods in any of our business segments. For 
+certain rate-regulated operations, depreciation rates are approved by the regulator and the regulator may 
+require periodic studies or technical updates on useful lives which may change depreciation rates.
+
+PENSION AND OTHER POSTRETIREMENT BENEFITS
+We use certain assumptions relating to the calculation of defined benefit pension and other postretirement 
+liabilities and net periodic benefit costs. These assumptions comprise management’s best estimates of 
+expected return on plan assets, future salary levels, other cost escalations, retirement ages of employees 
+and other actuarial factors including discount rates and mortality. We determine discount rates by 
+reference to rates of high-quality long-term corporate bonds with maturities that approximate the timing of 
+future payments anticipated to be made under each of the respective plans. The expected return on plan 
+assets is determined using market-related values and assumptions on the asset mix consistent with the 
+investment policy relating to the assets and their projected returns. The assumptions are reviewed 
+annually by our independent actuaries. Actual results that differ from results based on assumptions are 
+amortized over future periods and, therefore, could materially affect the expense recognized and the 
+recorded obligation in future periods.
+
+The following sensitivity analysis identifies the impact on the December 31, 2022 Consolidated Financial 
+Statements of a 0.5% change in key pension and other postretirement benefit (OPEB) obligation 
+assumptions:
+
+Canada
+
+United States
+
+Obligation
+
+Expense
+
+Obligation
+
+Expense
+
+(millions of Canadian dollars)
+Pension
+Decrease in discount rate
+Decrease in expected return on assets
+Decrease in rate of salary increase
+OPEB
+Decrease in discount rate
+Decrease in expected return on assets
+
+243
+—
+(47)
+
+13
+ N/A 
+
+27
+23
+(11)
+
+1
+ N/A 
+
+49
+—
+(5)
+
+5
+—
+
+3
+6
+(1)
+
+—
+1
+
+CONTINGENT LIABILITIES
+Provisions for claims filed against us are determined on a case-by-case basis. Case estimates are 
+reviewed on a regular basis and are updated as new information is received. The process of evaluating 
+claims involves the use of estimates and a high degree of management judgment. Claims outstanding, 
+the final determination of which could have a material impact on our financial results and certain 
+subsidiaries and investments are detailed in Part II. Item 8. Financial Statements and Supplementary 
+Data - Note 31. Commitments and Contingencies. In addition, any unasserted claims that later may 
+become evident could have a material impact on our financial results and certain subsidiaries and 
+investments.
+
+30
+
+ 
+ 
+ 
+ 
+ 
+ 
+ASSET RETIREMENT OBLIGATIONS
+Asset retirement obligations (ARO) associated with the retirement of long-lived assets are measured at 
+fair value and recognized as Accounts payable and other or Other long-term liabilities in the period in 
+which they can be reasonably determined. The fair value approximates the cost a third party would 
+charge to perform the tasks necessary to retire such assets and is recognized at the present value of 
+expected future cash flows. The discount rates used to estimate the present value of the expected future 
+cash flows for the year ended December 31, 2022 ranged from 1.5% to 9.0% (2021 - 0.9% to 9.0%). ARO 
+is added to the carrying value of the associated asset and depreciated over the asset’s useful life. The 
+corresponding liability is accreted over time through charges to earnings and is reduced by actual costs of 
+decommissioning and reclamation. Our estimates of retirement costs could change as a result of changes 
+in cost estimates and regulatory requirements. Currently, for the majority of our assets, there is insufficient 
+data or information to reasonably determine the timing of settlement for estimating the fair value of the 
+ARO. In these cases, the ARO cost is considered indeterminate for accounting purposes, as there is no 
+data or information that can be derived from past practice, industry practice or the estimated economic life 
+of the asset.
+
+In 2009, the CER issued a decision related to the LMCI, which required holders of an authorization to 
+operate a pipeline under the CER Act to file a proposed process and mechanism to set aside funds to pay 
+for future abandonment costs in respect of the sites in Canada used for the operation of a pipeline. The 
+CER's decision stated that while pipeline companies are ultimately responsible for the full costs of 
+abandoning pipelines, abandonment costs are a legitimate cost of providing service and are recoverable 
+from the users of the pipeline upon approval by the CER. Following the CER's final approval of the 
+collection mechanism and the set-aside mechanism for LMCI, we began collecting and setting aside 
+funds to cover future abandonment costs effective January 1, 2015. The funds collected are held in trust 
+in accordance with the CER decision. The funds collected from shippers are reported within 
+Transportation and other services revenues and Restricted long-term investments. Concurrently, we 
+reflect the future abandonment cost as an increase to Operating and administrative expense and Other 
+long-term liabilities.
+
+CHANGES IN ACCOUNTING POLICIES
+
+Refer to Part II. Item 8. Financial Statements and Supplementary Data - Note 3. Changes in Accounting 
+Policies.
+
+31

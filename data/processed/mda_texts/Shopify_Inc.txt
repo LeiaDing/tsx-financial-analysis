@@ -1,0 +1,5136 @@
+# Shopify Inc.
+# 来源：Annual MD&A - English.pdf (77572f957a9ad379)
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS 
+
+February 16, 2023 
+
+In this Management's Discussion and Analysis ("MD&A"), "we", "us", "our", "Shopify" and "the Company" refer to 
+Shopify  Inc.  and  its  consolidated  subsidiaries,  unless  the  context  requires  otherwise.  In  this  MD&A,  we  explain 
+Shopify's results of operations for the fourth quarter and the fiscal years ended December 31, 2022, 2021, and 2020, 
+our  cash  flows  for  the  fiscal  years  ended  December  31,  2022  and  2021,  and  our  financial  position  as  of 
+December 31, 2022. You should read this MD&A together with our sets of audited consolidated financial statements 
+and the accompanying notes for the fiscal years ended December 31, 2022, 2021, and 2020. Additional information 
+regarding Shopify, including our 2022 annual information form and our annual report on Form 40-F for the year 
+ended December 31, 2022, is available on our website at www.shopify.com, or at www.sedar.com and www.sec.gov.
+
+Our  audited  consolidated  financial  statements  have  been  prepared  in  accordance  with  accounting  principles 
+generally accepted in the United States of America ("U.S. GAAP"). All amounts are in U.S. dollars ("USD") except 
+where otherwise indicated.
+
+Our MD&A is intended to enable readers to gain an understanding of Shopify’s results of operations, cash flows 
+and  financial  position.  To  do  so,  we  provide  information  and  analysis  comparing  our  results  of  operations,  cash 
+flows  and  financial  position  for  the  most  recently  completed  fiscal  year  with  the  preceding  fiscal  year.  We  also 
+provide  analysis  and  commentary  that  we  believe  will  help  investors  assess  our  future  prospects.  In  addition,  we 
+provide  “forward-looking  statements”  that  are  not  historical  facts,  but  that  are  based  on  our  current  estimates, 
+beliefs and assumptions and which are subject to known and unknown important risks, uncertainties, assumptions 
+and  other  factors  that  could  cause  actual  results  to  differ  materially  from  current  expectations.  Forward-looking 
+statements are intended to assist readers in understanding management's expectations as of the date of this MD&A 
+and may not be suitable for other purposes. See “Forward-looking Statements” below. 
+
+In  this  MD&A,  references  to  our  “solutions”  means  the  combination  of  products  and  services  that  we  offer  to 
+merchants, and references to “our merchants” as of a particular date means the total number of unique shops that 
+are paying for a subscription to our platform.
+
+Forward-looking Statements 
+
+This  MD&A  contains  forward-looking  statements  under  the  provisions  of  the  U.S.  Private  Securities  Litigation 
+Reform Act of 1995, Section 27A of the U.S. Securities Act of 1933, as amended, and Section 21E of the U.S. 
+Securities Exchange Act of 1934, as amended, and forward-looking information within the meaning of applicable 
+Canadian securities legislation.
+
+In  some  cases,  you  can  identify  forward-looking  statements  by  words  such  as  "aim",  "may",  "will",  "could", 
+"expects", "further", "plans", "anticipates", "believes", "potential", "continue", "estimate", or the negative of these 
+terms or other similar words. In addition, any statements or information that refer to expectations, beliefs, plans, 
+projections,  objectives,  performance  or  other  characterizations  of  future  events  or  circumstances,  including  any 
+underlying assumptions, are forward-looking. In particular, forward-looking statements in this MD&A include, but 
+are not limited to, statements about:
+
+•
+
+•
+
+•
+
+the  extent  of  the  impact  of  the  novel  coronavirus  ("COVID-19")  on  our  business,  financial
+performance, revenues, and results of operations;
+our expectation that the majority of Shopify employees will work remotely permanently ("digital-by-
+design");
+our  plan  to  repurpose  or  reconfigure  our  remaining  office  space  and  potentially  terminate  additional
+leases or sublet other spaces;
+
+1
+
+•
+•
+•
+•
+•
+
+•
+•
+•
+
+•
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+
+•
+
+•
+
+our exploration of new ways to accelerate checkout;
+our ability to make it easier for merchants to manage their storefronts via their mobile devices;
+the achievement of innovations and enhancements to, and expansion of, our platform and our solutions;
+whether a merchant using Shopify will ever need to re-platform;
+the continued growth of our app developer, theme designer and partner ecosystem and the effect on the 
+growth of our merchant base;
+the continued expansion of the number of channels for merchants to transact through;
+our plan to continue making investments in our business to drive future growth;
+our expectation that we will continue to invest in and optimize Shopify Fulfillment Network to provide 
+logistics offering to our merchants; 
+our expectation that the acquisition of Deliverr will successfully integrate into our logistics offerings;
+our  expectation  that  we  may  experience  more  normalized  growth  in  gross  merchandise  volume 
+("GMV") against a more measured macro environment relative to 2020 and 2021, but also expect that 
+changed behaviours adopted by merchants and consumers that were driven by COVID-19 will continue 
+to expand the prospects for entrepreneurship and digital commerce;
+our  expectation  that  the  development  of  Shopify  Fulfillment  Network  will  be  dilutive  to  the  gross 
+margin percentage of merchant solutions;
+our  expectation  that  the  continued  growth  of  merchant  solutions  may  cause  a  decline  in  our  overall 
+gross margin percentage;
+our expectation that as a result of the continued growth of our merchant solutions offerings, seasonality 
+will continue to affect our quarterly results and our business may become more seasonal in the future, 
+and that historical patterns may not be a reliable indicator of our future performance;
+our  expectation  that  our  results  of  operations  and  comparability  of  our  quarterly  results  could  be 
+impacted by foreign currency fluctuations as our operations continue to expand internationally and that 
+our foreign currency hedging program will help to mitigate these fluctuations;
+our  expectation  that  as  we  roll  out  local  currency  billing  options  in  geographies  outside  of  North 
+America,  a  decrease  in  the  value  of  other  currencies  relative  to  the  USD  will  negatively  impact  our 
+reported subscription revenue and Monthly Recurring Revenue ("MRR");
+our  expectation  that  over  time,  any  impact  to  MRR  from  local  currency  billing  and  localized  pricing 
+will  be  offset  by  reduced  friction  and  an  enhanced  in-market  experience,  which  we  anticipate  will 
+attract more merchants to our platform and our merchant solutions;
+our  expectation  that  sales  and  marketing  expenses  will  increase  in  absolute  dollars  but  decline  as  a 
+percentage of total revenues over time;
+our  expectation  that  our  research  and  development  expenses  will  increase  in  absolute  dollars  as  we 
+continue to increase the functionality of our platform, but will decline as a percentage of total revenues 
+over time; 
+our expectation that over time general and administrative expenses will increase on an absolute dollar 
+basis,  but  may  decrease  as  a  percentage  of  our  total  revenues  as  we  focus  on  processes,  systems  and 
+controls to enable our internal support functions to scale with the growth of our business;
+our  expectation  that  transaction  and  loan  losses  related  to  Shopify  Payments,  Shop  Pay  Installments, 
+Shopify Balance and Shopify Capital will increase on an absolute dollar basis over time as merchant 
+penetration and adoption grow;
+our expectation that any short-term impact from the free and paid trial experiences launched in the third 
+quarter  of  2022  will  drive  long-term  benefits  in  the  form  of  more  merchants  on  our  platform,  an 
+increase in MRR once these cohorts of merchants convert to standard Shopify plans, and increase use 
+of our merchant solutions;
+our expectation that price increases on standard Shopify plans will result in an increase in MRR;
+the change in fair value of certain equity and other investments which may fluctuate period to period, 
+and may cause volatility to our earnings;
+our  expectation  that  the  overall  trend  of  merchant  solutions  revenue  making  up  an  increasing 
+component of total revenues over time, most notably in the fourth quarter due to higher holiday volume, 
+will continue over time;
+our future obligation to purchase our 0.125% convertible senior notes due 2025 (the "Notes") that are 
+outstanding on the occurrence of a fundamental change;
+
+2
+
+•
+
+•
+•
+
+•
+
+•
+•
+•
+•
+
+•
+
+our belief that we have sufficient liquidity to meet our current and planned financial obligations over 
+the next 12 months;
+our future financing requirements and the availability of capital;
+the future value of our investment income, in particular as a result of changes in interest rates, fair value 
+or due to observable changes in price or impairments;
+the  fair  market  value  of  the  Notes  as  a  result  of  changes  in  interest  rates  or  the  price  of  our  Class  A 
+subordinate voting shares;
+expected credit losses as a result of macroeconomic factors;
+our expectations regarding contractual obligations and contingencies;
+the impact of inflation on our costs and operations and on our merchants sales;
+our  accounting  estimates,  allowances,  provisions,  and  assumptions  made  in  the  preparation  of  our 
+financial statements; and
+our expectations regarding the impact of recently adopted accounting standards.
+
+The forward-looking statements contained in this MD&A are based on our management’s perception of historic 
+trends,  current  conditions  and  expected  future  developments,  as  well  as  other  assumptions  that  management 
+believes are appropriate in the circumstances, which include, but are not limited to:
+
+•
+
+•
+•
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+•
+
+our belief that the near-term costs of reducing our leased footprint and transitioning remaining spaces 
+to their future intended purpose will yield longer-term benefits; 
+our ability to increase the functionality of our platform;
+our ability to offer more sales channels that can connect to the platform;
+our  belief  in  the  increasing  importance  of  a  multi-channel  platform  that  is  both  fully  integrated  and 
+easy to use;
+our  belief  that  an  increasing  awareness  among  buyers  that  Shopify  provides  a  superior  and  secure 
+checkout experience is an additional advantage for our merchants;
+our  belief  that  commerce  transacted  over  mobile  will  continue  to  grow  more  rapidly  than  desktop 
+transactions;
+our  ability  to  expand  our  merchant  base,  retain  revenue  from  existing  merchants  as  they  grow  their 
+businesses,  and  increase  sales  to  both  new  and  existing  merchants,  including  our  ability  to  retain 
+merchants that have moved from physical retail to ecommerce as a result of the COVID-19 pandemic;
+our belief that ecommerce growth will proceed at a normalized rate in 2023, supported by continued 
+penetration of retail by ecommerce, but impacted by inflationary pressures on our merchants and their 
+buyers;
+our ability to manage our growth effectively;
+our ability to enhance and protect our intellectual property rights;
+our belief that our merchant solutions make it easier for merchants to start a business and grow on our 
+platform by passing our economies of scale on to merchants;
+our  ability  to  develop  new  solutions  to  extend  the  functionality  of  our  platform  and  provide  a  high 
+level of merchant service and support;
+our ability to hire, retain and motivate qualified personnel and to manage our operations in a digital-
+by-design model;
+our  ability  to  enhance  our  ecosystem  and  partner  programs,  and  the  assumption  that  this  will  drive 
+growth in our merchant base, further accelerating growth of the ecosystem;
+our belief that our strategic investments and acquisitions will increase our revenue base, improve the 
+retention of this base and strengthen our ability to increase sales to our merchants and help drive our 
+growth;
+our  ability  to  achieve  our  revenue  growth  objectives  while  controlling  costs  and  expenses,  and  our 
+ability to achieve or maintain profitability;
+our belief that MRR is most closely correlated with the long-term value of our merchant relationships;
+our assumptions regarding the principal competitive factors in our markets;
+our ability to predict future commerce trends and technology;
+
+3
+
+•
+
+•
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+•
+
+our  assumptions  that  higher  margin  solutions  such  as  Shopify  Capital  and  Shopify  Shipping  will 
+continue to grow through increased adoption and international expansion;
+our expectation that Shopify Payments will continue to expand internationally;
+our  expectation  that  Shopify  Fulfillment  Network  will  scale  and  grow  as  we  optimize  our  logistics 
+offerings, and we will continue to invest to support this growth;
+our  belief  that  our  investments  in  sales  and  marketing  initiatives  will  continue  to  be  effective  in 
+growing  the  number  of  merchants  using  our  platform,  in  retaining  revenue  from  existing  merchants 
+and in increasing revenues from both;
+our ability to develop processes, systems and controls to enable our internal support functions to scale 
+with the growth of our business;
+our  ability  to  retain  key  personnel,  and  that  the  implementation  of  our  new  employee  compensation 
+system, Flex Comp, will further assist in retaining personnel and in attracting new personnel;
+our expectation that employee elections for allocating their total compensation reward between cash 
+and  stock-based  compensation  may  result  in  the  split  between  these  awards  varying  from  quarter  to 
+quarter;
+our ability to protect against currency, interest rate, investment, concentration of credit and inflation 
+risks;
+our assumptions as to our future expenses and financing requirements;
+our assumptions as to our critical accounting policies and estimates; and
+our assumptions as to the effects of accounting pronouncements to be adopted.
+
+Factors that may cause actual results to differ materially from current expectations may include, but are not limited 
+to,  risks  and  uncertainties  that  are  discussed  in  greater  detail  in  the  "Risk  Factors"  section  of  our  Annual 
+Information Form for the year ended December 31, 2022 and elsewhere in this MD&A, including but not limited 
+to risks relating to:
+
+sustaining our rapid growth;
+
+•
+• managing our growth;
+•
+•
+
+our potential inability to compete successfully against current and future competitors;
+the  security  of  personal  information  we  store  relating  to  merchants  and  their  buyers,  as  well  as 
+consumers with whom we have a direct relationship including users of our apps;
+our ability to successfully scale, optimize and operate Shopify Fulfillment Network;
+a cyberattack or security breach;
+our ability to innovate;
+our limited operating history in new and developing markets and new geographic regions;
+international sales and operations and the use of our platform in various countries;
+our current reliance on a few suppliers to provide the technology we offer through Shopify Payments;
+the reliance of our growth in part on the success of our strategic relationships with third parties;
+our potential inability to hire, retain and motivate qualified personnel;
+our use of a single cloud-based platform to deliver our services;
+complex and changing laws and regulations worldwide;
+our dependence on the continued services and performance of our senior management and other key 
+employees;
+the COVID-19 pandemic and its impact on our business, financial condition and results of operations 
+including  the  impact  on  the  global  economy  and  consumer  spending  and  on  our  merchants'  and 
+partners' ecosystem;
+payments  processed  through  Shopify  Payments,  Shop  Pay  Installments,  or  payments  processed  or 
+funds managed through Shopify Balance;
+our potential failure to effectively maintain, promote and enhance our brand;
+our history of losses and our potential inability to maintain profitability;
+serious errors or defects in our software or hardware;
+our potential inability to achieve or maintain data transmission capacity;
+activities  of  merchants  or  partners  or  the  content  of  merchants'  shops  and  our  ability  to  detect  and 
+address unauthorized activity on our platform;
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+•
+
+•
+
+•
+•
+•
+•
+•
+
+4
+
+•
+
+•
+•
+•
+
+•
+
+•
+
+evolving  privacy  laws  and  regulations,  cross-border  data  transfer  restrictions,  data  localization 
+requirements  and  other  domestic  or  foreign  regulations  that  may  limit  the  use  and  adoption  of  our 
+services;
+acquisitions and investments, including strategic investments;
+risks associated with Shopify Capital, and offering financing to merchants;
+potential  claims  by  third  parties  of  intellectual  property  infringement  or  other  third  party  or 
+governmental claims, litigation, disputes, or other proceedings;
+our  reliance  on  computer  hardware,  purchased  or  leased,  and  software  licensed  from  and  services 
+rendered  by  third  parties,  in  order  to  provide  our  solutions  and  run  our  business,  sometimes  by  a 
+single-source supplier;
+the impact of worldwide economic conditions, such as economic impacts due to the Russian invasion 
+of Ukraine, including the resulting effect on spending by small and medium-sized businesses or their 
+buyers;
+
+• manufacturing and supply chain risks;
+•
+
+unanticipated changes in tax laws or adverse outcomes resulting from examination of our income or 
+other tax returns;
+being required to collect federal, state, provincial or local business taxes, sales and use taxes or other 
+indirect taxes in additional jurisdictions on transactions by our merchants;
+the interoperability of our platform with mobile devices and operating systems;
+changes  to  technologies  used  in  our  platform  or  new  versions  or  upgrades  of  operating  systems  and 
+internet browsers;
+our potential inability to obtain, maintain and protect our intellectual property rights and proprietary 
+information or prevent third parties from making unauthorized use of our technology;
+our pricing decisions for our solutions;
+our use of open source software;
+seasonal fluctuations;
+exchange rate fluctuations that may negatively affect our results of operations;
+our  dependence  upon  buyers’  and  merchants’  access  to,  and  willingness  to  use,  the  internet  for 
+commerce;
+provisions of our financial instruments including the Notes; 
+our  potential  inability  to  raise  additional  funds  as  may  be  needed  to  pursue  our  growth  strategy  or 
+continue our operations, on favorable terms or at all;
+our tax loss carryforwards;
+ownership of our shares;
+our sensitivity to interest rate fluctuations;
+fluctuations in the fair value of our equity and other investment holdings; and
+our concentration of credit risk, and the ability to mitigate that risk using third parties, and the risk of 
+inflation.
+
+•
+
+•
+•
+
+•
+
+•
+•
+•
+•
+•
+
+•
+•
+
+•
+•
+•
+•
+•
+
+Although we believe that the plans, intentions, expectations, assumptions and strategies reflected in our forward-
+looking statements are reasonable, these statements relate to future events or our future financial performance, and 
+involve known and unknown risks, uncertainties and other factors which are, in some cases, beyond our control. If 
+one  or  more  of  these  risks  or  uncertainties  occur,  or  if  our  underlying  assumptions  prove  to  be  incorrect,  actual 
+results  may  vary  significantly  from  those  implied  or  projected  by  the  forward-looking  statements.  No  forward-
+looking  statement  is  a  guarantee  of  future  results.  You  should  read  this  MD&A  and  the  documents  that  we 
+reference  in  this  MD&A  completely  and  with  the  understanding  that  our  actual  future  results  may  be  materially 
+different from any future results expressed or implied by these forward-looking statements.
+
+The forward-looking statements in this MD&A represent our views as of the date of this MD&A. We anticipate 
+that subsequent events and developments may cause our views to change. However, while we may elect to update 
+these forward-looking statements at some point in the future, we have no current intention of doing so except to the 
+extent  required  by  applicable  law.  Therefore,  these  forward-looking  statements  do  not  represent  our  views  as  of 
+any date other than the date of this MD&A.
+
+5
+
+Fiscal Year 2022 Events
+
+Founder Share
+
+On June 7, 2022, our shareholders approved an update to our governance structure pursuant to a plan of arrangement 
+under the Canada Business Corporations Act (the "Arrangement"). Under the terms of the Arrangement, on June 9, 
+2022  we  created  a  new  class  of  share,  designated  as  the  Founder  share,  and  issued  such  Founder  share  to  Tobias 
+Lütke. The Founder share provides Mr. Lütke with a variable number of votes that, when combined with the Class B 
+multiple  voting  shares  (which  are  now  described  as  Class  B  restricted  voting  shares  as  a  result  of  our  updated 
+governance structure) beneficially owned by him, his immediate family and his affiliates, will represent 40% of the 
+aggregate voting power attached to all of our outstanding shares. 
+
+Share Split
+
+On June 7, 2022, our shareholders approved a ten-for-one split of our Class A subordinate voting shares and Class B 
+restricted  voting  shares  ("the  Share  Split").  Each  shareholder  of  record  on  June  22,  2022  received  nine  additional 
+Class  A  subordinate  voting  shares  and  Class  B  restricted  voting  shares,  as  applicable,  for  every  one  share  held, 
+distributed  after  close  of  trading  on  June  28,  2022.  All  share  and  per  share  amounts  presented  herein  have  been 
+retroactively adjusted to reflect the impact of the share split. 
+
+Acquisition of Deliverr, Inc. 
+
+On July 8, 2022, we completed the acquisition of Deliverr, a leading fulfillment technology provider based in San 
+Francisco,  California.  With  the  addition  of  Deliverr's  world-class  software,  talent,  data,  and  scale,  our  logistics 
+offerings  will  offer  merchants  a  one-stop  shop  for  their  logistics  needs,  from  initial  receipt  of  inventory  to  smart 
+distribution, through to fast delivery and easy returns.
+
+Reduction in Workforce 
+
+As  ecommerce  has  reverted  to  a  level  slightly  higher  than  its  pre-COVID  trend,  in  an  effort  to  recalibrate  our 
+operations,  we  took  steps  to  streamline  our  workforce  on  July  26,  2022,  reducing  our  total  headcount  by 
+approximately  10%.  After  expanding  the  Company  in  anticipation  of  rapid  and  sustained  structural  ecommerce 
+market expansion, which has not materialized, we recalibrated to meet the new reality. This one-time reduction in 
+workforce has resulted in $30.5 million of severance related costs, all of which is recognized in operating expenses 
+in the third quarter of 2022. 
+
+New Employee Compensation System
+
+Beginning  September  1,  2022,  we  launched  our  new  employee  compensation  system  (“Flex  Comp”).  Flex  Comp 
+brings agency to our employees by allowing them to decide, subject to the conditions of the system, how much of 
+their total compensation reward will be in the form of cash versus stock-based compensation awards, consisting of 
+restricted  stock  units  ("RSUs")  and/or  stock  options.  By  allocating  their  total  compensation  reward  to  meet  their 
+needs,  employees  also  gain  additional  clarity  around  their  annual  compensation  that  eliminates  complexities 
+associated  with  legacy  pay  structures.  As  a  mission-driven  company,  we're  tying  rewards  to  the  mission,  not  the 
+market  or  world  events.  As  employees  advance  in  their  careers  and  have  a  positive  impact  on  our  mission,  their 
+compensation will grow. Furthermore, as we iterate, we'll bring compensation and our mission even closer. For now, 
+we provide our employees with a 5% bonus on any extra equity they choose above the default setting, and in the 
+future, we intend to add in additional compensation elements such as charitable donations and Shop Cash.
+
+In September 2022, in connection with the new compensation system, 879,640 options and 2,371,857 RSUs were 
+granted while 690,158 options and 10,277,545 RSUs were forfeited, all as a result of employees opting-in to Flex 
+Comp. We applied modification accounting resulting in stock-based compensation cost equal to, or greater than, the 
+original  grant  date  fair  value  of  the  modified  awards  being  recognized  as  an  operating  expense  over  the  requisite 
+service period. The modification did not result in a one-time expense on the date Flex Comp was launched because 
+
+6
+
+none of the requisite service period had been completed as of that date. The majority of our employees were eligible 
+and  elected  to  enter  into  Flex  Comp  and  all  previously  granted  but  unvested  stock  options  and  RSUs  of  these 
+employees  were  forfeited  in  connection  with  the  new  compensation  system  on  September  1,  2022.  Employee 
+elections for allocating their total compensation reward between cash and stock-based compensation currently occur 
+on a quarterly basis, which may result in the split between cash and stock-based compensation varying from quarter 
+to quarter.
+
+Litigation Contingencies
+
+On  August  31,  2022,  a  jury  in  the  U.S.  District  Court  for  the  District  of  Delaware  returned  a  verdict  finding  that 
+Shopify  infringed  three  web  technology  patents  owned  by  Express  Mobile,  Inc.  We  have  challenged  the  verdict 
+through post-trial motions and the Plaintiff has moved for interest on the amount of the verdict.
+
+In  regards  to  the  claim  filed  on  December  1,  2021,  involving  five  publishers  of  educational  materials  and  two  of 
+their  respective  parent  companies,  the  action  has  been  settled  amicably  between  the  parties,  and  terms  of  the 
+settlement agreement are confidential. The case was dismissed with prejudice on October 5, 2022.
+
+We  recorded  a  total  expense,  including  potential  interest,  of  $97.0  million  associated  with  both  litigation  matters, 
+which  was  recorded  as  general  and  administrative  expenses  in  the  consolidated  statements  of  operations  and 
+comprehensive (loss) income.
+
+Office Impairment
+
+In  December  2022,  we  ceased  use  of  leased  office  space.  This  resulted  in  total  combined  impairment  charges  of 
+$84.3 million to our right-of-use assets and leasehold improvements. These impairment charges were determined by 
+comparing  the  asset  groups'  fair  values  made  up  of  the  right-of-use  assets  and  leasehold  improvements,  to  their 
+carrying values as of the impairment measurement date. Fair value was determined based on the present value of the 
+estimated  future  cash  flows.  These  estimates  may  vary  from  the  actual  amounts  due  to  termination  or  sublease 
+agreements  ultimately  executed,  if  at  all,  which  may  result  in  an  adjustment  to  the  charges.  These  charges  were 
+recorded  as  general  and  administrative  expenses  in  the  consolidated  statements  of  operations  and  comprehensive 
+(loss) income.
+
+COVID-19
+
+In  light  of  the  COVID-19  pandemic,  we  have  continued  to  focus  on  the  health  and  well-being  of  our  employees, 
+partners, service providers, and communities. We have also accelerated products that we believe will best serve our 
+merchants as they deal with the challenges of COVID-19.
+
+Beginning  in  March  2020,  we  observed  sustained  strong  momentum  in  GMV,  buoyed  by  restrictions  related  to 
+COVID-19, as consumers looked for ways to purchase at a safe distance, utilizing ecommerce and benefiting from 
+features such as curbside pickup and local delivery. The momentum continued throughout the year ended December 
+31, 2021, albeit at a slower pace, as we experienced an increase in GMV relative to the preceding fiscal year. The 
+increase was driven by traditional retail businesses expanding or migrating their operations online with our platform 
+and services as well as by an increase in the number of merchants using our retail Point-of-Sale ("POS") solutions. 
+The COVID-triggered acceleration of ecommerce that spilled into the first half of 2021 in the form of lockdowns 
+and  government  stimulus  was  mostly  absent  from  2022  and  macroeconomic  factors  such  as  the  post-pandemic 
+consumer spend shift to services and in-person shopping, as well as higher inflationary pressures on our merchants 
+and  their  buyers,  are  among  the  main  drivers  of  the  deceleration  of  GMV  growth  in  2022.  We  continued  to 
+outperform in the ecommerce market and we moved aggressively to rollout our POS solutions to more merchants in 
+more geographies, which increased our market share of offline retail as well. In addition, we believe our ability to 
+pass on our economies of scale to our merchants demonstrates that Shopify is the right place to be in an inflationary 
+environment. This further highlights the resiliency of the platform and omnichannel we have built over the past 16 
+years, and its ability to help entrepreneurs navigate through a variety of economic times. The effect of COVID-19 on 
+
+7
+
+other  aspects  of  our  results  of  operations  and  financial  performance  in  the  long-term,  such  as  revenues,  remains 
+uncertain and may only be reflected in future periods.
+
+The effects of COVID-19 have led us to reimagine the way we work resulting in the decision to be a "digital-by-
+design"  company.  Shopify  employees  are  working  remotely  and  embracing  this  digital-first  way  of  thinking, 
+working,  and  operating  with  the  intention  that  the  majority  of  employees  will  work  remotely  permanently.  We 
+believe  the  near-term  costs  of  reducing  our  leased  footprint  related  to  office  space  and  transitioning  them  to  their 
+future intended purpose, including use for team collaboration and events, will yield longer-term benefits, including 
+leveling the playing field for employees who already work from home, helping our employees stay healthy and safe, 
+opening ourselves up to a diverse global talent pool, eliminating unnecessary commutes and fast-tracking new and 
+better  ways  to  work  together  that  are  more  productive  and  rewarding.  As  a  result  of  this  decision,  in  the  second 
+quarter  of  2020,  the  third  quarter  of  2021  and  the  fourth  quarter  of  2022,  we  decided  we  would  terminate  certain 
+lease agreements or seek to sublet space at certain office locations. We continue to assess the ongoing need for the 
+remaining offices and may repurpose them to accommodate physical distancing measures, further reconfigure them 
+for use in a digital-by-design framework, or look to sublease or terminate the related leases in the future.
+
+Russian Invasion of Ukraine
+
+Shopify paused the collection of fees from its Ukrainian merchants and partners and does not intend to reintroduce 
+them for the foreseeable future. We have also temporarily suspended operations in Russia and Belarus. We do not 
+have a large financial exposure in any of these countries. We will continue to monitor this situation and comply with 
+applicable sanctions as they are announced.
+
+Overview  
+
+Shopify is a leading provider of essential internet infrastructure for commerce, offering trusted tools to start, grow, 
+market, and manage a retail business of any size. Shopify makes commerce better for everyone with a platform and 
+services  that  are  engineered  for  simplicity  and  reliability,  while  delivering  a  better  shopping  experience  for 
+consumers everywhere.  
+
+In an era where social media, cloud computing, mobile devices, augmented reality and data analytics are creating 
+new possibilities for commerce, Shopify provides differentiated value by offering merchants:
+
+A multi-channel front end. Our software enables merchants to easily display, manage, market and sell their products 
+across over a dozen different sales channels, including web and mobile storefronts, physical retail locations, pop-up 
+shops,  B2B,  social  media  storefronts,  native  mobile  apps,  buy  buttons,  and  marketplaces.  More  than  80%  of  our 
+merchants  have  installed  two  or  more  channels.  The  Shopify  application  program  interface  ("API")  has  been 
+developed to support custom storefronts that let merchants sell anywhere, in any language.
+
+A single integrated back end. Our software provides one single integrated, easy-to-use back end that merchants use 
+to manage their business and buyers across these multiple sales channels. Merchants use their Shopify dashboard, 
+which is available in 21 languages, to manage products and inventory, process orders and payments, fulfill and ship 
+orders,  discover  new  buyers  and  build  customer  relationships,  source  products,  leverage  analytics  and  reporting, 
+manage cash, payments and transactions, and access financing.
+
+A data advantage. Our software is delivered to merchants as a service, and operates on a shared infrastructure. This 
+cloud-based  infrastructure  not  only  relieves  merchants  from  running  and  securing  their  own  hardware,  it  also 
+consolidates  data  generated  by  the  interactions  between  buyers  and  a  merchant's  products,  providing  rich  data  to 
+inform merchant decisions. With a highly qualified team of data science personnel, we expect to continue leveraging 
+data for the benefit of our merchants with critical safeguards in place to ensure privacy, security and compliance.
+
+8
+
+Shopify  also  enables  merchants  to  build  their  own  brand,  leverage  mobile  technology,  sell  internationally,  and 
+handle massive traffic spikes with flexible infrastructure:
+
+Brand ownership. Shopify is designed to help our merchants own their brand, develop a direct relationship with their 
+buyers,  and  make  their  buyer  experience  memorable  and  distinctive.  We  recognize  that  in  a  world  where  buyers 
+have more choices than ever before, a merchant’s brand is increasingly important. The Shopify platform is designed 
+to allow a merchant to keep their brand present in every interaction to build buyer loyalty and create competitive 
+advantages.  While  our  platform  is  designed  to  empower  merchants  first,  merchants  benefit  when  buyers  are 
+confident that their payments are secure. We believe that awareness among buyers that Shopify provides a superior 
+and secure checkout experience is an additional advantage for our merchants in an increasingly competitive market. 
+For merchants using Shopify Payments, buyers are already getting a superior experience, with features such as Shop 
+Pay and Shop Pay Installments, and with our investments in additional buyer touchpoints, such as retail, shipping, 
+fulfillment, and Shop, our all-in-one digital shopping companion app, brands that sell on Shopify can offer buyers an 
+end-to-end, managed shopping experience that previously was only available to much larger businesses.
+
+Mobile. As ecommerce expands as a percentage of overall retail transactions, a trend that accelerated in 2020 with 
+the onset of the global COVID-19 pandemic buyers expect to be able to transact anywhere, anytime, on any device 
+through  an  experience  that  is  simple,  seamless,  and  secure.  As  transactions  over  mobile  devices  represent  the 
+majority of transactions across online stores powered by Shopify, the mobile experience is a merchant’s primary and 
+most important interaction with online buyers. Shopify has focused on enabling mobile commerce, and the Shopify 
+platform  includes  a  mobile-optimized  checkout  system,  designed  to  enable  merchants’  buyers  to  more  easily 
+purchase products over mobile websites. Our merchants are able to offer their buyers a quick and secure check-out 
+option by using Shop Pay, Apple Pay, Meta Pay, and Google Pay on the web, and we continue to explore other new 
+ways to offer payment flexibility and accelerated checkout. Just as Shopify's tools enable brands to sell directly to 
+their buyers, the Shop app provides merchants that same direct sales power through a mobile experience. The Shop 
+app  is  a  digital  shopping  assistant  that  is  available  to  buyers  on  iOS  and  Android  mobile  devices.  Buyers  use  the 
+Shop app to track packages, discover products from their favorite merchants, earn cash back through our rewards 
+program,  Shop  Cash,  and  engage  with  brands  directly,  which  helps  merchants  increase  opportunities  to  find  new 
+customers and drive greater loyalty and lifetime value of their buyers. Shopify’s mobile capabilities are not limited 
+to  the  front  end:  merchants  who  are  often  on-the-go  find  themselves  managing  their  storefronts  via  their  mobile 
+devices, and Shopify continues to strive to make it easier to do so.
+
+Global. Commerce thrives when merchants are able to build a global brand and sell beyond their own borders with 
+little friction. Shopify offers merchants across several countries a localized experience within the country in which 
+they  are  based.  In  addition,  Shopify  Markets,  enables  merchants  to  manage  localized  storefronts  in  different 
+countries through one global store, making cross-border commerce easier for entrepreneurs. With Shopify Markets, 
+merchants can easily set up market-specific buying experiences, enabling buyers to shop in their local currencies, 
+languages,  domains,  and  payment  methods.  Shopify  Markets  also  calculates  duty  and  import  fees.  Such  tailored 
+experiences are designed to increase local buyer trust and conversion, enabling merchants to enter new geographies 
+more easily. Shopify Markets Pro, introduced in 2022, offers merchants a native merchant-of-record tax and duty 
+compliance  solution.  Shopify  Markets  and  Shopify  Markets  Pro  complement  our  partnership  with  Global-E,  an 
+offering for merchants who want to fully outsource their cross-border business with an approved third-party partner.
+
+Infrastructure.  We  build  our  platform  to  address  the  growing  challenges  facing  merchants  and  with  the  aim  of 
+making  complex  tasks  simple.  The  Shopify  platform  is  engineered  to  enterprise-level  standards  and  functionality 
+and designed for simplicity and ease of use. We also design our platform with a robust technical infrastructure able 
+to manage large spikes in traffic that accompany events such as new product releases, holiday shopping seasons, and 
+flash sales. We are constantly innovating and enhancing our platform, with our continuously deployed, multi-tenant 
+architecture ensuring all of our merchants are always using the latest technology.
+
+This  combination  of  ease  of  use  with  enterprise-level  functionality  allows  merchants  to  start  with  a  Shopify  store 
+and  grow  with  our  platform  to  almost  any  size.  Using  Shopify,  merchants  may  never  need  to  re-platform.  Our 
+Shopify  Plus  subscription  plan  was  created  to  accommodate  larger  merchants,  with  additional  functionality, 
+
+9
+
+scalability and support requirements. The Shopify Plus plan also appeals to larger merchants not already on Shopify 
+who  want  to  migrate  from  their  expensive  and  complex  legacy  solutions  to  achieve  greater  functionality  and 
+flexibility.
+
+Sustainability
+
+Shopify is a company that wants to see the next century, and has taken many steps to build a sustainable business, 
+including becoming a carbon neutral company in 2019. Our commitment includes powering our global operations 
+with renewable energy, purchasing high quality carbon credits to address travel-related emissions, and by relying on 
+Google Cloud, which is 100% powered by renewable energy. 
+
+Because  we  view  commerce  as  a  powerful  vehicle  for  positive  systemic  change,  as  part  of  our  focus  on  the  long 
+term, in 2019 Shopify launched a sustainability fund with the intent to commit at least $5 million annually to fund 
+what  Shopify  believes  are  the  most  promising  and  impactful  technologies  and  projects  to  combat  climate  change. 
+Since launch, we’ve partnered with 22 entrepreneurial climate companies to help them prove and scale their carbon 
+removal  solutions.  In  2022,  we  launched  Frontier,  an  advance  market  commitment,  alongside  Stripe,  Alphabet, 
+Meta, and McKinsey Sustainability with the objective to purchase a combined $925M of carbon removal by the end 
+of 2030. 2022 was the third consecutive year where Shopify has tracked, calculated, and purchased enough carbon 
+removal  to  counteract  the  impact  of  carbon  emissions  from  orders  placed  on  our  platform  over  the  Black  Friday/
+Cyber Monday shopping weekend. Our merchants have the ability to address the carbon emissions associated with 
+shipping  their  orders  by  adding  our  Planet  app  to  their  store.  We  also  fund  carbon  removal  through  our 
+Sustainability Fund with every order placed using Shop Pay, our checkout accelerator. 
+
+Ecosystem 
+
+A rich ecosystem of app developers, theme designers and other partners, such as digital and service professionals, 
+marketers, photographers, and affiliates has evolved around the Shopify platform. We believe our partner ecosystem 
+helps  drive  the  growth  of  our  merchant  base  by  extending  the  functionality  of  the  Shopify  platform  through  the 
+development of apps. At December 31, 2022, more than 10,000 apps were available in the Shopify App Store. The 
+partner  ecosystem  helps  drive  the  growth  of  our  merchant  base,  which  in  turn  further  accelerates  growth  of  the 
+ecosystem.
+
+Business Overview
+
+Our mission is to make commerce better for everyone, and we believe we can help merchants of nearly all sizes, 
+from aspirational entrepreneurs to companies with large-scale, direct-to-consumer operations realize their potential 
+at all stages of their business life cycle. While our platform can scale to meet the needs of large merchants, we focus 
+on selling to small and medium-sized businesses and entrepreneurs. Most of our merchants are on subscription plans 
+that cost less than $50 per month, which is in line with our focus of providing cost effective solutions for early stage 
+businesses. In the year ended December 31, 2022, our platform facilitated GMV of $197.2 billion, representing an 
+increase of 12.4% from the year ended December 31, 2021. A detailed description of this metric is presented below 
+in the section entitled, “Key Performance Indicators”.
+
+During the year ended December 31, 2022, our total revenue was $5,599.9 million, an increase of 21.4% versus the 
+year ended December 31, 2021. Our business model has two revenue streams: a recurring subscription component 
+we call subscription solutions and a merchant success-based component we call merchant solutions.
+
+In  the  year  ended  December  31,  2022,  subscription  solutions  revenues  accounted  for  26.6%  of  our  total  revenues 
+(29.1%  in  the  year  ended  December  31,  2021).  We  offer  a  range  of  plans  that  increase  in  price  depending  on 
+additional features and economic considerations. Our highest-end plan, Shopify Plus, is offered at a starting rate that 
+is several times that of our standard Shopify plans. Shopify Plus solves for the complexity of merchants as they grow 
+and  scale  globally,  offering  additional  functionality,  and  support,  including  features  like  Shopify  Audiences,  B2B 
+ecommerce,  and  Launchpad,  for  ecommerce  automation,  and  dedicated  account  management  where  appropriate. 
+Mattel,  Gymshark,  Heinz,  FTD,  Netflix,  Kylie  Cosmetics,  SKIMS  and  Supreme  are  a  few  of  the  Shopify  Plus 
+
+10
+
+merchants seeking a reliable, cost-effective and scalable commerce solution. The flexibility of our pricing plans is 
+designed to help our merchants grow in a cost-effective manner and to provide more advanced features and support 
+as  their  business  needs  evolve.  We  have  also  launched  localized  pricing  plans  in  select  countries  and  expect  to 
+expand the number of markets where we bill in local currency in order to reduce friction and attract more merchants 
+to our platform.
+
+Revenue  from  subscription  solutions  is  generated  through  the  sale  of  subscriptions  to  our  platform,  including 
+variable platform fees, as well as through the sale of subscriptions to our POS Pro offering, the sale of themes, the 
+sale of apps, and the registration of domain names. Subscription solutions revenues increased from $1,342.3 million 
+in  the  year  ended  December  31,  2021  to  $1,487.8  million  in  the  year  ended  December  31,  2022,  representing  an 
+increase  of  10.8%.  Our  merchants  typically  enter  into  monthly  subscription  agreements.  The  revenue  from  these 
+agreements  is  recognized  over  time  on  a  ratable  basis  over  the  contractual  term  and  therefore  we  have  deferred 
+revenue  on  our  balance  sheet.  We  do  not  consider  this  deferred  revenue  balance  to  be  a  good  indicator  of  future 
+revenue. Instead, we believe MRR is most closely correlated with the long-term value of our merchant relationships. 
+As  of  December  31,  2022,  MRR  totaled  $109.5  million,  representing  an  increase  of  7.3%  relative  to  MRR  at 
+December 31, 2021. In the year ended December 31, 2022, both subscription solutions revenue and MRR observed 
+slower  growth  rates  due  mainly  to  trial  incentives  launched  in  the  second  half  of  2022  where  select  prospective 
+merchants  were  offered  a  paid  trial.  Prospective  merchants  that  join  through  these  trial  incentives  are  included  in 
+MRR at their trial price, throughout the trial period, until they convert to a full price subscription plan. These trial 
+incentive amounts are immaterial to MRR as at December 31, 2022. Furthermore, when comparing the year ended 
+December 31, 2021 to the year ended December 31, 2022, subscription solutions revenue growth was also impacted 
+by lower app and theme related revenue as a result of revised pricing terms with developer partners beginning in the 
+third quarter of 2021, offset somewhat by platform fees increasing as a percentage of total subscription solutions. A 
+detailed  description  of  this  metric  is  presented  below  in  the  section  entitled,  "Key  Performance  Indicators".  As  at 
+December 31, 2022, we host millions of merchants on our platform.
+
+We  offer  a  variety  of  merchant  solutions  that  are  designed  to  add  value  to  our  merchants  by  passing  on  our 
+economies of scale and augment our subscription solutions. During the year ended  December 31, 2022, merchant 
+solutions  revenues  accounted  for  73.4%  of  total  revenues  (70.9%  in  the  year  ended  December  31,  2021).  We 
+principally generate merchant solutions revenues from payment processing fees and currency conversion fees from 
+Shopify Payments. Shopify Payments is a fully integrated payment processing service that allows our merchants to 
+accept  and  process  payment  cards  online  and  offline.  In  addition  to  payment  processing  fees  and  currency 
+conversion  fees  from  Shopify  Payments,  we  also  generate  merchant  solutions  revenue  from  other  transaction 
+services,  referral  fees,  advertising  revenue  on  the  Shopify  App  Store,  Shopify  Capital,  Shop  Pay  Installments, 
+Shopify Balance, Shopify Shipping, our logistics offerings, non-cash consideration obtained for services rendered as 
+part  of  strategic  partnerships,  the  sale  of  POS  hardware,  Shopify  Email  and  Shopify  Markets.  Shopify  Capital  is 
+currently available for merchants in the United States, the United Kingdom, Canada, and Australia. Our merchant 
+solutions  revenues  are  directionally  correlated  with  the  level  of  GMV  that  our  merchants  process  through  our 
+platform.  Merchant  solutions  revenues  increased  from  $3,269.5  million  in  the  year  ended  December  31,  2021  to 
+$4,112.1 million in the year ended December 31, 2022, representing an increase of 25.8%.
+
+Our business model is driven by our ability to attract new merchants, retain revenue from existing merchants, and 
+increase sales to both new and existing merchants. Our merchants represent a wide array of retail verticals, business 
+sizes, and geographies and no single merchant has ever represented more than five percent of our total revenues in a 
+single reporting period. We believe that our future success depends on many factors, including our ability to expand 
+our merchant base; localize features for specific geographies; retain merchants as they grow their businesses on our 
+platform  and  adopt  more  features;  offer  more  sales  channels  that  connect  merchants  with  their  specific  target 
+audience;  develop  new  solutions  to  extend  our  platform’s  functionality  and  catalyze  merchants’  sales  growth; 
+enhance  our  ecosystem  and  partner  programs;  provide  a  high  level  of  merchant  support;  hire,  retain  and  motivate 
+qualified personnel; and build with a focus on maximizing long-term value.
+
+We have focused on rapidly growing our business and plan to continue making investments to drive future growth. 
+We believe that our investments will increase our revenue base, improve the retention of this base and strengthen 
+
+11
+
+our ability to increase sales to our merchants. Building a 100-year company requires a balance between growth and 
+profitability, and we maintain a portfolio of investments with varying time horizons. 
+
+Consistent with investing for the long term, in 2019 we began building Shopify Fulfillment Network, a network of 
+distributed  fulfillment  centers  across  the  United  States  and  Canada,  to  help  merchants  provide  fast  and  reliable 
+delivery to buyers. Since then, we have made significant internal investments as well as strategic acquisitions and 
+partnerships with private companies in an effort to accelerate the development of our logistics offerings. On July 8, 
+2022,  we  acquired  Deliverr,  a  leading  fulfillment  technology  provider  with  the  goal  of  leveraging  Deliverr’s 
+software in our hub and spoke warehouses to provide merchants with simplified logistics by simplifying the end-to-
+end supply chain across freight, distribution, and fulfillment. Furthermore, our investments in our logistics offerings 
+are expected to help accelerate the expansion of Shop Promise, our buyer-facing badge that shows up in merchant 
+storefronts  and  in  the  Shop  app,  and  helps  merchants  guarantee  faster,  more  reliable  delivery.  This  solution  uses 
+real-time  data  to  predict  the  perfect  delivery  promise  for  every  order,  and  is  automatically  enabled  in  100%  of 
+Shopify  Fulfillment  Network  merchant  storefronts.  We  expect  to  continue  to  invest  in  and  optimize  our  logistics 
+offerings to further support our merchants.
+
+Key Performance Indicators 
+
+Key  performance  indicators,  which  we  do  not  consider  to  be  non-GAAP  measures,  that  we  use  to  evaluate  our 
+business, measure our performance, identify trends affecting our business, formulate financial projections and make 
+strategic  decisions  include  Monthly  Recurring  Revenue  ("MRR")  and  Gross  Merchandise  Volume  ("GMV").  Our 
+key performance indicators may be calculated in a manner different than similar key performance indicators used by 
+other companies. 
+
+The following table shows MRR and GMV for the years ended December 31, 2022 and 2021.
+
+Monthly Recurring Revenue
+
+Gross Merchandise Volume
+
+Monthly Recurring Revenue 
+
+Years ended December 31,
+
+2022
+
+2021
+
+(in thousands)
+
+$ 
+
+$ 
+
+109,510 
+
+197,166,882 
+
+$ 
+
+$ 
+
+102,022 
+
+175,361,814 
+
+We calculate MRR at the end of each period by multiplying the number of merchants who have subscription plans 
+with us at the period end date by the average monthly subscription plan fee, which excludes variable platform fees, 
+in  effect  on  the  last  day  of  that  period,  assuming  they  maintain  their  subscription  plans  the  following  month. 
+Subscription plans to both our platform and our POS Pro offering are included in this calculation. When applicable, 
+MRR relating to subscription plans billed in a merchant's local currency is converted to USD using the respective 
+currency  exchange  rate  as  of  the  period  end  date.  Prospective  merchants  that  have  joined  the  platform  through 
+special  new  merchant  trial  incentives  are  included  in  MRR  at  their  trial  price  while  merchants  on  free  trials  are 
+excluded from the calculation of MRR through the duration of the free trial. MRR allows us to average our various 
+pricing plans and billing periods into a single, consistent number that we can track over time. We also analyze the 
+factors  that  make  up  MRR,  specifically  the  number  of  paying  merchants  using  our  platform  and  changes  in  our 
+average  revenue  earned  from  subscription  plan  fees  per  paying  merchant.  In  addition,  we  use  MRR  to  forecast 
+monthly, quarterly and annual subscription plan revenue, which makes up the majority of our subscription solutions 
+revenue. We had $109.5 million of MRR as at December 31, 2022 compared to $102.0 million as at December 31, 
+2021.  In  the  year  ended  December  31,  2022,  we  observed  a  lower  MRR  growth  rate,  relative  to  the  year  ended 
+December 31, 2021. The MRR growth rate in the year ended December 31, 2022 was impacted by trial incentives 
+launched  in  the  second  half  of  2022  where  select  prospective  merchants  were  offered  a  paid  trial.  These  trial 
+incentive amounts are immaterial to MRR as at December 31, 2022, but we expect to see an increase in MRR once 
+these cohorts of merchants convert to standard Shopify plans and when standard Shopify plan prices are increased in 
+the  first  half  of  2023.  Furthermore,  in  the  second  quarter  of  2022,  we  launched  localized  pricing  plans  in  select 
+
+12
+
+countries and we expect to expand the number of markets where we bill in local currency. We expect that over time 
+any impact to MRR will be more than offset by the fact that the reduced friction and enhanced in-market experience 
+will attract more merchants to our platform who make use of our merchant solutions. The MRR growth rate for the 
+year ended December 31, 2021, when compared to the year ended December 31, 2022, was also impacted due to an 
+elevated number of full-priced merchants joining the platform in the early stages of 2021 amid further COVID-19 
+related  impacts,  such  as  newly  discovered  variants  and  increased  lockdowns,  which  further  energized  the  shift  to 
+ecommerce. 
+
+Gross Merchandise Volume 
+
+GMV  is  the  total  dollar  value  of  orders  facilitated  through  our  platform  including  certain  apps  and  channels  for 
+which  a  revenue-sharing  arrangement  is  in  place  in  the  period,  net  of  refunds,  and  inclusive  of  shipping  and 
+handling, duty and value-added taxes. GMV does not represent revenue earned by us. However, the volume of GMV 
+facilitated through our platform is an indicator of the success of our merchants and the strength of our platform. Our 
+merchant solutions revenues are also directionally correlated with the level of GMV facilitated through our platform. 
+For  the  years  ended  December  31,  2022  and  2021,  we  facilitated  GMV  of  $197.2  billion  and  $175.4  billion, 
+respectively.  In  the  year  ended  December  31,  2021,  we  experienced  elevated  GMV,  most  notably  in  the  first  two 
+quarters of 2021, coming off the tailwinds of the shift to ecommerce accelerated by COVID-19 in 2020, along with 
+additional  drivers  in  the  form  of  lockdowns  and  government  stimulus,  which  has  impacted  the  year-over-year 
+growth  in  GMV.  Going  forward,  we  expect  more  normalized  growth  in  GMV  against  a  more  measured  macro 
+environment  relative  to  2021  as  a  result  of  post-pandemic  consumer  spend  shifting  to  services  and  in-person 
+shopping, as well as inflationary pressures on our merchants and their buyers. However, we also expect that changed 
+behaviours adopted by merchants and consumers in 2020 and 2021 driven by COVID-19 will continue to expand the 
+prospects for entrepreneurship and digital commerce. 
+
+Factors Affecting the Comparability of Our Results 
+
+Change in Revenue Mix 
+
+As  a  result  of  the  continued  growth  of  Shopify  Payments,  revenue-sharing  agreements,  transaction  fees,  Shopify 
+Shipping, Shopify Capital, our logistics offerings, and non-cash consideration obtained for services rendered as part 
+of  strategic  partnerships,  our  revenues  from  merchant  solutions  have  generally  increased  significantly.  Merchant 
+solutions  are  intended  to  complement  subscription  solutions  by  providing  additional  value  to  our  merchants  and 
+increasing  their  use  of  our  platform.  Gross  profit  margins  on  Shopify  Payments,  the  biggest  driver  of  merchant 
+solutions  revenue,  are  typically  lower  than  on  subscription  solutions  due  to  the  associated  third-party  costs  of 
+providing this solution. We view this revenue stream as beneficial to our operating margins, as Shopify Payments 
+requires  significantly  less  sales  and  marketing  and  research  and  development  expense  than  Shopify’s  core 
+subscription  business.  We  expect  the  development  of  our  logistics  offerings  to  be  dilutive  to  the  gross  margin 
+percentage  for  merchant  solutions  in  the  short  term.  The  lower  margins  on  merchant  solutions  compared  to 
+subscription  solutions  means  that  the  continued  growth  of  merchant  solutions  may  cause  a  decline  in  our  overall 
+gross margin percentage.
+
+Seasonality 
+
+Our merchant solutions revenues are directionally correlated with the level of GMV that our merchants facilitated 
+through our platform. Our merchants typically process additional GMV during the fourth quarter holiday season. As 
+a  result,  we  have  historically  generated  higher  merchant  solutions  revenues  in  our  fourth  quarter  than  in  other 
+quarters.  While  we  believe  that  this  seasonality  has  affected  and  will  continue  to  affect  our  quarterly  results,  our 
+rapid  growth  has  largely  masked  seasonal  trends  to  date.  As  a  result  of  the  continued  growth  of  our  merchant 
+solutions offerings, we believe that our business may become more seasonal in the future and that historical patterns 
+in our business may not be a reliable indicator of our future performance. 
+
+13
+
+Foreign Currency Fluctuations 
+
+While the majority of our revenues, cost of revenues, and operating expenses are denominated in USD, a significant 
+portion  are  denominated  in  foreign  currencies.  Due  to  offering  Shopify  Payments,  Shopify  Capital,  subscriptions, 
+and  other  billings  to  select  countries  in  local  currency,  a  significant  proportion  of  revenue  transactions  are 
+denominated in British pound sterling ("GBP"), Euros ("EUR"), and Canadian dollars ("CAD"). As our operations 
+continue  to  be  heavily  weighted  in  CAD  and  as  operations  continue  to  expand  internationally,  a  significant 
+proportion  of  operating  expenses  are  also  incurred  in  the  aforementioned  foreign  currencies.  To  help  mitigate  the 
+impacts associated with foreign currency fluctuations on future cash flows from operating expenses, we maintain a 
+portfolio of foreign exchange forward contracts and options designated as hedging instruments. As our operations 
+continue to expand internationally, we may be exposed to additional fluctuations in other foreign currencies. Refer 
+to the "Risks and Uncertainties—Foreign Currency Exchange Risk" section below for additional information on the 
+effect on reported results of changes in foreign exchange rates.
+
+Key Components of Results of Operations 
+
+Revenues 
+
+We derive revenues from subscription solutions and merchant solutions. 
+
+Subscription Solutions 
+
+We principally generate subscription solutions revenues through the sale of subscriptions to our platform, including 
+variable  platform  fees,  as  well  as  through  the  sale  of  subscriptions  to  our  POS  Pro  offering.  We  also  generate 
+associated subscription solutions revenues from the sale of themes, apps, and the registration of domain names. 
+
+We offer subscription plans with various price points, from entry level plans to Shopify Plus, a plan for merchants 
+with  higher-volume  sales  that  offers  additional  functionality,  scalability  and  support.  Our  subscription  plans 
+typically have a one-month term, although a small number of our merchants have annual or multi-year subscription 
+terms.  Subscription  terms  automatically  renew  unless  notice  of  cancellation  is  provided  in  advance.  Merchants 
+purchase subscription plans directly from us. Subscription fees for all plans, except Shopify Plus, are paid to us at 
+the start of the applicable subscription period, regardless of the length of the subscription period. Shopify Plus plans 
+are billed in arrears. For subscription fees that are received in advance of providing the related services, we record 
+deferred revenue on our consolidated balance sheet for the unearned revenue and recognize revenue over time on a 
+ratable basis over the contractual term. These subscription fees are non-refundable. Revenues from variable platform 
+fees are based on the merchants' volume of sales and recognized as revenue when we have a right to invoice. They 
+are  classified  within  subscription  solutions  because  they  represent  a  variable  component  of  the  merchants' 
+subscription fee.
+
+We  also  generate  additional  subscription  solutions  revenues  from  merchants  that  have  subscription  plans  with  us 
+through the sale of themes, apps, and the registration of domain names. Revenues from the sale of themes and apps 
+are recognized at the time of the transaction. The right to use domain names is sold separately and is recognized on a 
+ratable  basis  over  the  contractual  term,  which  is  typically  an  annual  term.  Revenues  from  the  sale  of  apps  and 
+themes are recognized net of amounts attributable to the third-party developers. In the fourth quarter of 2021, we 
+commenced recognizing revenue for the sale of themes on a net basis (as an agent) as a result of revised contract 
+terms with our theme partners. Prior to this date, revenue from the sale of themes was recognized on a gross basis. 
+Revenues  from  the  sale  of  themes,  apps,  and  the  registration  of  domain  names  have  been  classified  within 
+subscription solutions on the basis that they are typically sold at the time the merchant enters into the subscription 
+arrangement or because they are charged on a recurring basis. 
+
+Merchant Solutions 
+
+We generate merchant solutions revenues from payment processing fees and currency conversion fees from Shopify 
+Payments,  transaction  fees,  referral  fees  from  partners,  advertising  revenue  on  the  Shopify  App  Store,  Shopify 
+
+14
+
+Capital, Shop Pay Installments, Shopify Balance, Shopify Shipping, our logistics offerings, non-cash consideration 
+obtained  for  services  rendered  as  part  of  strategic  partnerships,  the  sale  of  POS  hardware,  Shopify  Email  and 
+Shopify Markets.
+
+ The  significant  majority  of  merchant  solutions  revenues  are  generated  from  Shopify  Payments.  Revenue  from 
+processing  payments  and  currency  conversion  is  recognized  at  the  time  of  the  transaction.  For  Shopify  Payments 
+transactions, processing payment fees are determined based in part on a percentage of the dollar amount processed 
+plus a per transaction fee, where applicable. Currency conversion fees are determined based on a percentage of the 
+dollar amount converted in a payment processing transaction, where applicable.
+
+For subscription plans where the merchant does not sign up for Shopify Payments, we typically charge a transaction 
+fee based on a percentage of GMV sold through the platform. We bill our merchants for transaction fees at the end 
+of a 30-day billing cycle or when predetermined billing thresholds are surpassed. Any fees that have not been billed 
+are accrued as an unbilled receivable at the end of the reporting period. 
+
+We also generate merchant solutions revenues in the form of referral fees from partners to which we direct business 
+and  with  which  we  have  an  arrangement  in  place.  Pursuant  to  terms  of  the  agreements  with  our  partners,  these 
+revenues  can  be  recurring  or  non-recurring.  Where  the  agreement  provides  for  recurring  payments  to  us,  we 
+typically earn revenues so long as the merchant that we have referred to the partner continues to use the services of 
+the partner. Non-recurring revenues generally take the form of one-time payments that we receive when we initially 
+refer  the  merchant  to  the  partner.  In  either  case,  we  recognize  referral  revenues  when  we  are  entitled  to  receive 
+payment from the partner pursuant to the terms of the underlying agreement. 
+
+Advertising  revenue  is  earned  on  the  Shopify  App  Store  as  merchants  click  on  the  apps  being  advertised  by  our 
+partners. We recognize advertising revenues when we are entitled to receive payment from the partner.
+
+Shopify  Capital,  a  merchant  cash  advance  ("MCA")  and  loan  program  for  eligible  merchants,  is  offered  in  the 
+United States, the United Kingdom, Canada, and Australia to help eligible merchants secure financing and accelerate 
+the  growth  of  their  business  by  providing  access  to  simple,  fast,  and  convenient  working  capital.  We  apply 
+underwriting criteria prior to purchasing the eligible merchant's future receivables or making a loan to help assess 
+collectibility.  Under Shopify Capital, we purchase a designated amount of future receivables at a discount or make a 
+loan. The advance, or the loan, is forwarded to the merchant at the time the related agreement is entered into, and the 
+merchant  remits  a  fixed  percentage  of  their  daily  sales  until  the  outstanding  balance  has  been  remitted.  Certain 
+merchant cash advances and loans are facilitated internally and originated by a bank partner, from whom we then 
+purchase the merchant cash advances and loans obtaining all rights, title, and interest or discount for a fee calculated 
+as  a  percentage  of  the  merchant  cash  advance  or  loan's  principal.  Revenues  for  Shopify  Capital  are  earned  in 
+accordance with the description below and are presented net of any deferred origination fees which are amortized 
+over the contractual or expected term of the MCA or loan. For Shopify Capital MCAs, we apply a percentage of the 
+remittances collected against the merchant's receivable balance, and a percentage, which is related to the discount, as 
+merchant  solutions  revenue.  For  certain  Shopify  Capital  loans,  there  is  a  fixed  maximum  repayment  term.  For 
+certain other Shopify Capital loans, we calculate an expected repayment date. Using the merchant's contractual or 
+expected  repayment  date,  we  calculate  an  effective  interest  rate  based  on  the  merchant's  expected  future  payment 
+volume to determine how much of a merchant's repayment to recognize as revenue and how much to apply against 
+the merchant's receivable balance. We have mitigated some of the risks associated with Shopify Capital by opening 
+insurance  policies  with  Export  Development  Canada  (“EDC”)  to  insure  some  of  the  MCAs  and  loans  offered  by 
+Shopify  Capital  in  the  United  States,  the  United  Kingdom,  Canada,  and  Australia.  Refer  to  the  "Risks  and 
+Uncertainties—Concentration of Credit Risk" section below for additional information on these policies.
+
+Shop Pay Installments, a "buy now pay later" product, enables merchants to sell their goods to buyers on payment 
+options  ranging  from  interest-free  biweekly  payments  to  monthly  simple  interest-bearing  installments.  Merchants 
+will  receive  upfront  payment  for  a  sale,  net  of  fees,  without  the  worry  associated  with  collecting  future  payments 
+from the buyer. Revenues earned from Shop Pay Installments are recognized when a merchant makes a sale using 
+this product, and is based on a percentage of the total order value. We earn and recognize a portion of the revenue 
+
+15
+
+from each merchant sale, with the majority of revenue earned and recognized by our third-party provider that bears 
+the buyer underwriting and buyer credit risk associated with the product. 
+
+Shopify Balance, our money management product, offers merchants a no fee money management account with fast 
+access to their cash, a card for spending online, on mobile, or in store, and rewards featuring cash back, perks, and 
+discounts on everyday business spending. We recognize revenue at the time of the transaction as the card is used, 
+with cash back rewards earned through the program netted against revenue.  
+
+Shopify  Shipping  allows  merchants  doing  their  own  fulfillment  and  shipping  to  select  from  available  shipping 
+partners to buy and print outbound and return shipping labels and track orders directly within the Shopify platform. 
+We bill our merchants when they have purchased shipping labels in excess of predetermined billing thresholds, and 
+any  charges  that  have  not  been  billed  are  accrued  as  unbilled  receivables  at  the  end  of  the  reporting  period.  For 
+Shopify  Shipping,  fees  are  determined  based  on  the  type  of  labels  purchased  or  the  arrangement  negotiated  with 
+third  parties.  We  recognize  revenue  from  Shopify  Shipping  net  of  shipping  costs,  as  we  are  the  agent  in  the 
+arrangement with merchants. 
+
+Shopify  Fulfillment  Network  and  Deliverr  fulfillment  services,  generate  revenue  from  their  respective  fulfillment 
+solutions,  which  include  picking,  packing  and  preparing  orders  for  shipment,  and  outbound  shipping,  as  well  as 
+additional  revenues  from  inbound  shipping,  storage,  returns  processing,  and  other  fulfillment-related  services  as 
+needed  by  merchants.  Revenue  related  to  these  fulfillment  solutions  is  recognized  over  time  as  we  fulfill,  up  to 
+completion of delivery. Revenues related to the inbound, storage and return processing offerings are recognized over 
+time, and revenues related to other fulfillment-related services are recognized at a point in time, once the services 
+have  been  rendered.  We  also  earn  revenues  from  providing  cloud-based  software  on  collaborative  warehouse 
+fulfillment  solutions  which  are  recognized  over  time,  over  the  contractual  term,  which  can  be  up  to  five  years. 
+Payments received in advance of services being rendered are recorded as deferred revenue and recognized ratably 
+over time, over the requisite service period.
+
+From time to time, we receive non-cash consideration in the form of equity investments from customers with whom 
+we have developed strategic partnerships. The non-cash consideration is measured as the fair value at the inception 
+of  the  contract,  and  any  changes  in  fair  value  after  contract  inception  are  excluded  from  revenue,  and  classified 
+within "other (expense) income, net" in the consolidated statement of operations and comprehensive (loss) income. 
+As  we  are  contractually  required  to  provide  referral  services  and  other  services  to  support  the  partners'  merchant 
+offerings over the period of the performance obligations, revenue is deferred and recognized over time on a ratable 
+basis over the expected terms of the contracts, which are typically three to seven years in length.
+
+In  connection  with  Shopify  POS,  a  sales  channel  that  lets  merchants  sell  their  products  and  accept  payments  in-
+person from a mobile device, we sell Shopify branded hardware products and other compatible products which are 
+sourced from third-party vendors. We recognize revenues from the sale of POS hardware when title passes to the 
+merchant in accordance with the shipping terms of the sale. 
+
+Shopify Email, launched in 2019, is our native email marketing tool designed to enable merchants to create, run, and 
+track email marketing campaigns from within the merchant admin, and help merchants to build direct relationships 
+with  buyers.  Revenue  from  Shopify  Email  is  based  on  the  merchants'  volume  of  emails  sent  and  recognized  as 
+revenue when we have a right to invoice.
+
+Shopify Markets, our end-to-end cross-border commerce product offerings launched in 2021, integrate services to 
+centralize  the  platform's  cross-border  capabilities  and  enable  merchants  to  penetrate  the  global  commerce  market. 
+Shopify Markets leverage our existing transactional services and partnerships from which we earn referral fees to 
+provide  a  tailored  experience  for  each  market.  Revenues  earned  are  recognized  in  accordance  with  the  preceding 
+paragraphs. 
+
+For a discussion of how we expect seasonal factors to affect our merchant solutions revenue, see “Factors Affecting 
+the Comparability of our Results—Seasonality.”
+
+16
+
+Cost of Revenues 
+
+Cost of Subscription Solutions 
+
+Cost of subscription solutions consists primarily of costs associated with billing processing fees and operations and 
+merchant  support  expenses.  Operations  and  merchant  support  expenses  include  third-party  infrastructure,  hosting 
+costs  and  other  direct  costs,  personnel-related  costs  directly  associated  with  operations  and  merchant  support, 
+including salaries, benefits and stock-based compensation, as well as amortization of acquired intangible assets, and 
+allocated  overhead.  Overhead  associated  with  information  technology  and  depreciation  is  allocated  to  our  cost  of 
+revenues and operating expenses based on headcount. 
+
+Additionally,  cost  of  subscription  solutions  includes  costs  we  are  required  to  pay  to  third-party  developers  in 
+connection with sales of themes. Our paid themes are primarily designed by third-party developers who earn fees for 
+each  theme  sold.  In  the  fourth  quarter  of  2021,  we  changed  from  being  the  principal  in  the  arrangement  with 
+customers for the sale of themes to being the agent in these arrangements as a result of revised contract terms with 
+its  partners.  As  a  result,  beginning  in  the  fourth  quarter  of  2021,  the  costs  associated  with  the  sale  of  themes  is 
+recognized net within subscription solutions revenue. 
+
+Also included as cost of subscription solutions are domain registration fees. 
+
+We expect that the cost of subscription solutions will increase in absolute dollars as we continue to invest in growing 
+our  business,  and  as  the  number  of  merchants  utilizing  the  platform  increases  along  with  the  costs  of  supporting 
+those  merchants.  Over  time,  we  expect  that  our  subscription  solutions  gross  margin  percentage  will  fluctuate 
+modestly based on the mix of subscription plans that our merchants select and the timing of expenditures related to 
+infrastructure expansion projects. 
+
+Cost of Merchant Solutions 
+
+Cost of merchant solutions primarily consists of costs that we incur when transactions are processed using Shopify 
+Payments,  such  as  credit  card  network  fees  (charged  by  credit  card  providers  such  as  Visa,  MasterCard  and 
+American Express) as well as third-party processing fees. Cost of merchant solutions also consists of credit card fees 
+related to billing our merchants, product costs associated with expanding our product offerings, including Shopify 
+Balance,  third-party  infrastructure  and  hosting  costs,  and  operations  and  merchant  support  expenses,  including 
+personnel-related  costs  directly  associated  with  merchant  solutions  such  as  salaries,  benefits  and  stock-based 
+compensation, as well as allocated overhead. Overhead associated with information technology and depreciation is 
+allocated to our cost of revenues and operating expenses based on headcount. 
+
+Cost of merchant solutions also includes amortization of acquired intangible assets relating mostly to the acquired 
+Deliverr and 6RS technology. In addition, we incur costs associated with picking, packing and preparing orders for 
+shipment, outbound shipping, warehouse storage, overhead costs and other costs for fulfillment-related services as 
+part of our logistics offerings, and materials and third-party manufacturing costs associated with fulfillment robots 
+sold to customers rather than leased to customers, which are capitalized and depreciated into cost of revenues; costs 
+associated with POS hardware, such as the cost of acquiring the hardware inventory, including hardware purchase 
+price and expenses associated with our use of a third-party fulfillment company, shipping and handling; and cash 
+back earned through our rewards program.
+
+We expect that the cost of merchant solutions will increase in absolute dollars in future periods as the number of 
+merchants utilizing these solutions increases, resulting in a growth in volumes processed. We also expect additional 
+increases as we continue to expand Shopify Payments internationally and as we continue to invest in our logistics 
+offerings. While in development, we expect our logistics offerings to be dilutive to the gross margin percentage for 
+merchant solutions.
+
+17
+
+Operating Expenses 
+
+Sales and Marketing 
+
+Sales  and  marketing  expenses  consist  primarily  of  marketing  programs,  partner  referral  payments  related  to 
+merchant  acquisitions,  costs  associated  with  partner  and  developer  conferences,  employee-related  expenses  for 
+marketing, business development and sales, as well as the portion of merchant support required for the onboarding 
+of prospective new merchants. Other costs within sales and marketing include travel-related expenses and corporate 
+overhead allocations. Costs to acquire merchants are expensed as incurred, however, contract costs associated with 
+Plus merchants are amortized over the expected life of their relative contract. We plan to continue to expand sales 
+and marketing efforts to attract new merchants, retain revenue from existing merchants and increase revenues from 
+both new and existing merchants. Sales and marketing expenses are expected to increase in absolute dollars but over 
+time, we expect sales and marketing expenses will eventually decline as a percentage of total revenues.
+
+Research and Development 
+
+Research  and  development  expenses  consist  primarily  of  employee-related  expenses  for  product  management, 
+product development, product design, data analytics, contractor and consultant fees as well as internal use hosting 
+costs and corporate overhead allocations. Research and development costs are generally expensed as incurred. We 
+capitalize certain development costs incurred in connection with our internal use software as well as costs related to 
+specific  upgrades  and  enhancements  when  technological  feasibility  is  reached.  We  continue  to  focus  our  research 
+and development efforts on adding new features and solutions, and increasing the functionality and enhancing the 
+ease of use of our platform. While we expect research and development expenses to increase in absolute dollars as 
+we  continue  to  increase  the  functionality  of  our  platform,  over  the  long  term  we  expect  our  research  and 
+development expenses will eventually decline as a percentage of total revenues. 
+
+General and Administrative 
+
+General  and  administrative  expenses  consist  of  employee-related  expenses  for  finance  and  accounting,  legal, 
+administrative, human relations and IT personnel, impairment related to certain office leases we have ceased using, 
+professional  services  fees,  sales  and  use  and  other  value  added  taxes,  insurance,  the  provision  for  expected  credit 
+losses  on  uncollectible  receivables,  corporate  overhead  allocations,  legal  contingencies  and  other  corporate 
+expenses, including sustainability spend. We expect that over time general and administrative expenses will increase 
+on an absolute dollar basis but may decrease as a percentage of total revenues as we focus on processes, systems and 
+controls to enable our internal support functions to scale with the growth of our business.
+
+Transaction and Loan Losses
+
+Transaction  and  loan  losses  consist  of  expected  and  actual  losses  related  to  Shopify  Payments,  Shop  Pay 
+Installments,  Shopify  Balance,  and  Shopify  Capital.  We  are  exposed  to  transaction  losses  on  Shopify  Payments, 
+Shop  Pay  Installments,  and  Shopify  Balance  as  a  result  of  unrecovered  merchant  transactions  due  to  returns  and 
+disputes.  We  are  also  exposed  to  Shopify  Balance  losses  when  a  merchant  account  experiences  unauthorized 
+transactions where funds cannot be recovered or reversed. We are exposed to transaction losses on merchant cash 
+advances  offered  through  Shopify  Capital  as  a  result  of  fraud  or  uncollectibility.  We  provide  for  loan  losses 
+whenever the amortized cost of loans exceeds their fair value. Transaction and loan losses are expected to increase in 
+absolute dollars over time as merchant penetration and adoption grow. 
+
+ Other (Expense) Income
+
+Other  (expense)  income  consists  primarily  of  unrealized  and  realized  gains  or  losses  on  equity  and  other 
+investments,  transaction  gains  or  losses  on  foreign  currency,  interest  income,  and  interest  expense  related  to  the 
+Notes. Equity and other investments in publicly traded companies with readily determinable fair values are carried at 
+fair value at each balance sheet date based on the closing share price at the end of the period and any movements in 
+the  fair  value  are  recognized  into  other  (expense)  income.  Equity  and  other  investments  in  private  companies 
+
+18
+
+ 
+without  readily  determinable  fair  values  are  carried  at  cost  less  impairments,  with  subsequent  adjustments  for 
+observable changes (referred to as the measurement alternative). We also hold investments in convertible notes of 
+private  companies  which  are  classified  as  available-for-sale  debt  securities,  which  we  have  elected  to  account  for 
+under the fair value option. The investments are carried at fair value at each balance sheet date and any movements 
+in the fair value are recognized in other (expense) income. The results from these equity investments may fluctuate 
+from period to period and may cause volatility to our earnings as well as impact comparability of our results from 
+period to period.
+
+19
+
+Results of Operations 
+
+The  following  table  sets  forth  our  consolidated  statement  of  operations  for  the  years  ended  December  31,  2022, 
+2021, and 2020.
+
+Years ended December 31,
+
+2022
+
+2021
+(in thousands, except share and per share data)
+
+2020
+
+Revenues:
+
+Subscription solutions
+Merchant solutions
+
+Cost of revenues(5)(6):
+
+Subscription solutions
+Merchant solutions
+
+Gross profit
+Operating expenses:
+
+Sales and marketing(3)(5)(6)
+Research and development(3)(5)(6)
+General and administrative(2)(3)(4)(5)
+Transaction and loan losses
+
+Total operating expenses
+(Loss) income from operations
+Other (expense) income, net
+(Loss) income before income taxes
+Recovery of (provision for) income taxes
+Net (loss) income
+
+Net (loss) income per share attributable to shareholders(1):
+
+Basic
+
+Diluted
+
+Shares used to compute net (loss) income per share attributable to 
+shareholders(1):
+Basic
+
+$ 
+
+1,487,759 
+4,112,105 
+5,599,864 
+
+$ 
+
+1,342,334 
+3,269,522 
+4,611,856 
+
+$ 
+
+908,757 
+2,020,734 
+2,929,491 
+
+330,867 
+2,514,878 
+2,845,745 
+2,754,119 
+
+1,230,490 
+1,503,234 
+707,765 
+134,929 
+3,576,418 
+(822,299) 
+(2,800,549) 
+(3,622,848) 
+162,430 
+(3,460,418) 
+
+(2.73) 
+
+(2.73) 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+264,351 
+1,866,361 
+2,130,712 
+2,481,144 
+
+901,557 
+854,383 
+374,844 
+81,717 
+2,212,501 
+268,643 
+2,871,949 
+3,140,592 
+(225,933) 
+2,914,659 
+
+2.34 
+
+2.29 
+
+$ 
+
+$ 
+
+$ 
+
+193,532 
+1,194,439 
+1,387,971 
+1,541,520 
+
+602,048 
+552,127 
+245,343 
+51,849 
+1,451,367 
+90,153 
+150,211 
+240,364 
+79,145 
+319,509 
+
+0.27 
+
+0.26 
+
+ 1,266,268,155 
+
+ 1,246,588,910 
+
+ 1,195,697,050 
+
+Diluted
+
+ 1,273,647,350 
+(1) Prior year share and per share amounts have been retrospectively adjusted to reflect the Share Split effected in June 2022. 
+(2) Includes $97 million of expense related to litigation matters. Refer to the "Litigation and Loss Contingencies" section below for additional 
+information.
+(3) In the year ended December 31, 2022, we had $30.5 million of severance related costs associated with the one-time reduction in workforce 
+with $10.9 million in sales and marketing, $8.4 million in research and development and $11.2 million in general and administrative.
+(4) In the years ended December 31, 2022, 2021, and 2020, we had $84.3 million, $30.1 million, and $31.6 million, respectively, of impairment 
+related costs associated with right-of-use assets and leasehold improvements.
+
+ 1,266,268,155 
+
+ 1,234,632,740 
+
+(5) Includes stock-based compensation expense and related payroll taxes as follows: 
+
+2022
+
+Cost of revenues
+Sales and marketing
+Research and development
+General and administrative
+
+$ 
+
+$ 
+
+20
+
+Years ended December 31,
+2021
+(in thousands)
+7,642 
+$ 
+47,283 
+250,787 
+91,337 
+397,049 
+
+$ 
+
+$ 
+
+$ 
+
+8,896 
+64,696 
+396,063 
+93,206 
+562,861 
+
+2020
+
+7,472 
+46,390 
+188,249 
+52,195 
+294,306 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(6) Includes amortization of acquired intangibles as follows: 
+
+Cost of revenues
+
+Sales and marketing
+
+Research and development
+
+Years ended December 31,
+
+2022
+
+2021
+
+2020
+
+(in thousands)
+
+$ 
+
+48,668 
+
+$ 
+
+20,399 
+
+$ 
+
+19,488 
+
+4,958 
+
+76 
+
+1,544 
+
+206 
+
+1,548 
+
+233 
+
+$ 
+
+53,702 
+
+$ 
+
+22,149 
+
+$ 
+
+21,269 
+
+The following table sets forth our consolidated statement of operations as a percentage of total revenues for the years 
+ended December 31, 2022, 2021, and 2020.
+
+Revenues:
+
+Subscription solutions
+Merchant solutions
+
+Cost of revenues:
+
+Subscription solutions
+Merchant solutions
+
+Gross profit
+Operating expenses:
+
+Sales and marketing
+Research and development
+General and administrative
+Transaction and loan losses
+
+Total operating expenses
+(Loss) income from operations
+Other (expense) income, net
+(Loss) income before income taxes
+Recovery of (provision for) income taxes
+Net (loss) income
+
+Years ended December 31,
+2021
+
+2020
+
+2022
+
+ 26.6 %
+ 73.4 %
+ 100.0 %
+
+ 5.9 %
+ 44.9 %
+ 50.8 %
+ 49.2 %
+
+ 22.0 %
+ 26.8 %
+ 12.6 %
+ 2.4 %
+ 63.9 %
+ (14.7) %
+ (50.0) %
+ (64.7) %
+ 2.9 %
+ (61.8) %
+
+ 29.1 %
+ 70.9 %
+ 100.0 %
+
+ 5.7 %
+ 40.5 %
+ 46.2 %
+ 53.8 %
+
+ 19.5 %
+ 18.5 %
+ 8.1 %
+ 1.8 %
+ 48.0 %
+ 5.8 %
+ 62.3 %
+ 68.1 %
+ (4.9) %
+ 63.2 %
+
+ 31.0 %
+ 69.0 %
+ 100.0 %
+
+ 6.6 %
+ 40.8 %
+ 47.4 %
+ 52.6 %
+
+ 20.6 %
+ 18.8 %
+ 8.4 %
+ 1.8 %
+ 49.5 %
+ 3.1 %
+ 5.1 %
+ 8.2 %
+ 2.7 %
+ 10.9 %
+
+The following table sets forth our consolidated revenues by geographic location for the years ended December 31, 
+2022, 2021, and 2020, based on the location of our merchants.
+
+Revenues:
+
+North America
+
+Canada
+United States
+
+EMEA
+APAC
+Latin America
+Total Revenues
+
+2022
+
+Years ended December 31,
+2021
+(in thousands)
+
+2020
+
+$ 
+
+$ 
+
+345,915 
+3,719,489 
+917,116 
+553,361 
+63,983 
+5,599,864 
+
+$ 
+
+$ 
+
+316,699 
+2,973,934 
+799,602 
+467,009 
+54,612 
+4,611,856 
+
+$ 
+
+$ 
+
+192,721 
+1,954,105 
+454,269 
+292,240 
+36,156 
+2,929,491 
+
+21
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The following table sets forth our consolidated revenues by geographic location as a percentage of total revenues for 
+the years ended December 31, 2022, 2021, and 2020, based on the location of our merchants.
+
+Revenues:
+
+North America
+
+Canada
+United States
+
+EMEA
+APAC
+Latin America
+Total Revenues
+
+Years ended December 31,
+2021
+
+2020
+
+2022
+
+ 6.2 %
+ 66.4 %
+ 16.4 %
+ 9.9 %
+ 1.1 %
+ 100.0 %
+
+ 6.9 %
+ 64.5 %
+ 17.3 %
+ 10.1 %
+ 1.2 %
+ 100.0 %
+
+ 6.6 %
+ 66.7 %
+ 15.5 %
+ 10.0 %
+ 1.2 %
+ 100.0 %
+
+Discussion of the Results of Operations for the years ended December 31, 2022, 2021, and 2020
+
+Revenues
+
+Revenues:
+
+Subscription solutions
+Merchant solutions
+
+Total revenues
+Percentage of revenues:
+Subscription solutions
+Merchant solutions
+
+Subscription Solutions  
+
+Years ended December 31,
+2021
+
+2022
+
+2022 vs 2021
+% Change
+
+2021 vs 2020
+% Change
+
+2020
+(in thousands, except percentages)
+
+$  1,487,759 
+  4,112,105 
+
+$  1,342,334 
+  3,269,522 
+
+$ 
+908,757 
+  2,020,734 
+
+$  5,599,864 
+
+$  4,611,856 
+
+$  2,929,491 
+
+ 10.8 %
+ 25.8 %
+
+ 21.4 %
+
+ 47.7 %
+ 61.8 %
+
+ 57.4 %
+
+ 26.6 %
+ 73.4 %
+
+ 100.0 %
+
+ 29.1 %
+ 70.9 %
+
+ 100.0 %
+
+ 31.0 %
+ 69.0 %
+
+ 100.0 %
+
+Subscription  solutions  revenues  increased  $145.4  million,  or  10.8%,  for  the  year  ended  December  31,  2022 
+compared to the same period in 2021. Subscription solutions revenues increased $433.6 million, or 47.7%, for the 
+year ended December 31, 2021 compared to the same period in 2020. The increase in both periods was primarily a 
+result of growth in MRR driven by the higher number of merchants using our platform. The increase from 2021 to 
+2022 was offset partially by the growth in adoption of localized pricing in various jurisdictions, the introduction of 
+additional free and paid trial incentives, and the impact of introducing our new partner pricing terms for both app 
+and theme developers in the fourth quarter of 2021, which eliminated our revenue share on the first million dollars 
+made by the developers annually in order to attract the best developers in the world.
+
+Merchant Solutions 
+
+Merchant solutions revenues increased $842.6 million, or 25.8%, for the year ended December 31, 2022 compared 
+to the same period in 2021. The increase in merchant solutions revenues was primarily a result of Shopify Payments 
+revenue, relating to payment processing and currency conversion fees, growing by $579.2 million, or 24.1%, in 2022 
+compared to the same period in 2021. This increase was a result of an increase in our Shopify Payments penetration 
+rate and number of merchants using our platform. These factors drove $20.3 billion of additional GMV facilitated 
+using Shopify Payments in 2022 compared to the same period in 2021, representing growth of 23.6% year over year. 
+For  the  year  ended  December  31,  2022,  the  Shopify  Payments  penetration  rate  was  53.8%,  resulting  in  GMV  of 
+$106.1 billion that was facilitated using Shopify Payments. This compares to a penetration rate of 48.9%, resulting 
+in GMV of $85.8 billion that was facilitated using Shopify Payments in the same period in 2021. As at December 
+31, 2022 Shopify Payments adoption among our merchants was as follows: Canada, 92%, United States, 88%, and 
+other countries where Shopify Payments is available, 77% (December 31, 2021 - Canada, 92%; United States, 88%; 
+and other countries where Shopify Payments is available, 84%).
+
+In  addition  to  the  increase  in  revenue  from  Shopify  Payments,  our  logistics  offerings,  non-cash  consideration 
+received for services rendered as part of strategic partnerships, Shopify Capital, referral fees from partners, and Shop 
+22
+
+Pay  Installments  revenues  increased  during  the  year  ended  December  31,  2022  compared  to  the  same  period  in 
+2021.  Our  logistics  offerings  increased  as  a  result  of  the  acquisition  of  Deliverr.  The  increases  in  non-cash 
+consideration  received  for  services  rendered  as  part  of  strategic  partnerships  and  referral  fees  from  partners  were 
+driven largely by an increase in the number of arrangements with partners, as well as an increase in referral activity, 
+when compared to the same period in 2021. Shopify Capital revenue increased mainly as a result of an increase in 
+the loans and advances outstanding throughout the period coupled with an increase in GMV. Shop Pay Installments 
+revenue increased due to an increase in GMV processed through Shop Pay Installments.
+
+Merchant solutions revenues increased $1,248.8 million, or 61.8%, for the year ended December 31, 2021 compared 
+to the same period in 2020. The increase in merchant solutions revenues was primarily a result of Shopify Payments 
+revenue  growing  by  $879.0  million,  or  57.7%.  Additionally,  revenue  from  referral  fees  from  partners,  non-cash 
+consideration  received  for  services  rendered  as  part  of  strategic  partnerships,  Shopify  Capital,  Shopify  Shipping, 
+revenue from transaction fees, our logistics offerings, and advertising revenue on the Shopify app store increased for 
+the year ended December 31, 2021 compared to the same period in 2020.
+
+Cost of Revenues 
+
+2022
+
+Years ended December 31,
+2021
+
+2020
+(in thousands, except percentages)
+
+2022 vs 2021
+% Change
+
+2021 vs 2020
+% Change
+
+Cost of revenues:
+
+Cost of subscription solutions
+Cost of merchant solutions
+
+Total cost of revenues
+Percentage of revenues:
+
+Cost of subscription solutions
+Cost of merchant solutions
+
+Cost of Subscription Solutions 
+
+$ 
+330,867 
+  2,514,878 
+$  2,845,745 
+
+$ 
+264,351 
+  1,866,361 
+$  2,130,712 
+
+$ 
+193,532 
+  1,194,439 
+$  1,387,971 
+
+ 25.2 %
+ 34.7 %
+ 33.6 %
+
+ 36.6 %
+ 56.3 %
+ 53.5 %
+
+ 5.9 %
+ 44.9 %
+ 50.8 %
+
+ 5.7 %
+ 40.5 %
+ 46.2 %
+
+ 6.6 %
+ 40.8 %
+ 47.4 %
+
+Cost of subscription solutions increased $66.5 million, or 25.2%, for the year ended December 31, 2022 compared to 
+the same period in 2021. The increase was due to an increase in the costs necessary to support the growth in traffic 
+and functionality of our platform across multiple jurisdictions, resulting in an increase in: cloud infrastructure costs, 
+employee-related costs, and credit card fees for processing merchant billings. The increase was slightly offset with a 
+decrease in recognized cost of sales related to third-party partners for the development of themes as we commenced 
+recognizing revenue for the sale of themes net of costs in the fourth quarter of 2021. As a percentage of revenues, 
+costs of subscription solutions increased from 5.7% in 2021 to 5.9% in 2022 due to an increase in infrastructure and 
+hosting  costs  slightly  offset  by  a  decrease  in  recognized  cost  of  sales  related  to  third-party  partners  for  the 
+development of themes.
+
+Cost of subscription solutions increased $70.8 million, or 36.6%, for the year ended December 31, 2021 compared to 
+the same period in 2020. The increase was primarily due to higher third-party infrastructure and hosting costs, credit 
+card  fees  for  processing  merchant  billings,  employee-related  costs,  and  payments  to  third-party  partners  for  the 
+registration of domain names.
+
+Cost of Merchant Solutions 
+
+Cost of merchant solutions increased $648.5 million, or 34.7%, for the year ended December 31, 2022 compared to 
+the  same  period  in  2021.  The  increase  was  primarily  due  to  higher  payment  processing  fees  resulting  from  an 
+increase in GMV facilitated through Shopify Payments and due to an increase in costs associated with our logistics 
+offerings as a result of revenue growth from the acquisition of Deliverr. Cost of merchant solutions as a percentage 
+of revenues increased from 40.5% in 2021 to 44.9% in 2022 mainly due to Shopify Payments representing a larger 
+percentage of total revenues and higher payment processing fees from Shopify Payments, caused by an increase in 
+network costs and changes in payment card type, relative to the increase in Shopify Payments revenue. The increase 
+is also driven by the increase in costs associated with our logistics offerings as a result of revenue growth from the 
+acquisition of Deliverr, including the related amortization of acquired intangibles.
+
+23
+
+Cost of merchant solutions increased $671.9 million, or 56.3%, for the year ended December 31, 2021 compared to 
+the  same  period  in  2020.  The  increase  was  primarily  due  to  the  increase  in  GMV  facilitated  through  Shopify 
+Payments, which resulted in higher payment processing fees. The increase was also due in part to costs associated 
+with our logistics offerings, materials and third-party manufacturing costs, credit card fees for processing merchant 
+billings, product costs associated with expanding our product offerings, infrastructure and hosting costs, cost of POS 
+hardware units, employee-related costs, and amortization of acquired technology.
+
+Gross Profit 
+
+Gross profit
+Percentage of total revenues
+
+Years ended December 31,
+2021
+
+2022
+
+2022 vs 2021
+% Change
+
+2021 vs 2020
+% Change
+
+2020
+(in thousands, except percentages)
+$  1,541,520 
+
+$  2,754,119 
+
+$  2,481,144 
+
+ 11.0 %
+
+ 61.0 %
+
+ 49.2 %
+
+ 53.8 %
+
+ 52.6 %
+
+Gross profit increased $273.0 million, or 11.0%, for the year ended December 31, 2022 compared to the same period 
+in 2021. As a percentage of total revenues, gross profit decreased from 53.8% in the year ended December 31, 2021 
+to  49.2%  in  the  year  ended  December  31,  2022,  principally  due  to  Shopify  Payments  representing  a  larger 
+percentage  of  total  revenues,  higher  payment  processing  fees  from  Shopify  Payments,  caused  by  an  increase  in 
+network  costs  and  changes  in  payment  card  type  relative  to  the  increase  in  Shopify  Payments  revenue,  higher 
+infrastructure  and  hosting  costs,  and  the  inclusion  of  Deliverr  operations  in  our  results,  including  the  related 
+amortization of acquired intangibles. This was partly offset by an increase in higher margin revenue streams, such as 
+non-cash consideration received for services rendered as part of strategic partnerships. 
+
+Gross profit increased $939.6 million, or 61.0%, for the year ended December 31, 2021 compared to the same period 
+in 2020. As a percentage of total revenues, gross profit increased from 52.6% in the year ended December 31, 2020 
+to  53.8%  in  the  year  ended  December  31,  2021,  principally  due  to  higher  revenues  from  higher  margin  revenue 
+streams.
+
+Operating Expenses 
+
+Sales and Marketing 
+
+2022
+
+Years ended December 31,
+2021
+
+2020
+(in thousands, except percentages)
+
+2022 vs 2021
+% Change
+
+2021 vs 2020
+% Change
+
+Sales and marketing
+Percentage of total revenues
+
+$  1,230,490 
+
+$ 
+
+901,557 
+
+$ 
+
+602,048 
+
+ 36.5 %
+
+ 49.7 %
+
+ 22.0 %
+
+ 19.5 %
+
+ 20.6 %
+
+Sales and marketing expenses increased $328.9 million, or 36.5%, for the year ended December 31, 2022 compared 
+to the same period in 2021, due to an increase of $178.5 million in employee-related costs ($17.4 million of which 
+related  to  stock-based  compensation  and  related  payroll  taxes),  as  a  result  of  higher  headcount  in  sales  and 
+marketing  in  the  year  ended  December  31,  2022  compared  to  same  period  in  2021.  The  increase  in  sales  and 
+marketing expense also includes an increase of $129.2 million spent on marketing programs to support the growth of 
+our  business,  such  as  advertisements  on  display  ads  and  media.  Additionally,  severance  related  costs  of  $10.9 
+million were incurred in an effort to recalibrate our operations.
+
+Sales and marketing expenses increased $299.5 million, or 49.7%, for the year ended December 31, 2021 compared 
+to the same period in 2020, primarily due to an increase of $196.5 million in expenditures on marketing programs. In 
+addition to marketing costs, employee-related costs increased by $92.7 million and computer hardware and software 
+costs increased by $10.3 million.
+
+24
+
+Research and Development
+
+2022
+
+Years ended December 31,
+2021
+
+2020
+(in thousands, except percentages)
+
+2022 vs 2021
+% Change
+
+2021 vs 2020
+% Change
+
+Research and development   
+Percentage of total revenues   
+
+$  1,503,234 
+
+$ 
+
+854,383 
+
+$ 
+
+552,127 
+
+ 75.9 %
+
+ 54.7 %
+
+ 26.8 %
+
+ 18.5 %
+
+ 18.8 %
+
+Research  and  development  expenses  increased  $648.9  million,  or  75.9%,  for  the  year  ended  December  31,  2022 
+compared to the same period in 2021, due to an increase of $601.2 million in employee-related costs ($145.3 million 
+of  which  related  to  stock-based  compensation  and  related  payroll  taxes),  including  the  impact  of  increased 
+headcount  associated  with  the  acquisition  of  Deliverr  and  a  $24.1  million  increase  in  computer  hardware  and 
+software costs, all as a result of growth in our research and development employee base and expanded development 
+programs.  Additionally,  severance  related  costs  of  $8.4  million  were  incurred  in  an  effort  to  recalibrate  our 
+operations.
+
+Research  and  development  expenses  increased  $302.3  million,  or  54.7%,  for  the  year  ended  December  31,  2021 
+compared to the same period in 2020, due to an increase of $278.7 million in employee-related costs and an increase 
+of $21.8 million in computer and software costs, all as a result of growth in our research and development employee 
+base and expanded development program.
+
+General and Administrative 
+
+2022
+
+Years ended December 31,
+2021
+
+2020
+(in thousands, except percentages)
+
+2022 vs 2021
+% Change
+
+2021 vs 2020
+% Change
+
+General and administrative   
+Percentage of total revenues   
+
+$ 
+
+707,765 
+
+$ 
+
+374,844 
+
+$ 
+
+245,343 
+
+ 88.8 %
+
+ 52.8 %
+
+ 12.6 %
+
+ 8.1 %
+
+ 8.4 %
+
+General  and  administrative  expenses  increased  $332.9  million,  or  88.8%,  for  the  year  ended  December  31,  2022 
+compared to the same period in 2021, due to an increase of $111.0 million in employee-related costs ($1.9 million of 
+which  related  to  stock-based  compensation  and  related  payroll  taxes),  a  $97.0  million  increase  in  litigation 
+contingencies, a $54.2 million increase in impairment expenses related to office locations we ceased using, a $32.6 
+million increase in professional services for legal and financial services including the acquisition related fees for the 
+Deliverr acquisition, a $12.7 million increase in public company expenses, a $11.2 million increase due to severance 
+related costs incurred in an effort to recalibrate our operations, and a $7.8 million increase in bad debt expense. 
+
+General  and  administrative  expenses  increased  $129.5  million,  or  52.8%,  for  the  year  ended  December  31,  2021 
+compared to the same period in 2020, due to an increase of $94.9 million in employee-related costs, an increase of 
+$17.5  million  in  finance  costs,  which  includes  indirect  taxes,  general  bad  debt  expense  related  to  expected  credit 
+losses,  insurance,  depreciation  of  computers,  and  sustainability  spend,  and  an  increase  of  $11.9  million  in 
+professional services for legal and financial services. 
+
+Transaction and Loan Losses
+
+2022
+
+Years ended December 31,
+2021
+
+2020
+(in thousands, except percentages)
+
+2022 vs 2021
+% Change
+
+2021 vs 2020
+% Change
+
+Transaction and loan losses
+Percentage of total revenues   
+
+$ 
+
+134,929 
+
+$ 
+
+81,717 
+
+$ 
+
+51,849 
+
+ 65.1 %
+
+ 57.6 %
+
+ 2.4 %
+
+ 1.8 %
+
+ 1.8 %
+
+Transaction and loan losses increased $53.2 million, or 65.1%, for the year ended December 31, 2022 compared to 
+the same period in 2021, due to an increase in Shopify Payments and Shop Pay Installments losses of $26.9 million, 
+as a result of an increase in realized and expected losses and increased GMV processed through Shopify Payments 
+and Shop Pay Installments. The increase can also be attributed to an increase in losses related to Shopify Capital of 
+
+25
+
+ 
+$25.8  million  driven  by  an  expansion  of  our  Capital  offerings  and  programs  as  well  as  an  increase  in  current 
+expected losses related to Shopify Capital relative to the same period in 2021. 
+
+Transaction and loan losses increased $29.9 million, or 57.6%, for the year ended December 31, 2021 compared to 
+the  same  period  in  2020,  due  to  an  increase  of  $20.4  million  in  losses  related  to  Shopify  Capital  driven  by  an 
+expansion of our Capital offerings and programs as well as an increase in current expected losses, and an increase of 
+$9.5 million in losses related to Shopify Payments and Shop Pay Installments, as a result of an increase in realized 
+losses in the period and increased GMV processed through Shopify Payments and Shop Pay Installments, offset by a 
+decrease in the current expected loss rate related to Shopify Payments relative to the same period in 2020. 
+
+Other (Expense) Income 
+
+2022
+
+Years ended December 31,
+2021
+
+2020
+(in thousands, except percentages)
+
+2022 vs 2021
+% Change
+
+2021 vs 2020
+% Change
+
+Other (expense) income, net   
+
+$ 
+
+(2,800,549) 
+
+$ 
+
+2,871,949 
+
+$ 
+
+150,211 
+
+*
+
+*
+
+*  Not a meaningful comparison 
+
+In  the  year  ended  December  31,  2022,  we  had  other  expenses  of  $2.8  billion  compared  to  other  income  of  $2.9 
+billion and $150.3 million in the same periods in 2021 and 2020, respectively. 
+
+In the year ended December 31, 2022, we had a net unrealized loss on equity and other investments of $3.0 billion, 
+of which $2.7 billion was in investments with readily determinable fair values mainly related to the change in share 
+prices from December 31, 2021 to December 31, 2022 in our Affirm and Global-E investments, and $287.6 million 
+of unrealized losses related to investments without readily determinable fair values due to impairments in the year. 
+The unrealized losses were offset slightly by net realized gains on equity and other investments of $124.0 million 
+and interest income of $79.1 million.
+
+In the year ended December 31, 2021, we had an unrealized gain on equity and other investments of $2.9 billion due 
+mainly to our investments with readily determinable fair values and interest income of $15.4 million, offset slightly 
+by interest expense of $3.5 million.  
+
+In the year ended December 31, 2020, we had an unrealized gain on equity and other investments of $135.2 million, 
+interest income of $23.4 million, offset slightly by interest expense of $9.1 million.
+
+Recovery of (Provision for) Income Taxes
+
+2022
+
+Years ended December 31,
+2021
+
+2020
+(in thousands, except percentages)
+
+2022 vs 2021
+% Change
+
+2021 vs 2020
+% Change
+
+Recovery of (provision for) 
+
+Income taxes
+
+*  Not a meaningful comparison 
+
+$ 
+
+162,430 
+
+$ 
+
+(225,933) 
+
+$ 
+
+79,145 
+
+*
+
+*
+
+In the year ended December 31, 2022, we had a recovery of income taxes of $162.4 million primarily as a result of 
+the unrealized loss on equity and other investments, share-based compensation, and change in valuation allowance 
+related to deferred tax assets in Canada as well as the United States. This compares to a provision for income taxes 
+of $225.9 million in the same period in 2021 primarily related to unrealized gains on equity and other investments, 
+ongoing  operations,  other  discrete  items,  primarily  related  to  tax  benefits  for  share-based  compensation,  the 
+impairment of right-of-use assets and fixed assets, our ability to carry-back losses to prior years in Canada, and the 
+recognition of deferred tax assets in Canada.
+
+As a result of the application of our tax rates on the results of ongoing operations, other discrete items, primarily 
+related  to  share-based  compensation,  non-taxable  unrealized  gains  on  equity  and  other  investments,  change  in 
+valuation allowance related to deferred tax assets in the United States, and the reversal of the valuation allowance 
+related to deferred tax assets in Canada, we had a provision for income taxes of $225.9 million in the year ended 
+December 31, 2021, compared to a recovery of income taxes of $79.1 million in the same period in 2020.
+
+26
+
+(Loss) Profit
+
+2022
+
+Net (loss) income
+
+$ 
+
+(3,460,418) 
+
+$ 
+
+Net (loss) income per share 
+attributable to shareholders:
+
+Years ended December 31,
+2021
+
+2022 vs 2021
+% Change
+
+2020
+(in thousands, except share and per share data)
+2,914,659 
+
+319,509 
+
+$ 
+
+*
+
+Basic
+
+Diluted
+
+$ 
+
+$ 
+
+(2.73) 
+
+(2.73) 
+
+$ 
+
+$ 
+
+2.34 
+
+2.29 
+
+$ 
+
+$ 
+
+0.27 
+
+0.26 
+
+Shares used to compute net (loss) 
+income per share attributable to 
+shareholders:
+
+Basic
+
+Diluted
+
+1,266,268,155
+
+1,246,588,910
+
+1,195,697,050
+
+1,266,268,155
+
+1,273,647,350
+
+1,234,632,740
+
+*  Not a meaningful comparison 
+
+*
+
+*
+
+*
+
+*
+
+2021 vs 2020
+% Change
+
+*
+
+*
+
+*
+
+*
+
+*
+
+For the year ended December 31, 2022, basic and diluted net loss per share attributable to shareholders was $2.73, 
+when  compared  to  basic  and  diluted  net  income  per  share  attributable  to  shareholders  of  $2.34  and  $2.29, 
+respectively,  in  the  same  period  in  2021.  The  net  loss  is  largely  due  to  net  unrealized  losses  on  equity  and  other 
+investments. Basic and diluted net loss per share attributable to shareholders of $0.27 and $0.26, respectively, for the 
+year ended December 31, 2020 increased to basic and diluted net income per share attributable to share attributable 
+to shareholders of $2.34 and $2.29, respectively, in the year ended December 31, 2021.
+
+27
+
+Quarterly Results of Operations 
+
+The following table sets forth our results of operations for the three months ended December 31, 2022 and 2021.
+
+Revenues:
+
+Subscription solutions
+
+Merchant solutions
+
+Cost of revenues(3)(4):
+
+Subscription solutions
+
+Merchant solutions
+
+Gross profit
+
+Operating expenses:
+
+Sales and marketing(3)(4)
+Research and development(3)(4)
+General and administrative(2)(3)
+Transaction and loan losses
+
+Total operating expenses
+
+(Loss) income from operations
+
+Other expense, net
+
+Loss before income taxes
+
+(Provision for) recovery of  income taxes
+
+Net loss
+
+Net loss per share attributable to shareholders(1):
+
+Basic 
+
+Diluted
+
+Shares used to compute net loss per share attributable to shareholders(1):
+
+Basic
+
+Diluted
+
+Three months ended December 31,
+
+2022
+
+2021
+
+(in thousands, except share and per 
+share data)
+
+$ 
+
+400,254 
+
+$ 
+
+351,208 
+
+1,334,724 
+
+1,734,978 
+
+1,028,816 
+
+1,380,024 
+
+85,771 
+
+850,699 
+
+936,470 
+
+798,508 
+
+297,741 
+
+440,547 
+
+214,651 
+
+34,318 
+
+987,257 
+
+(188,749) 
+
+(425,859) 
+
+(614,608) 
+
+(9,086) 
+
+75,587 
+
+611,778 
+
+687,365 
+
+692,659 
+
+275,475 
+
+273,912 
+
+101,054 
+
+27,814 
+
+678,255 
+
+14,404 
+
+(503,123) 
+
+(488,719) 
+
+117,408 
+
+$ 
+
+(623,694) 
+
+$ 
+
+(371,311) 
+
+$ 
+
+$ 
+
+(0.49) 
+
+(0.49) 
+
+$ 
+
+$ 
+
+(0.30) 
+
+(0.30) 
+
+1,273,338,804 
+
+1,257,347,550 
+
+1,273,338,804 
+
+1,257,347,550 
+
+(1) Prior period share and per share amounts have been retrospectively adjusted to reflect the ten-for-one share split ("Share Split") effected in June 
+2022. 
+(2) In the three months ended December 31, 2022, we had $84.3 million of impairment related costs associated with right-of-use assets and 
+leasehold improvements.
+
+28
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3) Includes stock-based compensation expense and related payroll taxes as follows: 
+
+Cost of revenues
+
+Sales and marketing
+
+Research and development
+
+General and administrative
+
+(4) Includes amortization of acquired intangibles as follows: 
+
+Cost of revenues
+
+Sales and marketing
+
+Research and development
+
+Revenues
+
+Revenues:
+
+Subscription solutions
+
+Merchant solutions
+
+Total revenues
+
+Percentage of revenues:
+
+Subscription solutions
+
+Merchant solutions
+
+Subscription Solutions  
+
+Three months ended December 31,
+
+2022
+
+2021
+
+(in thousands)
+
+$ 
+
+1,977 
+
+$ 
+
+14,894 
+
+103,587 
+
+24,447 
+
+1,995 
+
+13,735 
+
+74,932 
+
+18,735 
+
+$ 
+
+144,905 
+
+$ 
+
+109,397 
+
+Three months ended December 31,
+
+2022
+
+2021
+
+(in thousands)
+
+18,359 
+
+$ 
+
+2,163 
+
+— 
+
+20,522 
+
+$ 
+
+5,960 
+
+386 
+
+32 
+
+6,378 
+
+$ 
+
+$ 
+
+Three months ended December 31,
+
+2022 vs. 2021
+
+2022
+
+2021
+
+% Change
+
+(in thousands, except percentages)
+
+$ 
+
+400,254 
+
+$ 
+
+351,208 
+
+1,334,724 
+
+1,028,816 
+
+$ 
+
+1,734,978 
+
+$ 
+
+1,380,024 
+
+ 14.0 %
+
+ 29.7 %
+
+ 25.7 %
+
+ 23.1 %
+
+ 76.9 %
+
+ 100.0 %
+
+ 25.4 %
+
+ 74.6 %
+
+ 100.0 %
+
+Subscription solutions revenues increased $49.0 million, or 14.0%, for the three months ended December 31, 2022 
+compared  to  the  same  period  in  2021.  The  period-over-period  increase  was  primarily  a  result  of  growth  in  MRR, 
+which was driven largely by the higher number of merchants using our platform, and increased app revenue due to 
+more app developers surpassing their first million in sales prior to the fourth quarter of 2022 compared to the same 
+period  in  2021.  The  increase  was  offset  partially  by  the  growth  in  adoption  of  localized  pricing  in  various 
+jurisdictions and the introduction of additional free and paid trial incentives. 
+
+Merchant Solutions 
+
+Merchant  solutions  revenues  increased  $305.9  million,  or  29.7%,  for  the  three  months  ended  December  31,  2022 
+compared to the same period in 2021. The increase in merchant solutions revenues was primarily a result of Shopify 
+Payments revenue, relating to payment processing and currency conversion fees, growing in the three months ended 
+December 31, 2022 compared to the same period in 2021. This increase was a result of an increase in our Shopify 
+Payments  penetration  rate  and  number  of  merchants  using  our  platform.  These  factors  drove  $6.5  billion  of 
+
+29
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+additional GMV facilitated using Shopify Payments in the three months ended December 31, 2022 compared to the 
+same period in 2021, representing growth of 23.5% quarter over quarter. For the three months ended December 31, 
+2022, the Shopify Payments penetration rate was 56.2%, resulting in GMV of $34.2 billion that was facilitated using 
+Shopify  Payments.  This  compares  to  a  penetration  rate  of  51.3%  resulting  in  GMV  of  $27.7  billion  that  was 
+facilitated using Shopify Payments in the same period in 2021.
+
+In  addition  to  the  increase  in  revenue  from  Shopify  Payments,  our  logistics  offerings,  referral  fees  from  partners, 
+non-cash  consideration  received  for  services  rendered  as  part  of  strategic  partnerships,  Shopify  Capital,  and  Shop 
+Pay  Installments  revenues  increased  during  the  three  months  ended  December  31,  2022,  compared  to  the  same 
+period in 2021. Our logistics offerings increased as a result of the acquisition of Deliverr. The increases in non-cash 
+consideration  received  for  services  rendered  as  part  of  strategic  partnerships  and  referral  fees  from  partners  were 
+driven largely by an increase in the number of arrangements with partners, as well as an increase in referral activity, 
+when compared to the same period in 2021. Shopify Capital revenue increased mainly as a result of an increase in 
+the loans and advances outstanding throughout the period coupled with the increase in GMV. Shop Pay Installments 
+revenue increased due to an increase in GMV processed through Shop Pay Installments. 
+
+Cost of Revenues 
+
+Cost of revenues:
+
+Cost of subscription solutions
+
+Cost of merchant solutions
+
+Total cost of revenues
+
+Percentage of revenues:
+
+Cost of subscription solutions
+
+Cost of merchant solutions
+
+Cost of Subscription Solutions 
+
+Three months ended December 31,
+
+2022 vs. 2021
+
+2022
+
+2021
+
+% Change
+
+(in thousands, except percentages)
+
+$ 
+
+$ 
+
+85,771 
+
+850,699 
+
+936,470 
+
+$ 
+
+$ 
+
+75,587 
+
+611,778 
+
+687,365 
+
+ 13.5 %
+
+ 39.1 %
+
+ 36.2 %
+
+ 4.9 %
+
+ 49.0 %
+
+ 54.0 %
+
+ 5.5 %
+
+ 44.3 %
+
+ 49.8 %
+
+Cost  of  subscription  solutions  increased  $10.2  million,  or  13.5%,  for  the  three  months  ended  December  31,  2022 
+compared  to  the  same  period  in  2021.  The  increase  was  due  to  an  increase  in  the  costs  necessary  to  support  the 
+growth  in  traffic  and  functionality  of  our  platform  across  multiple  jurisdictions,  resulting  in  an  increase  in  cloud 
+infrastructure  costs  and  credit  card  fees  for  processing  merchant  billings.  As  a  percentage  of  revenues,  cost  of 
+subscription solutions decreased from 5.5% in the three months ended December 31, 2021 to 4.9% in three months 
+ended December 31, 2022 due to subscription solutions revenue representing a smaller percentage of total revenues. 
+
+Cost of Merchant Solutions 
+
+Cost  of  merchant  solutions  increased  $238.9  million,  or  39.1%,  for  the  three  months  ended  December  31,  2022 
+compared to the same period in 2021. The increase was primarily due to higher payment processing fees resulting 
+from an increase in GMV facilitated through Shopify Payments and due to higher costs associated with our logistics 
+offerings as a result of revenue growth from the acquisition of Deliverr. Cost of merchant solutions as a percentage 
+of revenues increased from 44.3% in the three months ended December 31, 2021 to 49.0% in the three months ended 
+December 31, 2022 due mainly to the increase in costs associated with our logistics offerings as a result of revenue 
+growth  from  the  acquisition  of  Deliverr,  and  by  the  relative  growth  of  Shopify  Payments  revenue  and  higher 
+payment processing fees from Shopify Payments, caused by an increase in network costs and changes in payment 
+card type.
+
+30
+
+ 
+ 
+ 
+Gross Profit 
+
+Gross profit
+
+Percentage of total revenues
+
+Three months ended December 31,
+
+2022 vs. 2021
+
+2022
+
+2021
+
+% Change
+
+(in thousands, except percentages)
+
+$ 
+
+798,508 
+
+$ 
+
+692,659 
+
+ 15.3 %
+
+ 46.0 %
+
+ 50.2 %
+
+Gross profit increased $105.8 million, or 15.3%, for the three months ended December 31, 2022 compared to the 
+same period in 2021. As a percentage of total revenues, gross profit decreased from 50.2% in the three months ended 
+December  31,  2021  to  46.0%  in  the  three  months  ended  December  31,  2022,  principally  due  to  the  inclusion  of 
+Deliverr operations in our results, including the related amortization of acquired intangibles, and the relative growth 
+in Shopify Payments revenue and higher payment processing fees from Shopify Payments, caused by an increase in 
+network  costs  and  changes  in  payment  card  type.  This  was  partly  offset  by  an  increase  in  higher  margin  revenue 
+streams, such as non-cash consideration received for services rendered as part of strategic partnerships.
+
+Operating Expenses 
+
+Sales and Marketing 
+
+Sales and marketing
+
+Percentage of total revenues
+
+Three months ended December 31,
+
+2022 vs. 2021
+
+2022
+
+2021
+
+% Change
+
+(in thousands, except percentages)
+
+$ 
+
+297,741 
+
+$ 
+
+275,475 
+
+ 8.1 %
+
+ 17.2 %
+
+ 20.0 %
+
+Sales  and  marketing  expenses  increased  $22.3  million,  or  8.1%,  for  the  three  months  ended  December  31,  2022 
+compared to the same period in 2021, due to an increase of $23.9 million in employee-related costs ($1.2 million of 
+which related to stock-based compensation and related payroll taxes), compared to the same period in 2021.
+
+Research and Development
+
+Research and development   
+
+Percentage of total revenues   
+
+Three months ended December 31,
+
+2022 vs. 2021
+
+2022
+
+2021
+
+% Change
+
+(in thousands, except percentages)
+
+$ 
+
+440,547 
+
+$ 
+
+273,912 
+
+ 60.8 %
+
+ 25.4 %
+
+ 19.8 %
+
+Research and development expenses increased $166.6 million, or 60.8%, for the three months ended December 31, 
+2022 compared to the same period in 2021, due to an increase of $151.3 million in employee-related costs ($28.7 
+million of which related to stock-based compensation and related payroll taxes), including the impact of increased 
+headcount  associated  with  the  acquisition  of  Deliverr,  and  a  $6.1  million  increase  in  computer  hardware  and 
+software costs, all as a result of the growth in our employee base and expanded development. The increase is also 
+due to a $9.1 million increase in facilities costs as we prepare for operations at our new fulfillment centers.
+
+31
+
+General and Administrative 
+
+General and administrative   
+
+Percentage of total revenues   
+
+Three months ended December 31,
+
+2022 vs. 2021
+
+2022
+
+2021
+
+% Change
+
+(in thousands, except percentages)
+
+$ 
+
+214,651 
+
+$ 
+
+101,054 
+
+ 112.4 %
+
+ 12.4 %
+
+ 7.3 %
+
+General and administrative expenses increased $113.6 million, or 112.4%, for the three months ended December 31, 
+2022 compared to the same period in 2021, due to an increase of $84.3 million in impairment expenses related to 
+office locations we ceased using, $23.2 million in employee-related costs (which included a $5.7 million increase 
+related to stock-based compensation and related payroll taxes), a $3.1 million increase in professional services for 
+legal and financial services, and a $2.9 million increase in bad debt expense. 
+
+Transaction and Loan Losses
+
+Transaction and loan losses
+
+Percentage of total revenues   
+
+Three months ended December 31,
+
+2022 vs. 2021
+
+2022
+
+2021
+
+% Change
+
+(in thousands, except percentages)
+
+$ 
+
+34,318 
+
+$ 
+
+27,814 
+
+ 23.4 %
+
+ 2.0 %
+
+ 2.0 %
+
+Transaction  and  loan  losses  increased  $6.5  million,  or  23.4%,  for  the  three  months  ended  December  31,  2022 
+compared  to  the  same  period  in  2021,  primarily  due  to  an  increase  of  $7.2  million  in  losses  attributed  to  Shopify 
+Payments,  primarily  related  to  higher  realized  losses  in  the  period,  an  increase  in  expected  losses,  and  increased 
+GMV processed through Shopify Payments. 
+
+Other Expense, net
+
+Three months ended December 31,
+
+2022 vs. 2021
+
+2022
+
+2021
+
+% Change
+
+(in thousands, except percentages)
+
+Other expense, net   
+
+$ 
+
+(425,859)  $ 
+
+(503,123) 
+
+*
+
+*  Not a meaningful comparison 
+
+In  the  three  months  ended  December  31,  2022,  we  had  other  expenses  of  $425.9  million,  compared  to  $503.1 
+million in the same period in 2021. 
+
+In the three months ended December 31, 2022, we had an unrealized loss on equity and other investments of $475.4 
+million, of which $314.0 million was in investments with readily determinable fair values related to the change in 
+share prices from September 30, 2022 to December 31, 2022 in our Affirm and Global-E investments, and $145.3 
+million  of  unrealized  losses  in  investments  without  readily  determinable  fair  values  due  to  impairments  in  the 
+period. These sources of other expense were offset by interest income of $39.6 million recognized on investments 
+and by a foreign exchange gain of $9.5 million. 
+
+This compares to the three months ended December 31, 2021 where we had unrealized losses on equity and other 
+investments of $509.7 million due mainly to our investments in Affirm and Global-E caused by the change in their 
+share prices from September 30, 2021 to December 31, 2021, offset slightly by interest income of $4.9 million and a 
+foreign exchange gain of $2.6 million.
+
+32
+
+(Provision for) Recovery of Income Taxes
+
+Three months ended December 31,
+
+2022 vs. 2021
+
+2022
+
+2021
+
+% Change
+
+(in thousands, except percentages)
+
+(Provision for) recovery of income taxes 
+
+$ 
+
+(9,086) 
+
+$ 
+
+117,408 
+
+*
+
+*  Not a meaningful comparison 
+
+We had a provision for income taxes of $9.1 million in the three months ended December 31, 2022, on account of 
+earnings in jurisdictions outside of North America. This compares to a recovery of income taxes of $117.4 million in 
+the three months ended December 31, 2021, as a result of the application of our tax rates to the results of ongoing 
+operations, other discrete items primarily related to share-based compensation, unrealized losses on equity and other 
+investments, and the change in valuation allowance related to deferred tax assets in the United States. 
+
+33
+
+Summary of Quarterly Results
+
+The following table sets forth selected unaudited quarterly results of operations data for each of the eight quarters 
+ended December 31, 2022. The information for each of these quarters has been derived from unaudited condensed 
+consolidated  financial  statements  that  were  prepared  on  the  same  basis  as  the  audited  annual  financial  statements 
+and,  in  the  opinion  of  management,  reflects  all  adjustments,  which  include  only  normal  recurring  adjustments, 
+necessary for the fair presentation of the results of operations for these periods in accordance with U.S. GAAP. This 
+data  should  be  read  in  conjunction  with  our  unaudited  condensed  consolidated  financial  statements  and  audited 
+consolidated financial statements and related notes for the relevant period. These quarterly operating results are not 
+necessarily indicative of our operating results for a full year or any future period. 
+
+Dec 31, 
+2022
+
+Sep 30, 
+2022
+
+Jun 30, 
+2022
+
+Three months ended
+Mar 31, 
+Dec 31, 
+2021
+2022
+
+Sep 30, 
+2021
+
+Jun 30, 
+2021
+
+Mar 31, 
+2021
+
+(in thousands, except per share data)
+
+Revenues:
+
+Subscription solutions
+
+$  400,254  $  376,301  $  366,443  $  344,761  $  351,208  $  336,208  $  334,237  $  320,681 
+
+Merchant solutions
+
+ 1,334,724 
+
+  989,899 
+
+928,620 
+
+858,862 
+
+ 1,028,816 
+
+  787,532 
+
+  785,208 
+
+  667,966 
+
+ 1,734,978 
+
+ 1,366,200 
+
+  1,295,063 
+
+  1,203,623 
+
+ 1,380,024 
+
+  1,123,740 
+
+ 1,119,445 
+
+  988,647 
+
+Cost of revenues:(5)(6)
+
+Subscription solutions
+
+Merchant solutions
+
+Gross profit
+
+Operating expenses:
+Sales and marketing(3)(5)(6)
+Research and development(3)(5)(6)
+
+General and administrative 
+
+(2)(3)(4)(5)
+
+85,771 
+
+82,313 
+
+  850,699 
+
+  621,555 
+
+  936,470 
+
+  703,868 
+
+  798,508 
+
+  662,332 
+
+85,238 
+
+554,183 
+
+639,421 
+
+655,642 
+
+77,545 
+
+75,587 
+
+67,355 
+
+63,027 
+
+58,382 
+
+488,441 
+
+  611,778 
+
+  447,476 
+
+  435,558 
+
+  371,549 
+
+565,986 
+
+  687,365 
+
+  514,831 
+
+  498,585 
+
+  429,931 
+
+637,637 
+
+  692,659 
+
+  608,909 
+
+  620,860 
+
+  558,716 
+
+  297,741 
+
+  302,476 
+
+  440,547 
+
+  412,359 
+
+326,902 
+
+346,667 
+
+303,371 
+
+  275,475 
+
+  237,949 
+
+  201,910 
+
+  186,223 
+
+303,661 
+
+  273,912 
+
+  221,028 
+
+  183,557 
+
+  175,886 
+
+  214,651 
+
+  255,125 
+
+129,901 
+
+108,088 
+
+  101,054 
+
+  128,722 
+
+77,966 
+
+67,102 
+
+Transaction and loan losses
+
+34,318 
+
+37,738 
+
+42,380 
+
+20,493 
+
+27,814 
+
+25,311 
+
+17,986 
+
+10,606 
+
+Total operating expenses
+
+  987,257 
+
+ 1,007,698 
+
+845,850 
+
+735,613 
+
+  678,255 
+
+  613,010 
+
+  481,419 
+
+  439,817 
+
+(Loss) income from operations
+
+  (188,749) 
+
+  (345,366) 
+
+(190,208) 
+
+(97,976) 
+
+14,404 
+
+(4,101) 
+
+  139,441 
+
+  118,899 
+
+Other (expense) income, net
+
+  (425,859) 
+
+  188,233 
+
+  (1,008,042) 
+
+  (1,554,881) 
+
+  (503,123) 
+
+  1,344,553 
+
+  779,874 
+
+  1,250,645 
+
+(Loss) income before income 
+
+taxes
+
+(Provision for) recovery of 
+
+income taxes
+
+  (614,608) 
+
+  (157,133) 
+
+  (1,198,250) 
+
+  (1,652,857) 
+
+  (488,719) 
+
+  1,340,452 
+
+  919,315 
+
+  1,369,544 
+
+(9,086) 
+
+(1,276) 
+
+(5,657) 
+
+178,449 
+
+  117,408 
+
+  (192,020) 
+
+(40,222) 
+
+  (111,099) 
+
+Net (loss) income
+
+$ (623,694)  $ (158,409)  $ (1,203,907)  $ (1,474,408)  $ (371,311)  $ 1,148,432  $  879,093  $ 1,258,445 
+
+Net (loss) income per share 
+
+attributable to shareholders(1):
+Basic
+
+Diluted
+
+$ 
+
+$ 
+
+(0.49)  $ 
+
+(0.12)  $ 
+
+(0.95)  $ 
+
+(1.17)  $ 
+
+(0.30)  $ 
+
+0.92  $ 
+
+0.71  $ 
+
+(0.49)  $ 
+
+(0.12)  $ 
+
+(0.95)  $ 
+
+(1.17)  $ 
+
+(0.30)  $ 
+
+0.90  $ 
+
+0.69  $ 
+
+1.02 
+
+0.99 
+
+(1) Prior period per share amounts have been retrospectively adjusted to reflect the Share Split effected in June 2022. 
+(2) In the third quarter of 2022, we incurred $97 million of expenses related to legal contingencies. Refer to the "Litigation and Loss 
+Contingencies" section below for additional information.
+(3) In the third quarter of 2022, we had $30.5 million of severance related costs associated with the one-time reduction in workforce with $10.9 
+million in sales and marketing, $8.4 million in research and development and $11.2 million in general and administrative.
+(4) In the fourth quarter of 2022 and the third quarter of 2021, we had $84.3 million and $30.1 million, respectively, of impairment related costs 
+associated with right-of-use assets and leasehold improvements.
+
+34
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) Includes stock-based compensation expense and related payroll taxes as follows: 
+
+Dec 31, 
+2022
+
+Sep 30, 
+2022
+
+Jun 30, 
+2022
+
+Mar 31, 
+2022
+
+Dec 31, 
+2021
+
+Sep 30, 
+2021
+
+Jun 30, 
+2021
+
+Mar 31, 
+2021
+
+Three months ended
+
+(in thousands)
+
+$ 
+
+1,977  $ 
+
+2,327  $ 
+
+2,409  $ 
+
+2,183  $ 
+
+1,995  $ 
+
+1,987  $ 
+
+1,809  $ 
+
+1,851 
+
+Cost of revenues
+
+Sales and marketing
+
+Research and development
+
+  103,587 
+
+  107,972 
+
+General and administrative
+
+24,447 
+
+26,128 
+
+14,894 
+
+17,224 
+
+17,375 
+
+98,767 
+
+22,560 
+
+15,203 
+
+85,737 
+
+20,071 
+
+13,735 
+
+74,932 
+
+18,735 
+
+11,673 
+
+63,840 
+
+30,638 
+
+10,990 
+
+55,988 
+
+23,759 
+
+10,885 
+
+56,027 
+
+18,205 
+
+ (6) Includes amortization of acquired intangibles as follows: 
+
+$  144,905  $  153,651  $  141,111  $  123,194  $  109,397  $  108,138  $  92,546  $  86,968 
+
+Dec 31, 
+2022
+
+Sep 30, 
+2022
+
+Jun 30, 
+2022
+
+Mar 31, 
+2022
+
+Dec 31, 
+2021
+
+Sep 30, 
+2021
+
+Jun 30, 
+2021
+
+Mar 31, 
+2021
+
+Three months ended
+
+(in thousands)
+
+Cost of revenues
+
+Sales and marketing
+
+Research and development
+
+$  18,359  $  17,133  $ 
+
+6,942  $ 
+
+6,234  $ 
+
+5,960  $ 
+
+5,536  $ 
+
+4,372  $ 
+
+4,531 
+
+2,163 
+
+— 
+
+2,025 
+
+— 
+
+384 
+
+— 
+
+386 
+
+76 
+
+386 
+
+32 
+
+386 
+
+58 
+
+386 
+
+58 
+
+386 
+
+58 
+
+$  20,522  $  19,158  $ 
+
+7,326  $ 
+
+6,696  $ 
+
+6,378  $ 
+
+5,980  $ 
+
+4,816  $ 
+
+4,975 
+
+The  following  table  sets  forth  selected  unaudited  quarterly  statements  of  operations  data  as  a  percentage  of  total 
+revenues for each of the eight quarters ended December 31, 2022.      
+
+Dec 31, 
+2022
+
+Sep 30, 
+2022
+
+Jun 30, 
+2022
+
+Mar 31, 
+2022
+
+Dec 31, 
+2021
+
+Sep 30, 
+2021
+
+Jun 30, 
+2021
+
+Mar 31, 
+2021
+
+Three months ended
+
+ 23.1 %
+
+ 76.9 %
+
+ 27.5 %
+
+ 72.5 %
+
+ 28.3 %
+
+ 71.7 %
+
+ 28.6 %
+
+ 71.4 %
+
+ 25.4 %
+
+ 74.6 %
+
+ 29.9 %
+
+ 70.1 %
+
+ 29.9 %
+
+ 70.1 %
+
+ 32.4 %
+
+ 67.6 %
+
+ 100.0 %
+
+ 100.0 %
+
+ 100.0 %
+
+ 100.0 %
+
+ 100.0 %
+
+ 100.0 %
+
+ 100.0 %
+
+ 100.0 %
+
+ 4.9 %
+
+ 49.0 %
+
+ 54.0 %
+
+ 46.0 %
+
+ 17.2 %
+
+ 25.4 %
+
+ 12.4 %
+
+ 2.0 %
+
+ 56.9 %
+
+ 6.0 %
+
+ 45.5 %
+
+ 51.5 %
+
+ 48.5 %
+
+ 22.1 %
+
+ 30.2 %
+
+ 18.7 %
+
+ 2.8 %
+
+ 73.8 %
+
+ 6.6 %
+
+ 42.8 %
+
+ 49.4 %
+
+ 50.6 %
+
+ 25.2 %
+
+ 26.8 %
+
+ 10.0 %
+
+ 3.3 %
+
+ 65.3 %
+
+ (10.9) %
+
+ (24.5) %
+
+ (25.3) %
+
+ 13.8 %
+
+ (14.7) %
+
+ (77.8) %
+
+ 6.4 %
+
+ 40.6 %
+
+ 47.0 %
+
+ 53.0 %
+
+ 25.2 %
+
+ 25.2 %
+
+ 9.0 %
+
+ 1.7 %
+
+ 61.1 %
+
+ (8.1) %
+
+ 5.5 %
+
+ 44.3 %
+
+ 49.8 %
+
+ 50.2 %
+
+ 20.0 %
+
+ 19.8 %
+
+ 7.3 %
+
+ 2.0 %
+
+ 49.1 %
+
+ 1.0 %
+
+ 6.0 %
+
+ 39.8 %
+
+ 45.8 %
+
+ 54.2 %
+
+ 21.2 %
+
+ 19.7 %
+
+ 11.5 %
+
+ 2.3 %
+
+ 54.6 %
+
+ (0.4) %
+
+ (129.2) %
+
+ (36.5) %
+
+ 119.6 %
+
+ 5.6 %
+
+ 38.9 %
+
+ 44.5 %
+
+ 55.5 %
+
+ 18.0 %
+
+ 16.4 %
+
+ 7.0 %
+
+ 1.6 %
+
+ 43.0 %
+
+ 12.5 %
+
+ 69.7 %
+
+ 5.9 %
+
+ 37.6 %
+
+ 43.4 %
+
+ 56.5 %
+
+ 18.8 %
+
+ 17.8 %
+
+ 6.8 %
+
+ 1.1 %
+
+ 44.5 %
+
+ 12.0 %
+
+ 126.5 %
+
+ (35.4) %
+
+ (11.5) %
+
+ (92.5) %
+
+ (137.3) %
+
+ (35.4) %
+
+ 119.3 %
+
+ 82.1 %
+
+ 138.5 %
+
+Revenues:
+
+Subscription solutions
+
+Merchant solutions
+
+Cost of revenues: 
+
+Subscription solutions
+
+Merchant solutions
+
+Gross profit
+
+Operating expenses:
+
+Sales and marketing
+
+Research and development
+
+General and administrative
+
+Transaction and loan losses
+
+Total operating expenses
+
+(Loss) income from operations
+
+Other (expense) income, net
+
+(Loss) income before income 
+
+taxes
+
+(Provision for) recovery of 
+
+income taxes
+
+Net (loss) income
+
+ (35.9) %
+
+ (11.6) %
+
+ (93.0) %
+
+ (122.5) %
+
+ (26.9) %
+
+ (0.5) %
+
+ (0.1) %
+
+ (0.4) %
+
+ 14.8 %
+
+ 8.5 %
+
+ (17.1) %
+
+ 102.2 %
+
+ (3.6) %
+
+ 78.5 %
+
+ (11.2) %
+
+ 127.3 %
+
+We believe that year-over-year comparisons are more meaningful than our sequential results due to seasonality in 
+our business. While we believe that this seasonality has affected and will continue to affect our quarterly results, our 
+rapid  growth  has  largely  masked  seasonal  trends  to  date.  Our  merchant  solutions  revenues  are  directionally 
+
+35
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+correlated  with  our  merchants'  GMV.  Our  merchants'  GMV  typically  increases  during  the  fourth-quarter  holiday 
+season. As a result, we have historically generated higher merchant solutions revenues in our fourth quarter than in 
+other quarters. Due to the effects of the COVID-19 pandemic, which accelerated the shift of purchasing habits to 
+ecommerce, we observed a rapid growth in merchant solutions revenue throughout the pandemic, most notably in 
+the first half of 2021 where further lockdowns and government stimulus propelled the COVID-triggered acceleration 
+of  ecommerce.  As  the  COVID-19  related  impacts  that  triggered  the  acceleration  of  ecommerce  continue  to  ease, 
+growth in merchant solutions revenue may not replicate recent patterns. As a result of the growth of our merchant 
+solutions offerings, we believe that our business may become more seasonal in the future, and that historical patterns 
+in our business may not be a reliable indicator of our future performance.
+
+Quarterly Revenue and Gross Margin Trends 
+
+Historically, revenues experienced a seasonal decrease in our first quarters as buyers typically reduce their spending 
+following  the  holiday  season  resulting  in  a  seasonal  decrease  in  GMV  per  merchant,  which  was  not  completely 
+offset by merchant and MRR growth. Subsequently, revenues have increased in each of the next three quarters as a 
+result  of  merchant,  MRR,  and  overall  GMV  growth.  Our  merchants  have  processed  additional  GMV  during  the 
+fourth-quarter holiday seasons, and as a result we have generated higher merchant solutions revenues in our fourth 
+quarters compared to other quarters. Due to the continued growth of our merchant solutions offerings, we believe 
+that our business may become more seasonal in the future. 
+
+Our gross margin percentage has varied over the past eight quarters and is generally driven by the mix between our 
+higher  margin  subscription  solutions  revenue  and  lower  margin  merchant  solutions  revenue.  While  our  total 
+revenues have increased in recent periods, the mix has shifted towards merchant solutions revenue, most notably in 
+the  fourth  quarter  due  to  higher  holiday  volume  of  orders  facilitated  and  the  resulting  Shopify  Payments  revenue 
+during this period. We expect this overall trend to continue over time.
+
+In connection with expanding our operations internationally, we anticipate a growing proportion of our revenues and 
+cost  of  sales  transactions  to  be  incurred  in  foreign  currencies  as  compared  to  USD  due  to  increased  Shopify 
+Payments,  Shopify  Capital,  subscriptions,  and  other  billings  to  select  countries  in  local  currency.  Fluctuations  in 
+foreign currencies relative to the USD may impact identified quarterly and yearly trends. 
+
+In  addition,  the  acquisition  of  Deliverr  will  impact  the  comparability  of  our  revenues  and  gross  margin,  which 
+started in the third quarter of 2022, as it continues to be integrated into our logistics offerings. 
+
+Quarterly Operating Expenses Trends 
+
+Total  operating  expenses  have  increased  sequentially  for  each  period  presented.  We  took  impairment  charges  on 
+certain office spaces in the fourth quarter of 2022 and the third quarter of 2021, which caused an increase in general 
+and  administrative  spend  relative  to  revenue  in  that  quarter.  In  the  third  quarter  of  2022,  we  recorded  litigation 
+contingencies which caused an increase in general and administrative spend relative to revenue in that quarter. Total 
+operating expenses have increased primarily due to the addition of personnel in connection with the expansion of 
+our business and additional marketing initiatives to attract potential merchants. In addition, the Deliverr acquisition 
+will impact the comparability of operating expenses, which started in the third quarter of 2022. We note a significant 
+portion  of  our  operating  expenses  are  incurred  in  foreign  currencies  which  may  impact  the  comparability  of  our 
+quarterly and yearly trends.
+
+Quarterly Other (Expense) Income Trends
+
+Historically, there have been no consistent trends associated with other (expense) income as changes are impacted 
+by fluctuations in the fair value of our equity investments in public companies with readily determinable fair values, 
+observable  changes  or  impairments  associated  with  our  equity  investments  in  private  companies  without  readily 
+determinable  fair  values,  changes  in  the  fair  value  of  our  investments  in  convertible  notes  of  private  companies, 
+
+36
+
+foreign exchange rates, and interest rates. The results from these changes may fluctuate from period to period and 
+may cause volatility to our earnings as well as impact comparability of our results from period to period.
+
+Key Balance Sheet Information
+
+Cash, cash equivalents and marketable securities
+
+$ 
+
+5,052,950 
+
+$ 
+
+Total assets
+
+Total liabilities
+
+Total non-current liabilities
+
+10,757,151 
+
+2,518,262 
+
+1,662,254 
+
+7,768,093 
+
+13,340,172 
+
+2,206,831 
+
+1,504,098 
+
+December 31, 2022
+
+December 31, 2021
+
+(in thousands)
+
+Total  assets  decreased  $2.6  billion  as  at  December  31,  2022  compared  to  December  31,  2021,  primarily  due  to  a 
+$2.0 billion decrease in equity and other investments due mainly to unrealized losses on our investments in Affirm 
+and  Global-E.  The  remaining  decrease  is  driven  by  the  following  changes  in  balances:  a  $2.7  billion  decrease  in 
+cash, cash equivalents and marketable securities largely due to the $2.0 billion used for the acquisition of Deliverr 
+and $635.2 million used to purchase equity and other investments; a $1.5 billion increase in goodwill and a $251.7 
+million increase in intangible assets due mainly to the acquisition of Deliverr, which largely offsets the change in 
+total assets caused by the previously mentioned cash used for the acquisition; a $158.8 million increase in right-of-
+use  assets  due  mainly  to  the  commencement  of  warehouse  leases;  a  $109.4  million  increase  in  merchant  cash 
+advances, loans and related receivables largely due to an expansion of our Capital offerings and programs; an $80.8 
+million  increase  in  trade  and  other  receivables;  $36.4  million  increase  in  other  current  assets,  a  $25.3  million 
+increase in property and equipment due mainly to purchases of leasehold improvements, computer hardware and the 
+acquisition of Deliverr, offset by depreciation in the period; a $7.5 million decrease in deferred tax assets and; a $0.3 
+million decrease in income taxes receivable.
+
+Total liabilities increased by $311.4 million, principally as a result of a $220.8 million increase in lease liabilities 
+due mainly to the commencement of warehouse leases, a $183.7 million increase in deferred revenue mainly due to 
+the  non-cash  consideration  received  for  services  rendered  in  conjunction  with  our  partnership  with  Global-E  and 
+private companies, a $75.9 million increase in accounts payable and accrued liabilities due mainly to the accruals for 
+litigation contingencies, offset by $167.1 million decrease in deferred tax liabilities and a $4.1 million decrease in 
+income taxes payable.
+
+Liquidity and Capital Resources 
+
+To date, we have financed our operations primarily through the sale of equity securities as well as the sale of the 
+Notes, raising approximately $7.8 billion, net of issuance costs, from investors. 
+
+In September 2022, due to the expiry of our previous short-form base shelf prospectus, we filed a new short-form 
+base  shelf  prospectus  with  the  securities  commissions  in  each  of  the  provinces  and  territories  of  Canada,  except 
+Quebec,  and  a  corresponding  shelf  registration  statement  on  Form  F-10  with  the  U.S.  Securities  and  Exchange 
+Commission. This shelf prospectus and registration statement allows Shopify to offer an unlimited amount of Class 
+A  subordinate  voting  shares,  preferred  shares,  debt  securities,  warrants,  subscription  receipts,  units,  or  any 
+combination  thereof,  from  time  to  time  during  the  25-month  period  that  the  shelf  prospectus  is  effective,  which 
+commenced September 9, 2022.
+
+In  February  2021,  the  Company  completed  a  public  offering  in  which  it  issued  and  sold  11,800,000  Class  A 
+subordinate voting shares at a public offering price of $131.50 per share, adjusted to give effect to the Share Split. 
+The Company received total net proceeds of $1.5 billion after deducting offering fees and expenses of $10.5 million.
+
+Our  principal  cash  requirements  are  for  working  capital  and  capital  expenditures.  Excluding  current  deferred 
+revenue,  working  capital  at  December  31,  2022  was  $5.5  billion.  As  a  result  of  our  new  employee  compensation 
+program, there is a potential for an increase in cash usage as employees have the ability to elect how much of their 
+
+37
+
+ 
+ 
+ 
+ 
+ 
+ 
+total  compensation  will  be  in  the  form  of  cash  versus  stock-based  compensation  awards.  Given  the  ongoing  cash 
+generated from operations and our existing cash and cash equivalents, we believe there is sufficient liquidity to meet 
+our  current  and  planned  financial  obligations  over  the  next  12  months.  Our  future  financing  requirements  will 
+depend on many factors including our growth rate, subscription renewal activity, the timing and extent of spending 
+to  support  development  of  our  platform,  the  expansion  of  sales  and  marketing  activities,  the  macroeconomic 
+conditions  and  overall  levels  of  consumer  spending  on  goods,  and  potential  mergers,  strategic  investments  and 
+acquisitions activity. Although we currently are not a party to any material undisclosed agreement and do not have 
+any understanding with any third parties with respect to potential material investments in, or material acquisitions of, 
+businesses or technologies, we may enter into these types of arrangements in the future, which could also require us 
+to seek additional equity or debt financing. Additional funds may not be available on terms favorable to us or at all. 
+
+Cash, Cash Equivalents and Marketable Securities
+
+Cash, cash equivalents, and marketable securities decreased by $2.7 billion to $5.1 billion as at December 31, 2022 
+from $7.8 billion as at December 31, 2021, primarily as a result of the acquisition of Deliverr, the purchase of equity 
+and other investments and cash used in our operating activities.
+
+Cash equivalents and marketable securities include money market funds, repurchase agreements, U.S. and Canadian 
+federal bonds and agency securities, and corporate bonds and commercial paper, all maturing within the 12 months 
+from December 31, 2022.
+
+The following table summarizes our total cash, cash equivalents and marketable securities as at December 31, 2022 
+and  2021  as  well  as  our  operating,  investing  and  financing  activities  for  the  years  ended  December  31,  2022  and 
+2021:  
+
+Cash, cash equivalents and marketable securities (end of year)
+
+Net cash (used in) provided by:
+
+Operating activities
+
+Investing activities
+
+Financing activities
+
+Effect of foreign exchange on cash and cash equivalents
+
+Net (decrease) in cash and cash equivalents
+
+Change in marketable securities
+
+$ 
+
+$ 
+
+Years ended December 31,
+
+2022
+
+2021
+
+(in thousands)
+
+5,052,950 
+
+$ 
+
+7,768,093 
+
+(136,448) 
+
+$ 
+
+535,711 
+
+(718,567) 
+
+(2,379,073) 
+
+17,549 
+
+(16,198) 
+
+(853,664) 
+(1,861,479) 
+
+1,649,762 
+
+(7,005) 
+
+(200,605) 
+1,580,731 
+
+Net (decrease) increase in cash, cash equivalents and marketable securities
+
+$ 
+
+(2,715,143) 
+
+$ 
+
+1,380,126 
+
+Cash Flows From Operating Activities 
+
+Our  largest  source  of  operating  cash  is  from  merchant  solutions.  Within  merchant  solutions,  the  largest  source  of 
+cash flows are Shopify Payments processing fee arrangements, which are received on a daily basis as transactions 
+are processed. We also generate significant cash flows from our subscription solutions with subscription revenues 
+being  our  single  largest  source  of  cash  flows.  These  payments  are  typically  paid  to  us  at  the  beginning  of  the 
+applicable  subscription  period,  except  for  our  Shopify  Plus  merchants  who  typically  pay  us  at  the  end  of  their 
+monthly  billing  cycle.  Our  primary  uses  of  cash  from  operating  activities  are  for  employee-related  expenditures, 
+third-party  payment  processing  fees,  advancing  funds  to  merchants  through  Shopify  Capital,  third-party  shipping 
+and fulfillment partners, marketing programs, and outsourced hosting costs. 
+
+For the year ended December 31, 2022, cash used in operating activities was $136.4 million. This was primarily as a 
+result  of  our  net  loss  of  $3.5  billion,  which  once  adjusted  for  a  net  loss  on  equity  and  other  investments  of  $2.9 
+
+38
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+billion,  $549.1  million  of  stock-based  compensation  expense,  a  $186.6  million  decrease  in  net  deferred  income 
+taxes, $121.5 million in revenue related to non-cash consideration, $90.5 million of amortization and depreciation, 
+$84.3  million  of  impairment  of  right-of-use  assets  and  leasehold  improvements,  a  $73.6  million  increase  of  our 
+provision for transaction and loan losses, an unrealized foreign exchange loss of $11.7 million, and $2.3 million of 
+amortization of debt offering costs related to the Notes offering consumed $38.2 million of cash flows. 
+
+Cash flows of $158.7 million were used by the following increases in operating assets: $104.5 million in trade and 
+other  receivables,  $30.8  million  in  other  current  assets,  and  $23.4  million  in  merchant  cash  advances  and  related 
+receivables as we continued to grow Shopify Capital. Cash flows of $60.4 million were provided by the following 
+changes  in  operating  liabilities:  a  $305.2  million  increase  in  deferred  revenue  due  mainly  to  the  non-cash 
+consideration  received  in  conjunction  with  our  partnerships  with  Global-E  and  private  companies,  of  which  the 
+initial value of the total non-cash consideration received in exchange for these services was $273.2 million, and a 
+$36.5 million increase in accounts payable and accrued liabilities offset by a $4.2 million net change in lease assets 
+and liabilities and a $3.9 million net change in income tax assets and liabilities.
+
+For the year ended December 31, 2021, cash provided by operating activities was $535.7 million. This was primarily 
+as  a  result  of  our  net  income  of  $2.9  billion,  which  once  adjusted  for  a  net  unrealized  gain  on  equity  and  other 
+investments of $2.9 billion, $330.8 million of stock-based compensation expense, a $191.0 million increase in net 
+deferred income taxes, $66.3 million of amortization and depreciation, $58.4 million in revenue related to non-cash 
+consideration, a $43.8 million increase of our provision for transaction and loan losses, $30.1 million of impairment 
+of  right-of-use  assets  and  leasehold  improvements,  an  unrealized  foreign  exchange  loss  of  $4.6  million,  and  $2.3 
+million of amortization of debt offering costs related to the Notes offering, contributed $665.4 million of positive 
+cash flows. Additional cash flows of $227.6 million were provided by the following changes in operating liabilities: 
+a $309.3 million increase in deferred revenue due mainly to the non-cash consideration received in conjunction with 
+our  partnership  with  Global-E  and  private  companies,  of  which  the  initial  value  of  the  non-cash  consideration 
+received  in  exchange  for  services  was  $268.1  million;  a  $138.2  million  increase  in  accounts  payable  and  accrued 
+liabilities;  a  $45.3  million  net  change  in  income  tax  assets  and  liabilities;  and  a  $2.9  million  net  change  in  lease 
+assets and liabilities. Cash used of $357.2 million resulted from the following increases in operating assets: $234.8 
+million in merchant cash advances; $72.3 million in trade and other receivables, and $50.2 million in other current 
+assets.
+
+Cash Flows From Investing Activities 
+
+Cash flows provided by, or used in, investing activities are primarily related to the sale and purchase of marketable 
+securities,  business  acquisitions,  purchases,  originations  and  repayments  of  loans,  purchases  of  equity  and  other 
+investments, and purchases of leasehold improvements and computer equipment. 
+
+Net cash used in investing activities in the year ended December 31, 2022 was $718.6 million, which was driven by 
+$1.8  billion  used  mainly  for  the  Deliverr  business  acquisition,  $635.2  million  used  to  purchase  equity  and  other 
+investments, $158.7 million used for purchases and originations of loans, net of repayments and $50.0 million used 
+to purchase property and equipment, which consisted mainly of leasehold improvements and computer equipment, 
+offset by net maturities of $1.9 billion in marketable securities.
+
+Net cash used in investing activities in the year ended December 31, 2021 was $2.4 billion, which was driven by net 
+purchases  of  $1.6  billion  in  marketable  securities,  $650.2  million  used  to  purchase  equity  and  other  investments, 
+$59.6  million  used  for  the  Donde  business  acquisition  and  other  acquisitions,  $50.8  million  used  to  purchase 
+property and equipment, and $31.3 million used for purchases and originations of loans, net of repayments.
+
+Cash Flows From Financing Activities 
+
+Cash flows from financing activities are primarily related to public offerings, and exercises of stock options. 
+
+39
+
+Net  cash  provided  by  financing  activities  in  the  year  ended  December  31,  2022  was  $17.5  million  driven  by 
+proceeds from the issuance of Class A subordinate voting shares and Class B restricted voting shares as a result of 
+stock option exercises. This compares to $1.6 billion for the same period in 2021, driven by $1.5 billion raised in our 
+February 2021 public equity offering, and by $108.6 million which related to stock option exercises.
+
+Contractual Obligations
+
+Our  principal  commitments  consist  of  our  Notes  and  obligations  under  our  operating  leases  for  office,  warehouse 
+and commercial space. The following table summarizes our contractual obligations as of December 31, 2022:  
+
+Less  Than 
+1 Year
+
+Payments Due by Period  
+3 to 5 
+Years
+
+More Than 
+5 Years
+
+1 to 3 
+Years
+
+Total
+
+Convertible senior notes(1)
+Bank indebtedness
+
+Operating lease and unconditional 
+
+purchase obligations(2)
+Total contractual obligations
+
+(in thousands)
+
+$ 
+
+1,150 
+
+$  922,300 
+
+$ 
+
+— 
+
+— 
+
+$ 
+
+— 
+
+— 
+
+— 
+
+— 
+
+$  923,450 
+
+— 
+
+53,142 
+
+  174,748 
+
+  174,327 
+
+  494,752 
+
+  896,969 
+
+$  54,292 
+
+$ 1,097,048 
+
+$  174,327 
+
+$  494,752 
+
+$ 1,820,419 
+
+(1) $920,000 of the payments due in one to three years may be settled in Class A subordinate voting shares instead of cash, at our option.
+(2) Consists of payment obligations under our office, warehouse and commercial space leases.
+
+Litigation and Loss Contingencies
+
+As discussed under "Fiscal Year 2022 Events", on August 31, 2022, a jury in the U.S. District Court for the District 
+of  Delaware  returned  a  verdict  finding  that  Shopify  infringed  three  web  technology  patents  owned  by  Express 
+Mobile, Inc. We have challenged the verdict through post-trial motions and the Plaintiff has moved for interest on 
+the amount of the verdict.
+
+On  December  1,  2021,  five  publishers  of  educational  materials  and  two  of  their  respective  parent  companies  (the 
+Plaintiffs)  filed  a  claim  against  the  Company  in  the  U.S.  District  Court  for  the  Eastern  District  of  Virginia  for 
+contributory  and  vicarious  copyright  infringement  and  contributory  trademark  infringement.  The  action  has  been 
+settled amicably between the parties, and terms of the settlement agreement are confidential. The case was dismissed 
+with prejudice on October 5, 2022.
+
+Off-Balance Sheet Arrangements
+
+We  have  no  material  off-balance  sheet  arrangements,  other  than  operating  leases  and  contingencies  (which  have 
+been disclosed above under "Contractual Obligations" and "Litigation and Loss Contingencies"). 
+
+Risks and Uncertainties
+
+We are exposed to a variety of risks, including foreign currency exchange fluctuations, changes in the fair values of 
+our equity and other investments, changes in interest rates, concentration of credit and inflation. We regularly assess 
+currency, interest rate and inflation risks to minimize any adverse effects on our business as a result of those factors. 
+We  are  also  exposed  to  other  COVID-19  post-pandemic  related  uncertainties.  For  further  discussion  of  risks  and 
+uncertainties see "Risk Factors" in our annual information form.
+
+Foreign Currency Exchange Risk
+
+While the majority of our revenues, cost of revenues, and operating expenses are denominated in USD, a significant 
+portion  are  denominated  in  foreign  currencies.  Due  to  offering  Shopify  Payments,  Shopify  Capital,  subscriptions, 
+and  other  billing  to  select  countries  in  local  currency,  a  significant  proportion  of  revenue  transactions  are 
+
+40
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+denominated in GBP, EUR, and CAD. As our operations continue to be heavily weighted in CAD and as operations 
+continue  to  expand  internationally,  a  significant  proportion  of  operating  expenses  are  also  incurred  in  the 
+aforementioned  foreign  currencies.  To  help  mitigate  the  impacts  associated  with  foreign  currency  fluctuations  on 
+future  cash  flows  from  operating  expenses,  we  maintain  a  portfolio  of  foreign  exchange  derivative  products 
+designated as hedging instruments.
+
+Effect of Foreign Exchange Rates
+
+The following non-GAAP financial measure converts our revenues, cost of revenues, operating expenses, and (loss) 
+income from operations using the comparative period's monthly average exchange rates:
+
+Revenues
+
+Cost of revenues
+
+Operating expenses
+
+Three months ended December 31,
+
+2022
+
+2021
+
+At Prior Year 
+Effective Rates (1)
+
+Exchange Rate 
+Effect (2)
+
+GAAP Amounts 
+as Reported
+
+GAAP Amounts 
+As Reported
+
+$ 
+
+1,765,116  $ 
+
+(30,138) $ 
+
+1,734,978 
+
+$ 
+
+1,380,024 
+
+(in thousands)
+
+(954,437)  
+
+(1,013,189)  
+
+17,967   
+
+25,932   
+
+(936,470) 
+
+(987,257) 
+
+(687,365) 
+
+(678,255) 
+
+14,404 
+
+(Loss) income from operations
+
+$ 
+
+(202,510) $ 
+
+13,761  $ 
+
+(188,749) 
+
+$ 
+
+Years ended December 31,
+
+2022
+
+2021
+
+At Prior Year 
+Effective Rates (1)
+
+Exchange Rate 
+Effect (2)
+
+GAAP Amounts 
+as Reported
+
+GAAP Amounts 
+As Reported
+
+(in thousands)
+
+Revenues
+
+Cost of revenues
+
+Operating expenses
+
+$ 
+
+5,676,521  $ 
+
+(76,657) $ 
+
+5,599,864 
+
+$ 
+
+4,611,856 
+
+(2,891,956)  
+
+(3,619,004)  
+
+46,211   
+
+42,586   
+
+(2,845,745) 
+
+(3,576,418) 
+
+(2,130,712) 
+
+(2,212,501) 
+
+(Loss) income from operations
+
+$ 
+
+(834,439) $ 
+
+12,140  $ 
+
+(822,299) 
+
+$ 
+
+268,643 
+
+(1)  Represents  the  outcome  that  would  have  resulted  if  the  comparative  period's  effective  foreign  exchange  rates  are  applied  to  the  current 
+reporting period.
+(2) Represents the increase or decrease in GAAP amounts reported resulting from using the comparative period's effective foreign exchange rates. 
+The exchange rate effect is primarily driven by fluctuations in CAD, EUR, and GBP foreign exchange rates.
+
+This effect of foreign exchange rates on our consolidated statements of operations disclosure is a supplement to our 
+consolidated  financial  statements,  which  are  prepared  and  presented  in  accordance  with  U.S.  GAAP.  We  have 
+provided  the  above  non-GAAP  disclosure  as  we  believe  it  presents  a  clear  comparison  of  our  period  to  period 
+operating  results  by  removing  the  impact  of  fluctuations  in  foreign  exchange  rates  and  to  assist  investors  in 
+understanding our financial and operating performance. Non-GAAP financial measures are not recognized measures 
+for  financial  statement  presentation  under  U.S.  GAAP,  do  not  have  standardized  meanings,  and  may  not  be 
+comparable to similar measures presented by other public companies. Such non-GAAP financial measures should be 
+considered as a supplement to, and not as a substitute for, or superior to, the corresponding measures calculated in 
+accordance with U.S. GAAP.
+
+Equity and Other Investments
+
+We  hold  equity  and  other  investments  that  are  subject  to  a  wide  variety  of  market-related  risks  that  could 
+substantially reduce or increase the fair value of our holdings. As at December 31, 2022, we had equity and other 
+investments  in  public  and  private  companies  totaling  $2.0  billion.  Our  equity  and  other  investments  in  publicly 
+traded companies, which primarily relate to Affirm and Global-E, representing $648.0 million of our investments, 
+
+41
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+are recorded at fair value, which is subject to market price volatility. Our equity investments in private companies, 
+representing $1.1 billion of our investments, are recorded using the measurement alternative and are assessed each 
+reporting period for observable price changes and impairments, which may involve estimates and judgments given 
+the lack of readily available market data. Certain equity investments in private companies are in the early stages of 
+development and are inherently risky due to their lack of operational history. Our debt investments in convertible 
+notes  of  private  companies  are  recorded  at  fair  value  and  represent  $221.0  million  of  our  investments,  which  are 
+impacted by the underlying entities' valuations and interest rates. The results from these changes may fluctuate from 
+period to period and may cause volatility to our earnings as well as impact comparability of our results from period 
+to period.
+
+Interest Rate Sensitivity
+
+We had cash, cash equivalents and marketable securities in our cash management program totaling $5.1 billion as of 
+December  31,  2022.  The  cash  and  cash  equivalents  are  held  for  operations  and  working  capital  purposes.  Our 
+investments within cash, cash equivalents and marketable securities are made for capital preservation purposes. We 
+do not enter into these types of investments for trading or speculative purposes. 
+
+Our cash equivalents and our portfolio of marketable securities are subject to market risk due to changes in interest 
+rates. Fixed rate securities may have their market value adversely affected due to a rise in interest rates. Our future 
+investment  income  may  fall  short  of  our  expectations  due  to  changes  in  interest  rates  or  we  may  suffer  losses  in 
+principal if we are forced to sell securities that decline in market value due to changes in interest rates. However, 
+because  we  classify  our  debt  securities  as  "held  to  maturity,"  no  gains  or  losses  are  recognized  due  to  changes  in 
+interest rates unless such securities are sold prior to maturity or declines in fair value are determined to be other than 
+temporary. 
+
+In  July  2021,  we  invested  $200.0  million  in  a  private  company  through  the  purchase  of  convertible  notes.  This 
+investment is classified as an available-for-sale debt security, for which we have elected to account for under the fair 
+value option. The investment is carried at fair value at each balance sheet date and any movements in the fair value 
+are recognized in net (loss) income. The fair value is determined based on a binomial pricing model in which the 
+underlying entity's valuation and interest rates impact the market value of the investment.
+
+In September 2020, we issued $920.0 million aggregate principal amount of Notes. The Notes have a fixed annual 
+interest rate of 0.125%; accordingly, we do not have economic interest rate exposure on the Notes. However, the fair 
+market value of the Notes is exposed to interest rate risk. Generally, the fair market value of our fixed interest rate 
+Notes will increase as interest rates fall and decrease as interest rates rise. In addition, the fair market value of the 
+Notes will generally fluctuate as the price of our Class A subordinate voting shares fluctuates. On our balance sheet, 
+we carry the Notes at face value less debt offering costs, plus any amortization of offering costs, and we present the 
+fair value for required disclosure purposes only.
+
+Concentration of Credit Risk 
+
+The  Company’s  cash  and  cash  equivalents,  marketable  securities,  trade  and  other  receivables,  merchant  cash 
+advances,  loans  and  related  receivables,  and  foreign  exchange  derivative  products  subject  the  Company  to 
+concentrations of credit risk. Management mitigates this risk associated with cash and cash equivalents by making 
+deposits and entering into foreign exchange derivative products only with large banks and financial institutions that 
+are considered to be highly creditworthy. Management mitigates the risks associated with marketable securities by 
+adhering to its investment policy, which stipulates minimum rating requirements, maximum investment exposures 
+and maximum maturities. Due to the Company’s diversified merchant base, there is no particular concentration of 
+credit risk related to the Company’s trade and other receivables and merchant cash advances and loans receivable. 
+Trade and other receivables and merchant cash advances and loans receivable are monitored on an ongoing basis to 
+ensure  timely  collection  of  amounts.  The  Company  notes  that  its  exposure  to  collectibility  risk  by  customers 
+impacted  by  the  Russian  Invasion  of  Ukraine  is  financially  immaterial.  The  Company  has  mitigated  some  of  the 
+risks associated with Shopify Capital by opening insurance policies with Export Development Canada ("EDC"), a 
+wholly-owned  corporation  of  the  Government  of  Canada,  who  is  AAA  rated  as  at  December  31,  2022.  The 
+
+42
+
+Company’s  policies  cover  certain  merchant  cash  advances  and  loans,  subject  under  certain  policies  to  minimum 
+claim  requirements  and  regional  restrictions.  The  Company  pays  EDC  a  monthly  premium  based  on  total  eligible 
+dollars advanced, and records this as general and administrative expense in the consolidated statements of operations 
+and comprehensive (loss) income. All policies include a deductible set at either a specified dollar loss threshold or 
+calculated as a percentage of eligible advances issued. After considering the Company’s deductible and the insurer's 
+maximum  liability  under  the  policies,  the  majority  of  the  Company's  gross  outstanding  balance  of  merchant  cash 
+advances and loans as at December 31, 2022 is covered. The receivable related to insurance recoveries, if  any, is 
+included  in  the  merchant  cash  advances,  loans  and  related  receivables  balance.  There  are  no  receivables  from 
+individual merchants accounting for 10% or more of revenues or receivables.
+
+Inflation Risk
+
+We are subject to inflation risk that could have a material effect on our business, financial condition or results of 
+operations.  If  our  costs  were  to  become  subject  to  significant  inflationary  pressures,  we  may  not  be  able  to  fully 
+offset such higher costs through price increases. Our inability or failure to do so could harm our business, financial 
+condition and results of operations. Furthermore, our merchants are also subject to risks associated with inflationary 
+pressures  that  could  impact  their  business  and  financial  condition.  These  pressures  could  subsequently  result  in 
+impacts to our GMV and further affect our business.
+
+Disclosure Controls and Procedures and Internal Control Over Financial Reporting
+
+All control systems, no matter how well designed, have inherent limitations. Accordingly, even disclosure controls 
+and procedures, and internal controls over financial reporting determined to be effective can only provide reasonable 
+assurance of achieving their control objectives with respect to financial statement preparation and presentation.
+
+Disclosure Controls and Procedures
+
+Management of the Company, under the supervision of the Chief Executive Officer and Chief Financial Officer, is 
+responsible  for  establishing  and  maintaining  disclosure  controls  and  procedures  (as  defined  by  the  United  States 
+Securities  and  Exchange  Commission  ("SEC")  in  Rule  13a-15(e)  under  the  Securities  Exchange  Act  of  1934,  as 
+amended  (the  "Exchange  Act"))  for  the  Company  to  ensure  that  material  information  relating  to  the  Company, 
+including its consolidated subsidiaries, that is required to be made known to the Chief Executive Officer and Chief 
+Financial Officer by others within the Company and disclosed by the Company in reports filed or submitted by it 
+under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in the 
+SEC's rules and forms; and (ii) accumulated and communicated to the Company's management, including its Chief 
+Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure.
+
+We,  including  the  Chief  Executive  Officer  and  Chief  Financial  Officer,  have  evaluated  the  effectiveness  of  the 
+Company's  disclosure  controls  and  procedures  as  of  December  31,  2022  and  have  concluded  that  the  Company's 
+disclosure controls and procedures were effective as of December 31, 2022.
+
+Management's Annual Report on Internal Control Over Financial Reporting
+
+Management of the Company, under the supervision of the Chief Executive Officer and the Chief Financial Officer, 
+is responsible for establishing and maintaining adequate internal control over the Company's financial reporting. 
+
+Internal  control  over  financial  reporting  is  designed  to  provide  reasonable  assurance  regarding  the  reliability  of 
+financial reporting and the preparation of financial statements in accordance with United States generally accepted 
+accounting principles.
+
+We,  including  the  Chief  Executive  Officer  and  Chief  Financial  Officer,  have  assessed  the  effectiveness  of  the 
+Company's  internal  control  over  financial  reporting  in  accordance  with  Internal  Control  -  Integrated  Framework 
+(2013)  issued  by  the  Committee  of  Sponsoring  Organizations  of  the  Treadway  Commission  ("COSO").  Based  on 
+this  assessment,  we,  including  the  Chief  Executive  Officer  and  Chief  Financial  Officer,  have  determined  that  the 
+
+43
+
+Company's internal control over financial reporting was effective as at December 31, 2022. Additionally, based on 
+our  assessment,  we  determined  that  there  were  no  material  weaknesses  in  the  Company's  internal  control  over 
+financial reporting as at December 31, 2022.
+
+We have excluded Deliverr, Inc. from our assessment of internal control over financial reporting as at December 31, 
+2022 because they were acquired by the Company in a purchase business combination during 2022. Deliverr, Inc. is 
+a wholly-owned subsidiary whose total assets and total revenues represent 1% and 2%, respectively, of the related 
+consolidated financial statement amounts as at and for the year ended December 31, 2022.
+
+Attestation Report of the Independent Registered Public Accounting Firm
+
+The  effectiveness  of  the  Company's  internal  control  over  financial  reporting  as  at  December  31,  2022  has  been 
+audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in their report 
+on the audited consolidated financial statements for December 31, 2022.
+
+Changes in Internal Control Over Financial Reporting 
+
+In  the  year  ended  December  31,  2022,  we  migrated  certain  financial  reporting  systems  and  their  accompanying 
+financial  information  between  cloud  environments,  which  included  changes  to  our  underlying  information 
+technology infrastructure and internal controls over financial reporting.
+
+Other than the system migration as described above, there were no changes in the Company's internal control over 
+financial reporting that have materially affected, or are reasonably likely to materially affect, the Company's internal 
+control over financial reporting. 
+
+Critical Accounting Policies and Estimates 
+
+We  prepare  our  consolidated  financial  statements  in  accordance  with  U.S.  GAAP.  In  the  preparation  of  these 
+consolidated  financial  statements,  we  are  required  to  make  estimates  and  assumptions  that  affect  the  reported 
+amounts  of  assets,  liabilities,  revenues,  costs  and  expenses  and  related  disclosures.  To  the  extent  that  there  are 
+material differences between these estimates and actual results, our financial condition or results of operations would 
+be affected. We base our estimates on past experience and other assumptions that we believe are reasonable under 
+the circumstances, and we re-evaluate these estimates on an ongoing basis. We refer to accounting estimates of this 
+type  as  significant  accounting  policies  and  estimates,  which  we  discuss  below  and  in  further  detail  in  Note  3  - 
+Significant Accounting Policies of our audited consolidated financial statements for the year ended December 31, 
+2022.
+
+Revenue Recognition
+
+Our sources of revenue consist of subscription solutions and merchant solutions. Arrangements with merchants do 
+not provide the merchant with the right to take possession of the software supporting our hosting platform at any 
+time  and  are  therefore  accounted  for  as  service  contracts.  Our  subscription  service  contracts  do  not  provide  for 
+refunds or any other rights of return to merchants in the event of cancellations.
+
+The  Company  recognizes  revenue  to  depict  the  transfer  of  promised  services  to  its  customers  in  an  amount  that 
+reflects the consideration to which the Company expects to be entitled in exchange for those services by applying 
+the following steps:  
+
+•
+
+•
+
+•
+
+•
+
+Identify the contract with a customer;  
+
+Identify the performance obligations in the contract;  
+
+Determine the transaction price; 
+
+Allocate the transaction price; and  
+
+44
+
+•
+
+Recognize revenue when, or as, the Company satisfies a performance obligation. 
+
+The Company follows the guidance provided in ASC 606, Revenue from Contracts with Customers, for determining 
+whether  the  Company  is  the  principal  or  an  agent  in  arrangements  with  customers  that  involve  another  party  that 
+contributes to providing a specified service to a customer. In these instances, the Company determines whether it has 
+promised to provide the specified service itself (as principal) or to arrange for the specified service to be provided by 
+another party (as an agent). This determination depends on the facts and circumstances of each arrangement and, in 
+some instances, involves significant judgment. The Company recognizes revenue from Shopify Shipping, the sales 
+of  apps,  the  sale  of  themes,  card  services  from  Shopify  Balance  and  Shop  Pay  Installments  on  a  net  basis  as  the 
+Company  is  not  primarily  responsible  for  the  fulfillment  of  the  promised  service,  does  not  have  control  of  the 
+promised service, and does not have full discretion in establishing prices for the promised service and therefore is 
+the  agent  in  the  arrangement  with  customers.  All  other  revenue  is  reported  on  a  gross  basis,  as  the  Company  has 
+determined it is the principal in the respective arrangements. 
+
+Inputs used to Fair Value Equity and Other Investments without Readily Determinable Fair Values 
+
+In  connection  with  certain  revenue  contracts  with  customers,  the  Company,  from  time  to  time,  receives  non-cash 
+consideration in the form of equity investments in the customer as a component of the transaction price. When the 
+transaction  price  includes  non-cash  consideration,  the  non-cash  consideration  is  measured  as  the  fair  value  at  the 
+inception  of  the  contract,  which  from  time  to  time,  requires  the  determination  of  probabilities  of  achieving 
+performance milestones within the contract. Any changes in fair value or impairment of the equity investments after 
+contract  inception  are  excluded  from  revenue,  and  classified  as  "other  (expense)  income,  net"  in  the  consolidated 
+statement  of  operations  and  comprehensive  (loss)  income.  The  estimated  fair  value  of  such  consideration  is 
+determined using multiple valuation techniques, including the income approach and the market approach, as well as 
+significant inputs, including revenue growth rates, revenue multiples based on market comparables and a discount 
+for lack of marketability. 
+
+In  the  year  ended  December  31,  2022,  we  impaired  certain  equity  investments  without  readily  determinable  fair 
+values.  Estimates  and  judgments  are  involved  in  applying  the  measurement  alternative  associated  with  equity  and 
+other  investments  without  readily  determinable  fair  values,  including  our  assessment  to  evaluate  whether  an 
+investment is impaired through analyzing market conditions, business results and other qualitative measures and to 
+measure the amount of that impairment, when applicable, by developing certain key assumptions, including revenue 
+growth rates, revenue multiples based on market comparables and a discount for lack of marketability.
+
+Inputs used for Impairment of Right-of-Use Assets and Leasehold Improvements
+
+The  carrying  values  of  right-of-use  assets  and  leasehold  improvements  are  reviewed  for  impairment  whenever 
+events or changes in circumstances indicate that the carrying amounts of such assets may not be recoverable. The 
+determination of whether any impairment exists includes a comparison of estimated undiscounted future cash flows 
+anticipated  to  be  generated  over  the  remaining  life  of  an  asset  or  asset  group  to  their  net  carrying  value.  If  the 
+estimated undiscounted future cash flows associated with the asset or asset group are less than the carrying value, an 
+impairment loss will be recorded based on the estimated fair value. 
+
+In  the  year  ended  December  31,  2022,  we  impaired  certain  right-of-use  assets  and  leasehold  improvement  which 
+required  us  to  develop  certain  key  estimates  including,  but  not  limited  to,  estimated  future  cash  flows  associated 
+with terminating or subletting the respective asset groups.
+
+Provision for Credit Losses Related to Merchant Cash Advances and Loans
+
+Merchant cash advance receivables and loans represent the aggregate amount of Shopify Capital related receivables 
+owed  by  merchants  as  of  the  balance  sheet  date,  net  of  an  allowance  for  expected  credit  losses.  The  Company 
+estimates  the  provision  based  on  an  assessment  of  various  factors,  including  historical  trends,  merchants'  gross 
+merchandise  volume  (GMV),  supportable  forecasted  information  and  other  factors,  including  macroeconomic 
+factors, that may affect the merchants' ability to make future payments on the receivables. Additions to the provision 
+are  reflected  in  current  operating  results,  while  charges  against  the  provision  are  made  when  losses  are  incurred. 
+
+45
+
+These  additions  are  classified  within  transaction  and  loan  losses  on  the  consolidated  statements  of  operations  and 
+comprehensive  (loss)  income.  Recoveries  are  reflected  as  a  reduction  in  the  allowance  for  credit  losses  related  to 
+merchant cash advances and loans when the recovery occurs.
+
+Business Combinations
+
+As a result of the recent acquisitions, we consider accounting for business combinations under ASC 805, Business 
+Combinations,  to  be  a  critical  accounting  policy  and  estimate  as  it  requires  management  to  make  significant 
+estimates and assumptions, including the valuation of intangible assets acquired which required us to develop certain 
+key assumptions, including royalty rates and revenue growth rates. Although we believe that the assumptions and 
+estimates we have made have been reasonable and appropriate, they are based in part on historical experience and 
+information obtained from the management of the acquired companies and are inherently uncertain. Unanticipated 
+events  and  circumstances  may  occur  that  may  affect  the  accuracy  or  validity  of  such  assumptions,  estimates,  or 
+actual results.
+
+Loss Contingencies
+
+The  Company  records  accruals  for  loss  contingencies  when  losses  are  probable  and  reasonably  estimable.  The 
+Company evaluates developments in legal matters that could affect the amount of liability that has been previously 
+accrued and makes adjustments as appropriate. Significant judgment is required to determine both probability and 
+the estimated amount of a loss or potential loss. The Company may be unable to reasonably estimate the reasonably 
+possible  loss  or  range  of  loss  for  a  particular  legal  contingency  for  various  reasons,  including,  among  others, 
+because: (i) the damages sought are indeterminate; (ii) the proceedings are in the relative early stages; (iii) there is 
+uncertainty as to the outcome of pending proceedings (including motions and appeals); (iv) there is uncertainty as to 
+the likelihood of settlement and the outcome of any negotiations with respect thereto; (v) there remain significant 
+factual issues to be determined or resolved; (vi) the relevant law is unsettled; or (vii) the proceedings involve novel 
+or untested legal theories. In such instances, there may be considerable uncertainty regarding the ultimate resolution 
+of such matters, including the likelihood or magnitude of a possible eventual loss, if any.
+
+Shares Outstanding
+
+Shopify is a publicly traded company listed on the New York Stock Exchange (NYSE: SHOP) and on the Toronto 
+Stock  Exchange  (TSX:  SHOP).  As  of  February  10,  2023  there  were  1,197,171,800  Class  A  subordinate  voting 
+shares issued and outstanding, 79,431,667 Class B restricted voting shares issued and outstanding, and 1 Founder 
+share issued and outstanding.
+
+As  of  February  10,  2023  there  were  1,012,718  options  outstanding  under  the  Company’s  Fourth  Amended  and 
+Restated Incentive Stock Option Plan, of which 1,012,718 were vested as of such date. Each such option is or will 
+become exercisable for one Class B restricted voting share. As of February 10, 2023 there were 10,671,657 options 
+outstanding under the Company’s Amended and Restated Stock Option Plan, of which 7,167,275 were vested as of 
+such  date.  Each  such  option  is  or  will  become  exercisable  for  one  Class  A  subordinate  voting  share.  As  of 
+February 10, 2023 there were 128,179 options outstanding under the 6 River Systems 2016 Amended and Restated 
+Stock  Option  and  Grant  Plan,  which  the  Company  assumed  on  closing  of  its  acquisition  of  6RS  on  October  17, 
+2019. Of these options, 127,866 were vested as of such date. Each option is or will become exercisable for one Class 
+A subordinate voting share. As of February 10, 2023 there were 1,672,164 options outstanding under the Deliverr, 
+Inc 2017 Stock Option and Grant Plan, which the Company assumed on closing of its acquisition of Deliverr on July 
+8, 2022. Of these options, 415,144 were vested as of such date. Each option is or will become exercisable for one 
+Class A subordinate voting share.
+
+As of February 10, 2023 there were 6,871,582 Restricted Share Units ("RSUs") and 11,413 Deferred Share Units 
+("DSUs") outstanding under the Company’s Amended and Restated Long Term Incentive Plan. Each such RSU or 
+DSU  will  vest  as  one  Class  A  subordinate  voting  share.  As  of  February  10,  2023  there  were  356,005  RSUs 
+outstanding under the Deliverr, Inc 2017 Stock Option and Grant Plan, which the Company assumed on closing of 
+its acquisition of Deliverr on July 8, 2022. Each such RSU will vest as one Class A subordinate voting share.
+
+46

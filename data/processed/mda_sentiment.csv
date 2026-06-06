@@ -1,0 +1,37 @@
+ticker,company,year,sentiment_pos,sentiment_neg,sentiment_neu,sentiment_score
+ARX.TO,ARC Resources Ltd,2022.0,0.2023,0.0657,0.732,0.1367
+ATD.TO,Alimentation Couche-Tard Inc,2023.0,0.1654,0.0748,0.7597,0.0906
+AP-UN.TO,Allied Properties Real Estate Investment Trust,2022.0,0.1879,0.0347,0.7774,0.1532
+,Barrick Gold Corporation,2022.0,0.046,0.2751,0.6789,-0.229
+BB.TO,BlackBerry Limited,,0.2927,0.151,0.5564,0.1417
+BYD.TO,Boyd Group Services Inc,,0.3239,0.0512,0.6249,0.2726
+BAM.TO,Brookfield Asset Management Ltd,2022.0,0.2688,0.0226,0.7086,0.2462
+BN.TO,Brookfield Corporation,,0.2001,0.0356,0.7643,0.1645
+CCO.TO,Cameco Corporation,2022.0,0.1404,0.2719,0.5877,-0.1315
+CNQ.TO,Canadian Natural Resources Limited,2022.0,0.0604,0.0815,0.8581,-0.0212
+,Canadian Pacific Railway Limited,2022.0,0.4391,0.3582,0.2026,0.0809
+,Canadian Tire Corporation Limited,2022.0,0.1843,0.066,0.7497,0.1183
+CVE.TO,Cenovus Energy Inc,2022.0,0.1353,0.0266,0.838,0.1087
+CSU.TO,Constellation Software Inc,2022.0,0.0824,0.0855,0.8321,-0.0031
+DCBO.TO,Docebo Inc,2022.0,0.1264,0.0254,0.8482,0.1009
+EMP-A.TO,Empire Company Limited,2023.0,0.1358,0.0465,0.8177,0.0893
+ENB.TO,Enbridge Inc,2021.0,0.1226,0.0706,0.8068,0.0519
+GIL.TO,Gildan Activewear Inc,2022.0,0.0903,0.1222,0.7875,-0.0319
+IMO.TO,Imperial Oil Limited,2022.0,0.0846,0.0304,0.885,0.0543
+IFC.TO,Intact Financial Corporation,2022.0,0.0723,0.0528,0.8749,0.0195
+KXS.TO,Kinaxis Inc,2022.0,0.066,0.3804,0.5536,-0.3144
+LSPD.TO,Lightspeed Commerce Inc,2023.0,0.326,0.0323,0.6417,0.2937
+L.TO,Loblaw Companies Limited,,0.1349,0.1775,0.6876,-0.0426
+NTR.TO,Nutrien Ltd,2022.0,0.2735,0.0435,0.683,0.23
+,Nuvei Corporation,2022.0,0.207,0.2007,0.5923,0.0062
+OTEX.TO,Open Text Corporation,1995.0,0.1813,0.1451,0.6736,0.0362
+PPL.TO,Pembina Pipeline Corporation,2022.0,0.2696,0.2369,0.4935,0.0327
+PBH.TO,Premium Brands Holdings Corporation,2022.0,0.2036,0.2477,0.5487,-0.0441
+,RIOCAN REAL ESTATE INVESTMENT TRUST,,0.7017,0.0145,0.2838,0.6871
+SHOP.TO,Shopify Inc,2022.0,0.4033,0.1325,0.4642,0.2708
+STN.TO,Stantec Inc,2022.0,0.4595,0.0733,0.4672,0.3863
+SU.TO,Suncor Energy Inc,2022.0,0.1809,0.0536,0.7655,0.1273
+TRP.TO,TC Energy Corporation,2022.0,0.0944,0.0611,0.8445,0.0333
+TIH.TO,Toromont Industries Ltd,2022.0,0.37,0.131,0.499,0.2391
+WSP.TO,WSP Global Inc,2022.0,0.1312,0.0246,0.8442,0.1066
+,Waste Connections Inc,2022.0,0.2293,0.3792,0.3916,-0.1499

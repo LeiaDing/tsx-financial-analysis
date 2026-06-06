@@ -1,0 +1,2538 @@
+# Imperial Oil Limited
+# 来源：Annual MD&A - English.pdf (eeca43c576ace2ba)
+
+Management's discussion and analysis of financial 
+condition and operating results
+
+For the year ended December 31, 2022
+
+The following management’s discussion and analysis should be read in conjunction with the company’s 
+audited consolidated financial statements and accompanying notes, and the company’s annual report on 
+Form 10-K, for the year ended December 31, 2022. Reference to Item 1A. “Risk factors” and specific page 
+numbers in this document indicate the section and page numbers found in the company’s annual report on 
+Form 10-K. The company’s annual report on Form 10-K, quarterly reports on Form 10-Q and current reports 
+on Form 8-K and amendments to these reports are available online at www.sedar.com, www.sec.gov and the 
+company’s website www.imperialoil.ca. 
+
+Unless the context otherwise indicates, reference to the “company” or “Imperial” includes Imperial Oil Limited 
+and its subsidiaries, and reference to ExxonMobil includes Exxon Mobil Corporation and its affiliates, as 
+appropriate.
+
+All dollar amounts set forth in this report are in Canadian dollars, except where otherwise indicated.
+Note that numbers may not add due to rounding.
+
+  
+Forward-looking statements 
+
+Statements of future events or conditions in this report, including projections, targets, expectations, estimates, 
+and business plans are forward-looking statements. Similarly, discussion of emission-reduction roadmaps or 
+future plans related to carbon capture, biofuel, hydrogen, plastics recycling and other plans to drive towards net 
+-zero emissions are dependent on future market factors, such as continued technological progress and policy 
+support, and represent forward-looking statements. Forward-looking statements can be identified by words such 
+as believe, anticipate, intend, propose, plan, goal, seek, project, predict, target, estimate, expect, strategy, 
+outlook, schedule, future, continue, likely, may, should, will and similar references to future periods. Forward-
+looking statements in this report include, but are not limited to, references to being well positioned to participate 
+in future investments and reduce commodity price risk; the company’s long-term business outlook including 
+demand, supply and energy mix and pathways related to greenhouse gas emissions; the impact of participation 
+in the Pathways alliance; Imperial’s company-wide net-zero goal by 2050 (Scope 1 and 2) and the company’s 
+greenhouse gas emissions intensity goal for 2030 for its oil sands operations; the extent of ongoing effects of 
+current global economic uncertainty and geopolitical events affecting supply and demand, including inflation, 
+and the company’s ability to mitigate cost impacts and offset inflationary pressure; segment growth, competitive 
+strategies and benefits from an integrated business model; the ability of the company’s current investment 
+strategy of value and select volume growth to deliver robust returns and support long term growth; continued 
+evaluation of opportunities such as rail shipments and pace of the Aspen project; the impact of Downstream 
+strategies and competitive position and the expected volatility of refining margins; potential impacts from 
+environmental risks, carbon policy, climate related regulations and biofuels mandates; the timing and production 
+from the renewable diesel facility at Strathcona; the benefits to the Chemical business from integration with the 
+Sarnia refinery and relationship with ExxonMobil; capital structure and financial strength as a competitive 
+advantage, for risk mitigation and meeting funding requirements; expected full year capital expenditures of 
+about $1.7 billion for 2023; earnings sensitivities; risks associated with use of derivative instruments; the impact 
+of any pending litigation, accounting standards and unrecognized tax benefits; and standardized measures of 
+discounted future cash flow and estimates, development, timing and recovery of reserves.
+
+Forward-looking statements are based on the company’s current expectations, estimates, projections and 
+assumptions at the time the statements are made. Actual future financial and operating results, including 
+expectations and assumptions concerning future energy demand, supply and mix; commodity prices and 
+foreign exchange rates; production rates, growth and mix across various assets; production life, resource 
+recoveries and reservoir performance; project plans, timing, costs, technical evaluations and capacities, and the 
+company’s ability to effectively execute on these plans and operate its assets, including its investment in the 
+renewable diesel complex at Strathcona and the Leming, Grand Rapids and LASER projects at Cold Lake; the 
+adoption and impact of new facilities or technologies on reductions to GHG emissions intensity, including 
+technologies using solvents to replace energy intensive steam at Cold Lake, boiler flue gas technology at Kearl, 
+Strathcona renewable diesel, carbon capture and storage including in connection with hydrogen for the 
+renewable diesel project, recovery technologies and efficiency projects and any changes in the scope, terms, or 
+costs of such projects; that any required support from policymakers and other stakeholders for various new 
+technologies such as carbon capture and storage will be provided; for renewable diesel, the availability and cost 
+of locally-sourced and grown feedstock and the supply of renewable diesel to British Columbia in connection 
+with its low-carbon fuel legislation; the amount and timing of emissions reductions, including the impact of lower 
+carbon fuels; performance of third party service providers; receipt of regulatory and third party approvals in a 
+timely manner; applicable laws and government policies, including with respect to climate change, GHG 
+emissions reductions and low carbon fuels; refinery utilization and product sales; the ability to offset any 
+ongoing inflationary pressures; cash generation, financing sources and capital structure, such as dividends and 
+shareholder returns, including the timing and amounts of share repurchases; progression of COVID-19 and its 
+impacts on Imperial’s ability to operate its assets; capital and environmental expenditures; the capture of 
+efficiencies within and between business lines and the ability to maintain near-term cost reductions as ongoing 
+efficiencies; and general market conditions could differ materially depending on a number of factors. 
+
+  
+These factors include global, regional or local changes in supply and demand for oil, natural gas, petroleum and 
+petrochemical products, feedstocks and other market factors, economic conditions or seasonal fluctuations and 
+resulting demand, price, differential and margin impacts; transportation for accessing markets; political or 
+regulatory events, including changes in law or government policy, applicable royalty rates, tax laws including 
+taxes on share buybacks, and actions in response to COVID-19; environmental risks inherent in oil and gas 
+activities; environmental regulation, including climate change and greenhouse gas regulation and changes to 
+such regulation; government policies supporting lower carbon investment opportunities; failure or delay of 
+supportive policy and market development for emerging lower-emission energy technologies; the receipt, in a 
+timely manner, of regulatory and third-party approvals; third-party opposition to company and service provider 
+operations, projects and infrastructure; availability and allocation of capital; availability and performance of third-
+party service providers; unanticipated technical or operational difficulties; management effectiveness and 
+disaster response preparedness; commercial negotiations; project management and schedules and timely 
+completion of projects; unexpected technological developments; the results of research programs and new 
+technologies, including with respect to greenhouse gas emissions, and the ability to bring new technologies to 
+commercial scale on a cost-competitive basis;  reservoir analysis and performance; the ability to develop or 
+acquire additional reserves; operational hazards and risks; cybersecurity incidents; currency exchange rates; 
+the impacts of COVID-19 or other public health crises, including the effects of government responses on people 
+and economies; general economic conditions, including the occurrence and duration of economic recessions or 
+downturns; and other factors discussed in Item 1A Risk factors and Item 7 Management’s discussion and 
+analysis of financial condition and results of operations in this annual report on Form 10-K. 
+
+Forward-looking statements are not guarantees of future performance and involve a number of risks and 
+uncertainties, some that are similar to other oil and gas companies and some that are unique to Imperial Oil 
+Limited. Imperial’s actual results may differ materially from those expressed or implied by its forward-looking 
+statements and readers are cautioned not to place undue reliance on them. Imperial undertakes no obligation to 
+update any forward-looking statements contained herein, except as required by applicable law. 
+
+Forward-looking and other statements regarding Imperial's environmental, social and other sustainability efforts 
+and aspirations are not an indication that these statements are necessarily material to investors or requiring 
+disclosure in the company's filings with securities regulators. In addition, historical, current and forward-looking 
+environmental, social and sustainability-related statements may be based on standards for measuring progress 
+that are still developing, internal controls and processes that continue to evolve, and assumptions that are 
+subject to change in the future, including future rule-making. 
+
+Energy demand models are forward-looking by nature and aim to replicate system dynamics of the global 
+energy system, requiring simplifications. The reference to any scenario in this report, including any potential net-
+zero scenarios, does not imply Imperial views any particular scenario as likely to occur. In addition, energy 
+demand scenarios require assumptions on a variety of parameters. As such, the outcome of any given scenario 
+using an energy demand model comes with a high degree of uncertainty. For example, the International Energy 
+Agency (IEA) describes its Net Zero Emissions (NZE) by 2050 scenario as extremely challenging, requiring 
+unprecedented innovation, unprecedented international cooperation and sustained support and participation 
+from consumers. Third-party scenarios discussed in this report reflect the modeling assumptions and outputs of 
+their respective authors, not Imperial, and their use by Imperial is not an endorsement by the company of their 
+underlying assumptions, likelihood or probability. Investment decisions are made on the basis of Imperial’s 
+separate planning process. Any use of the modeling of a third-party organization within this report does not 
+constitute or imply an endorsement by Imperial of any or all of the positions or activities of such organization. 
+
+The term “project” as used in this report can refer to a variety of different activities and does not necessarily 
+have the same meaning as in any government payment transparency reports.
+
+  
+Frequently used terms
+
+Listed below are definitions of several of Imperial’s key business and financial performance measures. The 
+definitions are provided to facilitate understanding of the terms and how they are calculated. Certain measures 
+included in this document are not prescribed by U.S. Generally Accepted Accounting Principles (GAAP). These 
+measures constitute “non-GAAP financial measures” under Securities and Exchange Commission Regulation G 
+and Item 10(e) of Regulation S-K, and “specified financial measures” under National Instrument 52-112 Non-
+GAAP and Other Financial Measures Disclosure of the Canadian Securities Administrators. 
+
+Reconciliation of these non-GAAP financial measures to the most comparable GAAP measure, and other 
+information required by these regulations, have been provided. Non-GAAP financial measures and specified 
+financial measures are not standardized financial measures under GAAP and do not have a standardized 
+definition. As such, these measures may not be directly comparable to measures presented by other 
+companies, and should not be considered a substitute for GAAP financial measures.
+
+Capital employed 
+Capital employed is a non-GAAP financial measure that is a measurement of net investment. When viewed 
+from the perspective of how capital is used by the business, it includes the company’s property, plant and 
+equipment and other assets, less liabilities, excluding both short-term and long-term debt. When viewed from 
+the perspective of the sources of capital employed in total for the company, it includes total debt and equity. The 
+most directly comparable financial measure that is disclosed in the financial statements is total assets within the 
+company’s Consolidated balance sheet. Both of these views include the company’s share of amounts 
+applicable to equity companies, which the company believes should be included to provide a more 
+comprehensive measurement of capital employed. 
+
+Reconciliation of capital employed 
+
+millions of Canadian dollars
+
+From the Consolidated balance sheet
+
+Business uses: asset and liability perspective
+
+Total assets
+
+Less: Total current liabilities excluding notes and loans payable
+
+Total long-term liabilities excluding long-term debt
+
+Add:  Imperial’s share of equity company debt
+
+Total capital employed
+
+Total company sources: Debt and equity perspective
+
+Notes and loans payable
+
+Long-term debt
+
+Shareholders’ equity
+
+Add: Imperial’s share of equity company debt
+
+Total capital employed
+
+2022 
+
+2021 
+
+2020 
+
+43,524 
+
+(8,776)   
+
+(8,180)   
+
+25 
+
+26,593 
+
+40,782 
+
+(5,432)   
+
+(8,439)   
+
+20 
+
+26,931 
+
+122 
+
+4,033 
+
+22,413 
+
+25 
+
+26,593 
+
+122 
+
+5,054 
+
+21,735 
+
+20 
+
+26,931 
+
+38,031 
+
+(3,153) 
+
+(8,276) 
+
+26 
+
+26,628 
+
+227 
+
+4,957 
+
+21,418 
+
+26 
+
+26,628 
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Return on average capital employed (ROCE) 
+ROCE is a non-GAAP ratio. From the perspective of the business segments, ROCE is annual business 
+segment net income divided by average business segment capital employed (an average of the beginning and 
+end-of-year amounts). Segment net income includes Imperial’s share of segment net income of equity 
+companies, consistent with the definition used for capital employed, and excludes the cost of financing. Capital 
+employed is a non-GAAP financial measure and is disclosed and reconciled above. The company’s total ROCE 
+is net income excluding the after-tax cost of financing divided by total average capital employed. The company 
+has consistently applied its ROCE definition for many years and views it as one of the best measures of 
+historical capital productivity in a capital-intensive, long-term industry. Additional measures, which are more 
+cash flow based, are used to make investment decisions. 
+
+Components of return on average capital employed 
+
+millions of Canadian dollars
+
+From the Consolidated statement of income
+
+Net income (loss)
+
+Financing (after-tax) including Imperial’s share of equity companies
+
+Net income (loss) excluding financing
+
+Average capital employed
+
+Return on average capital employed (percent) – corporate total
+
+2022 
+
+2021 
+
+2020 
+
+7,340 
+
+55 
+
+7,395 
+
+26,762 
+
+27.6 
+
+2,479 
+
+40 
+
+2,519 
+
+26,780 
+
+9.4 
+
+(1,857) 
+
+52 
+
+(1,805) 
+
+28,059 
+
+(6.4) 
+
+Cash flows from operating activities and asset sales 
+Cash flows from operating activities and asset sales is a non-GAAP financial measure that is the sum of the net 
+cash provided by operating activities and proceeds from asset sales reported in the Consolidated statement of 
+cash flows. This cash flow reflects the total sources of cash both from operating the company’s assets and from 
+the divesting of assets. The most directly comparable financial measure that is disclosed in the financial 
+statements is cash flows from (used in) operating activities within the company’s Consolidated statement of 
+cash flows. The company employs a long-standing and regular disciplined review process to ensure that assets 
+are contributing to the company’s strategic objectives. Assets are divested when they no longer meet these 
+objectives or are worth considerably more to others. Because of the regular nature of this activity, the company 
+believes it is useful for investors to consider sales proceeds together with cash provided by operating activities 
+when evaluating cash available for investment in the business and financing activities, including shareholder 
+distributions. 
+
+Reconciliation of cash flows from (used in) operating activities and asset sales 
+
+millions of Canadian dollars
+
+From the Consolidated statement of cash flows 
+
+2022 
+
+2021 
+
+2020 
+
+Cash flows from (used in) operating activities
+
+Proceeds from asset sales
+
+Total cash flows from (used in) operating activities and asset sales
+
+10,482 
+
+904 
+
+11,386 
+
+5,476 
+
+81 
+
+5,557 
+
+798 
+
+82 
+
+880 
+
+2
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Operating costs 
+Operating costs is a non-GAAP financial measure that are the costs during the period to produce, manufacture, 
+and otherwise prepare the company’s products for sale – including energy costs, staffing and maintenance 
+costs. It excludes the cost of raw materials, taxes and interest expense and are on a before-tax basis. The most 
+directly comparable financial measure that is disclosed in the financial statements is total expenses within the 
+company’s Consolidated statement of income. While the company is responsible for all revenue and expense 
+elements of net income, operating costs represent the expenses most directly under the company’s control and 
+therefore, are useful in evaluating the company’s performance. 
+
+Reconciliation of operating costs 
+
+millions of Canadian dollars
+
+From the Consolidated statement of income
+
+Total expenses
+
+Less:
+
+        Purchases of crude oil and products
+
+        Federal excise tax and fuel charge
+
+        Financing
+
+Subtotal
+
+Imperial's share of equity company expenses
+
+Total operating costs
+
+Components of operating costs
+
+millions of Canadian dollars
+
+From the Consolidated statement of income
+
+Production and manufacturing
+
+Selling and general
+
+Depreciation and depletion (includes impairments)
+
+Non-service pension and postretirement benefit
+
+Exploration
+
+Subtotal
+
+Imperial's share of equity company expenses
+
+Total operating costs
+
+2022 
+
+2021 
+
+2020 
+
+50,186 
+
+34,307 
+
+24,796 
+
+37,742 
+
+2,179 
+
+60 
+
+39,981 
+
+71 
+
+10,276 
+
+23,174 
+
+1,928 
+
+54 
+
+25,156 
+
+61 
+
+9,212 
+
+13,293 
+
+1,736 
+
+64 
+
+15,093 
+
+64 
+
+9,767 
+
+2022 
+
+2021 
+
+2020 
+
+7,404 
+
+882 
+
+1,897 
+
+17 
+
+5 
+
+10,205 
+
+71 
+
+10,276 
+
+6,316 
+
+784 
+
+1,977 
+
+42 
+
+32 
+
+9,151 
+
+61 
+
+9,212 
+
+5,535 
+
+741 
+
+3,293 
+
+121 
+
+13 
+
+9,703 
+
+64 
+
+9,767 
+
+3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Net income (loss) excluding identified items 
+Net income (loss) excluding identified items is a non-GAAP financial measure that is total net income (loss) 
+excluding individually significant non-operational events with an absolute corporate total earnings impact of at 
+least $100 million in a given quarter. The net income (loss) impact of an identified item for an individual segment 
+in a given quarter may be less than $100 million when the item impacts several segments or several periods. 
+The most directly comparable financial measure that is disclosed in the financial statements is net income (loss) 
+within the company’s Consolidated statement of income. Management uses these figures to improve 
+comparability of the underlying business across multiple periods by isolating and removing significant non-
+operational events from business results. The company believes this view provides investors increased 
+transparency into business results and trends, and provides investors with a view of the business as seen 
+through the eyes of management. Net income (loss) excluding identified items is not meant to be viewed in 
+isolation or as a substitute for net income (loss) as prepared in accordance with U.S. GAAP. All identified items 
+are presented on an after-tax basis.
+
+Reconciliation of net income (loss) excluding identified items
+
+millions of Canadian dollars
+
+From the Consolidated statement of income
+
+2022 
+
+2021 
+
+2020 
+
+Net income (loss) (U.S. GAAP)
+
+7,340
+
+2,479
+
+(1,857)
+
+Less identified items included in Net income (loss)
+
+Gain/(loss) on sale of assets
+
+Impairments
+
+Subtotal of identified items
+
+208
+
+—
+
+208
+
+—
+
+—
+
+—
+
+Net income (loss) excluding identified items
+
+7,132
+
+2,479
+
+—
+
+(1,171)
+
+(1,171)
+
+(686)
+
+4
+
+ 
+ 
+ 
+ 
+  
+Management’s discussion and analysis of financial condition and results 
+of operations
+
+Overview
+
+The following discussion and analysis of Imperial’s financial results, as well as the accompanying financial 
+statements and related notes to consolidated financial statements to which they refer, are the responsibility of 
+the management of Imperial Oil Limited. 
+
+The company’s accounting and financial reporting fairly reflect its integrated business model involving 
+exploration for, and production of, crude oil and natural gas, manufacture, trade, transport and sale of crude oil, 
+natural gas, petroleum products, petrochemicals and a variety of specialty products. 
+
+Imperial, with its resource base, financial strength, disciplined investment approach and technology portfolio, is 
+well-positioned to participate in substantial investments to develop new Canadian energy supplies. The 
+company’s operating segments are Upstream, Downstream, Chemicals, and Corporate and other. The 
+company’s integrated business model generally reduces the company’s risk from changes in commodity prices. 
+While commodity prices depend on supply and demand and may be volatile on a short-term basis, Imperial’s 
+investment decisions are grounded on fundamentals reflected in its long-term business outlook, and use a 
+disciplined approach in selecting and pursuing the most attractive investment opportunities. The Corporate Plan 
+is a fundamental annual management process that is the basis for setting operating and capital objectives, in 
+addition to providing the economic assumptions used for investment evaluation purposes. The foundation for 
+the assumptions supporting the Corporate Plan is ExxonMobil’s Outlook for Energy, and Corporate Plan volume 
+projections are based on individual field production profiles, which are also updated annually. Price ranges for 
+crude oil, natural gas, including price differentials, refinery and chemical margins, volumes and operating costs 
+including greenhouse gas emissions pricing, and foreign currency exchange rates are based on Corporate Plan 
+assumptions developed annually and are utilized for investment evaluation purposes. Major investment 
+opportunities are evaluated over a range of potential market conditions. Once the company makes major 
+investments, it completes a reappraisal process to ensure that it learns from the investment decision and 
+incorporates the lessons into future projects.
+
+The term “project” as used in this report can refer to a variety of different activities and does not necessarily 
+have the same meaning as in any government payment transparency reports. 
+
+5
+
+ 
+  
+Business environment 
+
+Long-term business outlook
+The “Long-term business outlook” is based on Exxon Mobil Corporation’s Outlook for Energy (the Outlook), 
+which combined with the near-term pathways, is used to help inform the company’s long-term business 
+strategies and investment plans.
+
+The company’s business planning is underpinned by a deep understanding of long-term market fundamentals. 
+These fundamentals include supply and demand trends, the scale and variety of energy needs worldwide; 
+capability, practicality and affordability of energy alternatives including low-carbon solutions; greenhouse gas 
+emission-reduction technologies; and supportive government policies. The Outlook considers these 
+fundamentals to form the basis for the company’s long-term business planning, investment decisions, and 
+research programs. The Outlook reflects the company’s view of global energy demand and supply through 
+2050. It is a projection based on current trends in technology, government policies, consumer preferences, 
+geopolitics, and economic development.
+
+The Outlook uses projections and scenarios from reputable third parties such as the International Energy 
+Agency (IEA) and the Intergovernmental Panel on Climate Change (IPCC). The IEA describes the Net Zero 
+Emissions by 2050 (NZE) as extremely challenging, requiring all stakeholders - governments, businesses, 
+investors, and citizens - to take immediate, unprecedented action. The IEA acknowledges that society is not 
+currently on the IEA NZE pathway. No single transition pathway can be reasonably predicted, given the wide 
+range of uncertainties. Key unknowns include yet-to-be-developed government policies, market conditions, and 
+advances in technology that may influence the cost, pace, and potential availability of certain pathways. 
+Scenarios that employ a full complement of technology options are likely to provide the most economically 
+efficient pathways.
+
+By 2050, the world’s population is projected at around 9.7 billion people, or about 2 billion more than in 2021. 
+Coincident with this population increase, the Outlook projects worldwide economic growth to average close to 
+2.5 percent per year, with economic output growing by around 110 percent by 2050 compared to 2021. As 
+economies and populations grow, and as living standards improve for billions of people, the need for energy is 
+expected to continue to rise. Even with significant efficiency gains, global energy demand is projected to rise by 
+almost 15 percent from 2021 to 2050. This increase in energy demand is expected to be driven by developing 
+countries (i.e., those that are not member nations of the Organization for Economic Co-operation and 
+Development (OECD)).
+
+As expanding prosperity drives global energy demand higher, increasing use of energy-efficient technologies 
+and practices, as well as lower-emission products, will continue to help significantly reduce energy consumption 
+and CO2 emissions per unit of economic output over time. Substantial efficiency gains are likely in all key 
+aspects of the world’s economy through 2050, affecting energy requirements for power generation, 
+transportation, industrial applications, and residential and commercial needs. 
+
+Under the Outlook, global electricity demand is expected to increase over 75 percent from 2021 to 2050, with 
+developing countries likely to account for about 80 percent of the increase. Consistent with this projection, 
+power generation is expected to remain the largest and fastest growing major segment of global primary energy 
+demand, supported by a wide variety of energy sources. The share of coal-fired generation is expected to 
+decline substantially and approach 15 percent of the world’s electricity in 2050, versus nearly 35 percent in 
+2021, in part due to policies to improve air quality as well as reduce greenhouse gas emissions to address risks 
+related to climate change. From 2021 to 2050, the amount of electricity supplied using natural gas, nuclear 
+power and renewables is expected to more than double, accounting for the entire growth in electricity supplies 
+and offsetting the reduction of coal. Electricity from wind and solar is expected to increase more than 550 
+percent, helping total renewables (including other sources, e.g., hydropower) to account for over 80 percent of 
+the increase in electricity supplies worldwide through 2050. Total renewables are expected to reach about 50 
+percent of global electricity supplies by 2050. Natural gas and nuclear are expected to be about 25 percent and 
+10 percent, respectively, of global electricity supplies by 2050. Supplies of electricity by energy type will reflect 
+significant differences across regions reflecting a wide range of factors including the cost and availability of 
+various energy supplies and policy developments.
+
+6
+
+  
+Under the Outlook, energy for transportation – including cars, trucks, ships, trains and airplanes – is expected to 
+increase by over 30 percent from 2021 to 2050. Transportation energy demand is expected to account for 
+around 65 percent of the growth in liquid fuels demand worldwide over this period. Light-duty vehicle demand 
+for liquid fuels is projected to peak by around 2025, and then decline to levels seen in the early-2000s by 2050, 
+as the impact of better fuel economy and significant growth in electric cars, led by China, Europe, and the 
+United States, work to offset growth in the worldwide car fleet of almost 70 percent. By 2050, light-duty vehicles 
+are expected to account for around 15 percent of global liquid fuels demand. During the same time period, 
+nearly all the world’s commercial transportation fleets are expected to continue to run on liquid fuels, including 
+biofuels, which are expected to be widely available and offer practical advantages in providing a large quantity 
+of energy in small volumes.
+
+Almost half of the world’s energy use is dedicated to industrial activity. As the global middle class continues to 
+grow, demand for durable products, appliances, and consumable goods will increase. Industry uses energy 
+products both as a fuel and as a feedstock for chemicals, asphalt, lubricants, waxes, and other specialty 
+products. The Outlook anticipates technology advances, as well as the increasing shift toward cleaner forms of 
+energy such as electricity and natural gas, with coal declining. Demand for oil will continue to grow as a 
+feedstock for industry.
+
+As populations grow and prosperity rises, more energy will be needed to power homes, offices, schools, 
+shopping centers, hospitals, etc. Combined residential and commercial energy demand is projected to rise by 
+around 15 percent through 2050. Led by the growing economies of developing nations, average worldwide 
+household electricity use will rise about 75 percent between 2021 and 2050.
+
+Liquid fuels provide the largest share of global energy supplies today reflecting broad-based availability, 
+affordability, ease of transportation, and fitness as a practical solution to meet a wide variety of needs. By 2050, 
+global demand for liquid fuels is projected to grow to approximately 110 million oil-equivalent barrels per day, an 
+increase of about 17 percent from 2021. The non-OECD share of global liquid fuels demand is expected to 
+increase to nearly 70 percent by 2050, as liquid fuels demand in the OECD is expected to decline by around 20 
+percent. Much of the global liquid fuels demand today is met by crude production from conventional sources; 
+these supplies will remain important, and significant development activity is expected to offset much of the 
+natural declines from these fields. At the same time, a variety of emerging supply sources – including tight oil, 
+deepwater, oil sands, natural gas liquids, and biofuels – are expected to grow to help meet rising demand. The 
+world’s resource base is sufficient to meet projected demand through 2050 as technology advances continue to 
+expand the availability of more economic and lower-carbon supply options. However, timely investments will 
+remain critical to meeting global needs with reliable and affordable supplies. 
+
+Natural gas is a lower-emission, versatile and practical fuel for a wide variety of applications, and it is expected 
+to grow the most of any primary energy type from 2021 to 2050, meeting about 40 percent of global energy 
+demand growth. Global natural gas demand is expected to rise nearly 25 percent from 2021 to 2050, with 
+around two thirds of that increase coming from the Asia Pacific region. Significant growth in supplies of 
+unconventional gas – the natural gas found in shale and other tight rock formations – will help meet these 
+needs. In total, about 50 percent of the growth in natural gas supplies is expected to be from unconventional 
+sources. At the same time, conventionally-produced natural gas is likely to remain the cornerstone of global 
+supply, meeting around two-thirds of worldwide demand in 2050. Liquefied natural gas (LNG) trade will expand 
+significantly, meeting about 50 percent of the increase in global demand growth, with much of this supply 
+expected to help meet rising demand in Asia Pacific. 
+
+The world’s energy mix is highly diverse and will remain so through 2050. Oil is expected to remain the largest 
+source of energy with its share remaining close to 30 percent in 2050. Coal and natural gas are the next largest 
+sources of energy today, with the share of natural gas growing to more than 25 percent by 2050, while the share 
+of coal falls to about half that of natural gas. Nuclear power is projected to grow, as many nations are likely to 
+expand nuclear capacity to address rising electricity needs as well as energy security and environmental issues. 
+Total renewable energy is expected to exceed 20 percent of global energy by 2050, with other renewables (e.g., 
+biomass, hydropower, geothermal) contributing a combined share of more than 10 percent. Total energy 
+supplied from wind and solar is expected to increase rapidly, growing over 480 percent from 2021 to 2050, 
+when they are projected to be around 10 percent of the world energy mix.
+
+7
+
+  
+Decarbonization of industry activities will require a suite of nascent or future lower-carbon technologies and 
+supporting policies. Lower-emission fuels, hydrogen-based fuels, and carbon capture and storage are three key 
+lower-carbon solutions needed to support a lower-emission future, in addition to wind and solar. Along with 
+electrification, lower-emission fuels are expected to play an important role in decarbonization of the 
+transportation sector, particularly in hard-to-decarbonize areas, such as aviation. Low-carbon hydrogen will be a 
+key enabler replacing traditional furnace fuel to decarbonize the industrial sector. Hydrogen and hydrogen-
+based fuels like ammonia are also expected to make inroads into commercial transportation as technology 
+improves to lower its cost and policy develops to support the needed infrastructure development. Carbon 
+capture and storage on its own, or in combination with hydrogen production, is among the few proven 
+technologies that could enable CO2 emission reductions from high-emitting and hard-to-decarbonize sectors 
+such as power generation and heavy industries, including manufacturing, refining and petrochemicals.
+
+To meet this projected demand under the Outlook and the IEA's Stated Policies Scenario (STEPS), the 
+company anticipates that the world’s available oil and gas resource base will grow, not only from new 
+discoveries, but also from increases in previously discovered fields. Technology will underpin these increases. 
+The investments to develop and supply resources to meet global demand through 2050 will be significant, and 
+would be needed to meet even the rapidly declining demand for oil and gas envisioned in the IEA's Net Zero 
+Emissions by 2050 scenario.
+
+International accords and underlying regional and national regulations covering greenhouse gas emissions 
+continue to evolve with uncertain timing and outcome, making it difficult to predict their business impact. 
+Imperial’s estimates of potential costs related to greenhouse gas emissions align with applicable provincial and 
+federal regulations. Additionally, Imperial uses the Outlook as a foundation for estimating energy supply and 
+demand requirements from various energy sources and uses, and the Outlook takes into account policies 
+established to reduce energy related greenhouse gas emissions. The climate accord reached at the Conference 
+of the Parties (COP 21) in Paris set many new goals, and many related policies are still emerging. The Outlook 
+reflects an environment with increasingly stringent climate policies and is consistent with the global aggregation 
+of Nationally Determined Contributions (NDCs), submitted by the nations that are signatories to the Paris 
+Agreement, as available at the end of 2021. The Outlook seeks to identify potential impacts of climate related 
+government policies, which often target specific sectors. As people and nations look for ways to reduce risks of 
+global climate change, they will continue to need practical solutions that do not jeopardize the affordability or 
+reliability of the energy they need. The company continues to monitor the updates to the NDCs that nations 
+provided around COP 27 in Egypt in November 2022 as well as other policy developments in light of net-zero 
+ambitions formulated by some nations, including Canada.
+
+The information provided in the Outlook includes ExxonMobil's internal estimates and projections based upon 
+internal data and analyses, as well as publicly available information from external sources including the 
+International Energy Agency.
+
+Progress reducing emissions
+Practical solutions to the world’s energy and climate challenges will benefit from market competition in addition 
+to well-informed, well-designed and transparent policy approaches that carefully weigh costs and benefits. Such 
+policies are likely to help manage the risks of climate change while also enabling societies to pursue other high 
+priority goals around the world – including clean air and water, access to reliable and affordable energy, and 
+economic progress for all people. The company encourages sound policy solutions that reduce climate-related 
+risks across the economy at the lowest societal cost. All practical and economically viable energy sources will 
+need to be pursued to continue meeting global energy demand, recognizing the scale and variety of worldwide 
+energy needs, as well as the importance of expanding access to modern energy to promote better standards of 
+living for billions of people.
+
+Imperial and its industry peers launched the Oil Sands Pathways to Net Zero alliance in 2021, with the goal of 
+working collectively with the federal and Alberta governments to achieve net-zero greenhouse gas emissions 
+from oil sands operations by 2050 to help Canada meet its climate goals.
+
+8
+
+As part of the company’s efforts to provide solutions that lower the greenhouse gas emissions intensity of its 
+operations and provide lower life-cycle emissions products to customers, Imperial has announced a company-
+wide goal to achieve net zero emissions (Scope 1 and 2) by 2050 in its operated assets through collaboration 
+with government and industry partners. Successful technology development and supportive fiscal and 
+regulatory frameworks will be needed to achieve this goal. This work builds on Imperial’s previously announced 
+net-zero goal for operated oil sands as part of the Pathways Alliance initiative, as well as the company’s 
+emission intensity reduction goal of 30 percent by 2030 for operated oil sands facilities when compared to 2016 
+levels. The company plans to achieve its net zero goal by applying oil sands recovery technologies that use less 
+steam, implementing carbon capture and storage and implementing efficiency projects including the use of 
+lower carbon fuels at its operations.
+
+9
+
+  
+Recent business environment
+Prior to the COVID-19 pandemic, many companies in the industry invested below the levels needed to maintain 
+or increase production capacity to meet anticipated demand. During the COVID-19 pandemic, this decline in 
+investments accelerated as industry revenue collapsed, resulting in underinvestment and supply tightness as 
+demand for petroleum and petrochemical products recovered. Across late 2021 and the first half of 2022, these 
+reductions, along with supply chain constraints, and a continuation of demand recovery, led to a steady increase 
+in oil and natural gas prices and refining margins.
+
+Demand for petroleum and petrochemical products grew in 2022, with the company's financial results benefiting 
+from stronger prices and margins. Commodity and product prices are expected to remain volatile given the 
+current global economic uncertainty and geopolitical events affecting supply and demand, including Russia's 
+military action in Ukraine that has impacted global crude oil and gas supply levels and prices.
+
+The general rate of inflation in Canada and many other countries experienced a brief decline in the initial stage 
+of the COVID-19 pandemic, before starting to increase steadily in 2021, due to an imbalance in supply and 
+demand, and continued to increase in 2022. The underlying factors include, but are not limited to, time cycle of 
+capacity investments, supply chain disruptions, shipping bottlenecks, labour constraints, and side effects from 
+monetary and fiscal expansions. The company closely monitors market trends and works to mitigate both 
+operating and capital cost impacts in all price environments.
+
+Business results
+
+Consolidated 
+
+millions of Canadian dollars
+
+Net income (loss) (U.S. GAAP)
+Identified items1 included in Net income (loss)
+
+Gain/(loss) on sale of assets
+
+Impairments
+
+Subtotal of identified items1
+
+2022 
+
+7,340 
+
+208 
+
+— 
+
+208 
+
+2021 
+
+2,479 
+
+— 
+
+— 
+
+— 
+
+2020 
+
+(1,857) 
+
+— 
+
+(1,171) 
+
+(1,171) 
+
+Net income (loss) excluding identified items1
+
+7,132 
+
+2,479 
+
+(686) 
+
+2022
+Net income in 2022 was $7,340 million, or $11.44 per share on a diluted basis, up from $2,479 million, or $3.48 
+per share in 2021. Current year results include favourable identified items1 of $208 million after tax, related to 
+the company’s gain on the sale of interests in XTO Energy Canada.
+
+2021 
+Net income in 2021 was $2,479 million, or $3.48 per share on a diluted basis, compared to a net loss of $1,857 
+million, or $2.53 per share in 2020. Prior year results include unfavourable identified items1 of $1,171 million 
+after tax, related to the company’s decision to no longer develop a significant portion of its unconventional 
+portfolio.
+
+1 non-GAAP financial measure - see "Frequently used terms" section on page 43 for definition and reconciliation.
+
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Upstream 
+Overview
+Imperial produces crude oil and natural gas for sale predominantly into North American markets. Imperial’s 
+Upstream business strategies guide the company’s exploration, development, production, research and gas 
+marketing activities. These strategies include improving asset reliability, accelerating development and 
+application of high impact technologies, maximizing value by capturing new business opportunities and 
+managing the existing portfolio, as well as pursuing sustainable improvements in organizational efficiency and 
+effectiveness. These strategies are underpinned by a relentless focus on operations integrity, commitment to 
+innovative technologies, disciplined approach to investing and cost management, development of employees 
+and investment in the communities within which the company operates. 
+
+Imperial has a significant oil and gas resource base and a large inventory of potential projects. The company’s 
+current investment strategy is to invest for value and select volume growth, with focus on optimization within 
+existing assets, cost reduction opportunities and productivity enhancements that aim to deliver robust returns at 
+a wide range of prices. The company also continues to evaluate opportunities to support long-term growth. 
+Although actual volumes will vary from year to year, the focus is on value-add, long-term growth opportunities 
+within the context of the factors described in Item 1A. “Risk factors”. Imperial continually evaluates 
+opportunities, including crude shipments by rail and the pace of the development of its Aspen in-situ oil sands 
+project, as economically justified.
+
+Prices for most of the company's crude oil sold are referenced to Western Canada Select (WCS) and West 
+Texas Intermediate (WTI) oil markets. Additionally, the market price for WCS is typically lower than light and 
+medium grades of oil, and price differentials between WCS and WTI can fluctuate. 
+
+Imperial believes prices over the long term will be driven by market supply and demand, with the demand side 
+largely being a function of general economic activity, alternative energy sources, levels of prosperity, technology 
+advancements, consumer preference and government policies. On the supply side, prices may be significantly 
+impacted by political events, logistics constraints, the actions of OPEC, governments, alternative energy 
+sources, and other factors. To manage the risks associated with price, Imperial tests the resiliency of its annual 
+plans and all major investments across a range of price scenarios. 
+
+Key events 
+Upstream assets demonstrated strong performance in 2022. The company continued to benefit from its actions 
+implemented in prior years to manage the cost structure and improve the reliability of its assets, enabling the 
+Upstream to capture significant value and take advantage of the improving business environment throughout 
+2022.
+
+Upstream full-year production averaged 416,000 gross oil-equivalent barrels per day.
+
+At Kearl, gross production was about 242,000 barrels per day (172,000 barrels Imperial’s share), down 21,000 
+barrels per day (14,000 barrels Imperial's share) compared to 2021, as a result of extreme cold weather impacts 
+in Q1 2022.
+
+At Cold Lake, annual production averaged 144,000 gross oil-equivalent barrels per day.
+
+At Syncrude, annual production averaged 77,000 gross oil-equivalent barrels per day, supported by the 
+interconnect pipeline.
+
+On August 31, 2022, jointly with ExxonMobil Canada, Imperial sold its interests in XTO Energy Canada to 
+Whitecap Resources Inc.
+
+As described in more detail in Item 1A. “Risk factors”, environmental risks and climate related regulations could 
+have negative impacts on the upstream business. 
+
+11
+
+  
+Results of operations 
+2022 Net income (loss) factor analysis 
+millions of Canadian dollars 
+
+Price – Higher realizations were generally in line with increases in marker prices, driven primarily by increased 
+demand. Average bitumen realizations increased by $26.76 per barrel generally in line with WCS, and synthetic 
+crude oil realizations increased by $43.85 per barrel.
+
+Volumes – Lower volumes were primarily the result of downtime at Kearl in the first half of the year, partly offset 
+by higher production at Syncrude and Cold Lake.
+
+Royalty – Higher royalties primarily driven by improved commodity prices.
+
+Identified items1 – Current year results include favourable identified items1 related to the company's gain on the 
+sale of interests in XTO Energy Canada.
+
+Other – Higher operating expenses of about $500 million, primarily from higher energy prices, partially offset by 
+favourable foreign exchange impacts of about $270 million, and higher electricity sales at Cold Lake of about 
+$60 million due to increased prices.
+
+2021 Net income (loss) factor analysis 
+millions of Canadian dollars  
+
+Price – Higher realizations were primarily driven by average bitumen realizations increasing by $32.22 per 
+barrel generally in line with WCS, and synthetic crude oil realizations increasing by $31.85 per barrel generally 
+in line with WTI. 
+
+Volumes – Higher volumes primarily driven by the absence of production balancing with market demands that 
+occurred in 2020 increased net income by about $550 million.
+
+Royalty – Higher royalties primarily driven by higher commodity prices.
+
+Identified items1 – Prior year results included unfavourable identified items1 of $1,171 million related to the 
+company's decision to no longer develop a significant portion of its unconventional portfolio.
+
+Other – Higher operating expenses of about $720 million, unfavourable foreign exchange impacts of about $230 
+million and lower Canada Emergency Wage Subsidy received by the company compared to prior year of about 
+$60 million, which includes Imperial's proportionate share of a joint venture.
+
+1 non-GAAP financial measure - see "Frequently used terms" section on page 43 for definition and reconciliation.
+
+12
+
+1,3953,140(80)(970)208(48)3,6452021PriceVolumesRoyaltyIdentified Items¹Other2022(2,318)3,640550(680)1,171(968)1,3952020PriceVolumesRoyaltyIdentified Items¹Other2021 
+  
+Marker prices and average realizations 
+
+Canadian dollars, unless otherwise noted
+
+West Texas Intermediate (US$) (per barrel)
+Western Canada Select (US$) (per barrel)
+WTI/WCS Spread (US$) (per barrel)
+Bitumen (per barrel)
+Synthetic crude oil (per barrel)
+Conventional crude oil (per barrel)
+Natural gas liquids (per barrel)
+Natural gas (per thousand cubic feet)
+Average foreign exchange rate (US$)
+
+2022 
+94.36 
+76.28 
+18.08 
+84.67 
+125.46 
+97.45 
+64.92 
+5.69 
+0.77 
+
+2021 
+68.05 
+54.96 
+13.09 
+57.91 
+81.61 
+59.84 
+35.87 
+3.83 
+0.80 
+
+2020 
+39.26 
+26.87 
+12.39 
+25.69 
+49.76 
+29.34 
+13.85 
+1.90 
+0.75 
+
+Crude oil and natural gas liquids (NGL) - production and sales (a)
+
+thousands of barrels per day
+
+         2022
+
+         2021
+
+         2020
+
+Bitumen
+Synthetic crude oil (b)
+Conventional crude oil
+Total crude oil production
+NGLs available for sale
+Total crude oil and NGL production
+Bitumen sales, including diluent (c)
+NGL sales (d)
+
+gross
+316 
+77 
+8 
+401 
+1 
+402 
+424 
+1 
+
+net
+263 
+63 
+8 
+334 
+1 
+335 
+
+gross
+326 
+71 
+10 
+407 
+1 
+408 
+451 
+— 
+
+net
+292 
+62 
+9 
+363 
+1 
+364 
+
+gross
+290 
+69 
+11 
+370 
+2 
+372 
+401 
+2 
+
+net
+279 
+68 
+10 
+357 
+2 
+359 
+
+Natural gas - production and production available for sale (a)  
+
+millions of cubic feet per day
+
+Production (e) (f)
+
+Production available for sale (g)
+
+        2022
+
+gross
+
+85 
+
+net
+
+83 
+
+50 
+
+          2021
+gross
+
+120 
+
+net
+
+115 
+
+81 
+
+         2020
+
+gross
+
+154 
+
+net
+
+150 
+
+115 
+
+(a) Volume per day metrics are calculated by dividing the volume for the period by the number of calendar days in the period. Gross 
+production is the company’s share of production (excluding purchases) before deduction of the mineral owners’ or governments’ 
+share or both. 
+
+(b) The company’s synthetic crude oil production volumes were from the company’s share of production volumes in the Syncrude joint 
+venture and include immaterial amounts of bitumen and other products exported to the operator's facilities using an existing 
+interconnect pipeline.
+
+(c) Diluent is natural gas condensate or other light hydrocarbons added to crude bitumen to facilitate transportation to market by pipeline 
+
+and rail. 
+
+(d) 2021 NGL sales round to 0. 
+(e) Gross production of natural gas includes amounts used for internal consumption with the exception of the amounts re-injected.
+(f) Net production is gross production less the mineral owners’ or governments’ share or both. Net production reported in the above table 
+
+is consistent with production quantities in the net proved reserves disclosure. 
+Includes sales of the company’s share of net production and excludes amounts used for internal consumption. 
+
+(g)
+
+2022
+Lower production at Kearl was primarily a result of downtime in the first half of the year.
+
+2021 
+Higher production at Kearl was primarily driven by the absence of prior year production balancing with market
+demands.
+
+13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Downstream 
+Overview
+Imperial’s Downstream serves predominantly Canadian markets with refining, trading, logistics and marketing 
+activities. Imperial’s Downstream business strategies competitively position the company across a range of 
+market conditions. These strategies include targeting industry-leading performance in reliability, safety and 
+operations integrity, as well as maximizing value from advanced technologies, capitalizing on integration across 
+Imperial’s businesses, selectively investing for resilient and advantaged returns, operating efficiently and 
+effectively, and providing quality, valued and differentiated products and services to customers. 
+
+Imperial owns and operates three refineries in Canada with aggregate distillation capacity of 433,000 barrels 
+per day. Refining margins are largely driven by differences in commodity prices and are a function of the 
+difference between what a refinery pays for its raw materials (primarily crude oil) and the market prices for the 
+range of products produced (primarily gasoline, heating oil, diesel oil, jet fuel, fuel oil and asphalt). Crude oil and 
+many products are widely traded with published prices, including those quoted on the New York Mercantile 
+Exchange. Prices for these commodities are determined by the global and regional marketplaces and are 
+influenced by many factors, including global and regional supply / demand balances, inventory levels, industry 
+refinery operations, import / export balances, currency fluctuations, seasonal demand, weather and political 
+considerations. While industry refining margins significantly impact earnings, strong operations performance, 
+product mix optimization, and disciplined cost control are also critical to the company's strong financial 
+performance. Imperial's integration across the value chain, from refining to marketing, enhances overall value 
+across the fuels business.
+
+Key events
+Refining margins increased sharply in 2022 in the face of strengthening demand, low inventory levels, and 
+supply uncertainty. While refining margins are anticipated to remain volatile in the near term, the company 
+continues to closely monitor industry and global economic conditions. 
+
+The company progressed the Strathcona renewable diesel project in 2022, culminating in a final investment 
+decision in January 2023 to construct the largest such facility in Canada, designed to produce more than one 
+billion litres of renewable diesel annually.
+
+As described in more detail in Item 1A. “Risk factors”, proposed carbon policy and other climate related 
+regulations, as well as continued biofuels mandates, could have negative impacts on the downstream business. 
+
+Imperial supplies petroleum products through Esso and Mobil-branded sites and independent marketers. At the 
+end of 2022, there were about 2,400 sites operating under a branded wholesaler model, in alignment with Esso 
+and Mobil brand standards, whereby Imperial supplies fuel to independent third parties. 
+
+Results of operations 
+2022 Net income (loss) factor analysis
+millions of Canadian dollars 
+
+Margins – Higher margins primarily reflect improved market conditions.
+
+Other – Lower turnaround impacts of about $140 million, reflecting the absence of turnaround activities at 
+Strathcona refinery, improved volumes of about $130 million, favourable foreign exchange impacts of about 
+$120 million, and absence of the prior year unfavourable out-of-period inventory adjustment of $74 million, 
+partially offset by higher operating expenses of about $190 million.
+
+14
+
+8952,3503773,6222021MarginsOther2022  
+2021 Net income (loss) factor analysis
+millions of Canadian dollars
+
+Margins – Higher margins reflect improved product demand.
+
+Other – Unfavourable foreign exchange impacts of about $150 million and an unfavourable inventory 
+adjustment of $74 million1, partially offset by lower operating expenses of about $50 million.
+
+Refinery utilization
+
+thousands of barrels per day (a)
+
+Total refinery throughput (b)
+
+Rated capacity at December 31 (c)
+
+Utilization of total refinery capacity (percent)
+
+2022 
+
+418 
+
+433 
+
+98 
+
+2021 
+
+379 
+
+428 
+
+89 
+
+2020 
+
+340 
+
+428 
+
+80 
+
+(a) Volume per day metrics are calculated by dividing the volume for the period by the number of calendar days in the period. 
+(b) Refinery throughput is the volume of crude oil and feedstocks that is processed in the refinery atmospheric distillation units. 
+(c) Rated capacities are based on definite specifications as to types of crude oil and feedstocks that are processed in the refinery 
+
+atmospheric distillation units, the products to be obtained and the refinery process, adjusted to include an estimated allowance for 
+normal maintenance shutdowns. Accordingly, actual capacities may be higher or lower than rated capacities due to changes in 
+refinery operation and the type of crude oil available for processing. 
+
+ 2022 
+Improved refinery throughput in 2022 was primarily driven by increased demand and reduced turnaround 
+activity.
+
+2021 
+Improved refinery throughput in 2021 primarily reflects reduced impacts associated with the COVID-19 
+pandemic, partially offset by a planned turnaround at Strathcona.
+
+Petroleum product sales
+
+thousands of barrels per day (a)
+
+Gasolines
+
+Heating, diesel and jet fuels
+
+Lube oils and other products
+
+Heavy fuel oils
+
+Net petroleum product sales
+
+2022 
+
+2021 
+
+2020 
+
+229 
+
+176 
+
+47 
+
+23 
+
+475 
+
+224 
+
+160 
+
+45 
+
+27 
+
+456 
+
+215 
+
+146 
+
+40 
+
+20 
+
+421 
+
+(a) Volume per day metrics are calculated by dividing the volume for the period by the number of calendar days in the period.
+
+2022 
+Improved petroleum product sales in 2022 primarily reflects increased demand.
+
+2021
+Improved petroleum product sales in 2021 primarily reflects reduced impacts associated with the COVID-19 
+pandemic.
+
+1 In 2021, the company recorded an unfavourable $74 million ($82 million, before tax) inventory adjustment (including the proportionate 
+share of LIFO changes) related to reconciliations of additives and products inventory at equity and third-party terminals. The out-of-period 
+impact of $57 million ($63 million, before tax) occurred over a number of years, and has been resolved.
+
+15
+
+553600(258)8952020MarginsOther2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Chemical 
+Overview
+North America continued to benefit from abundant supplies of natural gas and gas liquids, providing both low 
+cost energy and feedstock for steam crackers. 
+
+Key events
+In 2022, margins were adversely impacted by increased domestic supply of polyethylene.
+
+Imperial maintains a competitive advantage through continued operational excellence, consistent product 
+quality, investment and cost discipline, and integration of its chemical plant in Sarnia with the refinery. The 
+company also benefits from its relationship with ExxonMobil’s North American chemical businesses, enabling 
+Imperial to maintain a leadership position in its key market segments. 
+
+Results of operations 
+2022 Net income (loss) factor analysis
+millions of Canadian dollars 
+
+Margins – Lower margins primarily reflect weaker industry polyethylene margins.
+
+2021 Net income (loss) factor analysis
+millions of Canadian dollars 
+
+Margins – Improved margins were primarily due to stronger industry polyethylene margins.
+
+Sales 
+
+thousands of tonnes
+
+Polymers and basic chemicals
+
+Intermediates
+
+Total petrochemical sales
+
+Corporate and other 
+
+millions of Canadian dollars
+
+Net income (loss)
+
+2022 
+
+635 
+
+207 
+
+842 
+
+2021 
+
+599 
+
+232 
+
+831 
+
+2020 
+
+574 
+
+175 
+
+749 
+
+2022 
+
+(131)   
+
+2021 
+
+(172)   
+
+2020 
+
+(170) 
+
+16
+
+361(110)(47)2042021MarginsOther202278250333612020MarginsOther2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Liquidity and capital resources
+
+Sources and uses of cash
+The company issues long-term debt from time to time and maintains a commercial paper program. However, 
+internally generated funds cover the majority of its financial requirements. Cash that may be temporarily surplus 
+to the company’s immediate needs is carefully managed through counterparty quality and investment guidelines 
+to ensure that it is secure and readily available to meet the company’s cash requirements and to optimize 
+returns. 
+
+Cash flows from operating activities are highly dependent on crude oil and natural gas prices, as well as 
+petroleum and chemical product margins. In addition, to provide for cash flow in future periods, the company 
+needs to continually find and develop new resources, and continue to develop and apply new technologies to 
+existing fields in order to maintain or increase production. 
+
+The company’s financial strength enables it to make large, long-term capital expenditures. Imperial’s portfolio of 
+development opportunities and the complementary nature of its business segments help mitigate the overall 
+risks for the company and its cash flows. Further, due to its financial strength, debt capacity and portfolio of 
+opportunities, the risk associated with delay of any single project would not have a significant impact on the 
+company’s liquidity or ability to generate sufficient cash flows for its operations and fixed commitments. 
+
+Funding of registered retirement plans complies with federal and provincial pension regulations, and the 
+company makes contributions to the plans based on an independent actuarial valuation completed at least once 
+every three years depending on funding status. The most recent valuation of the company’s registered 
+retirement plans was completed as at December 31, 2019. A valuation of the company’s registered retirement 
+plans as at December 31, 2022 is expected to be completed in 2023. The company contributed $174 million to 
+the registered retirement plans in 2022. Future funding requirements are not expected to affect the company’s 
+existing capital investment plans or its ability to pursue new investment opportunities. 
+
+millions of Canadian dollars
+
+Cash provided by (used in)
+
+Operating activities
+
+Investing activities
+
+Financing activities
+
+Increase (decrease) in cash and cash equivalents
+
+2022 
+
+2021 
+
+2020 
+
+10,482 
+
+(618)   
+
+(8,268)   
+
+1,596 
+
+5,476 
+
+(1,012)   
+
+(3,082)   
+
+1,382 
+
+798 
+
+(802) 
+
+(943) 
+
+(947) 
+
+Cash and cash equivalents at end of year
+
+3,749 
+
+2,153 
+
+771 
+
+Cash flow from operating activities 
+
+2022 
+Cash flow generated from operating activities primarily reflects higher Upstream realizations, improved 
+Downstream margins, and favourable working capital impacts.
+
+2021
+Cash flow generated from operating activities primarily reflects higher Upstream realizations and stronger 
+Downstream margins.
+
+Cash flow used in investing activities 
+
+2022 
+Cash flow used in investing activities primarily reflects higher additions to property, plant and equipment, which 
+were partially offset by proceeds from the sale of interests in XTO Energy Canada.
+
+2021
+Cash flow used in investing activities primarily reflects higher additions to property, plant and equipment.
+
+17
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Cash flow used in financing activities 
+
+2022 
+At the end of 2022, total debt outstanding was $4,155 million, compared with $5,176 million at the end of 2021.
+
+During the third quarter of 2022, the company decreased its long-term debt by $1 billion by partially repaying an 
+existing facility with an affiliated company of ExxonMobil.
+
+During the second quarter of 2022, the company reduced its existing $500 million committed long-term line of 
+credit to $250 million and extended the maturity date to June 30, 2023. Subsequently in the fourth quarter of 
+2022, this committed long-term line of credit was cancelled in full. The company also extended one of its $250 
+million committed long-term lines of credit to June 30, 2024.
+
+In November 2022, the company extended the maturity date of an existing $250 million committed short-term 
+line of credit to November 2023.
+
+The company has not drawn on any of its outstanding $500 million of available credit facilities. 
+
+2021
+At the end of 2021, total debt outstanding was $5,176 million, compared with $5,184 million at the end of 2020.
+
+During the second quarter of 2021, the company extended the maturity date of two of its short-term lines of 
+credit, totalling $750 million, to May 2023, these facilities are now long-term. The company also extended its 
+$300 million committed short-term line of credit to June 2022.
+
+In November 2021, the company extended the maturity date of an existing $250 million committed short-term 
+line of credit to November 2022. 
+
+The company has not drawn on these facilities.
+
+Share repurchases
+
+millions of Canadian dollars, unless noted
+
+Share repurchases
+
+Number of shares purchased (millions) (a)
+
+2022 
+
+6,395 
+
+93.9 
+
+2021 
+
+2,245 
+
+56.0 
+
+2020 
+
+274 
+
+9.8 
+
+(a) Share repurchases were made under the company’s normal course issuer bid program, and substantial issuer bids that commenced 
+
+on May 6, 2022 and November 4, 2022, and expired on June 10, 2022 and December 9, 2022, respectively. Includes shares 
+purchased from Exxon Mobil Corporation concurrent with, but outside of, the normal course issuer bid, and by way of a proportionate 
+tender under the company’s substantial issuer bids.
+
+2022
+On June 27, 2022, the company announced that it had received final approval from the Toronto Stock Exchange 
+for a new normal course issuer bid. The program enabled the company to purchase up to a maximum of 
+31,833,809 common shares during the period June 29, 2022 to June 28, 2023. The program completed on 
+October 21, 2022 as a result of the company purchasing the maximum allowable number of shares under the 
+program.
+
+On May 6, 2022, the company commenced a substantial issuer bid pursuant to which it offered to purchase for 
+cancellation up to $2.5 billion of its common shares through a modified Dutch auction and proportionate tender 
+offer. The substantial issuer bid was completed on June 15, 2022, with the company taking up and paying for 
+32,467,532 common shares at a price of $77.00 per share, for an aggregate purchase of $2.5 billion and        
+4.9 percent of Imperial’s issued and outstanding shares at the close of business on May 2, 2022. This included 
+22,597,379 shares purchased from Exxon Mobil Corporation by way of a proportionate tender to maintain its 
+ownership percentage at approximately 69.6 percent. 
+
+18
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+On November 4, 2022, the company commenced a substantial issuer bid pursuant to which it offered to 
+purchase for cancellation up to $1.5 billion of its common shares through a modified Dutch auction and 
+proportionate tender offer. The substantial issuer bid was completed on December 14, 2022, with the company 
+taking up and paying for 20,689,655 common shares at a price of $72.50 per share, for an aggregate purchase 
+of $1.5 billion and 3.4 percent of Imperial's issued and outstanding shares at the close of business on 
+October 31, 2022. This included 14,399,985 shares purchased from Exxon Mobil Corporation by way of a 
+proportionate tender to maintain its ownership percentage at approximately 69.6 percent.
+
+2021
+On April 30, 2021, the company announced an amendment to its normal course issuer bid to increase the 
+number of common shares that were available to be purchased. Under the amendment, the number of common 
+shares available for purchase increased to a maximum of 29,363,070 common shares during the period June 
+29, 2020 to June 28, 2021. In 2021, the company purchased 29,356,095 shares under this amended program. 
+
+On June 23, 2021, the company announced that it received final approval from the Toronto Stock Exchange for 
+a new normal course issuer bid to continue its existing share purchase program. The program enabled the 
+company to purchase up to a maximum of 35,583,671 common shares during the period June 29, 2021 to June 
+28, 2022. In accordance with the company’s announcement in November 2021 that it intended to accelerate 
+purchases under the normal course issuer bid, the program was subsequently completed on January 31, 2022 
+as a result of the company purchasing the maximum allowable number of shares under the program.
+
+Dividends 
+
+millions of Canadian dollars, unless noted
+
+Dividends paid
+
+Per share dividend paid (dollars)
+
+Financial strength 
+
+2022 
+
+851 
+
+1.29 
+
+2021 
+
+706 
+
+0.98 
+
+2020 
+
+649 
+
+0.88 
+
+The table below shows Imperial’s consolidated debt-to-capital ratio. The data demonstrates the company’s 
+creditworthiness: 
+
+ percent
+
+ At December 31
+
+Debt to capital (a)
+
+2022 
+
+ 16 
+
+2021 
+
+ 19 
+
+2020 
+
+ 19 
+
+(a) Debt, defined as the sum of “Notes and loans payable” and “Long-term debt” (page 76), divided by capital, defined as the sum of debt
+
+ and “Total shareholders’ equity” (page 76). 
+
+Debt-related interest incurred in 2022, before capitalization of interest, was $111 million, up from $63 million in 
+2021. The weighted-average interest rate on the company’s debt was 2.2 percent in 2022, up from 1.2 percent 
+in 2021. 
+
+The company’s financial strength represents a competitive advantage of strategic importance providing it the 
+opportunity to readily access capital markets across a range of market conditions and enables the company to 
+take on large, long-term capital commitments in the pursuit of maximizing shareholder value. 
+
+Contractual obligations 
+The company has contractual obligations involving commitments to third parties that impact its liquidity and 
+capital resource needs. These contractual obligations are primarily for leases, debt, asset retirement 
+obligations, pension and other postretirement benefits, other long-term obligations, and firm capital 
+commitments. Further information on this topic can be found in notes 4, 5, 13 and 14 to the consolidated 
+financial statements. 
+
+Other long-term purchase agreements are commitments that are non-cancelable, or cancelable only under 
+certain conditions, as well as long-term commitments, other than unconditional purchase obligations. They 
+include primarily transportation services agreements, raw material supply and community benefits agreements. 
+The total obligation at year-end 2022 was $8.8 billion, of which $783 million is due in 2023, and $670 million is 
+due in 2024.
+
+19
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Litigation and other contingencies 
+As discussed in note 9 to the consolidated financial statements on page 97, a variety of claims have been made 
+against Imperial and its subsidiaries. Based on a consideration of all relevant facts and circumstances, the 
+company does not believe the ultimate outcome of any currently pending lawsuits against the company will 
+have a material adverse effect on the company’s operations, financial condition, or financial statements taken 
+as a whole. 
+
+Additionally, as discussed in note 9, Imperial was contingently liable at December 31, 2022, for guarantees 
+relating to performance under contracts. These guarantees do not have a material effect on the company’s 
+operations, financial condition, or financial statements taken as a whole. 
+
+There are no events or uncertainties beyond those already included in reported financial information that would 
+indicate a material change in future operating results or financial condition. 
+
+Capital and exploration expenditures
+
+Capital and exploration expenditures represent the combined total of additions at cost to property, plant and 
+equipment, additions to finance leases, additional investments and acquisitions; exploration expenses on a 
+before-tax basis from the Consolidated statement of income; and the company’s share of similar costs for equity 
+companies. Capital and exploration expenditures exclude the purchase of carbon emission credits. While 
+Imperial’s management is responsible for all investments and elements of net income, particular focus is placed 
+on managing the controllable aspects of this group of expenditures. 
+
+ millions of Canadian dollars
+
+Upstream (a)
+
+Downstream
+
+Chemical
+
+Corporate and other
+
+Total
+
+(a) Exploration expenses included.
+
+2022 
+
+1,128 
+
+295 
+
+10 
+
+57 
+
+1,490 
+
+2021 
+
+632 
+
+476 
+
+8 
+
+24 
+
+1,140 
+
+For the Upstream segment, capital and exploration expenditures were primarily related to sustaining activity in 
+support of the company’s in-situ and oil sands assets. 
+
+For the Downstream segment, capital expenditures were primarily for enhancing the company’s distribution 
+network as well as refinery projects to improve environmental performance, reliability, feedstock flexibility, and 
+energy efficiency. 
+
+Total capital and exploration expenditures are expected to be approximately $1.7 billion in 2023. 
+
+Expected capital and exploration expenditures for 2023 includes firm capital commitments of $407 million for the 
+construction and purchase of fixed assets and other permanent investments. An additional $211 million of firm 
+capital commitments have been made for years 2024 and beyond. 
+
+Actual spending could vary depending on the progress of individual projects.
+
+20
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Market risks
+
+Crude oil, natural gas, petroleum product and chemical prices have fluctuated in response to changing market 
+forces. The impacts of these price fluctuations on earnings from Upstream, Downstream and Chemical 
+operations have varied. 
+
+Imperial’s earnings are influenced by North American crude oil benchmark prices as well as changes in the 
+differentials between these benchmarks and western Canadian prices for light and heavy crude oil. Imperial’s 
+integrated business model reduces the company’s risk from changes in commodity prices. For instance, when 
+differentials between North American crude benchmarks and western Canadian prices widen, Imperial is able to 
+mitigate the impact of widening differentials on the Upstream through integration with Downstream investments 
+in refineries, pipeline commitments and the Edmonton rail terminal.
+
+In the competitive downstream and chemical environments, earnings are primarily determined by margin 
+capture rather than absolute price levels on products sold. Refining margins are a function of the difference 
+between what a refiner pays for its raw materials (primarily crude oil) and the market prices for the range of 
+products produced. These prices, in turn, depend on global and regional supply / demand balances, inventory 
+levels, refinery operations, import / export balances and weather. 
+
+Industry crude oil commodity prices and petroleum and chemical product prices are commonly benchmarked in 
+U.S. dollars. The majority of Imperial’s sales and purchases are related to these industry U.S. dollar 
+benchmarks. As the company records and reports its financial results in Canadian dollars, to the extent that the 
+Canadian / U.S. dollar exchange rate fluctuates, the company’s earnings will be affected. 
+
+Imperial is exposed to changes in interest rates, primarily on its debt which carries floating interest rates. The 
+impact of a quarter percent change in interest rates affecting Imperial’s debt would not be material to earnings 
+or cash flow. Imperial has access to significant sources of long-term and short-term liquidity. Internally 
+generated funds are expected to cover the majority of financial requirements, supplemented by long-term and 
+short-term debt as needed. 
+
+The company’s potential exposure to commodity price and margin, and Canadian / U.S. dollar exchange rate 
+fluctuations is summarized in the earnings sensitivities table, which shows the estimated annual effect, under 
+current conditions, on the company’s after-tax net income. For any given period, the extent of actual benefit or 
+detriment will be dependent on the price movements of individual types of crude oil and products, production 
+and sales volumes, transportation capacity, costs and egress methods, and other factors. Accordingly, changes 
+in benchmark prices for crude oil and crude oil differentials, and other factors listed in the table following, only 
+provide broad indicators of changes in the earnings experienced in any particular period. 
+
+Earnings sensitivities (a) 
+
+millions of Canadian dollars, after-tax
+
+One dollar (U.S.) per barrel increase (decrease) in crude oil prices
+
+One dollar (U.S.) per barrel increase (decrease) in refining 2-1-1 margins (b)
+
+One cent decrease (increase) in the value of the Canadian dollar versus the U.S. dollar
+
++ (-)
+
++ (-)
+
++ (-)
+
+105 
+
+140 
+
+170 
+
+(a) Each sensitivity calculation shows the annual impact on net income resulting from a change in one factor, after tax and royalties, and 
+holding all other factors constant. These sensitivities have been updated to reflect current market conditions. They may not apply 
+proportionately to larger fluctuations.
+
+(b) The 2-1-1 crack spread is an indicator of the refining margin generated by converting two barrels of crude oil into one barrel of 
+
+gasoline and one barrel of diesel. 
+
+The demand for crude oil, petroleum products and petrochemical products are generally linked closely with 
+economic growth. The occurrence of recessions or other periods of low or negative economic growth will 
+typically have a direct adverse impact on the company’s financial results. Although price levels of crude oil may 
+rise and fall significantly over the short to medium-term due to global economic conditions, political events, 
+decisions by OPEC, governments and other factors, industry economics over the long-term will continue to be 
+driven by market supply and demand. The company evaluates investments over a range of prices, including 
+estimated greenhouse gas emission costs. 
+
+21
+
+ 
+ 
+ 
+  
+The global energy markets can give rise to extended periods in which market conditions are adverse to one or 
+more of the company’s businesses. Such conditions, along with the capital-intensive nature of the industry and 
+very long lead times associated with many of the company’s projects, underscore the importance of maintaining 
+a strong financial position. Management views the company’s financial strength as a competitive advantage. 
+
+In general, segment results are not dependent on the ability to sell and / or purchase products to / from other 
+segments. Where such intersegment sales take place, they are the result of efficiencies and competitive 
+advantages from integrated business segments and refinery and chemical complexes. The company’s 
+intersegment sales include crude oil produced by the Upstream and sold to the Downstream, as well as sales 
+between refineries and the chemical plant related to raw materials, feedstocks and finished products. All 
+intersegment sales are at market based prices. Refer to note 2 for additional information on intersegment 
+revenue. 
+
+The company has an active asset management program in which nonstrategic assets are considered for 
+divestment. The asset management program includes a disciplined, regular review to ensure that assets are 
+contributing to the company’s strategic objectives. 
+
+Risk management 
+The company’s size, strong capital structure and the complementary nature of its business segments reduces 
+the company’s enterprise-wide risk from changes in commodity prices and currency exchange rates. In addition, 
+the company may use commodity-based contracts, including derivatives, to manage commodity price risk and 
+to generate returns from trading. The company’s derivatives are not accounted for under hedge accounting. 
+Credit risk associated with the company’s derivative position is mitigated by several factors, including the use of 
+derivative clearing exchanges and the quality of and financial limits placed on derivative counterparties. No 
+material market or credit risks to the company’s financial position, results of operations or liquidity exist as a 
+result of the derivatives described in note 6 on page 94. The company maintains a system of controls that 
+includes the authorization, reporting and monitoring of derivative activity. 
+
+22
+
+ 
+  
+Critical accounting estimates
+
+The company’s financial statements have been prepared in accordance with United States Generally Accepted 
+Accounting Principles (U.S. GAAP). U.S. GAAP requires management to make estimates and judgments that 
+affect the reported amounts of assets, liabilities, revenues and expenses, and the disclosure of contingent 
+assets and liabilities. The company’s accounting and financial reporting fairly reflect its business model involving 
+exploration for, and production of, crude oil and natural gas; manufacture, trade, transport and sale of crude oil, 
+natural gas, petroleum products, petrochemicals and a variety of specialty products; and pursuit of lower-
+emission business opportunities, including carbon capture and storage, hydrogen and lower-emission fuels. 
+Imperial does not use financing structures for the purpose of altering accounting outcomes or removing debt 
+from the balance sheet. The company’s significant accounting policies are summarized in note 1 to the 
+consolidated financial statements on page 79. 
+
+Oil and natural gas reserves 
+Evaluations of oil and natural gas reserves are important to the effective management of upstream assets. They 
+are an integral part of investment decisions about oil and gas properties such as whether development should 
+proceed. 
+
+The estimation of proved reserve volumes, which is based on the requirement of reasonable certainty, is an 
+ongoing process based on rigorous technical evaluations, commercial and market assessments, detailed 
+analysis of well information such as flow rates and reservoir pressures, and development and production costs, 
+and other factors. The estimation of proved reserves is controlled by the company through long-standing 
+approval guidelines. Reserves changes are made within a well-established, disciplined process driven by 
+qualified geoscience and engineering professionals, assisted by the reserves management group which has 
+significant technical experience, culminating in reviews with and approval by senior management and the 
+company’s board of directors. Notably, the company does not use specific quantitative reserves targets to 
+determine compensation. Key features of the reserves estimation process are covered in “Disclosure of 
+reserves” in Item 1. 
+
+Oil and natural gas reserves include both proved and unproved reserves. 
+
+•
+
+Proved oil and natural gas reserves are determined in accordance with U.S. Securities and Exchange 
+Commission (SEC) requirements. Proved reserves are those quantities of oil and natural gas which, by 
+analysis of geoscience and engineering data, can be estimated with reasonable certainty to be 
+economically producible under existing economic and operating conditions and government regulations. 
+Proved reserves are determined using the average of first-day-of-the-month oil and natural gas prices 
+during the reporting year. 
+
+Proved reserves can be further subdivided into developed and undeveloped reserves. Proved 
+developed reserves include amounts which are expected to be recovered through existing wells, 
+facilities, or mining activities with existing equipment and operating methods. Proved undeveloped 
+reserves include amounts expected to be recovered from new wells, existing wells, facilities, or mining 
+activities, where a relatively major capital expenditure is required. Proved undeveloped reserves are 
+recognized when a development plan has been adopted indicating that the reserves are scheduled to 
+be developed within five years, unless specific circumstances support a longer period of time. 
+
+The company is reasonably certain that proved reserves will be produced. However, the timing and 
+amount recovered can be affected by a number of factors including completion and optimization of 
+development projects, reservoir performance, regulatory approvals, government policies, consumer 
+preferences, royalty frameworks and significant changes in oil and natural gas price levels. 
+
+•
+
+Unproved reserves are quantities of oil and natural gas with less than reasonable certainty of 
+recoverability and include probable reserves. Probable reserves are reserves that, together with proved 
+reserves, are as likely as not to be recovered. 
+
+Revisions in previously estimated volumes of proved reserves for existing fields can occur due to the evaluation 
+or re-evaluation of already available geologic, reservoir or production data; new geologic, reservoir or 
+production data; or changes in the average of first-day-of-the-month oil and natural gas prices and / or costs 
+that are used in the estimation of reserves. Revisions can also result from significant changes in either 
+development strategy or production equipment and facility capacity. 
+
+23
+
+ 
+  
+In 2020, downward revisions of proved bitumen reserves were a result of low prices. The 2.2 billion barrels of 
+bitumen at Kearl and 0.6 billion barrels of bitumen at Cold Lake no longer qualified as proved reserves under 
+the SEC definition of proved reserves. Downward revisions to proved synthetic crude oil reserves were a result 
+of lower prices, offset by the addition of proved undeveloped reserves associated with future development at 
+Syncrude. Changes to the liquids and natural gas proved reserves were the result of updated development 
+plans at the Montney and Duvernay unconventional assets and the divestment of conventional properties. 
+
+In 2021, upward revisions of proved bitumen reserves were a result of improved prices. The 1.7 billion barrels of 
+bitumen at Kearl and 0.5 billion barrels of bitumen at Cold Lake qualified as proved reserves under the SEC 
+definition of proved reserves. Upward revisions to proved synthetic crude oil reserves were a result of improved 
+prices. Changes to the liquids and natural gas proved reserves were the result of updated development plans 
+and divestments at the Montney and Duvernay unconventional assets. 
+
+In 2022, downward revisions of proved bitumen reserves were driven by a decrease of 0.2 billion barrels at 
+Kearl as a result of higher royalty obligations associated with pricing, and a decrease of 0.2 billion barrels at 
+Cold Lake due to an updated development plan. An increase to the bitumen reserves of 0.1 billion barrels is 
+associated with extensions at Cold Lake for the Grand Rapids Phase 1 SA-SAGD and Leming SAGD projects. 
+Downward revisions to proved synthetic crude oil reserves were a result of mine development plan updates and 
+higher royalty obligations at Syncrude associated with pricing. Changes to the liquids and natural gas proved 
+reserves were primarily a result of the sale of the company’s interest in the Montney and Duvernay 
+unconventional assets.
+
+Under the terms of certain contractual arrangements or government royalty regimes, lower prices can also 
+increase proved reserves attributable to Imperial. The company’s operating decisions and its outlook for future 
+production volumes are not impacted by proved reserves as disclosed under the SEC definition. 
+
+Unit-of-production depreciation 
+Oil and natural gas reserve volumes are used as the basis to calculate unit-of-production depreciation rates for 
+most upstream assets. Depreciation is calculated by taking the ratio of asset cost to total proved reserves or 
+proved developed reserves applied to actual production. The volumes produced and asset cost are known, 
+while proved reserves are based on estimates that are subject to some variability. 
+
+In the event that the unit-of-production method does not result in an equitable allocation of cost over the 
+economic life of an upstream asset, an alternative method is used. The straight-line method is used in limited 
+situations where the expected life of the asset does not reasonably correlate with that of the underlying 
+reserves. For example, certain assets used in the production of oil and natural gas have a shorter life than the 
+reserves, and as such, the company uses straight-line depreciation to ensure the asset is fully depreciated by 
+the end of its useful life. 
+
+To the extent that proved reserves for a property are substantially de-booked and that property continues to 
+produce such that the resulting depreciation charge does not result in an equitable allocation of cost over the 
+expected life, assets will be depreciated using a unit-of-production method based on reserves determined at the 
+most recent SEC price which results in a more meaningful quantity of proved reserves, appropriately adjusted 
+for production and technical changes. This approach was applied in 2021, with the corresponding effect on 
+depreciation expense being immaterial compared to prior periods. For 2022 and 2023, all properties have 
+sufficient reserves at current SEC prices which will enable equitable allocation of cost over the economic lives of 
+the Upstream assets. 
+
+Impact of oil and gas reserves and prices and margins on testing for impairment 
+The company tests assets or groups of assets for recoverability on an ongoing basis whenever events or 
+changes in circumstances indicate that the carrying amounts may not be recoverable. The company has a 
+robust process to monitor for indicators of potential impairment across its asset groups throughout the year. This 
+process is aligned with the requirements of ASC 360 and ASC 932 and relies, in part, on the company’s 
+planning and budgeting cycle. 
+
+24
+
+  
+Because the lifespans of the vast majority of the company’s major assets are measured in decades, the future 
+cash flows of these assets are predominantly based on long-term oil and natural gas commodity prices, industry 
+margins, and development and production costs. Significant reductions in the company’s view of oil or natural 
+gas commodity prices or margin ranges, especially the longer-term prices and margins, and changes in the 
+development plans, including decisions to defer, reduce or eliminate planned capital spending, can be an 
+indicator of potential impairment. Other events or changes in circumstances, including indicators outlined in 
+ASC 360 can be indicators of potential impairment as well. 
+
+In general, Imperial does not view temporarily low prices or margins as an indication of impairment. 
+Management believes that prices over the long term must be sufficient to generate investments in energy 
+supply to meet global demand. Although prices will occasionally drop significantly, industry prices over the long 
+term will continue to be driven by market supply and demand fundamentals. On the supply side, industry 
+production from mature fields is declining. This is being offset by investments to generate production from new 
+discoveries, field developments, and technology and efficiency advancements. OPEC investment activities and 
+production policies also have an impact on world oil supplies. The demand side is largely a function of general 
+economic activities, alternative energy sources and levels of prosperity. During the lifespan of its major assets, 
+the company expects that oil and gas prices and industry margins will experience significant volatility. 
+Consequently, these assets will experience periods of higher earnings and periods of lower earnings, or even 
+losses. In assessing whether events or changes in circumstances indicate the carrying value of an asset may 
+not be recoverable, the company considers recent periods of operating losses in the context of its longer-term 
+view of prices and margins.
+
+Outlook for Energy and cash flow assessment 
+The annual planning and budgeting process, known as the company plan, is the mechanism by which 
+resources (capital, operating expenses and people) are allocated across the company. The foundation for the 
+energy supply and demand assumptions supporting the company plan begins with the Outlook, which contains 
+demand and supply projections based on its assessment of current trends in technology, government policies, 
+consumer preferences, geopolitics, economic development, and other factors. 
+
+Reflective of the existing global policy environment, the Outlook does not attempt to project the degree of 
+required future policy and technology advancement and deployment for the world or the company, to meet net 
+zero by 2050. As future policies and technology advancements emerge, they will be incorporated into the 
+Outlook, and consequently, the company’s business plans will be updated accordingly. 
+
+If events or changes in circumstances indicate that the carrying value of an asset may not be recoverable, the 
+company estimates the future undiscounted cash flows of the affected properties to judge the recoverability of 
+carrying amounts. In performing this assessment, assets are grouped at the lowest level for which there are 
+identifiable cash flows that are largely independent of the cash flows of other groups of assets. Cash flows used 
+in recoverability assessments are based on the assumptions developed in the company plan, which is reviewed 
+and approved by the board of directors, and are consistent with the criteria management uses to evaluate 
+investment opportunities. These evaluations make use of the company’s assumptions of future capital 
+allocations, crude oil and natural gas commodity prices including price differentials, refining and chemical 
+margins, volumes, development and operating costs, including greenhouse gas emissions prices, and foreign 
+currency exchange rates. Volumes are based on projected field and facility production profiles, throughput, or 
+sales. Management’s estimate of upstream production volumes used for projected cash flows makes use of 
+proved reserve quantities and may include risk-adjusted unproved reserve quantities. The greenhouse gas 
+emission prices reflect existing or anticipated policy actions of applicable provincial and federal governments. 
+While third-party scenarios, such as the International Energy Agency Net Zero Emissions by 2050, may be used 
+to test the resiliency of company’s businesses or strategies, they are not used as a basis for developing future 
+cash flows for impairment assessments. 
+
+Fair value of impaired assets 
+An asset group is impaired if its estimated future undiscounted cash flows are less than the asset group’s 
+carrying value. Impairments are measured by the excess of the carrying value over fair value. The assessment 
+of fair value is based on the views of a likely market participant. The principal parameters used to establish fair 
+value include estimates of acreage values and flowing production metrics from comparable market transactions, 
+market-based estimates of historical cash flow multiples, and discounted cash flows. Inputs and assumptions 
+used in discounted cash flow models include estimates of future production volumes, throughput and product 
+sales volumes, commodity prices which are consistent with the average of third-party industry experts and 
+government agencies, refining and chemical margins, drilling and development costs, operating costs, and 
+discount rates which are reflective of the characteristics of the asset group. 
+
+25
+
+  
+Other impairment estimates 
+Unproved properties are assessed periodically to determine whether they have been impaired. Significant 
+unproved properties are assessed for impairment individually, and valuation allowances against the capitalized 
+costs are recorded based on the company’s future development plans, the estimated economic chance of 
+success and the length of time that the company expects to hold the properties. Properties that are not 
+individually significant are aggregated by groups and amortized based on development risk and average 
+holding period. 
+
+Long-lived assets that are held for sale are evaluated for possible impairment by comparing the carrying value 
+of the asset with its fair value less the cost to sell. If the net book value exceeds the fair value less cost to sell, 
+the assets are considered impaired and adjusted to the lower value. Judgment is required to determine if assets 
+are held for sale, and to determine the fair value less cost to sell. 
+
+Investments accounted for by the equity method are assessed for possible impairment when events or changes 
+in circumstances indicate that the carrying value of an investment may not be recoverable. Examples of key 
+indicators include a history of operating losses, negative earnings and cash flow outlook, significant downward 
+revisions to oil and gas reserves, and the financial condition and prospects for the investee’s business segment 
+or geographic region. If the decline in value of the investment is other than temporary, the carrying value of the 
+investment is written down to fair value. In the absence of market prices for the investment, discounted cash 
+flows are used to assess fair value, which requires significant judgment. 
+
+Recent impairments 
+In 2020, the company announced its decision to not further develop a significant portion of its unconventional 
+portfolio in Alberta, resulting in a non-cash, after-tax impairment charge of $1,171 million in the company’s 2020 
+Upstream results. 
+
+Factors which could put further assets at risk of impairment in the future include reductions in the company’s 
+price or margin outlooks, changes in the allocation of capital or development plans, reduced long-term demand 
+for the company’s products and operating cost increases which exceed the pace of efficiencies or the pace of oil 
+and natural gas price increases or margins. However, due to the inherent difficulty in predicting future 
+commodity prices or margins, and the relationship between industry prices and costs, it is not practicable to 
+reasonably estimate the existence or range of any potential future impairment charges related to the company’s 
+long-lived assets. 
+
+Supplemental information regarding oil and gas results of operations, capitalized costs and reserves is provided 
+following the notes to consolidated financial statements. 
+
+Pension benefits 
+The company’s pension plan is managed in compliance with the requirements of governmental authorities and 
+meets funding levels as determined by independent third-party actuaries. Pension accounting requires explicit 
+assumptions regarding, among others, the discount rate for the benefit obligations, the expected rate of return 
+on plan assets and the long-term rate of future compensation increases. All pension assumptions are reviewed 
+annually by senior management. These assumptions are adjusted only as appropriate to reflect long-term 
+changes in market rates and outlook. The long-term expected rate of return on plan assets of 4.3 percent used 
+in 2022 compares to actual returns of 5.6 percent and 6.5 percent achieved over the last 10- and 20-year 
+periods respectively, ending December 31, 2022. If different assumptions are used, the obligation and expense 
+could increase or decrease as a result. As an indication of the company’s potential exposure to changes in the 
+critical assumptions such as the expected rate of return on plan assets and the discount rate for measuring the 
+pension plan benefits obligation, a reduction of 1 percent in the discount rate would increase the benefits 
+obligation by approximately $1 billion. Similarly, a reduction of 1 percent in the long-term rate of return on plan 
+assets would increase the annual pension expense by approximately $95 million before tax. At Imperial, 
+differences between actual returns on plan assets and the long-term expected returns are not recorded in 
+pension expense in the year the differences occur. Such differences are deferred, along with other actuarial 
+gains and losses, and are amortized into pension expense over the expected average remaining service life of 
+employees. Employee benefits expense represented about 1 percent of total expenses in 2022. 
+
+26
+
+  
+Asset retirement obligations 
+The company is subject to retirement obligations for certain assets. The fair values of these obligations are 
+recorded as liabilities on a discounted basis, which is typically at the time the assets are installed. In the 
+estimation of fair value, the company uses assumptions and judgments regarding such factors as the existence 
+of a legal obligation for an asset retirement obligation; technical assessments of the assets; estimated amounts 
+and timing of settlements; discount rates; and inflation rates. On page 93, note 5 to the consolidated financial 
+statements provides a three-year continuity table detailing the changes in asset retirement obligations.
+
+Suspended exploratory well costs 
+The company continues capitalization of exploratory well costs when it has found a sufficient quantity of 
+reserves to justify its completion as a producing well and the company is making sufficient progress assessing 
+the reserves and the economic and operating viability of the project. Exploratory well costs not meeting these 
+criteria are charged to expense. Assessing whether the company is making sufficient progress on a project 
+requires careful consideration of the facts and circumstances. The facts and circumstances that support 
+continued capitalization of suspended wells at year-end are disclosed in note 15 to the consolidated financial 
+statements on page 104. 
+
+Tax contingencies 
+The operations of the company are complex, and related tax interpretations, regulations and legislation are 
+continually changing.
+
+The benefits of uncertain tax positions that the company has taken or expects to take in its income tax returns 
+are recognized in the financial statements if management concludes that it is more likely than not that the 
+position will be sustained with the tax authorities. For a position that is likely to be sustained, the benefit 
+recognized in the financial statements is measured at the largest amount that is greater than 50 percent likely of 
+being realized. Significant management judgment is required in the accounting for income tax contingencies 
+and tax disputes because the outcomes are often difficult to predict. The company’s unrecognized tax benefits 
+and a description of open tax years are summarized in note 3 to the consolidated financial statements.
+
+27

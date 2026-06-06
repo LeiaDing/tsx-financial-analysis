@@ -1,0 +1,5687 @@
+# Stantec Inc.
+# 来源：Annual MD&A - English.pdf (09305bd24309a730)
+
+Management’s Discussion and Analysis
+
+February 22, 2023
+
+This discussion and analysis of Stantec Inc.’s (Stantec or the Company) operations, financial position, and cash flows 
+for the year ended December 31, 2022, dated February 22, 2023, should be read in conjunction with the Company’s 
+2022 audited consolidated financial statements and related notes for the year ended December 31, 2022. Our 2022 
+audited consolidated financial statements and related notes are prepared in accordance with International Financial 
+Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB). All amounts shown 
+are in Canadian dollars.
+
+Additional information regarding the Company, including our Annual Information Form, is available on SEDAR 
+at sedar.com and on EDGAR at sec.gov. This additional information is not incorporated by reference unless otherwise 
+specified and should not be deemed to be made part of this Management’s Discussion and Analysis (MD&A).
+
+Stantec trades on the TSX and the NYSE under the symbol STN. Visit us at stantec.com or find us on social media.
+
+Non-IFRS and Other Financial Measures
+The Company reports its financial results in accordance with IFRS. However, certain indicators used by the Company 
+to analyze and evaluate its results are non-IFRS or other financial measures and ratios, including: adjusted EBITDA, 
+adjusted net income, adjusted earnings per share (EPS), adjusted return on invested capital (ROIC), net debt to 
+adjusted EBITDA, days sales outstanding (DSO), free cash flow, margin (percentage of net revenue), organic growth 
+(retraction), acquisition growth, measures described as on a constant currency basis and the impact of foreign 
+exchange or currency fluctuations, compound annual growth rate (CAGR), net debt, total capital managed, working 
+capital, and current ratio, as well as measures and ratios calculated using these non-IFRS or other financial 
+measures. These measures are categorized as non-IFRS financial measures and ratios, supplementary financial 
+measures, or capital management measures and described in the Definitions of Non-IFRS and Other Financial 
+Measures (“Definitions”) and Liquidity and Capital Resources sections of this MD&A and, where applicable, 
+reconciliations from the non-IFRS measure to the most directly comparable measure calculated in accordance with 
+IFRS are provided (see the 2022 Financial Highlights, Financial Performance, Liquidity and Capital Resources, and 
+Definitions sections).
+
+These non-IFRS and other financial measures and ratios do not have a standardized meaning under IFRS and, 
+therefore, may not be comparable to similar measures and ratios presented by other issuers. Management believes 
+that, in addition to conventional measures prepared in accordance with IFRS, these non-IFRS and other financial 
+measures and ratios provide useful information to investors to assist them in understanding components of our 
+financial results. These measures should not be considered in isolation or viewed as a substitute for the related 
+financial information prepared in accordance with IFRS.
+
+Business Model
+Stantec is a global design and delivery leader in sustainable engineering, architectural planning, and environmental 
+services. As a trusted advisor for our clients and communities, Stantec’s multidisciplinary teams address climate 
+change, urbanization, and infrastructure resiliency. We are at the forefront of innovations to enhance environmental 
+and social opportunities.
+
+Stantec's vision is to remain a top tier global design firm that maximizes long-term, sustainable value for our 
+stakeholders.
+
+The Stantec community unites more than 26,000 employees working in over 400 locations across six continents. In 
+2022, Stantec earned net revenues of $4.5 billion: 51% in the United States, 26% in Canada, and 23% from our 
+Global operations.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-1
+
+Stantec Inc.
+
+Key components of our business model are:
+
+1. Geographic diversification. We conduct business in three regional operating units—Canada, the United 
+
+States, and Global—offering similar services across all regions. This diversity allows us to cultivate close 
+client relationships at the local level while offering the expertise of our global team.
+
+2. Service diversification. We offer services in various sectors across the project life cycle through five business 
+
+operating units (BOUs): Infrastructure, Environmental Services, Water, Buildings, and Energy & Resources. 
+
+3. Design focus. We serve the design phase of infrastructure, water, buildings, and energy & resources 
+
+projects which offers higher margin opportunities and more controllable risk than integrated engineering and 
+construction firms.
+
+4.
+
+Life-cycle solutions. We provide professional services in all phases of the project life cycle: planning, design, 
+construction administration, commissioning, maintenance, decommissioning, and remediation.
+
+2022 Key Accomplishments
+In 2022, Stantec continued to advance towards the achievement of our long-term strategic ambitions. We continued 
+to navigate our business successfully through the COVID-19 pandemic and we delivered a second consecutive year 
+of record earnings. We executed on our growth strategy and added approximately 700 people organically as well as 
+over 300 people through acquisitions. We completed the integration of Cardno into our business, bolstered our UK 
+presence with the acquisition of Barton Willmore and continued to excel and demonstrate our global leadership in 
+sustainability. 
+
+Record Performance
+We continue to rigorously manage every aspect of our business with our “win – do – manage” mindset. Our net 
+revenue grew to $4.5 billion driven by 9.4% organic growth and 12.3% acquisition growth. 
+
+Each of our business operating units and geographic regions delivered organic net revenue growth while maintaining 
+a focus on strong project execution and operational excellence. This drove to record results for several key financial 
+metrics: adjusted EBITDA margin of 16.2%, net income of $247.0 million, diluted earnings per share of $2.22, and 
+adjusted diluted earnings per share of $3.13.
+
+The growth accomplished in every one of our business operating units was a testament to the strength of our 
+diversified business model and our ability to address multi-year critical issues stemming from aging infrastructure, 
+climate change and re-shoring of domestic production.  
+
+Growth Through Acquisitions
+Having closed our acquisition of Cardno in December 2021, our primary growth initiative in 2022 was to integrate 
+Cardno’s operations in order to accelerate our trajectory for achieving revenue synergies together. We completed the 
+integration and migration of Cardno and several other recently acquired firms on schedule and achieved over US$10  
+million (approximately CA$13 million) in integrated cost synergies, ahead of our anticipated timeline. We also 
+migrated certain smaller global entities into our primary financial systems. Integration of acquired firms provides for 
+strong and consistent operational and financial practices across the globe and capitalizes on synergistic 
+opportunities.
+
+Our approach to deploying capital to acquisitions continues to be disciplined and patient. In 2022, we completed two 
+tuck-in acquisitions that were consistent with our strategy of pursuing targeted small to medium-sized firms that 
+bolster Stantec’s presence in key business lines and geographies and drive synergistic organic growth. 
+
+The first was Barton Willmore in the United Kingdom, a 300-employee lead planning and design consulting firm. 
+Barton Willmore supports many of the largest and most transformational projects in the region’s residential, logistics, 
+retail, infrastructure, energy, higher education, and urban regeneration sectors, providing services to both public and 
+private sector clients. 
+
+The second was L2P, a 40-person Philadelphia-based architecture, interior design, and planning firm. L2P is a trusted 
+advisor in the science and technology, commercial workplace, higher education, residential, and hospitality markets. 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-2
+
+Stantec Inc.
+
+Sustainability – The Stantec Way
+In 2022, we continued to demonstrate our commitment to sustainability leadership. We are on track to meet our 
+carbon neutral and net zero commitments and are reducing our emissions in line with our validated science-based 
+target. A key element of our emissions reduction strategy is our real estate consolidation effort, which is on track to 
+achieve a 30% reduction in Stantec's footprint relative to 2019 by the end of 2023. At year end 2022, we were 
+approximately 93% of the way there which also contributed to our record earnings. 
+
+Through our continued efforts for sustainability and enhancing our communities, we are extremely proud of the 
+accomplishments and accolades that recognize our commitment. Some of these acknowledgments include:  
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Ranked first among our peers as one of Corporate Knights’ 2023 Global 100 Most Sustainable Corporations 
+in the world; ranked #7 overall in the world, recognizing our success in generating “clean” revenue
+
+Selected as one of Corporate Knights’ Canada’s Best 50 Corporate Citizens for the 13th time
+
+Recognized as a climate leader, receiving a CDP A- rating for the fifth year in a row
+
+Included in the S&P Global Sustainability Yearbook  
+
+Numerous industry awards related to inclusion and diversity and safety
+
+Our sustainability-linked loan (SLL) structure for our existing $1.1 billion credit facility incorporates emissions 
+reduction targets and increasing our score on the Bloomberg Gender-Equality Index. In 2022, we recognized SLL 
+savings by achieving our 2021 key performance metrics. We have committed to direct all interest savings towards 
+further climate action and social equity.
+
+Looking Ahead
+We remain very optimistic that a strong multi-year cycle is ahead of us. While there are still economic headwinds from 
+rising interest rates and a potential recession, we are confident in the resilience of our business model and our 
+positioning to address key climate-related and supply chain challenges. In the US, significant federal funding is 
+starting to be dispersed from the Infrastructure Investment and Jobs Act (IIJA), the Inflation Reduction Act (IRA), and 
+the CHIPS and Science Act. In Canada, with commitments made on climate change, the need for environmental 
+services and energy transition is expanding at an unprecedented rate. And in our Global region, we are seeing 
+continued strong growth through the water asset management programs in the UK, Australia, and New Zealand, 
+along with infrastructure supported by the European CHIPS Act and Australian Infrastructure Investment Program. 
+We believe we are exceptionally well positioned to address these opportunities.
+
+We expect to capitalize on these strong tailwinds to further drive our organic growth. Our balance sheet strength and 
+pipeline of potential opportunities positions us well for ongoing M&A growth. As we maintain focus on operational 
+excellence, we expect to continue to deliver margin and earnings growth in 2023 and beyond.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-3
+
+Stantec Inc.
+
+Strategic Acquisitions Completed in 2022 and 2021
+Following is a list of acquisitions that contributed to revenue growth in our reportable segments and business 
+operating units:
+
+BUSINESS OPERATING UNITS
+
+REPORTABLE 
+SEGMENTS
+
+Date
+Acquired
+
+Primary 
+Location
+
+# of 
+Employees
+
+Infrastructure
+
+Water
+
+Buildings
+
+Environmental 
+Services
+
+Energy & 
+Resources
+
+United States
+Paleo Solutions, Inc.
+(Paleo)
+
+September 
+2021
+
+Los Angeles,
+California
+
+65
+
+Cardno Limited
+(Cardno)
+
+December
+2021
+
+Boulder,
+Colorado
+
+1,500
+
+●
+
+Cox|McLain 
+Environmental 
+Consulting, Inc
+(CMEC)
+
+L2P
+
+Global
+GTA Consultants
+(GTA)
+
+Engenium
+
+Driven by Values B.V.
+
+Cardno Limited
+(Cardno)
+
+Barton Willmore
+
+December 
+2021
+
+Austin,
+Texas
+
+November 
+2022
+
+Philadelphia, 
+Pennsylvania
+
+March 2021 Melbourne,
+
+May
+2021
+
+November
+2021
+
+December
+2021
+
+April 
+2022
+
+Australia
+
+Perth,
+Australia
+
+Eindhoven,
+Netherlands
+
+Brisbane,
+Australia
+
+Reading, 
+United 
+Kingdom
+
+70
+
+40
+
+135
+
+170
+
+28
+
+1,250
+
+300
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-4
+
+Stantec Inc.
+
+2022 Financial Highlights
+
+(In millions of Canadian dollars, except per share amounts and 
+percentages)
+
+Gross revenue
+
+Net revenue
+
+Direct payroll costs
+
+Project margin 
+
+Year Ended Dec 31
+
+2022
+
+2021
+
+2020
+
+% of Net
+Revenue
+
+$
+
+% of Net
+Revenue
+
+$
+
+% of Net
+Revenue
+
+$
+
+  5,677.2 
+
+ 127.4%    4,576.8 
+
+ 125.9%    4,730.1 
+
+ 128.4% 
+
+  4,457.2 
+
+ 100.0%    3,636.1 
+
+ 100.0%    3,684.5 
+
+ 100.0% 
+
+  2,039.9 
+
+ 45.8%    1,672.8 
+
+ 46.0%    1,754.0 
+
+ 47.6% 
+
+  2,417.3 
+
+ 54.2%    1,963.3 
+
+ 54.0%    1,930.5 
+
+ 52.4% 
+
+Administrative and marketing expenses
+
+  1,742.5 
+
+ 39.1%    1,423.6 
+
+ 39.2%    1,352.9 
+
+ 36.7% 
+
+Depreciation of property and equipment
+
+56.8 
+
+ 1.3%   
+
+53.9 
+
+ 1.5%   
+
+57.9 
+
+ 1.6% 
+
+Depreciation of lease assets
+
+122.1 
+
+ 2.7%   
+
+107.9 
+
+ 3.0%   
+
+117.7 
+
+ 3.2% 
+
+Net (reversal) impairment of lease assets and property and 
+equipment
+
+(5.5) 
+
+ (0.1%)   
+
+24.8 
+
+ 0.7%   
+
+78.6 
+
+ 2.1% 
+
+Amortization of intangible assets
+
+104.6 
+
+ 2.3%   
+
+60.0 
+
+ 1.7%   
+
+53.2 
+
+ 1.4% 
+
+Net interest expense
+
+Other
+
+Income taxes
+
+64.0 
+
+ 1.4%   
+
+37.9 
+
+ 1.0%   
+
+49.2 
+
+ 1.4% 
+
+7.7 
+
+ 0.2%   
+
+(7.8) 
+
+ (0.3) %  
+
+4.3 
+
+ 0.1 %
+
+78.1 
+
+ 1.8%   
+
+62.3 
+
+ 1.7%   
+
+57.6 
+
+ 1.6% 
+
+Net income from continuing operations
+
+247.0 
+
+ 5.5%   
+
+200.7 
+
+ 5.5%   
+
+159.1 
+
+ 4.3% 
+
+Net income from discontinued operations (note)
+
+— 
+
+ —%   
+
+— 
+
+ — %  
+
+12.0 
+
+ 0.3% 
+
+Net income
+
+247.0 
+
+ 5.5%   
+
+200.7 
+
+ 5.5%   
+
+171.1 
+
+ 4.6% 
+
+Basic earnings per share (EPS) from continuing operations
+
+Diluted EPS from continuing operations
+
+2.23 
+
+2.22 
+
+n/m  
+
+1.80 
+
+n/m  
+
+1.43 
+
+n/m  
+
+1.80 
+
+n/m  
+
+1.42 
+
+n/m
+
+n/m
+
+Adjusted EBITDA from continuing operations (note)
+
+723.9 
+
+ 16.2%   
+
+573.8 
+
+ 15.8%   
+
+578.9 
+
+ 15.7% 
+
+Adjusted net income from continuing operations (note)
+
+347.1 
+
+ 7.8%   
+
+269.9 
+
+ 7.4%   
+
+248.9 
+
+ 6.8% 
+
+Adjusted diluted EPS from continuing operations (note)
+
+Dividends declared per common share
+
+Total assets
+
+Total long-term debt
+
+3.13 
+
+0.72 
+
+  5,652.9 
+
+  1,235.8 
+
+n/m  
+
+2.42 
+
+n/m  
+
+2.22 
+
+n/m  
+
+0.66 
+
+n/m  
+
+0.62 
+
+n/m
+
+n/m
+
+  5,226.4 
+
+  1,245.1 
+
+  4,388.9 
+
+680.8 
+
+note: Construction Services operations are presented as discontinued operations. Adjusted EBITDA, adjusted net income, and adjusted diluted EPS 
+are non-IFRS measures (discussed in the Definitions section of this MD&A). 
+
+n/m = not meaningful
+
+We achieved diluted earnings per share of $2.22 and adjusted diluted earnings per share of $3.13, each an all-time 
+high with respective increases of 23.3% and 29.3% compared to 2021. Record earnings reflect a very strong year of 
+net revenue growth and solid execution of our strategic plan, including our ongoing 2023 Real Estate Strategy.
+
+•
+
+•
+
+•
+
+Net revenue increased 22.6%, or $821.1 million, to $4.5 billion compared to 2021, driven by 9.4% organic 
+growth and 12.3% acquisition growth. All of our regional and business operating units delivered organic 
+growth, most notably in Global and in Water and Energy & Resources where organic growth was in the double 
+digits.
+
+Project margin increased $454.0 million, or 23.1%, to $2.4 billion and as a percentage of net revenue, we 
+delivered 54.2% project margin, a 20 basis point increase from 2021. The increase in project margin was the 
+result of net revenue growth and solid project execution.
+
+Adjusted EBITDA increased $150.1 million, or 26.2%, to $723.9 million and achieved a margin of 16.2%, a 40 
+basis point increase from 2021, resulting from strong performance across the business.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-5
+
+Stantec Inc.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Net income increased 23.1%, or $46.3 million, to $247.0 million, representing 5.5% of net revenue, and diluted 
+EPS increased 23.3%, or $0.42, to $2.22. 
+
+In 2022, we continued to execute on our 2023 Real Estate Strategy, driving approximately $0.34 of incremental 
+adjusted EPS and a 28% reduction in our footprint relative to our 2019 baseline – largely accomplishing our 
+2023 target a year early. On a pre-IFRS 16 basis, this initiative is estimated to have increased 2022 adjusted 
+EBITDA margin by more than 110 basis points.
+
+Adjusted net income increased 28.6%, or $77.2 million, to $347.1 million, representing 7.8% of net revenue, an 
+improvement of 40 basis points, and adjusted diluted EPS increased 29.3%, or $0.71, to $3.13. 
+
+Contract backlog stands at $5.9 billion—a 14.9% increase from December 31, 2021—reflecting 10.4% organic 
+growth, with double digit growth in our US operations and in Infrastructure, Buildings, and Energy & 
+Resources. Contract backlog represents approximately 12 months of work.
+
+Net debt to adjusted EBITDA was 1.6x at December 31, 2022—within our internal range of 1.0x to 2.0x. 
+
+Operating cash flows decreased 23.4% from, $397.0 million, to $304.3 million, reflecting increased investment 
+in net working capital to support strong revenue growth.
+
+Days sales outstanding was 81 days at December 31, 2022, a 5-day reduction from Q3 2022. As expected, 
+completion of Cardno financial migration activities returned DSO to more typical levels, moderated by stronger 
+than anticipated revenue growth in the fourth quarter which drove additional net working capital investment. 
+
+• We repurchased 1,085,676 common shares for an aggregated price of $65.3 million under our normal course 
+
+issuer bid (NCIB). 
+
+•
+
+On February 22, 2023, our Board of Directors declared a dividend of $0.195 per share, payable on April 17, 
+2023, to shareholders of record on March 31, 2023, representing an 8.3% increase.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-6
+
+Stantec Inc.
+
+2022 Fourth Quarter Highlights
+
+(In millions of Canadian dollars, except per share amounts and percentages)
+
+Gross revenue
+
+Net revenue
+
+Direct payroll costs
+
+Project margin 
+
+Administrative and marketing expenses
+
+Depreciation of property and equipment
+
+Depreciation of lease assets
+
+Amortization of intangible assets
+
+Net interest expense
+
+Other
+
+Income taxes
+
+Net income 
+
+Basic and diluted EPS
+
+Adjusted EBITDA (note)
+
+Adjusted net income (note)
+
+Adjusted diluted EPS (note)
+
+Dividends declared per common share
+
+Quarter Ended Dec 31
+
+2022
+
+% of Net
+Revenue
+
+$
+
+2021
+
+% of Net
+Revenue
+
+$
+
+1,513.5 
+
+ 133.9%   
+
+1,185.3 
+
+ 129.4% 
+
+1,130.4 
+
+ 100.0%   
+
+916.2 
+
+ 100.0% 
+
+509.9 
+
+620.5 
+
+439.4 
+
+13.8 
+
+31.9 
+
+ 45.1%   
+
+409.6 
+
+ 44.7% 
+
+ 54.9%   
+
+506.6 
+
+ 55.3% 
+
+ 38.9%   
+
+387.6 
+
+ 42.3% 
+
+ 1.2%   
+
+ 2.8%   
+
+27.5 
+
+17.5 
+
+ 2.4%   
+
+ 1.5%   
+
+13.5 
+
+28.3 
+
+29.1 
+
+18.0 
+
+8.4 
+
+ 1.5% 
+
+ 3.1% 
+
+ 3.2% 
+
+ 2.0% 
+
+ 0.9% 
+
+(5.6) 
+
+ (0.3%)   
+
+(2.2) 
+
+ (0.3%) 
+
+24.3 
+
+73.5 
+
+0.66 
+
+ 2.1%   
+
+ 6.5%   
+
+n/m  
+
+7.3 
+
+16.6 
+
+0.15 
+
+ 0.8% 
+
+ 1.8% 
+
+n/m
+
+191.7 
+
+ 17.0%   
+
+142.1 
+
+ 15.5% 
+
+91.1 
+
+0.82 
+
+0.180 
+
+ 8.1%   
+
+n/m  
+
+n/m  
+
+63.8 
+
+0.57 
+
+0.165 
+
+ 7.0% 
+
+n/m
+
+n/m
+
+Net (reversal) impairment of lease assets and property and equipment
+
+(1.8) 
+
+ (0.2%)   
+
+note: Adjusted EBITDA, adjusted net income, and adjusted diluted EPS are non-IFRS measures (discussed in the Definitions section of this MD&A).
+
+n/m = not meaningful 
+
+In the fourth quarter of 2022, we delivered adjusted diluted EPS of $0.82, an increase of $0.25 per share or 43.9% 
+compared to the same period last year. Our outperformance relative to our guidance was driven by double-digit 
+organic net revenue growth, with mild weather in Canada allowing for a longer than typical field season, and growing 
+momentum in the US. Solid project execution, disciplined administrative and marketing cost management, and the 
+benefits of the ongoing execution of our 2023 Real Estate Strategy also contributed to our excellent results. 
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Net revenue increased 23.4%, or $214.2 million, to $1.1 billion, driven by 10.6% organic growth and 9.8% 
+acquisition growth. All of our regional and business operating units delivered organic growth, most notably in 
+Canada and the US, and in Buildings, Water, and Energy & Resources, where organic growth in the double 
+digits was achieved this quarter. 
+
+Project margin increased 22.5%, or $113.9 million, and decreased 40 basis points as a percentage of net 
+revenue from 55.3% to 54.9%.
+
+Adjusted EBITDA increased 34.9%, or $49.6 million, to $191.7 million, and achieved a margin of 17.0% 
+compared to 15.5% in the prior period due to lower administrative and marketing costs as a percentage of net 
+revenue.  
+
+Net income increased 342.8%, or $56.9 million, to $73.5 million and diluted EPS increased by 340.0%, or 
+$0.51, to $0.66. In Q4 2022, our 2023 Real Estate Strategy contributed to non-cash net impairment reversal 
+and lower onerous contract cost adjustments, depreciation, and occupancy costs compared to the prior period. 
+Additionally, the disposition of an intangible asset contributed $5.6 million to net income in Q4 2022.
+
+Adjusted net income increased 42.8%, or $27.3 million, to $91.1 million, representing 8.1% of net revenue, and 
+adjusted diluted EPS increased 43.9%, or $0.25, to $0.82. 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-7
+
+Stantec Inc.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reconciliation of Non-IFRS Financial Measures
+
+Year Ended Dec 31,
+
+Quarter Ended Dec 31,
+
+(In millions of Canadian dollars, except per share amounts)
+
+2022
+
+2021
+
+2020
+
+2022
+
+Net income from continuing operations
+
+247.0   
+
+200.7   
+
+159.1   
+
+73.5   
+
+Add back (deduct):
+
+Income taxes
+
+Net interest expense
+
+Net (reversal) impairment of lease assets and property and 
+
+equipment (note 1)
+
+   Depreciation and amortization
+
+78.1   
+
+64.0   
+
+62.3   
+
+37.9   
+
+57.6   
+
+49.2   
+
+24.3   
+
+17.5   
+
+(2.9)   
+
+37.3   
+
+78.6   
+
+0.4   
+
+283.5   
+
+221.8   
+
+228.8   
+
+73.2   
+
+2021
+
+16.6 
+
+7.3 
+
+8.4 
+
+41.6 
+
+59.8 
+
+Unrealized loss (gain) on equity securities
+
+18.0   
+
+(13.9)   
+
+(0.7)   
+
+(4.2)   
+
+(4.8) 
+
+COVID-related expenses (note 4)
+
+—   
+
+—   
+
+Acquisition, integration, and restructuring costs (note 5)
+
+41.8   
+
+27.7   
+
+Gain on disposition of intangible asset
+
+(5.6)   
+
+—   
+
+5.0   
+
+1.3   
+
+—   
+
+—   
+
+— 
+
+12.6   
+
+13.2 
+
+(5.6)   
+
+— 
+
+Adjusted EBITDA from continuing operations
+
+723.9   
+
+573.8   
+
+578.9   
+
+191.7   
+
+142.1 
+
+(In millions of Canadian dollars, except per share amounts)
+
+2022
+
+2021
+
+2020
+
+2022
+
+Net income from continuing operations
+
+247.0   
+
+200.7   
+
+159.1   
+
+73.5   
+
+2021
+
+16.6 
+
+Year Ended Dec 31,
+
+Quarter Ended Dec 31,
+
+9.1 
+
+(3.6) 
+
+— 
+
+9.9 
+
+— 
+
+63.8 
+
+Add back (deduct) after tax:
+
+Net (reversal) impairment of lease assets and property and 
+
+equipment (note 1)
+
+Amortization of intangible assets related to acquisitions  
+
+(note 2)
+
+(2.2)   
+
+28.5   
+
+56.6   
+
+0.3   
+
+31.8 
+
+61.1   
+
+30.2   
+
+26.4   
+
+15.3   
+
+Unrealized loss (gain) on equity securities (note 3)
+
+13.7   
+
+(10.6)   
+
+(0.5)   
+
+COVID-related expenses (note 4)
+
+Acquisition, integration, and restructuring costs (note 5)
+
+Gain on disposition of intangible asset (note 6)
+
+—   
+
+31.8   
+
+(4.3)   
+
+—   
+
+21.1   
+
+—   
+
+3.6   
+
+3.7   
+
+—   
+
+Adjusted net income from continuing operations
+
+347.1   
+
+269.9   
+
+248.9   
+
+(3.2)   
+
+—   
+
+9.5   
+
+(4.3)   
+
+91.1   
+
+Weighted average number of shares outstanding - diluted
+
+ 111,069,776   111,616,665   111,949,305   110,915,844   111,669,548 
+
+Adjusted earnings per share - diluted
+
+3.13   
+
+2.42   
+
+2.22   
+
+0.82   
+
+0.57 
+
+See the Definitions section of this MD&A for our discussion of non-IFRS and other financial measures used and additional reconciliations of non-IFRS 
+financial measures. This table includes only continuing operations results.
+
+note 1: The net (reversal) impairment of lease assets and property and equipment includes onerous contracts associated with the impairment for the 
+year ended December 31, 2022 of $2.6 (2021 - $12.5; 2020 - nil) and for the quarter ended December 31, 2022 of $2.2 (2021 - $12.5). For the year 
+ended December 31, 2022, this amount is net of tax of $(0.7) (2021 - $8.8; 2020 - $22.0). For the quarter ended December 31, 2022, this amount is net 
+of tax of $0.1 (2021 - $9.8).
+
+note 2: The add back of intangible amortization relates only to the amortization from intangible assets acquired through acquisitions and excludes the 
+amortization of software purchased by Stantec. For the year ended December 31, 2022, this amount is net of tax of $19.3 (2021 - $9.4; 2020 - $10.3). 
+For the quarter ended December 31, 2022, this amount is net of tax of $5.1 (2021 - $3.1).
+
+note 3: For the year ended December 31, 2022, this amount is net of tax of $4.3 (2021 - ($3.3); 2020 - ($0.2)). For the quarter ended December 31, 
+2022, this amount is net of tax of ($1.0) (2021 - $(1.2)).
+
+note 4: The add back of COVID-related expenses in the year ended December 31, 2020 primarily relates to severance and is net of tax of $1.4.
+
+note 5: The add back of other costs primarily relates to integration expenses associated with our acquisitions and restructuring costs. For the year 
+ended December 31, 2022, this amount is net of tax of $10.0 (2021 - $6.6; 2020 - $0.4, 2020 also included reorganization tax expense of $2.8. For the 
+quarter ended December 31, 2022, this amount is net of tax of $3.1 (2021 - $3.3).
+
+note 6: For the year and quarter ended December 31, 2022, this amount is net of tax of $(1.3) (2021 - nil; 2020 - nil).
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-8
+
+Stantec Inc.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Targets
+
+In our 2021 Annual Report (incorporated here by reference), we provided our annual targets for 2022 on page M-11 
+and revised our adjusted ROIC expectation in Q3 2022 from 10.5% to 10.0% as a result of cash flow disruptions from 
+the integration of Cardno.   
+
+(In millions of Canadian dollars, unless otherwise stated)
+
+2022 Annual Range
+
+2022 Results
+
+Targets
+
+Net revenue growth
+
+Adjusted EBITDA as % of net revenue (note)
+
+Adjusted net income as % of net revenue (note)
+
+Adjusted ROIC (note)
+
+18% to 22%
+
+15.3% to 16.3%
+
+At or above 7.5%
+
+Above 10.0%
+
+22.6%
+
+16.2%
+
+7.8%
+
+10.5%
+
+In setting our targets and guidance, the average value for the US dollar was assumed to be $1.25 and for the GBP to be $1.73. 
+
+note: Adjusted EBITDA, adjusted net income, and adjusted ROIC are non-IFRS measures discussed in the Definitions section of this MD&A. Adjusted 
+ROIC was revised from above 10.5% to 10.0% in Q3 22 due to the anticipated impact of cash flow disruption from the integration of Cardno.
+
+We met or exceeded our target ranges for all our measures in 2022. For further details regarding our overall annual 
+performance, refer to the Financial Performance section of this MD&A.
+
+Outlook 
+Strategic Plan
+In December 2019, we announced our three-year strategic plan to grow and diversify sustainably for the benefit of our 
+clients, employees, and shareholders through a client-centric framework with four value creators: excellence, 
+innovation, people, and growth. We established the following key financial targets, initially to be achieved by the end 
+of 2022, but announced in 2020 that we would be extending the time horizon to the end of 2023 due to the disruption 
+caused by the COVID-19 pandemic:
+
+1. Grow net revenue at a CAGR of greater than 10%.
+
+2. Drive adjusted EBITDA margins to the range of 16% to 17%.
+
+3. Grow earnings per share at a CAGR of greater than 11%.
+
+4. Deliver a return on invested capital of greater than 10%.
+
+Net revenue growth has rebounded strongly in 2022 post pandemic, increasing by 22.6% year over year, and our 
+outlook for 2023 and beyond is very positive. Our long-term net revenue CAGR target remains at greater than 10%, 
+although the effects of the pandemic during the first two years of our plan may affect our ability to achieve this target 
+by the end of 2023.
+
+We remain confident in achieving our adjusted EBITDA margin target of 16% to 17% in 2023 and our adjusted diluted 
+earnings per share CAGR of greater than 11%. We further expect to outperform our adjusted return on invested 
+capital of greater than 10%, raising that target to greater than 10.5% for 2023. 
+
+Our business is well diversified across geographies and sectors, with a project mix that is more heavily weighted 
+toward public sector end clients. This, combined with the strength of our balance sheet, the commitment of our 
+talented workforce, and our position in the communities we serve, allows us to be well positioned to capitalize on the 
+opportunities being created by public sector stimulus and growing demand for sustainable solutions in infrastructure 
+renewal and resiliency in responding to climate change drivers, as well as drivers for re-shoring production and 
+supply chain resilience and security.
+
+Annual Targets for 2023
+Targets for 2023 are based on the assumption of continued public sector spending in alignment with currently 
+announced programs and acts, and only modest transitory recessions in key geographies. Targets may not be valid if 
+public spending initiatives are materially curtailed and/or recessions become much more significant, curbing private 
+sector investments to a greater degree than anticipated.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-9
+
+Stantec Inc.
+
+Targets
+
+Net revenue growth
+
+Adjusted EBITDA as % of net revenue (note)
+
+Adjusted net income as % of net revenue (note)
+
+Adjusted diluted EPS growth (note)
+
+Adjusted ROIC (note)
+
+Other expectations
+
+Net debt to adjusted EBITDA (note)
+
+Effective tax rate (without discrete transactions)
+
+Earnings pattern
+
+Days sales outstanding (note)
+
+2023 Annual Range
+
+7% to 11%
+
+16% to 17%
+
+above 7.5%
+
+9% to 13%
+
+above 10.5%
+
+1.0x to 2.0x
+
+23.0% to 24.0%
+
+40-45% in Q1 and Q4
+
+55-60% in Q2 and Q3
+
+at or below 80
+
+In setting our targets and guidance, we assumed an average value for the US dollar of $1.32, GBP $1.62, and AU $0.95. For all other underlying 
+assumptions, see page M-43.
+
+note: Adjusted EBITDA, adjusted net income, adjusted ROIC, adjusted diluted EPS, and net debt to adjusted EBITDA are non-IFRS measures and 
+DSO is a metric discussed in the Definitions section of this MD&A.
+
+We expect that net revenue growth will increase 7% to 11% in 2023, with net revenue organic growth in the mid- to 
+high-single digits. Organic growth in the US is expected to be in the high single digits to low double digits, driven by 
+growing momentum as reflected in our record-high US backlog and continuing project opportunities arising from the 
+IIJA, the CHIPS and Science Act, and the IRA. Growth from the IIJA is expected to be slower in the first half of the 
+year and to accelerate in the second half of the year. After another year of robust organic growth in Canada in 2022, 
+we expect to maintain high levels of activity, moderating to organic growth in the low single digits. Organic growth in 
+Global is expected to achieve mid- to high-single digit growth driven by continued high levels of activity in our UK 
+Water business under the ongoing Asset Management Program, and demand and stimulus in environmental services 
+and infrastructure sectors.
+
+Project margin as a percent of net revenues is expected to be relatively consistent in 2023 compared to 2022. We 
+anticipate adjusted EBITDA margin will be in the range of 16% - 17%, reflecting continued discipline in the 
+management of administration and marketing costs and continued investments in the commercialization of new 
+innovations and technologies. Adjusted EBITDA margin in Q1 and Q4 2023 will be near or below the low end of this 
+range because of the additional effects of regular seasonal factors in the northern hemisphere. We expect to move to 
+the higher end of the range in Q2 and Q3 of 2023 driven by achieving stronger organic net revenue growth and 
+increased utilization in the US operations.
+
+We expect adjusted net income to continue to benefit from our 2023 Real Estate Strategy, which we anticipate will 
+generate cost savings of approximately $0.35 to $0.40 adjusted diluted EPS in 2023 relative to our 2019 costs. 
+Further, we remain on track to achieve our targeted 30% reduction in real estate footprint relative to our 2019 
+baseline. Overall, we expect to drive adjusted net income to a margin of greater than 7.5% of net revenue and to 
+deliver 9% to 13% growth in adjusted diluted EPS in comparison to 2022.
+
+The above targets do not include any assumptions for additional acquisitions given the unpredictable nature of the 
+size and timing of such acquisitions, or the unpredictable impact from share price movements subsequent to 
+December 31, 2022 and the relative total shareholder return components on our share-based compensation 
+programs.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-10
+
+Stantec Inc.
+
+Financial Performance
+The following sections outline specific factors that affected the results of our operations in 2022.
+
+Gross and Net Revenue
+While providing professional services, we incur certain direct costs for subconsultants, equipment, and other 
+expenditures that are recoverable directly from our clients. Revenue associated with these direct costs is included in 
+gross revenue. Because these direct costs and associated revenue can vary significantly from contract to contract, 
+changes in gross revenue may not be indicative of our revenue trends. Accordingly, we also report net revenue 
+(which is gross revenue less subconsultant and other direct expenses) and analyze results in relation to net revenue 
+rather than gross revenue.
+
+We generate approximately 75% of gross revenue in foreign currencies, primarily in US dollars, British pounds (GBP), 
+and Australian (AU) dollars. Fluctuations in these currencies had a net $34.7 million positive impact on our net 
+revenue results in 2022 compared to 2021, as further described below:
+
+•
+
+•
+
+•
+
+The US dollar averaged $1.25 in 2021 and $1.30 in 2022—a 4.0% increase. The strengthening US dollar 
+compared to the Canadian dollar had a positive effect on gross and net revenues.
+
+The GBP averaged $1.72 in 2021 and $1.61 in 2022—a 6.4% decrease. The weakening GBP compared 
+to the Canadian dollar had a negative effect on gross and net revenues.
+
+The AU dollar averaged $0.94 in 2021 and $0.90 in 2022—a 4.3% decrease. The weakening AU dollar 
+compared to the Canadian dollar had a negative effect on gross and net revenues.
+
+Fluctuations in other foreign currencies did not have a material impact on our gross and net revenue in 2022 
+compared to 2021.
+
+Revenue earned by acquired companies in the first 12 months following an acquisition is reported as revenue from 
+acquisitions and thereafter as organic revenue.
+
+Gross Revenue by Reportable Segment
+
+(In millions of Canadian dollars, except 
+percentages)
+Canada
+
+United States
+
+Global
+
+Total
+
+Percentage growth
+
+2022
+
+1,337.0
+
+3,056.6
+
+1,283.6
+
+2021
+
+1,225.9
+
+2,400.2
+
+950.7
+
+111.1
+
+656.4
+
+332.9
+
+5,677.2
+
+4,576.8
+
+1,100.4
+
+ 24.0% 
+
+Total 
+Change
+
+Change Due 
+to 
+Acquisitions
+
+Change Due 
+to Foreign 
+Exchange
+
+Change Due 
+to Organic 
+Growth 
+
+—
+
+315.4
+
+253.5
+
+568.9
+
+ 12.4% 
+
+n/a
+
+92.8
+
+(43.9)
+
+48.9
+
+ 1.1% 
+
+111.1
+
+248.2
+
+123.3
+
+482.6
+
+ 10.5% 
+
+Net Revenue by Reportable Segment
+
+(In millions of Canadian dollars, except 
+percentages)
+Canada
+
+United States
+
+Global
+
+Total 
+
+Percentage growth
+
+2022
+
+1,150.8
+
+2,266.6
+
+1,039.8
+
+2021
+
+1,068.5
+
+1,799.5
+
+768.1
+
+4,457.2
+
+3,636.1
+
+Total 
+Change
+
+Change Due 
+to 
+Acquisitions
+
+Change Due 
+to Foreign 
+Exchange
+
+Change Due 
+to Organic 
+Growth 
+
+82.3
+
+467.1
+
+271.7
+
+821.1
+
+ 22.6% 
+
+—
+
+227.7
+
+217.8
+
+445.5
+
+ 12.3% 
+
+n/a
+
+68.7
+
+(34.0)
+
+34.7
+
+ 0.9% 
+
+82.3
+
+170.7
+
+87.9
+
+340.9
+
+ 9.4% 
+
+% of 
+Organic 
+growth
+
+ 9.1% 
+
+ 10.3% 
+
+ 13.0 %
+
+% of 
+Organic 
+Growth 
+
+ 7.7% 
+
+ 9.5% 
+
+ 11.4% 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-11
+
+Stantec Inc.
+
+Gross Revenue by Business Operating Unit
+
+Total 
+Change
+
+Change Due 
+to 
+Acquisitions
+
+Change Due 
+to Foreign 
+Exchange
+
+Change Due 
+to Organic 
+Growth 
+
+(In millions of Canadian dollars, 
+except percentages)
+
+Infrastructure
+
+Environmental Services
+
+Water
+
+Buildings
+
+Energy & Resources
+
+Total 
+
+Percentage growth
+
+2022
+
+1,597.6
+
+1,250.9
+
+1,137.2
+
+1,027.7
+
+663.8
+
+2021
+
+1,266.2
+
+831.7
+
+994.8
+
+904.8
+
+579.3
+
+331.4
+
+419.2
+
+142.4
+
+122.9
+
+84.5
+
+5,677.2
+
+4,576.8
+
+1,100.4
+
+ 24.0% 
+
+235.3
+
+297.3
+
+17.2
+
+2.8
+
+16.3
+
+568.9
+
+ 12.4% 
+
+16.8
+
+14.5
+
+(0.7)
+
+14.2
+
+4.1
+
+48.9
+
+ 1.1% 
+
+79.3
+
+107.4
+
+125.9
+
+105.9
+
+64.1
+
+482.6
+
+ 10.5% 
+
+Net Revenue by Business Operating Unit
+
+(In millions of Canadian dollars, 
+except percentages)
+
+Infrastructure
+
+Environmental Services
+
+Water
+
+Buildings
+
+Energy & Resources
+
+Total 
+
+Percentage growth 
+
+2022
+
+2021
+
+1,275.0
+
+1,003.7
+
+901.3
+
+873.5
+
+817.9
+
+589.5
+
+614.9
+
+771.5
+
+736.1
+
+509.9
+
+4,457.2
+
+3,636.1
+
+Total 
+Change
+
+Change Due 
+to 
+Acquisitions
+
+Change Due 
+to Foreign 
+Exchange
+
+Change Due 
+to Organic 
+Growth
+
+271.3
+
+286.4
+
+102.0
+
+81.8
+
+79.6
+
+821.1
+
+ 22.6% 
+
+197.4
+
+217.5
+
+14.1
+
+1.6
+
+14.9
+
+445.5
+
+ 12.3% 
+
+10.5
+
+10.5
+
+0.3
+
+9.7
+
+3.7
+
+34.7
+
+ 0.9% 
+
+63.4
+
+58.4
+
+87.6
+
+70.5
+
+61.0
+
+340.9
+
+ 9.4% 
+
+% of 
+Organic 
+Growth
+
+ 6.3% 
+
+ 12.9% 
+
+ 12.7% 
+
+ 11.7% 
+
+ 11.1% 
+
+% of 
+Organic 
+Growth
+
+ 6.3% 
+
+ 9.5% 
+
+ 11.4% 
+
+ 9.6% 
+
+ 12.0% 
+
+Comparative figures for gross and net revenue by business operating unit have been reclassified due to a realignment of several business lines and to 
+conform to the presentation adopted for the current year.
+
+Acquisitions and the continued strengthening of market conditions in all our geographies and businesses contributed 
+to a 22.6% net revenue increase in 2022 compared to 2021. Drivers contributing to growth included robust public 
+infrastructure spending and private investment; growing project work related to the re-shoring of domestic production 
+to strengthen local supply chain resilience and security, climate change and sustainability, global food security, and 
+the energy transition. Opportunities have also increased in archeological, permitting, and compliance work, as well as 
+building and designing facilities and communities to meet growing civic, healthcare, residential, and industrial 
+markets.
+
+Gross to net revenue ratio was 1.27, falling within our expected range of 1.25 to 1.30. 
+
+Canada
+In Canada, we achieved 7.7% organic net revenue growth. Private and public spending remained robust, contributing 
+to double-digit growth in Environmental Services and Energy & Resources. Environmental Services continued to 
+capitalize on high demand for permitting work and archeological work to support a midstream energy project. Power 
+transmission and distribution projects and investment in the energy transition in western Canada spurred growth in 
+Energy & Resources. Buildings continued to deliver organic growth on the strength of major public sector projects in 
+healthcare and mixed-use commercial projects in the private sector. A strong housing market in western Canada, 
+bridge work in various regions across the country, and continued recovery efforts associated with the extreme 
+flooding in British Columbia in late 2021 drove growth in Infrastructure. 
+
+United States
+Net revenue increased 26.0%, reflecting acquisition and organic growth and the positive impact of foreign exchange. 
+Strong performance and improving market conditions contributed to achieving double-digit organic growth in Water, 
+Buildings, and Energy & Resources. The ramp up of public sector and industrial projects previously delayed by the 
+pandemic and our work in certain large-scale water security projects in the western US boosted growth in Water. 
+Buildings continued its post-pandemic recovery, achieving growth from increasing investments in the healthcare, 
+civic, industrial, and science and technology sectors. Energy & Resources delivered strong organic growth, driven by 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-12
+
+Stantec Inc.
+
+an acceleration of activities on renewable energy and mining projects and on significant reservoir and dam projects in 
+the western US. Infrastructure also delivered solid organic growth on the strength of major transportation projects and 
+industrial and residential land development activities. Demand for expertise in environmental assessments, 
+permitting, and ecological work, and expanding opportunities in the remediation sector contributed to strong growth in 
+Environmental Services, which was bolstered by our acquisition of Cardno in 2021.
+
+Global
+In our Global operations, we achieved net revenue growth of 35.4%, reflecting strong acquisition and organic net 
+revenue growth, partly offset with foreign exchange impacts.  
+
+Growth momentum from 2021 continued into 2022 and contributed to organic net revenue growth of 11.4%, with 
+strong performances in all our business units. Our industry-leading Water business delivered double digit organic 
+growth, driven by long-term framework agreements and public sector investment in water infrastructure, primarily 
+across the UK, New Zealand, and Australia. We drove significant organic growth in Infrastructure, capitalizing on 
+increasing demand for our services in Community Development. Our Mining sector and Environmental Services also 
+delivered strong organic growth, driven by high copper and other metal prices, as well as through client diversification 
+and increased field services.
+
+Backlog
+We define “backlog” as the total value of all contracts that have been awarded less the total value of work completed 
+on these contracts as of the reporting date. Our backlog equates to our remaining performance obligations that are 
+unsatisfied (or partially satisfied) at the end of the reporting period, as reported under IFRS.
+
+(In millions of Canadian dollars, except 
+percentages)
+Canada
+
+United States
+
+Global
+
+Total 
+
+Dec 31, 
+2022
+
+Dec 31, 
+2021
+
+Total 
+Change
+
+1,249.2
+
+3,715.9
+
+936.6
+
+1,169.1
+
+3,016.9
+
+948.3
+
+80.1
+
+699.0
+
+(11.7)
+
+5,901.7
+
+5,134.3
+
+767.4
+
+Percentage growth 
+
+ 14.9% 
+
+Change Due 
+to 
+Acquisitions
+
+Change Due 
+to Foreign 
+Exchange
+
+Change Due 
+to Organic 
+Growth 
+(Retraction)
+
+% of 
+Organic 
+Growth 
+(Retraction)
+
+—
+
+12.8
+
+—
+
+12.8
+
+ 0.2% 
+
+n/a
+
+214.1
+
+6.8
+
+220.9
+
+ 4.3% 
+
+80.1
+
+472.1
+
+(18.5)
+
+533.7
+
+ 10.4% 
+
+ 6.9 %
+
+ 15.6 %
+
+ (2.0) %
+
+Our contract backlog at December 31, 2022 of $5.9 billion grew organically by 10.4%, or $533.7 million, and 
+represents approximately 12 months of work (2021 - 13 months of work).
+
+The increase in our contract backlog was driven by the US, where new contract awards contributed to double-digit 
+organic growth, particularly in Infrastructure and Buildings. Backlog in Canada was also strong, where growth was 
+high in Buildings, Infrastructure, and Environmental Services. A seasonally high burn rate in Environmental Services 
+contributed to a reduction in Global backlog, partially offset by organic growth in Energy & Resources and 
+Infrastructure. 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-13
+
+Stantec Inc.
+
+Major Project Awards 
+Backlog growth of $767 million from December 31, 2021 supports our positive outlook for a strong multi-year cycle, 
+bolstered by public infrastructure spending and private investment. The prioritization of strengthening infrastructure 
+resilience, addressing climate change, the energy transition, as well as domestic production and supply chain 
+management continues to expand our project work.
+
+In Canada, we secured several major public infrastructure projects, ranging from a master plan and preliminary 
+design for a streetscape in Alberta to a large multi-discipline transit project in Quebec. Our Mining team won an 
+energy transition-related project for a base-metals client to assist in the development of an emissions reduction plan. 
+Key wins in Environmental Services included an environment permitting and preliminary engineering design for a 
+proposed renewable energy facility in Atlantic Canada and a soil and groundwater remediation project for remote First 
+Nations communities in Ontario.
+
+In the United States, project wins in Infrastructure, Buildings and the energy transition propelled organic backlog 
+growth. Infrastructure wins included a federally funded engagement and feasibility assessment for a community 
+project in the south and an architecture/engineer Indefinite Delivery/Indefinite Quantity contract with the US Army 
+Corps of Engineers for renovations on an instruction facility. Energy transition wins included providing architectural 
+and engineering services for the construction of the largest solar panel manufacturing facility in the US, construction 
+and operations plans for an offshore wind project on the east coast, and environmental and permitting services for a 
+transmission line proposal. 
+
+Infrastructure and Energy & Resources led backlog growth in our Global regions. Through our leading water presence 
+in the UK, we were awarded our first major design and build Infrastructure project for Transport Scotland. We were 
+also selected as the civil design consultant for the Belfast Wastewater Treatment Work in Northern Ireland and were 
+awarded program management services for a key client, Northumbrian Water. The ongoing need for renewable 
+energy remains evident as we secured our project wins with mining clients in Australia and a contract extension for a 
+tailings project at a copper mine in Chile. 
+
+Project Margin
+Project margin is calculated as net revenue minus direct payroll costs. Direct payroll costs include salaries and 
+related fringe benefits for labor hours directly associated with completing projects. Labor costs and related fringe 
+benefits for labor hours not directly associated with completing projects are included in administrative and marketing 
+expenses.
+
+Project Margin by Reportable Segment
+
+(In millions of Canadian dollars, except percentages)
+
+Canada
+
+United States
+
+Global
+
+Total
+
+Project Margin by Business Operating Unit
+
+(In millions of Canadian dollars, except percentages)
+
+Infrastructure
+
+Environmental Services
+
+Water
+
+Buildings
+
+Energy & Resources
+
+Total
+
+2022
+
+2021
+
+$
+
+611.0 
+
+1,254.1 
+
+552.2 
+
+2,417.3 
+
+% of Net 
+Revenue
+
+ 53.1 %  
+
+ 55.3 %  
+
+ 53.1 %  
+
+ 54.2 %  
+
+$
+
+571.9 
+
+977.8 
+
+413.6 
+
+1,963.3 
+
+2022
+
+2021
+
+$
+
+690.3 
+
+512.1 
+
+474.8 
+
+441.0 
+
+299.1 
+
+2,417.3 
+
+% of Net 
+Revenue
+
+ 54.1 %  
+
+ 56.8 %  
+
+ 54.4 %  
+
+ 53.9 %  
+
+ 50.7 %  
+
+ 54.2 %  
+
+$
+
+533.0 
+
+347.9 
+
+423.7 
+
+401.1 
+
+257.6 
+
+1,963.3 
+
+% of Net 
+Revenue
+
+ 53.5 %
+
+ 54.3 %
+
+ 53.8 %
+
+ 54.0 %
+
+% of Net 
+Revenue
+
+ 53.1 %
+
+ 56.6 %
+
+ 54.9 %
+
+ 54.5 %
+
+ 50.5 %
+
+ 54.0 %
+
+Comparative figures for project margin by business operating unit have been reclassified due to a realignment of several business lines and to conform 
+to the presentation adopted for the current year.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-14
+
+Stantec Inc.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project margin increased $454.0 million, or 23.1%, and as a percentage of net revenue, project margin increased 20 
+basis points to 54.2%. Net revenue growth driven by robust public and private investment and acquisitions 
+contributed to the project margin increases. As a percentage of net revenue, project margin has remained in line with 
+our expectations as a result of our continued discipline in project execution, our ability to increase rates on certain 
+projects to mitigate the impacts of wage inflation, and increased selectivity in project pursuits. 
+
+In Canada, project margin increased $39.1 million to $611.0 million, and as a percentage of net revenue, project 
+margin decreased 40 basis points due primarily to a shift in project mix and the ramping up of several large Water 
+projects. 
+
+Project margin in the United States increased $276.3 million, and as a percentage of net revenue, increased 100 
+basis points to 55.3%. Solid project performance, particularly in Infrastructure, and rate increases on several existing 
+projects in Energy & Resources, drove margin growth.
+
+Project margin in our Global operations increased $138.6 million to $552.2 million and as a percentage of net 
+revenue, project margin decreased 70 basis points. The decrease in margin as a percentage of net revenue is mainly 
+attributable to our project mix as well as recoveries realized in 2021 on certain Water and Building projects. 
+
+Administrative and Marketing Expenses
+Administrative and marketing expenses fluctuate year to year due to the amount of staff time charged to marketing 
+and administrative labor, which is influenced by the mix of projects in progress during the period, business 
+development activities, and integration activities resulting from acquisitions. In the months after completing an 
+acquisition, staff time charged to administration and marketing is generally higher as a result of integration activities, 
+including orienting newly acquired staff. Our operations generally incur higher administrative and marketing expenses 
+in the first and fourth quarters as a result of the holiday season and seasonal weather conditions in the northern 
+hemisphere, which, in turn, result in lower staff utilization.
+
+Administrative and marketing expenses were $1,742.5 million in 2022 and 39.1% as a percentage of net revenue, 
+compared to $1,423.6 million and 39.2% in 2021. Excluding acquisition, integration and restructuring costs, which 
+increased by $14.1 million, administrative and marketing expenses as a percentage of net revenue decreased by 20 
+basis points compared to 2021. The decrease in administrative and marketing expenses as a percentage of net 
+revenue was due to lower share-based compensation expense of $20.7 million and lower onerous contract costs of 
+$9.9 million compared to 2021. These decreases were partly offset by higher discretionary spending as we 
+transitioned out of the pandemic, and our continued investment efforts to support growth. 
+
+Amortization of Intangible Assets
+The timing of completed acquisitions, size of acquisitions, and type of intangible assets acquired impact the amount
+of amortization of intangible assets in a period. Client relationships are amortized over estimated useful lives ranging 
+from 10 to 15 years and contract backlog is amortized over an estimated useful life of 1 to 3 years. Consequently, the 
+impact of amortization can be significant in the reporting periods following an acquisition.
+
+(In millions of Canadian dollars)
+
+Client relationships
+
+Backlog and other
+
+Total amortization of acquired intangible assets
+
+Software
+
+Total amortization of intangible assets
+
+2022
+
+45.6   
+
+34.8   
+
+80.4   
+
+24.2   
+
+104.6   
+
+2021
+
+32.5 
+
+7.1 
+
+39.6 
+
+20.4 
+
+60.0 
+
+Acquisitions completed in 2021 and 2022 added $165.7 million to client relationships and $53.2 million to backlog and 
+contributed to an increase in intangible amortization of $44.6 million in 2022 compared to 2021.
+
+We review intangible assets at each reporting period to determine whether there is an indication of impairment, and 
+based on this review, there were no indicators of impairment in 2022 and 2021. Our review considered external 
+sources, such as prevailing economic and market conditions, and internal sources, such as the historical and 
+expected financial performance of intangible assets. (See the Critical Accounting Estimates section of this MD&A for 
+more information about the methodology used to test long-lived assets and intangibles for impairment.)
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-15
+
+Stantec Inc.
+
+ 
+ 
+ 
+ 
+ 
+Net (Reversal) Impairment of Lease Assets and Property and Equipment
+We continued with our 2023 real estate strategic initiative, which commenced in 2020, and reviewed our real estate 
+lease portfolio to identify additional underutilized office spaces and updated our assumptions for previously impaired 
+locations. For recent acquisitions completed in 2021 and 2022, we have also reviewed our office spaces and found 
+opportunities to consolidate certain locations. Consequently, we recorded a non-cash net impairment reversal of 
+$5.5 million in 2022 for various leased office spaces across our Canada, US, and Global operations compared to a 
+non-cash net impairment charge of $24.8 million in 2021. We also recorded related onerous contract costs of 
+$2.6 million that are included in administrative and marketing expenses compared to $12.5 million in 2021.
+
+The recoverable amount of lease assets and associated property and equipment was estimated using the value in 
+use approach. 
+
+Depreciation of Lease Assets
+Depreciation of lease assets increased $14.2 million in 2022 compared to 2021. The increase in depreciation is 
+primarily due to acquisitions made in 2021 and 2022 which increased lease assets by approximately $90 million. 
+
+Net Interest Expense
+Net interest expense increased $26.1 million in 2022 compared to 2021. This was primarily due to higher draws on 
+the revolving credit facility to fund the Cardno, CMEC, Barton Willmore, and L2P acquisitions; cashflow disruptions 
+during the year from the systems integrations of Cardno and CMEC; share repurchases under our NCIB; and higher 
+interest rates on our credit facilities. 
+
+Other Income
+Other income was $4.9 million in 2022 compared to $17.2 million in 2021. Other income from our investments held for 
+self-insured liabilities included a net loss of $2.1 million in 2022 compared to a net gain of $15.9 million in 2021. In 
+2022, unrealized losses of $18.0 million were partly offset by realized gains of $15.6 million from the sale of equity 
+securities. Unrealized gains and losses are non-cash adjustments and represent the fair value fluctuations in the 
+equity markets. 
+
+We also recognized a $5.6 million gain on the disposition of an intangible asset in 2022.
+
+Income Taxes 
+Our 2022 effective income tax rate was 24.0% and remained consistent with our 2021 rate of 23.7%. 
+
+Fourth Quarter Results
+The following sections outline specific factors that affected the results of our operations in Q4 2022 vs Q4 2021.
+
+Gross and Net Revenue
+
+Gross Revenue by Reportable Segment
+
+(In millions of Canadian dollars, except 
+percentages)
+Canada
+
+United States
+
+Global
+
+Total 
+
+Percentage growth 
+
+Q4 2022 Q4 2021
+
+357.3
+
+822.1
+
+334.1
+
+304.4
+
+611.5
+
+269.4
+
+1,513.5
+
+1,185.3
+
+Total 
+Change
+
+Change Due 
+to 
+Acquisitions
+
+Change Due 
+to Foreign 
+Exchange
+
+Change Due 
+to Organic 
+Growth
+
+52.9
+
+210.6
+
+64.7
+
+328.2
+
+ 27.7% 
+
+—
+
+65.0
+
+53.6
+
+118.6
+
+ 10.0% 
+
+n/a
+
+46.9
+
+(8.3)
+
+38.6
+
+ 3.3% 
+
+52.9
+
+98.7
+
+19.4
+
+171.0
+
+ 14.4% 
+
+% of 
+Organic 
+Growth
+
+ 17.4% 
+
+ 16.1% 
+
+ 7.2% 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-16
+
+Stantec Inc.
+
+Net Revenue by Reportable Segment
+
+(In millions of Canadian dollars, except 
+percentages)
+Canada
+
+United States
+
+Global
+
+Total 
+
+Percentage growth
+
+Q4 2022 Q4 2021
+
+291.1
+
+577.9
+
+261.4
+
+260.0
+
+440.2
+
+216.0
+
+1,130.4
+
+916.2
+
+Total 
+Change
+
+Change Due 
+to 
+Acquisitions
+
+Change Due 
+to Foreign 
+Exchange
+
+Change Due 
+to Organic 
+Growth 
+
+31.1
+
+137.7
+
+45.4
+
+214.2
+
+ 23.4% 
+
+—
+
+44.2
+
+45.7
+
+89.9
+
+ 9.8% 
+
+n/a
+
+34.1
+
+(6.7)
+
+27.4
+
+ 3.0% 
+
+31.1
+
+59.4
+
+6.4
+
+96.9
+
+ 10.6% 
+
+Gross Revenue by Business Operating Unit
+
+(In millions of Canadian dollars, 
+except percentages)
+
+Infrastructure
+
+Environmental Services
+
+Water
+
+Buildings
+
+Energy & Resources
+
+Total 
+
+Percentage growth
+
+Q4 2022 Q4 2021
+
+421.8
+
+341.5
+
+289.8
+
+277.8
+
+182.6
+
+316.6
+
+240.8
+
+251.6
+
+225.0
+
+151.3
+
+1,513.5
+
+1,185.3
+
+Total 
+Change
+
+Change Due 
+to 
+Acquisitions
+
+Change Due 
+to Foreign 
+Exchange
+
+Change Due 
+to Organic 
+Growth 
+
+105.2
+
+100.7
+
+38.2
+
+52.8
+
+31.3
+
+328.2
+
+ 27.7% 
+
+52.9
+
+59.5
+
+3.4
+
+2.8
+
+—
+
+118.6
+
+ 10.0% 
+
+10.8
+
+10.4
+
+5.6
+
+8.2
+
+3.6
+
+38.6
+
+ 3.3% 
+
+41.5
+
+30.8
+
+29.2
+
+41.8
+
+27.7
+
+171.0
+
+ 14.4% 
+
+Net Revenue by Business Operating Unit
+
+(In millions of Canadian dollars, 
+except percentages)
+
+Infrastructure
+
+Environmental Services
+
+Water
+
+Buildings
+
+Energy & Resources
+
+Total 
+
+Percentage growth 
+
+Q4 2022 Q4 2021
+
+324.8
+
+225.3
+
+218.3
+
+208.1
+
+153.9
+
+249.2
+
+167.1
+
+190.7
+
+177.6
+
+131.6
+
+1,130.4
+
+916.2
+
+Total 
+Change
+
+Change Due 
+to 
+Acquisitions
+
+Change Due 
+to Foreign 
+Exchange
+
+Change Due 
+to Organic 
+Growth 
+
+75.6
+
+58.2
+
+27.6
+
+30.5
+
+22.3
+
+214.2
+
+ 23.4% 
+
+44.6
+
+40.8
+
+2.9
+
+1.6
+
+—
+
+89.9
+
+ 9.8% 
+
+7.4
+
+7.1
+
+4.2
+
+5.6
+
+3.1
+
+23.6
+
+10.3
+
+20.5
+
+23.3
+
+19.2
+
+27.4
+
+ 3.0% 
+
+96.9
+
+ 10.6% 
+
+% of 
+Organic 
+Growth 
+
+ 12.0% 
+
+ 13.5% 
+
+ 3.0% 
+
+% of 
+Organic 
+Growth 
+
+ 13.1% 
+
+ 12.8% 
+
+ 11.6% 
+
+ 18.6% 
+
+ 18.3% 
+
+% of 
+Organic 
+Growth
+
+ 9.5% 
+
+ 6.2% 
+
+ 10.7% 
+
+ 13.1% 
+
+ 14.6% 
+
+Comparative figures for gross and net revenue by business operating unit have been reclassified due to a realignment of several business lines and to 
+conform to the presentation adopted for the current period. 
+
+Net revenue grew 23.4% in Q4 2022 compared to Q4 2021, driven by organic and acquisition growth and the positive 
+impacts of foreign exchange. 
+
+Net revenue from our Canada operations grew organically by 12.0% in Q4 2022 compared to Q4 2021, driven by 
+double digit organic performance across all business lines, with the exception of Water which achieved lower single 
+digit growth. 
+
+Our US net revenues grew by 31.3% in Q4 2022 compared to Q4 2021 as a result of strong organic and acquisition 
+growth and the positive impact of foreign exchange. Double digit organic growth in Buildings, Water, and Energy & 
+Resources drove growth in the quarter.  
+
+Our Global operations generated net revenue growth of 21.0% in Q4 2022 compared to Q4 2021. This was driven 
+primarily through acquisition growth of 21.2% and organic growth of 3.0%. Strong organic performance in Water, 
+Community Development, and Energy & Resources drove growth in the quarter partially offset by a retraction in 
+Buildings.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-17
+
+Stantec Inc.
+
+Project Margin
+
+Project Margin by Reportable Segment
+
+(In millions of Canadian dollars, except percentages)
+
+Canada
+
+United States
+
+Global
+
+Total
+
+Project Margin by Business Operating Unit
+
+(In millions of Canadian dollars, except percentages)
+
+Infrastructure
+
+Environmental Services
+
+Water
+
+Buildings
+
+Energy & Resources
+
+Total
+
+Q4 2022
+
+Q4 2021
+
+$
+
+155.3 
+
+328.2 
+
+137.0 
+
+620.5 
+
+% of Net 
+Revenue
+
+ 53.3 %  
+
+ 56.8 %  
+
+ 52.4 %  
+
+ 54.9 %  
+
+$
+
+139.1 
+
+245.8 
+
+121.7 
+
+506.6 
+
+Q4 2022
+
+Q4 2021
+
+$
+
+179.6 
+
+130.9 
+
+115.8 
+
+113.7 
+
+80.5 
+
+620.5 
+
+% of Net 
+Revenue
+
+ 55.3 %  
+
+ 58.1 %  
+
+ 53.0 %  
+
+ 54.6 %  
+
+ 52.3 %  
+
+ 54.9 %  
+
+$
+
+137.0 
+
+96.8 
+
+107.7 
+
+97.8 
+
+67.3 
+
+506.6 
+
+% of Net 
+Revenue
+
+ 53.5 %
+
+ 55.8 %
+
+ 56.3 %
+
+ 55.3 %
+
+% of Net 
+Revenue
+
+ 55.0 %
+
+ 57.9 %
+
+ 56.5 %
+
+ 55.1 %
+
+ 51.1 %
+
+ 55.3 %
+
+Comparative figures for project margin by business operating unit have been reclassified due to a realignment of several business lines and to conform 
+to the presentation adopted for the current year.
+
+Project margin increased $113.9 million in the quarter and decreased 40 basis points as a percentage of net revenue.
+
+Overall, project margin increased as a result of higher net revenue from organic growth and acquisitions. Solid project 
+execution and a favorable project mix drove consistent margins as a percentage of net revenue in Canada and 
+increased margin by 100 basis points in the US compared to Q4 2021. The decrease in Global margin as a 
+percentage of net revenue was due in part to project mix as well as recoveries realized on certain Water and 
+Community Development projects in Q4 2021.
+
+Other
+Administrative and marketing expenses were $439.4 million in Q4 2022 and 38.9% as a percentage of net revenue 
+compared to $387.6 million and 42.3% in Q4 2021. The decrease in administrative and marketing expenses was 
+mainly from lower onerous contract costs, share-based compensation expense, and employee benefit costs. These 
+decreases were partly offset by increased discretionary spending as we transitioned from the pandemic.
+
+A lease settlement and reassignment agreement as well as signed subleases and updated assumptions for 
+previously impaired locations in Q4 2022 resulted in a net impairment reversal of lease assets and property and 
+equipment. Amortization of intangible assets increased due to higher backlog and client relationship amortization 
+related to recent acquisitions. Net interest expense increased primarily due to higher interest rates. Other income 
+increased as a result of a gain realized in Q4 2022 on the disposition of an intangible asset – an engineering license 
+held in the state of New York.
+
+Our effective income tax rate in Q4 2022 was 24.8% compared to a rate of 30.5% in Q4 2021. The quarterly rates 
+increased compared to our annual effective tax rate of 24.0% in 2022 and 23.7% in 2021 because of certain true-up 
+estimates and adjustments recognized in the quarter. 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-18
+
+Stantec Inc.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quarterly Trends
+The following is a summary of our quarterly operating results for the last two fiscal years.
+
+(In millions of Canadian dollars, except per share 
+amounts)
+
+Gross revenue
+
+Net revenue
+
+Net income 
+
+Diluted earnings per share
+
+Adjusted net income (note)
+
+Adjusted diluted EPS (note)
+
+2022
+
+2021
+
+Q4
+
+Q3
+
+Q2
+
+Q1
+
+Q4
+
+Q3
+
+Q2
+
+Q1
+
+ 1,513.5   1,473.2   1,376.6   1,313.9   1,185.3   1,168.3   1,134.0   1,089.2 
+
+ 1,130.4   1,160.0   1,116.7   1,050.1    916.2    932.9    908.3    878.7 
+
+73.5   
+
+68.0   
+
+60.7   
+
+44.8   
+
+16.6   
+
+70.0   
+
+63.2   
+
+50.9 
+
+0.66   
+
+0.61   
+
+0.55   
+
+0.40   
+
+0.15   
+
+0.63   
+
+0.57   
+
+0.46 
+
+91.1   
+
+95.0   
+
+92.6   
+
+68.4   
+
+63.8   
+
+80.4   
+
+69.6   
+
+56.1 
+
+0.82   
+
+0.86   
+
+0.83   
+
+0.61   
+
+0.57   
+
+0.72   
+
+0.62   
+
+0.50 
+
+Adjusted net income and adjusted EPS are non-IFRS measures and are further discussed in the Definitions section of this MD&A. 
+
+Quarterly EPS and adjusted EPS are not additive and may not equal the annual EPS reported. This is a result of the effect of shares issued on the 
+weighted average number of shares. Quarterly and annual diluted EPS and adjusted EPS are also affected by the change in the market price of our 
+shares since we do not include in dilution options when the exercise price of the option is not in the money.
+
+The table below compares quarters, summarizing the impact of acquisitions, organic growth, and foreign exchange 
+on net revenue:
+
+(In millions of Canadian dollars)
+
+Increase (decrease) in net revenue due to
+
+Organic growth
+
+Acquisition growth
+
+Impact of foreign exchange rates on revenue earned by 
+foreign subsidiaries
+
+Q4 2022
+
+Q3 2022
+
+Q2 2022
+
+Q1 2022
+
+vs.
+
+vs.
+
+vs.
+
+vs.
+
+Q4 2021
+
+Q3 2021
+
+Q2 2021
+
+Q1 2021
+
+96.9   
+
+89.9   
+
+27.4   
+
+102.3   
+
+120.7   
+
+85.4   
+
+112.9   
+
+56.3 
+
+122.0 
+
+4.1   
+
+10.1   
+
+(6.9) 
+
+Total increase in net revenue
+
+214.2   
+
+227.1   
+
+208.4   
+
+171.4 
+
+We experience variability in our results of operations from quarter to quarter due to the nature of the industries and 
+geographic locations we operate in. In the first and fourth quarters, we see slowdowns related to winter weather 
+conditions and holiday schedules. The increase in net revenue in each of the 2022 quarters compared to the same 
+periods in 2021 primarily reflects acquisition growth from revenues contributed by acquisitions completed in the last 
+twelve months and organic growth. Q2, Q3 and Q4 2022 also benefited from positive foreign exchange impacts. (See 
+additional information about operating results in our MD&A for each respective quarter.)
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-19
+
+Stantec Inc.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Statements of Financial Position
+The following highlights the major changes to our assets, liabilities, and equity from December 31, 2021 to 
+December 31, 2022.
+
+(In millions of Canadian dollars)
+
+Dec 31, 2022
+
+Dec 31, 2021
+
+Total current assets
+
+Property and equipment
+
+Lease assets
+
+Goodwill
+
+Intangible assets
+
+Net employee defined benefit asset
+
+Deferred tax assets
+
+Other assets
+
+Total assets
+
+Current portion of lease liabilities
+
+Current portion of long-term debt
+
+Current portion of provisions
+
+All other current liabilities
+
+Total current liabilities
+
+Lease liabilities
+
+Income taxes payable
+
+Long-term debt
+
+Provisions
+
+Net employee defined benefit liability
+
+Deferred tax liability
+
+Other liabilities
+
+Equity
+
+Non-controlling interests
+
+1,937.8   
+
+250.7   
+
+470.4   
+
+2,346.4   
+
+320.4   
+
+57.4   
+
+45.2   
+
+224.6   
+
+1,664.4 
+
+233.7 
+
+476.5 
+
+2,184.3 
+
+373.3 
+
+17.0 
+
+48.3 
+
+228.9 
+
+5,652.9   
+
+5,226.4 
+
+99.0   
+
+52.2   
+
+48.1   
+
+1,210.7   
+
+1,410.0   
+
+522.4   
+
+7.1   
+
+1,183.6   
+
+149.7   
+
+32.3   
+
+28.2   
+
+33.2   
+
+2,286.0   
+
+0.4   
+
+123.9 
+
+51.0 
+
+36.7 
+
+967.8 
+
+1,179.4 
+
+545.0 
+
+8.9 
+
+1,194.1 
+
+122.6 
+
+58.7 
+
+77.5 
+
+38.0 
+
+2,001.7 
+
+0.5 
+
+Total liabilities and equity
+
+5,652.9   
+
+5,226.4 
+
+Refer to the Liquidity and Capital Resources section of this MD&A for an explanation of the changes in current assets 
+and current liabilities and the Shareholders’ Equity section of this MD&A for an explanation of the changes in equity.
+The carrying amounts of assets and liabilities for our US and other foreign subsidiaries on our consolidated 
+statements of financial position increased due to the strengthening of the US dollar and Australian dollar compared to 
+the Canadian dollar, partly offset by the weakening of the British pound compared to the Canadian dollar. Other 
+factors that impacted our long-term assets and liabilities are indicated below.
+
+The impact of acquisitions completed in 2022 and measurement period adjustments for prior acquisitions increased 
+intangible assets by $15.3 million and goodwill by $64.7 million. These values are based on a preliminary purchase 
+price allocation and are pending a final determination of the fair value of the assets and liabilities acquired. The final 
+allocation may differ from the preliminary allocation.
+
+Additions of engineering equipment and leasehold improvements in property and equipment were partly offset by 
+depreciation. Lease assets and intangible assets decreased as depreciation and amortization exceeded lease 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-20
+
+Stantec Inc.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+additions and modifications, software additions, and acquired intangible assets. The total current and long-term 
+portions of other assets decreased primarily as a result of decreases in investments held for self-insured liabilities, 
+including net sales of investments and unrealized fair value losses. 
+
+Total current and long-term portions of long-term debt decreased $9.3 million, primarily as a result of a decrease in 
+the amount outstanding on our revolving credit facility. Total current and long-term portions of lease liabilities 
+decreased $47.5 million due to lease payments partly offset by additions, acquisitions, modifications, and interest 
+accretion. Total current and long-term portions of provisions increased $38.5 million, reflecting a net increase in 
+estimates for claims provisions due primarily to higher claim provisions with certain insurance recoveries recorded in 
+trade and other receivables, acquisitions and related measurement period adjustments, and an increase in onerous 
+contract provisions primarily due to a reclassification of $15.3 million from lease liabilities related to a lease settlement 
+and reassignment agreement. 
+
+Net employee defined benefit asset increased $40.4 million and net employee defined benefit liability decreased 
+$26.4 million, for a combined increase in the net asset position of $66.8 million to a net asset of $25.1 million from a 
+net liability of $41.7 million in 2021. The increase in the net asset position resulted largely from remeasurement gains 
+of $49.7 million and contributions of $17.6 million made in the year.
+
+Net deferred taxes decreased $46.2 million primarily due to research & experimental expenditures in the US that, 
+beginning in 2022, are amortized for tax purposes as well as the amortization of previously acquired intangible 
+assets. This was partly offset by an increase in deferred tax liabilities related to the net surplus position of certain of 
+our defined benefit pension plans.
+
+Goodwill
+In accordance with our accounting policies (described in note 4 of our 2022 audited consolidated financial 
+statements), we conduct a goodwill impairment test annually as at October 1 or more frequently if circumstances 
+indicate that an impairment may occur or if a significant acquisition occurs between the annual impairment test date 
+and December 31.
+
+Our CGUs are identified by considering the interdependence of cash flows between different geographic locations 
+and how management monitors the operations. As such, we define our CGUs as follows: Canada, US, Asia/Pacific, 
+Latin America, and UK/Europe/ Middle East. As goodwill is not monitored at a level lower than our operating 
+segments, three of our CGUs (Asia/Pacific, Latin America, and UK/Europe/ Middle East) are grouped into Global for 
+the purpose of allocating goodwill and testing impairment.
+
+On October 1, 2022, we performed our annual goodwill impairment test. We estimate the recoverable amount by 
+using the fair value less costs of disposal approach. There is a material degree of uncertainty with respect to the 
+estimates of the recoverable amounts of our CGUs, given the necessity of making key economic assumptions about 
+the future.
+
+As at October 1, 2022, we concluded that the recoverable amount of our CGUs and group of CGUs exceeded their 
+carrying amount and management believes that no reasonably possible change in assumptions would have caused 
+the carrying amount to exceed their respective recoverable amount. (Key assumptions are described in note 12 of our 
+2022 audited consolidated financial statements and incorporated by reference in this MD&A.)
+
+Liquidity and Capital Resources
+We are able to meet our liquidity needs through various sources, including cash generated from operations; long- and 
+short-term borrowings from our $800 million revolving credit facility (with access to an additional $600 million subject 
+to approval), our $310 million senior term loan, our $300 million senior unsecured notes, and our £20 million 
+uncommitted unsecured multicurrency credit facility; and the issuance of common shares. We use funds primarily 
+to pay operational expenses; complete acquisitions; sustain capital spending on property, equipment, and software; 
+repay long-term debt; repurchase shares; and pay dividend distributions to shareholders.
+
+We believe that internally generated cash flows, supplemented by borrowings, if necessary, will be sufficient to cover 
+our normal operating and capital expenditures. However, under certain favorable market conditions, we do consider 
+issuing common shares to facilitate acquisition growth or to reduce borrowings under our credit facilities.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-21
+
+Stantec Inc.
+
+Working Capital
+The following table shows summarized working capital information as at December 31, 2022, compared to 
+December 31, 2021:
+
+(In millions of Canadian dollars, except ratios)
+
+Dec 31, 2022
+
+Dec 31, 2021
+
+Current assets
+
+Current liabilities
+
+Working capital (note)
+
+Current ratio (note)
+
+1,937.8   
+
+1,410.0   
+
+527.8   
+
+1.37   
+
+1,664.4 
+
+1,179.4 
+
+485.0 
+
+1.41 
+
+note: See the Definitions section of this MD&A for our discussion of supplementary financial measures used. 
+
+The carrying amounts of current assets and liabilities for our US and other foreign subsidiaries on our consolidated 
+statements of financial position increased slightly due to the strengthening of the US dollar and Australian dollar 
+compared to the Canadian dollar, partly offset by the weakening of the British pound compared to the Canadian 
+dollar. 
+
+Current assets increased due to a collective net increase of $349.7 million in trade and other receivables, unbilled 
+receivables, and contract assets because of strong organic growth and approximately $45 million was also due to 
+foreign exchange impacts. This was partly offset by decreases in cash and deposits (explained in the Cash Flows 
+section of this MD&A), income taxes recoverable due to the amortization of certain research & experimental 
+expenditures for tax purposes in the US, and other current assets (explained in the Statements of Financial Position 
+section of this MD&A).
+
+Our DSO (defined in the Definitions section of this MD&A) was 81 days at December 31, 2022, a 5-day reduction 
+from Q3 2022. As expected, completion of Cardno financial migration activities returned DSO to more typical levels, 
+moderated by stronger than anticipated revenue growth in the fourth quarter which drove additional net working 
+capital investment.
+
+The increase in current liabilities included foreign currency impacts of approximately $35 million and increases in 
+bank indebtedness (explained in the Cash Flows section of this MD&A); trade and other payables due to organic 
+growth, the timing of supplier payments, and payroll accruals; deferred revenue due to milestone invoice timing and 
+project mix; and provisions (explained in the Statement of Financial Position section of this MD&A). These increases 
+were partly offset by a decrease in current lease liabilities (explained in the Statements of Financial Position section 
+of this MD&A).
+
+Cash Flows
+
+(In millions of Canadian dollars)
+
+Cash flows from operating activities
+
+Cash flows used in investing activities
+
+Cash flows (used in) from financing activities
+
+2022
+
+2021
+
+Change
+
+304.3   
+
+397.0   
+
+(73.8)   
+
+(764.8)   
+
+(92.7) 
+
+691.0 
+
+(296.7)   
+
+276.5   
+
+(573.2) 
+
+Cash flows from operating activities 
+Cash flows from operating activities were $304.3 million, which decreased $92.7 million compared to 2021, reflecting 
+increased investment in net working capital to support organic revenue growth. Employee incentive payments related 
+to prior years' performance and interest payments on borrowings were also higher in 2022 compared to 2021.
+
+Cash flows used in investing activities
+Cash flows used in investing activities were $73.8 million, a $691.0 million decrease compared to 2021. This was due 
+primarily to aggregate net cash consideration used for acquisitions of $50.4 million in the current year compared to 
+$702.5 million in 2021 and increases in net proceeds from investments held for self insured liabilities of $52.2 million. 
+These were partly offset by a $24.3 million increase in purchases of property and equipment and software, primarily 
+for certain leasehold improvements and engineering equipment.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-22
+
+Stantec Inc.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash flows (used in) from financing activities
+Cash flows used in financing activities were $296.7 million, a $573.2 million increase in cash outflows compared to 
+2021. The increase was driven by net repayments on our revolving credit facility of $22.6 million in 2022 compared to 
+draws of $544.7 million in 2021 that were primarily related to the acquisition of Cardno, higher net lease payments 
+related to the growth of our operations, and reduced proceeds from stock options exercised. These were partly offset 
+by net proceeds from bank indebtedness of $65.4 million.
+
+Capital Management
+Our objective in managing Stantec’s capital is to provide sufficient capacity to cover normal operating and capital 
+expenditures and to have flexibility for financing future growth. We focus our capital allocations on increasing 
+shareholder value through funding accretive acquisitions in pursuit of our growth strategy while maintaining a strong 
+balance sheet, repurchasing shares opportunistically, and managing dividend increases to our target payout ratio in a 
+sustainable manner.
+
+We manage our capital structure according to our internal guideline of maintaining a net debt to adjusted EBITDA 
+(actual trailing twelve months) ratio of less than 2.0 to 1.0. There may be occasions when we exceed our target by 
+completing acquisitions that increase our debt level for a period of time. 
+
+(In millions of Canadian dollars, except ratios)
+
+Current and non-current portion of long term debt
+
+Less: cash and deposits
+
+Bank indebtedness
+
+Net debt
+
+Shareholders' equity
+
+Total capital managed
+
+Adjusted EBITDA from continuing operations (note)
+
+Net debt to adjusted EBITDA ratio (note)
+
+note: See the Definitions section of this MD&A for our discussion of non-IFRS measures used.
+
+Dec 31, 2022
+
+Dec 31, 2021
+
+1,235.8   
+
+(148.3)   
+
+65.4   
+
+1,152.9   
+
+2,286.0   
+
+3,438.9   
+
+723.9   
+
+1.6   
+
+1,245.1 
+
+(193.9) 
+
+7.2 
+
+1,058.4 
+
+2,001.7 
+
+3,060.1 
+
+573.8 
+
+1.8 
+
+At December 31, 2022, our net debt to adjusted EBITDA ratio was 1.6x, falling within our stated internal guideline, an 
+improvement from 1.8x at December 31, 2021 as a result of cash flows from operations reducing debt and adjusted 
+EBITDA increasing year over year. 
+
+We have syndicated senior credit facilities consisting of a senior revolving credit facility of a maximum of $800 million, 
+a $310 million senior term loan in two tranches, and access to additional funds of $600 million through an accordion 
+feature. On December 8, 2022, we amended these facilities to change certain terms and conditions, including 
+extending the maturity dates for the revolving credit facility from October 29, 2026 to December 8, 2027, the $150.0 
+million tranche B of the term loan from October 29, 2024 to December 8, 2025, and the $160.0 million tranche C of 
+the term loan from October 29, 2026 to December 8, 2027. The revolving credit facility and term loans are unsecured.
+
+We also have $300.0 million senior unsecured notes that mature on October 8, 2027 and rank pari passu with all our 
+other debt and future indebtedness and, effective December 23, 2022, a £20.0 uncommitted unsecured multicurrency 
+credit facility that is repayable on demand.
+
+For the syndicated credit facilities and senior unsecured notes, we are required to comply with various covenants. 
+The key financial covenants include, but are not limited to, ratios that measure our debt relative to our profitability (as 
+defined by the credit facilities agreement). 
+
+At December 31, 2022, $231.8 million was available in our credit facilities for future activities and we were in 
+compliance with the covenants related to our syndicated credit facilities and senior unsecured notes as at and 
+throughout the year ended December 31, 2022.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-23
+
+Stantec Inc.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shareholders’ Equity
+Shareholders’ equity increased $284.3 million. The increase in shareholders’ equity was mainly due to net income of 
+$247.0 million earned in 2022, $18.0 million in share options exercised for cash, and comprehensive income of 
+$165.3 million, including remeasurement gains on our net employee defined benefit obligations of $35.5 million and 
+foreign exchange differences on translation of our foreign subsidiaries of $126.8 million. These increases were partly 
+offset by $65.3 million in shares repurchased under our NCIB and $79.9 million in dividends declared.
+
+Our NCIB on the TSX was renewed on November 14, 2022, enabling us to repurchase up to 5,538,309 of our 
+common shares during the period of November 16, 2022 to November 15, 2023. We also have an Automatic Share 
+Purchase Plan with a broker that allows the purchase of common shares for cancellation under the NCIB at any time 
+during predetermined trading blackout periods within certain pre-established parameters.
+
+We believe that, from time to time, the market price of our common shares does not fully reflect the value of our 
+business or future business prospects and that, at such times, the repurchase of outstanding common shares are an 
+appropriate use of available Company funds. We repurchased 1,085,676 common shares for an aggregate price of 
+$65.3 million during 2022, compared to the repurchase of 939,482 common shares for an aggregate price of 
+$50.7 million during 2021.
+
+Other
+
+Outstanding Share Data
+At December 31, 2022, there were 110,809,020 common shares and 281,061 share options outstanding. From 
+January 1, 2023, to February 22, 2023, 58,994 share options were exercised, 2,000 share options were forfeited, and 
+no share options were granted. At February 22, 2023, there were 110,868,014 common shares and 220,067 share 
+options outstanding.
+
+Contractual Obligations
+As part of our operations, we enter into long-term contractual arrangements from time to time. The following table 
+summarizes the contractual obligations due on our long-term debt, lease arrangements, purchase and service 
+obligations, and other obligations at December 31, 2022, on an undiscounted basis.
+
+(In millions of Canadian dollars)
+
+Debt
+
+Interest on debt
+
+Bank indebtedness
+
+Lease liabilities
+
+Restoration
+
+Variable lease payments and other lease 
+
+obligations
+
+Purchase and service obligations
+
+Other obligations
+
+Payment Due by Period
+
+Less than
+1 Year
+
+1–3 Years
+
+4–5 Years
+
+54.0   
+
+58.0   
+
+65.4   
+
+192.1   
+
+995.2   
+
+113.3   
+
+—   
+
+89.7   
+
+—   
+
+Total
+
+1,241.3   
+
+261.0   
+
+65.4   
+
+After
+5 Years
+
+— 
+
+— 
+
+— 
+
+708.0   
+
+118.7   
+
+240.1   
+
+159.3   
+
+189.9 
+
+18.3   
+
+3.0   
+
+6.8   
+
+2.4   
+
+292.1   
+
+48.6   
+
+83.5   
+
+60.3   
+
+80.3   
+
+113.5   
+
+40.8   
+
+46.6   
+
+34.6   
+
+40.9   
+
+4.9   
+
+1.3   
+
+6.1 
+
+99.7 
+
+— 
+
+24.7 
+
+Total contractual obligations
+
+2,779.9   
+
+435.1   
+
+711.3   
+
+1,313.1   
+
+320.4 
+
+For further information regarding the nature and repayment terms of our long-term debt, refer to the Cash Flows and 
+Capital Management sections of this MD&A and notes 16 and 25 in our 2022 audited consolidated financial 
+statements, incorporated by reference.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-24
+
+Stantec Inc.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our lease arrangements include non-cancellable rental payments for office space, vehicles, and other equipment. 
+Purchase and service obligations include enforceable and legally binding agreements to purchase future goods and 
+services. Other obligations include amounts payable for our restricted share, deferred share, and performance share 
+units issued under our Long-Term Incentive Plan and obligations for our end of employment benefit plans. Failure to 
+meet the terms of our lease payment commitments may constitute a default, potentially resulting in a lease 
+termination payment, accelerated payments, or a penalty as detailed in each lease agreement. The above table does 
+not include obligations to fund defined benefit pension plans, although we make regular contributions. Funding levels 
+are monitored regularly and reset with triennial funding valuations performed for the pension plans’ board of trustees; 
+the most recent were completed as at March 31, 2021. The Company expects to contribute approximately $21 million 
+to the pension plans in 2023.
+
+Off-Balance Sheet Arrangements
+We have an additional separate letter of credit facility outside of our revolving credit facility that provides letters of 
+credit up to $100.0 million. As at December 31, 2022, we had off-balance sheet financial arrangements relating to 
+letters of credit under our revolving credit facility of $2.6 million and $66.9 million in aggregate letters of credit outside 
+of our revolving credit facility. The letters of credit expire at various dates before January 2024, except for 
+$12.3 million that have open-ended terms. These—including the guarantees of certain office rental obligations—were 
+issued in the normal course of operations.
+
+Also, in the normal course of operations, our surety facilities allow for the issuance of bonds for certain types of 
+project work. These bonds are intended to provide owners with financial security regarding the completion of their 
+project in the event of default. At December 31, 2022, bonds issued under our surety facilities included $27.1 million 
+in bonds for Construction Services (discontinued operations sold in 2018) expiring on completion of the associated 
+projects. The estimated completion dates of these projects are before March 2024. Although we remain obligated for 
+these instruments, the purchaser of the Construction Services business has indemnified Stantec should any of these 
+obligations be triggered. We also have $18.8 million in bonds for our continuing operations expiring on completion of 
+the associated projects. The estimated completion dates of these projects are before August 2029.
+
+In the normal course of business, we also provide indemnifications and, in limited circumstances, surety bonds and 
+guarantees. These are granted on commercially reasonable contractual terms and are provided to counterparties in 
+transactions such as purchase and sale contracts for assets or shares, service agreements, and leasing transactions. 
+We also indemnify our directors and officers against any and all claims or losses reasonably incurred in the 
+performance of their service to Stantec to the extent permitted by law. These indemnifications may require us to 
+compensate the counterparty for costs incurred through various events. The terms of these indemnifications and 
+guarantees will vary based on the contract, the nature of which prevents us from making a reasonable estimate of the 
+maximum potential amount that could be required to pay counterparties. Historically, we have not made any 
+significant payments under such indemnifications or guarantees, and no amounts have been accrued in our 
+consolidated financial statements with respect to these guarantees. 
+
+Financial Instruments and Market Risk
+We continue to hold an interest rate swap to manage the fluctuation in floating interest rates on tranche C of our term 
+loan. The agreement matures on June 27, 2023 and has the effect of converting the variable interest rate associated 
+with $160 million of our term loan into a fixed interest rate of 2.295% plus an applicable basis points spread.
+
+We also continue to hold total return swap (TRS) agreements with financial institutions to manage a portion of our 
+exposure to changes in the fair value of our shares for certain cash-settled share-based payment obligations. The 
+TRS agreements fix the impact that our share price has on the payments required to settle the obligations for 
+restricted share units (RSUs) and deferred share units (DSUs).
+
+We had also entered into foreign currency forward contracts to manage the variability of foreign currency exchange 
+rates of certain currencies. The fair value of these contracts, estimated using market rates as at December 31, 2022, 
+resulted in a net unrealized gain of $0.1 million. The notional amount of contracts held to purchase or sell primarily 
+includes US$110.6 million for CAD$149.9 million and AUD$56.4 million for CAD$51.6 million.
+
+These arrangements are further described in note 24 of our 2022 audited consolidated financial statements, 
+incorporated by reference.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-25
+
+Stantec Inc.
+
+Market risk
+We are exposed to various market factors that can affect our performance, primarily our currency and interest rates. 
+At this time, there is some degree of uncertainty regarding the impact that the COVID-19 pandemic, conflict in 
+Ukraine, and the transition to higher inflationary environments will have on credit and price risk, but we have not seen 
+a significant increase in our risk exposure to date. Management is closely monitoring the impacts on our risk 
+exposure and will adjust our risk management approach as necessary.
+
+Credit risk
+Our credit risk is highly diversified across clients, industries and geographies and our customers are primarily public 
+sector entities and high-quality private clients. We limit our exposure to credit risk by placing our cash and cash 
+equivalents in short-term deposits in—and, when appropriate, by entering into derivative agreements with—high-
+quality credit institutions. Investments held for self-insured liabilities include bonds, equities, and term deposits. We 
+mitigate risk associated with these bonds, equities, and term deposits through the overall quality and mix of our 
+investment portfolio.
+
+Currency
+Our currency exchange rate risk results primarily from the following three factors:
+
+1.
+
+2.
+
+3.
+
+A significant portion of our revenue and expenses are in foreign currencies, primarily in US dollars, British 
+pounds, and Australian dollars. Therefore, we are exposed to fluctuations in exchange rates to the extent 
+that
+
+a.
+
+b.
+
+Foreign currency revenues greater than foreign currency expenses in a strengthening 
+Canadian dollar environment will result in a negative impact on our income from operations.
+
+Foreign currency revenues greater than foreign currency expenses in a weakening 
+Canadian dollar environment will result in a positive impact on our income from operations.
+
+Foreign exchange fluctuations may also arise on the translation of the balance sheet of foreign 
+subsidiaries where the functional currency is different from the Canadian dollar, and they are recorded in 
+other comprehensive income. We do not hedge for this foreign exchange translation risk.
+
+Foreign exchange gains or losses arise on the translation of foreign-denominated assets and liabilities 
+(such as accounts receivable, accounts payable and accrued liabilities, and long-term debt) held in our 
+Canadian, US, and other foreign subsidiaries. We minimize our exposure to foreign exchange fluctuations 
+on these items by matching foreign currency assets with foreign currency liabilities and, when appropriate, 
+by entering into forward foreign currency contracts.
+
+Although we may buy or sell foreign currencies in exchange for Canadian dollars in accordance with our foreign 
+exchange risk mitigation strategy, on occasion we may have a net exposure to foreign exchange fluctuations because 
+of the timing of the recognition and relief of foreign-denominated assets and liabilities.
+
+Interest rates
+Changes in interest rates also present a risk to our performance as we are subject to interest rate cash flow risk to the 
+extent that our credit facilities and term loan are based on floating interest rates. However, this risk has been partially 
+mitigated by our interest rate swap on one of the term loans. In addition, we are subject to interest rate pricing risk to 
+the extent that our investments held for self-insured liabilities contain fixed-rate government and corporate bonds and 
+term deposits. The effect of a 1.0% increase or decrease in the interest rate on our revolving credit facility and term 
+loan balances at December 31, 2022 (with all other variables held constant) would have decreased or increased net 
+income by $5.4 million, respectively.
+
+Price risk
+We are subject to market price risk to the extent that our investments held for self-insured liabilities contain equity 
+funds. This risk is mitigated because the portfolio of equity funds is monitored regularly and is appropriately 
+diversified. For our investments held for self-insured liabilities, the effect of a 5.0% increase or decrease in equity 
+prices at December 31, 2022 (with all other variables held constant) would have increased or decreased net income 
+by $2.0 million, respectively.
+
+We are also exposed to changes in our share price arising from our cash-settled share-based payments as our 
+obligation under these arrangements is based on the price of our shares. We have entered into TRS agreements to 
+mitigate a portion of our exposure to this risk for RSUs and DSUs. For our performance share units, the effect of a 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-26
+
+Stantec Inc.
+
+10.0% increase or decrease in the price of our shares at December 31, 2022 (with all other variables held constant) 
+would have decreased or increased net income by $1.2 million, respectively.
+
+Related-Party Transactions
+We have subsidiaries that are 100% owned and are consolidated in our financial statements. We also have 
+agreements in place with several structured entities to provide various services, including architecture, engineering, 
+planning, and project management. From time to time, we enter into transactions with associated companies and 
+other entities pursuant to a joint arrangement. In 2022, total sales to our joint ventures were $69.1 million, and at 
+December 31, 2022, receivables from our joint ventures were $12.6 million. 
+
+From time to time, we guarantee the obligations of a subsidiary or structured entity for lease agreements, service 
+agreements, credit facility agreements, and obligations to a third party pursuant to an acquisition agreement. In 
+addition, we may guarantee service agreements for associated companies, joint ventures, and joint operations. 
+(Transactions with subsidiaries, structured entities, associated companies, joint ventures, and joint operations are 
+further described in note 33 of our 2022 audited consolidated financial statements and are incorporated by reference 
+in this MD&A.)
+
+Key management personnel have authority and responsibility for planning, directing, and controlling the activities of 
+our Company. Total compensation to key management personnel and directors recognized as an expense was 
+$23.6 million in 2022 and $34.8 million in 2021.
+
+Critical Accounting Estimates, Developments, and Measures
+
+Critical Accounting Estimates
+The preparation of consolidated financial statements in accordance with IFRS requires us to make various judgments, 
+estimates, and assumptions. Note 5 of our December 31, 2022, audited consolidated financial statements outlines 
+our significant accounting estimates and is incorporated by reference in this MD&A.
+
+The accounting estimates discussed in our consolidated financial statements are considered particularly important 
+because they require the most difficult, subjective, and complex management judgments. Accounting estimates are 
+done for the following:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Revenue and cost recognition on contracts
+
+Assessment of impairment of non-financial assets
+
+Fair values on business combinations
+
+Leases
+
+Provision for self-insured liabilities and claims
+
+Employee benefit plans, and
+
+Taxes
+
+The COVID-19 pandemic has had adverse financial impacts on the global economy and financial markets. The war in 
+Ukraine and the transition to higher inflationary environments have also contributed to increased global economic and 
+financial volatility; however, there has been no significant impact on our results. We continue to monitor these impacts 
+on our financial operations and financial position. Uncertainties inherent in making assumptions and estimates 
+regarding unknown future outcomes may result in significant differences between estimates and actual results. We 
+believe that each of our assumptions and estimates is appropriate to the circumstances and represents the most 
+likely future outcomes.
+
+Unless otherwise specified in our discussion of specific critical accounting estimates, we expect no material changes 
+in overall financial performance and financial statement line items to arise, either from reasonably likely changes in 
+material assumptions underlying an estimate or within a valid range of estimates from which the recorded estimate 
+was selected. In addition, we are not aware of trends, commitments, events, or uncertainties that can reasonably be 
+expected to materially affect the methodology or assumptions associated with our critical accounting estimates, 
+subject to items identified in the Risk Factors, Outlook, and Cautionary Note Regarding Forward-Looking Statements 
+sections of this MD&A.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-27
+
+Stantec Inc.
+
+Accounting Developments
+Recently Adopted
+In May 2020, the IASB issued Onerous Contracts — Cost of Fulfilling a Contract (Amendments to IAS 37). The 
+amendments clarify that both incremental costs and an allocation of other costs that relate directly to fulfilling the
+contract should be included in assessing whether a contract is onerous. The amendments were effective January 1, 
+2022 and did not have a material impact on our consolidated financial statements.
+
+Future Adoptions
+The list below includes issued standards, amendments, and interpretations that we reasonably expect to be 
+applicable at a future date and intend to adopt when they become effective. We are currently assessing the impact of 
+adopting these standards, amendments, and interpretations on our consolidated financial statements and cannot 
+reasonably estimate the effect at this time.
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Classification of Liabilities as Current or Non-current (Amendments to IAS 1)
+
+Non-current Liabilities with Covenants (Amendments to IAS 1)
+
+Definition of Accounting Estimates (Amendments to IAS 8)
+
+Disclosure of Accounting Policies (Amendments to IAS 1 and IFRS Practice Statement 2)
+
+Deferred Tax related to Assets and Liabilities arising from a Single Transaction (Amendments to IAS 12)
+
+Lease Liability in a Sale and Leaseback (Amendments to IFRS 16)
+
+These standards, amendments, and interpretations are described in note 6 of our December 31, 2022, audited 
+consolidated financial statements and are incorporated by reference in this MD&A.
+
+Materiality
+We determine whether information is material based on whether we believe that a reasonable investor’s decision to 
+buy, sell, or hold securities in our Company would likely be influenced or changed if the information was omitted, 
+obscured, or misstated.
+
+Definitions of Non-IFRS and Other Financial Measures
+This Management’s Discussion and Analysis includes references to and uses terms that are not specifically defined in 
+IFRS and do not have any standardized meaning prescribed by IFRS. These measures and terms are defined below. 
+These non-IFRS and other financial measures may not be comparable to similar measures presented by other 
+companies. We believe that the measures defined here are useful for providing investors with additional information 
+to assist them in understanding components of our financial results.
+
+Non-IFRS Financial Measures and Ratios
+
+Adjusted Measures
+We use several adjusted financial measures because we believe they are useful for providing securities analysts, 
+investors, and other interested parties with additional information to assist them in understanding components of our 
+financial results (including a more complete understanding of factors and trends affecting our operating performance). 
+These adjusted measures also provide supplemental measures of operating performance and improve comparability 
+of operating results from one period to another, thus highlighting trends that may not otherwise be apparent when 
+relying solely on IFRS financial measures. Unless otherwise noted, a reconciliation of these adjusted measures to the 
+most directly comparable IFRS measure is included on page M-8.
+
+Adjusted EBITDA represents net income from continuing operations before interest expense, income taxes, 
+depreciation of property and equipment, depreciation of lease assets, amortization of intangible assets, impairment 
+charges and reversals thereof, acquisition, integration and restructuring costs, and other adjustments for other 
+specific items that are significant but are not reflective of our underlying operations. Specific items are subjective; 
+however, we use our judgement and informed decision-making when identifying items to be excluded in calculating 
+our adjusted measures. We use adjusted EBITDA as a measure of pre-tax operating cash flow. The most comparable 
+IFRS measure for adjusted EBITDA is net income.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-28
+
+Stantec Inc.
+
+Adjusted Net Income represents net income from continuing operations excluding the amortization of intangibles 
+acquired through acquisitions, impairment charges and reversals thereof, acquisition, integration and restructuring 
+costs, and adjustments for other specific items that are significant but are not reflective of our underlying operations, 
+all on an after-tax basis. Specific items are subjective; however, we use our judgement and informed decision-making 
+when identifying items to be excluded in calculating our adjusted measures. We use adjusted net income as a 
+measure of overall profitability. The most comparable IFRS measure for adjusted net income is net income. 
+
+Adjusted Earnings Per Share (EPS) is a non-IFRS ratio calculated by dividing adjusted net income (defined above) 
+by the basic and diluted weighted average number of shares outstanding, respectively.
+
+Adjusted Return on Invested Capital (ROIC) is a non-IFRS ratio that represents our full year adjusted net income 
+(defined above) before tax-adjusted interest relative to our average aggregate net debt and adjusted shareholders’ 
+equity, determined annually. Average net debt and adjusted shareholders’ equity are calculated using balances from 
+past years. Adjusted shareholders’ equity includes the impact of adjusted net income from continuing operations (as 
+defined above). We use adjusted ROIC to evaluate annual returns generated on our debt and equity capital. There is 
+no directly comparable IFRS measure for adjusted net income before tax-adjusted interest. The most comparable 
+measure for adjusted shareholders’ equity is shareholders’ equity. A quantification of adjusted ROIC and a 
+reconciliation of its components is included in the Additional Reconciliations of Non-IFRS Financial Measures on page 
+M-30.
+
+Net Debt to Adjusted EBITDA. As part of our assessment of our capital structure, we monitor net debt to adjusted 
+EBITDA, a non-IFRS ratio. It is defined as the sum of (1) long-term debt, including current portion, and bank 
+indebtedness, less cash and deposits, divided by (2) adjusted EBITDA (as defined above). Net debt to adjusted 
+EBITDA is quantified in the Liquidity and Capital Resources section on page M-23.
+
+Free Cash Flow is used to monitor the availability of discretionary cash as part of our capital management. It is 
+defined as operating cash flows less capital expenditures and net lease payments. A reconciliation of free cash flow to 
+its most comparable IFRS measure, cash flows from operating activities as reported under IFRS, is included in the 
+Additional Reconciliations of Non-IFRS Financial Measures on page M-30.
+
+Margin. We calculate margin as a percentage of net revenue and monitor margin in comparison to our internal 
+targets. Margin is a non-IFRS ratio when applied to non-IFRS financial measures.
+
+Constant Currency Basis and Impact of Foreign Exchange. We monitor the impact of changing foreign exchange 
+rates, quantify foreign exchange impacts, and, from time to time, prepare analyses on a constant currency basis (i.e., 
+excluding the impact of foreign exchange) to better understand changes in activity. Amounts presented on a constant 
+currency basis are non-IFRS financial measures; related fractions and percentages are non-IFRS ratios. 
+
+Compound Annual Growth Rate (CAGR). CAGR is a metric we use to evaluate the growth in our business. It 
+represents the growth rate over a period of time on an annual compounded basis. CAGR is a non-IFRS ratio when 
+applied to non-IFRS financial measures.
+
+Supplementary Financial Measures
+
+Days Sales Outstanding (DSO). DSO is a metric we use to evaluate the efficiency of our working capital. It 
+represents the average number of days to convert our trade and other receivables, unbilled receivables, contract 
+assets, and deferred revenue to cash. We calculate DSO by annualizing gross revenue for the quarter as reported 
+under IFRS. 
+
+Organic Growth (Retraction) and Acquisition Growth. To evaluate our performance, we quantify the change in 
+revenue and backlog as either related to organic growth (retraction), acquisition growth, or the impact of foreign 
+exchange. Revenue and backlog earned by acquired companies in the first 12 months following an acquisition is 
+reported as growth from acquisitions and thereafter as organic growth (retraction). Organic growth (retraction) 
+excludes the impact of foreign currency fluctuations. From time to time, we also quantify the impacts of certain 
+unusual events to organic growth (retraction) to provide useful information to investors to help better understand our 
+financial results.
+
+Margin (defined above) is a supplementary financial measure when applied to IFRS measures.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-29
+
+Stantec Inc.
+
+Compound Annual Growth Rate (CAGR) (defined above) is a supplementary financial measure when applied to 
+IFRS financial measures.
+
+Current ratio is a supplementary financial measure calculated by dividing current assets by current liabilities that we 
+use in assessing overall liquidity.
+
+Working capital is a supplementary financial measure that we use as a measure for assessing overall liquidity. It is 
+calculated by subtracting current liabilities from current assets.
+
+Capital Management Measures
+
+Net debt and total capital managed are categorized as capital management measures and quantified on page M-23.
+
+Additional Reconciliations of Non-IFRS Financial Measures
+
+Free Cash Flow 
+
+(In millions of Canadian dollars)
+
+Net cash flows from operating activities
+
+Less: capital expenditures (property and equipment and intangible assets)
+
+Less: net lease payments
+
+Free cash flow (note)
+
+See the Definitions section of this MD&A for a discussion of free cash flow, a non-IFRS measure.
+
+Adjusted Return on Invested Capital
+
+(In millions of Canadian dollars, except ratios)
+
+Adjusted net income (note 1)
+
+Add back: net interest expense
+
+Deduct: income taxes on net interest expense (note 2)
+
+Adjusted net income before net interest (net of tax)
+
+Average shareholders' equity (note 3)
+
+Cumulative impact on average shareholders' equity of:
+
+Adjusted net income (note 1)
+
+Discontinued operations (note 4)
+
+Average adjusted shareholders' equity
+
+Average net debt (note 3)
+
+Average aggregate net debt and adjusted shareholders' equity 
+
+2022
+
+304.3   
+
+(74.9)   
+
+(153.7)   
+
+75.7   
+
+2022
+
+347.1 
+
+64.0 
+
+(15.4) 
+
+395.7 
+
+2021
+
+397.0 
+
+(50.6) 
+
+(128.4) 
+
+218.0 
+
+2021
+
+269.9 
+
+37.9 
+
+(9.0) 
+
+298.8 
+
+2,083.8 
+
+1,961.4 
+
+377.5 
+
+111.9 
+
+2,573.2 
+
+1,185.2 
+
+3,758.4 
+
+273.8 
+
+111.9 
+
+2,347.1 
+
+545.5 
+
+2,892.6 
+
+Adjusted ROIC (note 5)
+
+ 10.5 %
+
+ 10.3 %
+
+(1) Adjusted net income is a non-IFRS measure. See the Definitions section of this MD&A for our discussion of non-IFRS measures used and the 
+reconciliation of adjusted net income to the most comparable measure as reported under IFRS on M-8. The cumulative impact of adjusted net income 
+includes the impact on average shareholders’ equity of all historical differences between net income and adjusted net income, including $100.1 million 
+related to the year ended December 31, 2022 (2021 - $69.2 million).
+
+(2) Calculated using normalized tax rate of 24.0% in 2022 and 23.7% in 2021.
+
+(3) Average shareholder’s equity and average net debt represents the moving average of the past four quarters.
+
+(4) Cumulative impact of discontinued operations includes the impact on average shareholders’ equity of net income (loss) from discontinued 
+operations (net of tax), including $12.0 million in 2020 and ($123.9 million) in 2018.
+
+(5) Adjusted ROIC is a non-IFRS measure. See the Definitions section of this MD&A for our discussion of non-IFRS measures used, including the 
+components of the adjusted ROIC calculation.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-30
+
+Stantec Inc.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Risk Factors
+Overview
+To deliver on our vision and strategic objectives, we continually identify and manage potential Company-wide risks 
+and uncertainties facing our business. We view each risk in relation to all other risks, because the risks considered 
+and the actions taken to mitigate them may create new risks to the Company.
+
+To effectively manage risks, our Enterprise Risk Management (ERM) program
+
+• Maintains a framework to support our efforts to manage risk effectively, transparently, and consistently
+
+•
+
+•
+
+•
+
+Reviews our risk profile continuously and iteratively so risks are identified and managed as they evolve
+
+Aligns and embeds risk management into key processes like strategic planning to reduce the effect of 
+uncertainty on achieving our objectives
+
+Reports to our executives, Board of Directors, and Audit and Risk Committee (ARC) to provide assurance on 
+the effectiveness of our risk management process
+
+Board Governance and Risk Oversight
+Stantec’s Board of Directors provides strategic direction to and guidance on the ERM program and has delegated the 
+responsibility for oversight of the program to the ARC.
+
+The ARC supports the development and evolution of
+
+•
+
+•
+
+•
+
+Appropriate methods to identify, evaluate, mitigate, and report the principal risks inherent to our business 
+and strategic direction
+
+Systems, policies, and practices appropriate to address our principal risks
+
+A risk appetite appropriate for our organization
+
+In addition, the ARC monitors the Company’s cybersecurity program and countermeasures to ensure security of 
+Stantec’s information technology systems.  
+
+Board members regularly receive a comprehensive risk report and provide their feedback and recommendations. The 
+ARC receives quarterly reports on the changes in principal risks, mitigation strategies, and any emerging risks.
+
+In addition to the ARC, two other board committees have roles in risk management: 
+
+•
+
+•
+
+The Sustainability and Safety Committee provides oversight with a focus on relevant operational risk 
+exposures, and environmental, social, and governance (ESG) risks, including the Company’s climate risk 
+tolerance.
+
+The Corporate Governance and Compensation Committee (CGCC) guides the deployment of an effective 
+corporate governance system to manage the board’s composition and overall stewardship responsibility and 
+ensures that management maintains policies designed to support an effective compliance, integrity, and 
+ethics program. The CGCC also oversees Stantec’s executive compensation program and ensures that our 
+pay structure encourages profitable decisions, but not undue risk taking.
+
+Management Oversight
+The C-Suite is directly accountable to the board for all risk-taking activities and risk management practices. 
+Responsibility for risk management is shared across the organization. Risk management is also part of our day-to-
+day operations and is included in our key decision-making processes like project go/no-go decisions and strategic 
+planning.
+
+The C-Suite is supported by numerous teams—Legal; Health, Safety, Security, and Environment (HSSE); Human 
+Resources; Information Technology (IT); Finance; Corporate Sustainability; and others—that provide risk 
+management and compliance functions across the organization and work with management to design and monitor 
+appropriate risk mitigation. Our Internal Audit team provides independent assurance regarding the effectiveness and 
+efficiency of our Company-wide risk management.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-31
+
+Stantec Inc.
+
+Principal Risks and Uncertainties
+Management remains confident in our ability to achieve our long-term corporate objectives; however, consistent with 
+our peers, we are exposed to risks and uncertainties. Our risk assessment has identified our most significant risks 
+(see Risks section below). If any risks occur, individually or in combination, our business, financial condition, results of 
+operations, and prospects could be materially and adversely affected. Given our assessment and mitigation efforts, 
+we do not expect any such material adverse impacts, but we plan for them as part of our ERM processes.
+
+The risks and uncertainties described in this MD&A are not the only ones we face. Additional risks and uncertainties—
+that we are unaware of, that we currently believe are not material, or that may arise based on new developments—
+may also become important factors that adversely affect our business. In addition, the cumulative impact of multiple 
+risk factors arising is a risk.
+
+Risks
+A cybersecurity breach may cause loss of critical data, interrupt operations, and cause prejudice to our 
+clients. 
+Similar to other global companies, we rely on computers, large enterprise systems, and information and 
+communication technologies, including third-party vendor systems, to conduct our business.
+
+Stantec’s internal business practices as well as our contracts with clients require that we protect our Company’s and 
+clients’ confidential information from disclosure. In addition, we are subject to privacy and protection of personal 
+information laws in various jurisdictions. Although we devote significant resources to securing Stantec’s information 
+technology systems and have strong vetting processes for third-party systems we rely on, a breach in cybersecurity is 
+an inherently high risk, as cybersecurity incidents, data misuse, and ransomware and phishing attacks continue to 
+increase and become more sophisticated. Moreover, the risk of cybersecurity attacks has increased dramatically as a 
+result of the war in Ukraine, placing Stantec—like all other organizations—at increased risk. 
+
+If our systems are breached, we could be exposed to system interruptions, delays, loss of employee personal data 
+and confidential information, and loss of critical data that could delay or interrupt our operations. Loss of any sensitive 
+and confidential data or the unauthorized disclosure of proprietary or personal information may harm our clients, 
+employees, and others. Other possible adverse impacts include remediation and litigation costs, regulatory penalties, 
+costs associated with increased protection, lost revenues, and reputational damage leading to lost clients or projects.
+
+Failure to attract, retain, and mobilize skilled employees could harm our ability to execute our strategy. 
+There is strong competition for skilled employees in our industry and Stantec derives revenue almost exclusively from 
+services performed by our employees. The failure to attract, retain, and mobilize highly qualified staff could impede 
+our ability to compete for new projects, deliver successfully on projects, effectively execute our backlog, or maintain 
+or expand client relationships. Competition for employees may also result in compensation inflation, impacting our 
+margins and profitability. 
+
+We may experience difficulties in hiring additional employees or replacing employees with respect to roles that require 
+security clearances or other special qualifications that may be limited or difficult to obtain.
+
+With a hybrid work model emerging from the pandemic, and a large percentage of our staff working from home in 
+some capacity, our organizational culture and overall employee engagement may be affected by diminished in-person 
+interactions, which may impact employee retention. Conversely, increased flexibility may be viewed positively by our 
+employees and in turn, influence our ability to attract and retain employees. A hybrid work model reduces our carbon 
+footprint due to office space consolidation and less commuting by employees.
+
+Geopolitical events may result in additional risks to our business. 
+Geopolitical events around the world may trigger new risks or amplify existing risks. The emergence of international 
+relations tension may lead to political uncertainty, armed conflicts, terrorism, social unrest, supply chain issues, 
+currency fluctuations, market volatility, workforce disruptions, sanctions against particular individuals or entities, and 
+slowing growth forecasts, among other things. Even if Stantec does not operate in the countries experiencing 
+geopolitical tension, our business may still be impacted due to ripple effects the events may have on world economy, 
+energy markets, global trade, security, and supply chains.
+
+As a result of the ongoing war in Ukraine, many countries around the world, including the US, Canada, and the UK, 
+have implemented sanctions on conducting business with Russian and Belarusian entities and individuals. Non-
+compliance with such sanctions, or other international responses, may expose Stantec to government enforcement 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-32
+
+Stantec Inc.
+
+ 
+as well as reputational risk. Stantec does not currently have any offices, employees, or clients in Ukraine, Russia or 
+Belarus. We exercise due diligence to ensure that we do not work with any sanctioned entities or individuals and will 
+continue to do so as circumstances evolve, and to monitor any other sanctions that may be imposed due to 
+geopolitical events. 
+
+The impact of the prolonged war may also adversely influence macroeconomic conditions, increase supply chain 
+challenges, and heighten the risk of cyber threats and ransomware activity, among other things. Each of these factors 
+could disrupt our business and impact our financial performance. 
+
+Project workplaces can be dangerous. The failure to work safely on project sites could have an adverse 
+impact on Stantec’s business, reputation, financial condition, and results of operations.  
+Project sites can be dangerous due to the presence of hazardous materials and conditions, large moving equipment, 
+and vehicle traffic. With projects and office locations across the globe, our employees may be exposed to such events 
+as civil unrest, criminal activity, acts of terrorism, severe weather events, public health crises and other impacts of 
+political, social, environmental, and economic problems. 
+
+Though we invest in a strong program that is focused on the health, safety, and security of our employees and 
+controls environment-related risks, we are exposed to the risk of personal injury, loss of life, or environmental or other 
+damage to our property or the property of others. We could be subject to civil or statutory liability arising from injuries 
+or deaths or be held liable for either uninsured damages or damages higher than our insurance coverage.
+
+We may also incur additional costs on projects due to delays arising from health and safety incidents. The failure to 
+maintain a strong safety record may also result in losing client confidence and future projects.  
+
+Climate change creates both risks and opportunities for Stantec. 
+
+Legal and Regulatory Risks
+
+Transitioning to a lower-carbon economy may present risks in the form of current and new environmental and climate-
+related risk reporting regulations, laws, and policies. Current regulations applicable to Stantec include the Streamlined 
+Energy and Carbon Reporting in the UK and notable forthcoming regulations include the climate-related disclosure 
+requirements from the US Securities and Exchange Commission and the Canadian Securities Administrators. 
+Potential consequences of non-compliance with such regulations could include loss of market standing and reputation 
+as well as financial losses arising from lawsuits, fines, and penalties. Required actions to comply with new laws and 
+regulations could result in increased costs for Stantec and introduce the possibility of non-compliance. Additional 
+costs or delays due to environmental laws could also possibly prevent or delay a project from going forward.
+
+Because these same legal and regulatory risks also impact our clients, there are opportunities for Stantec to provide 
+ESG advisory services as clients look for subject matter expertise to navigate and comply with new requirements.
+
+Market and Reputational Risks
+
+Companies’ climate change and sustainability actions are increasingly being considered by investors and other 
+stakeholders. 
+
+Stantec has made ESG and climate commitments, including aligning our corporate financing strategy with our ESG 
+performance by issuing a sustainability-linked loan with emissions and equity-related key performance indicators, 
+setting a 1.5ºC, validated, near-term science-based emissions reduction target, and committing to achieving 
+operational carbon neutrality and then net zero. While we are committed to achieving these targets within stated 
+timeframes, our ability to do so is subject to uncertainties. For example, if emissions reductions are impacted by an 
+unexpected increase in travel or the activities of an acquired company and we do not meet our verified science-based 
+emissions reduction targets, we could suffer reputational damage and potentially receive a penalty on our 
+sustainability-linked loan. Stantec’s reputation and market positioning may be influenced or harmed by investors’ 
+perception of our ESG decisions, our failure to reach stated targets or achieve commitments, or if greenwashing 
+allegations are made (the practice of misrepresenting the impact of corporate sustainability actions which results in 
+misleading investors and consumers). 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-33
+
+Stantec Inc.
+
+ 
+Physical Risks
+
+The probability and unpredictability of extreme weather events may continue to increase due to climate change. While 
+Stantec provides people-based professional services and operates in primarily leased office space, the physical 
+consequences of climate change (such as increasing temperatures, rising sea levels, extreme heat, fires, floods, 
+earthquakes, hurricanes, tornadoes, droughts, and similar events) may cause damage to the buildings we occupy, 
+delay or damage to our projects, and cause staff-related impacts such as illness, health issues, or the inability to 
+travel to work or work from home. For example, many of our Environmental Services projects have a field component 
+(such as monitoring wildlife, restoring stream beds, or taking samples to support permit development), and extreme 
+weather events may limit the amount of time our employees can be in the field, resulting in project delays or loss of 
+revenue. Our business interruption risk is exacerbated by the increasing number and severity of extreme weather 
+events. Each of these factors may create financial risks for Stantec’s business or otherwise have a material adverse 
+effect on its financial position.
+
+Stantec has a robust business continuity plan, office locations across the globe, and staff are generally able to work 
+remotely, all of which minimize the impact of any regional disruptions caused by climate change events on overall 
+operations. In addition, extreme weather events can produce revenue generating opportunities since Stantec services 
+are often called on to support recovery efforts (such as flood and stormwater management, building and infrastructure 
+repairs, and emergency energy restoration) and to support new investments to build resiliency for the future.
+
+Force majeure events, including the COVID-19 pandemic, may negatively impact our ability to execute our 
+strategy, operate our business, or maintain our financial performance. 
+Stantec’s offices, IT infrastructure, project sites, and staff may be impacted by events beyond our control, such as 
+pandemics, natural disasters, extreme weather, telecommunications failures, and acts of war or terrorism.
+
+Though COVID-19 measures have eased in most countries in 2022, the future impact of a widespread health crisis, 
+such as COVID-19 or another pandemic, remain uncertain and difficult to predict, and may include impacts on the 
+global economy, including government and regulatory responses, which could vary by country and region. New 
+variants of COVID-19, lockdowns, the availability of effective treatment, and future pandemics and health crises could 
+also increase other risk factors listed here and create new risks, many of which are outside of our control and 
+knowledge, which could adversely affect the health and safety of our employees, as well as our business, financial 
+health, and results of operations.
+
+Stantec’s strong business continuity program and our diversity of geographies, business lines, and clients helps us 
+manage risk; however, a major event could impact our ability to operate and may put our employees and clients at 
+risk. 
+
+Claims and litigation against us could adversely impact our business. 
+In the ordinary course of our business, Stantec may be threatened with or named as a defendant in claims or other 
+legal proceedings. Defending a lawsuit may require financial resources and management attention, and could result 
+in fines, penalties, damages, substantial legal fees, or injunctive relief. Even if Stantec is successful in defending a 
+lawsuit, there may be reputational damage. The threat of a major loss—such as the filing of a design-defect lawsuit 
+against Stantec for damages that exceed Stantec’s professional liability insurance limits—could adversely impact our 
+business even if, after several years of protracted legal proceedings, Stantec is ultimately found not liable for the loss 
+or claim. In recent years, this risk is higher due to the increased complexity of the projects we are involved in as well 
+as increased claims in the industry and a hardening insurance market.
+
+If we are not able to source suitable acquisition targets, control acquisition-related risks, or successfully 
+manage our acquisition integration program, our business and results of operations may be adversely 
+affected. 
+A key part of Stantec’s growth strategy is through acquisitions that support our strategy of pursuing firms that bolster 
+Stantec’s presence in key business lines and geographies and drive organic growth. When sourcing acquisition 
+targets, there is strong competition among acquirers in our industry, which can put upward pressure on transaction 
+multiples. Suitable acquisition candidates may be more difficult to find, available for a shorter window of time, and 
+may be at multiples or under terms that are unfavorable.
+
+Acquisitions and integrations involve many risks and uncertainties which may adversely affect their anticipated 
+benefits, and which may ultimately have a negative impact on our business, financial condition, and results of 
+operations. The failure to effectively and timely integrate acquired companies may prevent us from achieving the key 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-34
+
+Stantec Inc.
+
+ 
+objectives of our acquisition program, including broadening our professional service offerings, market penetration, 
+profitability, and geographic presence.  
+
+Risks encountered in connection with the acquisition and integration of companies include, but are not limited to:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Significant cash expenditures, stock issuances or the incurrence or assumption of debt may be required in 
+connection with an acquisition
+
+Our ability to identify and quantify all significant risks during the due diligence process 
+
+The assumption of certain liabilities associated with an acquired business, which may be known or unknown
+
+Our ability to complete acquisitions on acceptable terms and conditions, within planned timeframes or at all
+
+The potential for decreased operating income or operating margins as a result of an acquisition, or our 
+inability to recover investments made in connection with an acquisition
+
+Stantec’s exposure to operational, information security, internal controls, and cybersecurity risks due to the 
+delay in transitioning an acquired business’ personnel, information technology and financial management 
+systems
+
+Costs incurred during the integration process, which may be significant
+
+Disruption to an acquired business in connection with integration, including key personnel, client, and other 
+relationships
+
+Disruption to cash flow resulting from the financial migration process of integrating the acquired business
+
+Any of these risks could adversely affect Stantec’s business and result in costs, delays, disruptions or other financial 
+or operational issues. 
+
+There are additional compliance requirements and risks as a government contractor. 
+Stantec provides services to government agencies, and as such, we are subject to unique contract terms and various 
+laws and regulations that are not applicable to non-government contractors. Some of these contract terms and related 
+government policies may, among other things, permit the government to terminate a contract for convenience or 
+prohibit us from equitably balancing liability. In addition, applicable laws and regulations often impose additional 
+requirements and some may control or restrict how we conduct our business. Complying with these also could require 
+additional internal controls and increase costs as well as introduce additional regulatory oversight. Moreover, 
+government scrutiny of contractors’ compliance with these laws and regulations through audits and investigations is 
+inherent in government contracting; and from time to time, we may receive inquiries, subpoenas, and similar 
+demands related to our ongoing business with government entities. The failure to comply with the terms of a 
+government contract or applicable laws, regulations and policies, or any violations stemming from an audit or 
+investigation, could result in the termination of a contract, civil or criminal liability, penalties, suspension or debarment 
+from eligibility for awards of new government contracts or option renewals, and could also potentially harm Stantec’s 
+reputation or market standing. 
+
+Stantec also performs services under contracts that are classified or subject to security restrictions. The failure to 
+manage classified contract requirements or the mishandling of classified information could harm key client interests, 
+damage Stantec’s reputation, and cause financial loss. In its performance of classified contracts, Stantec is required 
+to observe certain requirements related to its foreign ownership, control, or influence. In addition, Stantec’s 
+employees engaged on classified contracts may be required to obtain and retain security clearances. The failure to 
+observe these requirements or inability to maintain security clearances could result in Stantec losing the ability to 
+perform classified contracts.
+
+Reduced demand for Stantec’s services may impact our revenue generation, backlog, and organic growth 
+projections. 
+Demand for our services is vulnerable to economic conditions and events. As a growing global organization, we are 
+exposed to geopolitical risks and macroeconomic fluctuations. Inflation, increasing interest rates, currency 
+fluctuations, financial and commodity market volatility, and credit market disruptions may negatively affect the 
+willingness and ability of our clients to deploy capital or to obtain credit to finance their businesses on acceptable 
+terms. This may impact their ability to pay us on time or at all for our services, which, in turn, may adversely affect our 
+backlog, working capital, earnings, and cash flows.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-35
+
+Stantec Inc.
+
+  
+In an environment of reduced growth forecasts and fears of a recession, our clients may seek to reduce, change, or 
+cancel the services they purchase or demand more favorable contract terms, including lower prices. Increased 
+competition during an economic decline could force us to consider unfavorable contract terms that cause revenue 
+and margin reductions and greater liability. In addition, our project margin, which is calculated as net revenue minus 
+direct payroll costs, may be reduced by wage inflation and challenges in recovering increased labor through our 
+contract rates.
+
+Further, our “backlog”, which we define as the total value of all contracts that have been awarded less the total value 
+of work completed on these contracts as of the reporting date may be affected by unfavorable economic conditions. 
+Project delays, suspensions, cancellations, or scope adjustments in relation to work reflected in Stantec’s backlog, 
+may occur from time to time due to considerations beyond Stantec’s control. Stantec’s contracts may contain 
+provisions that allow the client to terminate the contract upon providing us with notice within a specified time. If one or 
+more significant contracts were terminated, Stantec’s reported backlog could be adversely affected. 
+
+In the event our business lines are affected by economic or societal conditions, reduced public or private sector 
+capital spend, changed demand for project types, or delayed or cancelled projects, we may have difficulty increasing 
+our market share and achieving organic growth objectives.  
+
+Failure to maintain effective operational management practices may adversely affect Stantec’s financial 
+condition and results of operations. 
+For Stantec to succeed, our internal processes—including billing and collection tools, project management, 
+subcontractor management, administrative overheads, participation in joint arrangements, and the rate at which 
+Stantec utilizes its workforce— must be managed effectively. 
+
+The following risks may result in additional costs, lower profits or project losses:  
+
+Uncollectable accounts or long collection cycles 
+
+At any time, Stantec carries a material amount of accounts receivable on its balance sheet, which is attributable to 
+numerous contracts and clients. While we perform regular reviews of accounts receivable to identify clients with 
+overdue payments and resolve issues causing any delays, there is no certainty that outstanding accounts receivable 
+will be paid on a timely basis or at all.
+
+Inefficiencies in invoicing clients or any delays experienced due to the integration of acquired businesses could 
+increase the amount of time required to convert our unbilled receivables, trade and other receivables, and contract 
+assets to cash. Delays in billing and collection of accounts receivable may impact our operating cash flows and 
+require Stantec to increase its borrowings to meet working capital requirements.
+
+Cost overruns on fixed-price contracts
+
+Our contract profile includes fee-for-service and fixed price contracts that are based on cost and scheduling estimates 
+and assumptions regarding productivity, performance, future economic conditions, and availability of experienced 
+personnel, materials, and equipment. If our estimates and assumptions are inaccurate, or if there are changes to the 
+schedule or scope of a project or to the costs of labor, equipment, and materials, then cost overruns may occur. As a 
+result, Stantec may experience reduced profits, losses under these contracts, or claims for damages arising out of the 
+Company’s failure to meet schedule or performance requirements. If cost overruns impact multiple contracts, there 
+may be an adverse effect on our financial performance.
+
+Failure to manage subcontractor performance
+
+Profitably completing some contracts depends on the satisfactory performance of subcontractors and subconsultants 
+engaged by Stantec. If these third parties do not perform to acceptable standards, or adhere to the contract schedule, 
+Stantec may need to hire others to complete the tasks, which may add costs to a contract, impact profitability, and, in 
+some situations, lead to significant losses and claims.
+
+We may be adversely impacted as a result of participation in joint arrangements
+
+As part of our business strategy, Stantec may enter joint arrangements, such as partnerships or joint ventures, where 
+control is shared with unaffiliated third parties. For certain projects, we have contractual joint and several liability with 
+these parties. In some cases, these joint arrangements may not be subject to the same internal controls (over 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-36
+
+Stantec Inc.
+
+financial reporting and otherwise) that we follow. Failure by a joint-arrangement partner to comply with rules, 
+regulations, and client requirements may adversely impact Stantec’s reputation, business, and financial condition. We 
+attempt to mitigate these risks with mutual indemnification agreements among joint venture participants making each 
+party liable for damages arising from their own performance.
+
+New or changing policies, regulations, standards, and laws, or new exposures to existing laws, could 
+adversely affect our business operations and results.
+Stantec’s business model includes a range of business operating units and jurisdictions, each jurisdiction with its own 
+rules and regulations. As we continue to grow geographically, complying with additional laws, regulations and 
+standards could materially increase our costs; non-compliance could have a significant impact on our reputation and 
+results. Similarly, as our business grows and diversifies, we may be required to comply with new policies, laws or 
+regulations, non-compliance with which may increase our costs or impact our reputation and results.
+
+Relaxed or repealed laws and regulations could also impact the demand for our services.
+
+Compliance with information security standards, such as those imposed by the US Department of Commerce’s 
+National Institute of Standards and Technology 800-171, Defense Federal Acquisition Regulations, Systems and 
+Organization Controls (SOC) 2, and ISO 27001 are increasingly common requirements to bid on projects as required 
+by clients and regulatory compliance frameworks. Inability to meet those requirements would limit our ability to pursue 
+business opportunities.
+
+New trade barriers, changes in duties or border taxes, and changes in laws, policies, or regulations governing the 
+industries and sectors we work in could mean a decreased demand for our services or cost increases. Such changes 
+cannot be predicted, nor can we predict their impact on our business and clients.
+
+A failure in our IT infrastructure could lead to system interruption and loss of critical data, adversely 
+affecting our operating results. 
+To sustain business operations and remain competitive, we rely heavily on our core and regional networks, complex 
+server infrastructure and operating systems, communications and collaboration technology, design software, and 
+business applications. A failure in our IT infrastructure could lead to system interruption, loss of critical data, and may 
+adversely affect our business operations and operating results. Further, we must continually upgrade our applications, 
+systems, and network infrastructure, ensure that we have an IT leadership team that is well versed in managing IT 
+risks, and train key staff; otherwise, service delivery and revenues could be interrupted. 
+
+Currency and interest rate fluctuations, inflation, financial market volatility, or credit market disruptions may 
+limit our access to capital. 
+Several capital market risks could affect our business including currency risk, inflation, interest rate risk, credit risk, 
+market price risk, and availability of capital. 
+
+Although we report our financial results in Canadian dollars, the greater portion of our revenues and expenses is 
+generated or incurred in non-Canadian dollars (primarily US dollars, British pounds, and Australian dollars). 
+Fluctuations in exchange rates between the Canadian dollar and the currencies of jurisdictions where we conduct 
+business may impact our financial results.
+
+Some of our credit facilities carry a floating rate of interest; and as a result, our interest costs have been impacted by 
+recent increases to interest rates. Our interest rate swap agreement related to a tranche of the term loan reduced our 
+exposure to floating rates. We are also subject to interest rate pricing risk and market price risk to the extent that our 
+investments held for self-insured liabilities contain fixed-rate government and corporate bonds and equity funds, 
+respectively. We are also exposed to changes in our share price arising from our cash-settled share-based payments, 
+as our obligation under these arrangements is based on the price of our shares. Our expansion plans may be 
+restricted without continued access to debt or equity capital on acceptable terms. These factors may negatively affect 
+our competitiveness and results of operations. Further details on our market risks are included in the Financial 
+Instruments and Market Risks section of our MD&A.
+
+As well, these market fluctuations may negatively affect the ability of our clients to deploy capital or to obtain credit to 
+finance their businesses on acceptable terms, which will impact their demand for our services and our clients’ ability 
+to pay for our services. 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-37
+
+Stantec Inc.
+
+Deficiencies in internal controls over financial reporting may adversely affect Stantec's financial conditions 
+and results of operations.
+A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance 
+with respect to the reliability of our financial reporting and preparation of our financial statements. Any deficiencies in 
+our internal controls over financial reporting and disclosure controls and procedures could result in a material 
+misstatement in our annual or interim financial statements that may not be prevented or detected on a timely basis. A 
+discovery of a control deficiency or a combination of deficiencies that results in a material weakness will result in 
+management and our independent auditors reporting a material weakness in their report on internal controls over 
+financial reporting. 
+
+If we do not maintain adequate financial and management personnel, processes, and controls, we may not be able to 
+accurately report our financial performance on a timely basis, which could cause a decline in our share price and 
+harm our ability to raise capital. Failure to accurately report our financial performance on a timely basis could also 
+jeopardize our continued listing on the Toronto Stock Exchange (TSX), the New York Stock Exchange (NYSE) or any 
+other exchange on which our common shares may be listed.
+
+Stantec operates in a highly competitive industry. 
+Our professional services cover all phases of the project life cycle: planning, design, construction administration, 
+commissioning, operations and maintenance, decommissioning, and remediation. In all these areas, we compete with 
+other large multinational professional services firms, as well as diversified (contracting/consulting) firms through to 
+local, smaller, and specialist providers. Given the expanding demand for the services we provide, additional 
+competitors will likely emerge. Our inability to effectively compete may impact our ability to win projects and could 
+result in reduced revenue, profitability, and market share.
+
+On any given project, the type and number of competitors vary and are dependent on factors including scale of 
+project, geographic location, end-markets/sectors, commercial and contractual terms and risks, technical 
+qualifications and expertise, client-led restrictions, as well as a competitor’s financial and marketing resources, risk 
+appetite, reputation, experience, and safety record. Our competitors may also enter into teaming agreements or other 
+relationships among themselves or with third parties to increase their competitive advantage and their ability to 
+respond to clients’ needs and requirements. Further, there is a risk that the rapid speed of innovation and 
+technological and other developments within our industry may outpace our ability to compete and/or manage the risk 
+appropriately without making significant changes to our business model. Our failure to innovate and leverage 
+technology and other advancements may impact our ability to retain existing clients or attract new clients. 
+
+Unavailability of third-party insurance coverage would increase our overall risk exposure as well as disrupt 
+the management of our business operations.  
+We maintain insurance coverage (including project-specific professional liability insurance) with third-party insurers as 
+part of our overall risk management strategy and because some of our contracts require us to maintain specific 
+insurance coverage limits. If any of our third-party insurers fail, choose to exit an insurance market, or otherwise are 
+unable to provide us with adequate insurance coverage at commercially reasonable rates, then our overall risk 
+exposure and our operational expenses would increase, and the management of our business operations would be 
+disrupted. In addition, there can be no assurance that any of our existing insurance coverage will be renewable upon 
+the expiration of the coverage period, or that future coverage will be affordable at the required limits.
+
+We could be adversely affected by violations of the US Foreign Corrupt Practices Act and similar worldwide 
+anti-corruption laws. 
+The US’s Foreign Corrupt Practices Act, the UK’s Bribery Act, Canada’s Corruption of Foreign Public Officials Act, 
+and similar worldwide anti-corruption laws generally prohibit companies and their intermediaries from making 
+improper payments to officials for obtaining or retaining business. Stantec operates in many parts of the world that 
+have experienced government corruption. In certain circumstances, strict compliance with anti-corruption laws may 
+conflict with local customs and practices. 
+
+We train employees to strictly comply with anti-bribery laws, and our policies prohibit employees from offering or 
+accepting bribes. We have built processes to advise our partners, subconsultants, suppliers, and agents who work 
+with us or work on our behalf that they must comply with anti-corruption laws. 
+
+Despite Stantec’s policies, training, and compliance programs, we cannot provide assurance that our internal 
+controls, policies and procedures will always protect us from inadvertent, reckless, or criminal acts committed by 
+employees or others. Violations or allegations of violations could disrupt our business and materially adversely affect 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-38
+
+Stantec Inc.
+
+our operating results or financial condition. Litigation or investigations relating to alleged violations could be costly and 
+distracting for management, even if we are ultimately found not to have engaged in misconduct.
+
+Impairment of long-lived assets or restructuring activities may require us to record a significant charge to 
+earnings.
+Our long-lived assets, including our goodwill, leased assets, intangible assets, and others, are subject to periodic 
+testing for impairment. Changes in our business environment, scope of business operations and office rationalizations 
+could result in restructuring and/or asset impairment charges. 
+
+Failure to adequately tax plan could significantly impair Stantec’s overall capital efficiency.
+Continuous reform to various global and country-specific tax laws are a risk for our organization. Recent changes 
+include the Two-Pillar solution introduced by the Organisation for Economic Co-operation and Development to 
+address tax challenges arising from the digitalization of the economy, a corporate minimum tax rate introduced in the 
+US Inflation Reduction Act, and stricter capitalization rules that could limit interest deductions. Such changes could 
+have a material impact on our effective tax rate and the results of our operations. 
+
+Management uses accounting and fiscal principles to determine income tax positions, however, ultimate tax 
+determinations by applicable tax authorities may vary from our estimates with material impacts on our net income or 
+cash flows.
+
+In some jurisdictions, Stantec has defined benefit pension plans whose net surplus or deficit position may 
+fluctuate. Plan deficit positions could develop or grow in the future, resulting in higher cash contribution 
+requirements.
+Stantec has foreign defined benefit pension plans for certain employees. In the future, our pension deficits or surplus 
+may increase or decrease depending on changes in interest rate levels, pension plan performance, inflation and 
+mortality rates, and other factors. If we are forced or elect to make up all or a portion of the deficit for unfunded benefit 
+plans over a short time, our cash flow could be materially adversely affected. To partly mitigate the volatility risk of our 
+pension deficit positions, certain of our pension plans include bulk annuity and guaranteed annuity policies which 
+match future cash flows from the annuity policies to the timing of future payments required under those plans. 
+
+Managing Our Risks
+Global Operations
+We manage our business through a combination of centralized and decentralized controls that address the unique 
+aspects of the various markets, cultures, and geographies we operate in. 
+
+Our approach to integrating acquired companies involves implementing company-wide information technology and 
+financial management systems and providing support services from corporate and regional offices. 
+
+Business Model 
+Our business model—based on geography, business operating unit specialization, and life-cycle diversification—
+reduces our dependency on any particular industry or economic driver. We intend to continue diversifying our 
+geographic presence and service offerings and focusing on key client sectors. We believe this will reduce our 
+susceptibility to industry-specific and regional economic cycles and will help us take advantage of economies of scale 
+in the highly fragmented professional services industry.
+
+We believe that we are well positioned to compete in our markets due to our client-centric framework and ability to 
+distinguish ourselves from our peers through our sustainability, innovation, inclusion and diversity, and operational 
+efficiency actions. Our client-focused approach, knowledge, and successful delivery often leads to us being awarded 
+repeat work from clients, including on a sole-source basis. In addition, our successful track record of acquiring and 
+integrating firms also provides us with a competitive advantage, along with management and technical expertise, 
+effective service delivery, and a robust innovation program.  
+
+We also differentiate our business from competitors by entering both large and small contracts with varying fee 
+amounts. We work on tens of thousands of projects for thousands of clients in hundreds of locations. Our broad 
+project mix strengthens our brand identity and ensures that we do not rely on only a few large projects for our 
+revenue. We expect to continue to pursue selective acquisitions, enabling us to enhance our market penetration and 
+to increase and diversify our revenue base. 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-39
+
+Stantec Inc.
+
+ 
+Effective Processes and Systems
+Our Global Management System (GMS) provides a disciplined and accountable framework for managing risks, 
+quality outcomes, and occupational health and safety and environmental compliance. Stantec’s operations (except for 
+recent acquisitions) are certified to, or are following the requirements of, the following internationally recognized 
+consensus ISO standards:
+
+ISO 9001:2015 (Quality Management)
+ISO 14001:2015 (Environmental Management) 
+ISO 45001:2018 (Occupational Health & Safety Management)
+ISO/IEC 20000-1:2018 (IT Service Management)
+ISO/IEC 27001:2013 (Information Security Management)
+
+Stantec has achieved global ISO certification across the vast majority of its operations and geographies for the 
+Quality Management, Environmental Management, Occupational Health and Safety Management and Information 
+Security Management standards, moving away from the previous country-specific certifications.
+
+Throughout our organization, we use a Project Management (PM) Framework that confirms and clarifies the 
+expectations Stantec has of its project managers and project teams. It includes the critical tasks that affect both the 
+management of risks and achievement of quality on typical projects. 
+
+Our internal practice audit process enables us to assess the compliance of operations with the requirements of our 
+GMS. This ensures that all offices and labs are audited at least once over the three-year term of our ISO 9001, ISO 
+14001, and ISO 45001 registrations. Additionally, field-level assessments are conducted for construction-related 
+projects. We have a formal improvement process to encourage suggestions for improvement, address 
+nonconformances, promote root-cause analysis, and document follow-up actions and responsibilities. 
+
+Our largest and most complex projects are supported by Major Project teams, which provide specialized program and 
+project management services within each of our Business Operating Units. 
+
+Our comprehensive IT security (cybersecurity) program is designed to predict, prevent, detect, and respond. Key 
+initiatives include detailed security and acceptable use policies, practices, and procedures; awareness campaigns for 
+staff (including mandatory cybersecurity training); and a range of security initiatives for enforcing security standards, 
+including regular penetration tests. Our integrated Security Incident Response team is linked to our Crisis 
+Communication Plan to ensure that breach response protocols are aligned with our overall corporate crisis response 
+plans.
+
+We invest resources in our Risk Management team. Team members provide company-wide support and guidance on 
+risk avoidance practices and procedures. Structured risk assessments are conducted before we begin pursuing 
+projects with heightened or unique risk factors. 
+
+Insurance
+Our policies include but are not limited to the following types of insurance: general liability; automobile liability and 
+physical damage’ workers’ compensation and employer’s liability; directors’ and officers’ liability; professional, 
+pollution, and cyber liability; fiduciary, and crime. We have regulated/licensed captive insurance companies to fund 
+the payment of professional liability self-insured retentions related to claims as well as specific types of insurance 
+policies such as employment practices and medical stop loss. We or our clients obtain project-specific professional 
+liability insurance when required or as needed on large and or complex projects. 
+
+Growth Management
+We have an acquisition and integration program managed by a dedicated acquisition team to minimize the risks 
+associated with integrating acquired companies. A senior regional or business leader is appointed for each 
+acquisition. The team is responsible for:
+
+•
+•
+•
+•
+
+Identifying and valuing acquisition candidates
+Undertaking and coordinating due diligence
+Negotiating and closing transactions
+Integrating employees and leadership structures (immediately) and systems (as soon as practical following 
+an acquisition) 
+
+To manage risks associated with the integration process, we assign accountability for acquisition integration to the 
+Corporate Development Mergers and Acquisitions team which has developed, through continuous learning and 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-40
+
+Stantec Inc.
+
+experience, a comprehensive approach that addresses every step of integrating an acquired business into Stantec. 
+During the COVID-19 pandemic, our acquisition integration program encountered challenges due to the limited ability 
+to travel and meet in person; however, we were able to refine and improve our integration processes by implementing 
+a hybrid model of on-site and remote work, which reduces administrative costs and is adaptable to changing travel 
+restrictions or other rules.
+
+Capital Liquidity
+We meet our capital liquidity needs and fund our acquisition strategy through various sources, including cash 
+generated from operations, short- and long-term borrowing from our syndicated senior credit facilities ($800 million 
+revolving credit facility, $310 million term loan, and access to additional funds of $600 million), $300 million in senior 
+unsecured notes, our £20 million uncommitted unsecured multicurrency credit facility, and the issuance of common 
+shares.
+
+Controls and Procedures
+Disclosure controls and procedures are designed to ensure that information we are required to disclose in reports 
+filed with securities regulatory agencies is recorded, processed, summarized, and reported on a timely basis and is 
+accumulated and communicated to management—including our CEO and CFO, as appropriate—to allow timely 
+decisions regarding required disclosure.
+
+Under the supervision and with the participation of management, including our CEO and CFO, we carried out an 
+evaluation of the effectiveness of our disclosure controls and procedures (as defined in rules adopted by the 
+Securities and Exchange Commission (SEC) in the United States and as defined in Canada by National 
+Instrument 52-109, Certification of Disclosure in Issuer’s Annual and Interim Filings). Based on this
+evaluation, our CEO and CFO concluded that the design and operation of our disclosure controls and procedures
+were effective as of December 31, 2022.
+
+As permitted by published guidance of the SEC in the United States, management’s evaluation of and conclusions on 
+the effectiveness of internal control over financial reporting did not include the internal controls of the businesses 
+acquired of Barton Willmore LLP and Barton Willmore Holdings Limited (collectively Barton Willmore) and L2, Inc., 
+Partridge Architects, Inc., and L2Partridge, LLC (collectively L2P). These financial results are included in the 
+Company’s 2022 audited consolidated financial statements because these entities were acquired by the Company 
+through business combinations during 2022. The aggregate assets of these entities represent 0.5% of the Company’s 
+total assets as at December 31, 2022, and the aggregate liabilities represent 0.3% of the Company's total liabilities as 
+at December 31, 2022. The aggregate gross revenue earned from the date of acquisition to December 31, 2022, 
+represents 0.8% of the Company's gross revenue for the year ended December 31, 2022. 
+
+Internal control over financial reporting is a process designed to provide reasonable assurance regarding the 
+reliability of financial reporting and preparation of financial statements for external purposes in accordance with IFRS. 
+A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance 
+with respect to the reliability of our financial reporting and preparation of our financial statements. Accordingly, 
+management, including our CEO and CFO, does not expect that our internal control over financial reporting will 
+prevent or detect all errors and all fraud. 
+
+Management’s Annual Report on Internal Control over Financial Reporting and the Independent Auditors’ Report on 
+Internal Controls accompanies our 2022 audited consolidated financial statements.
+
+There has been no change in our internal control over financial reporting during the year ended December 31, 2022, 
+that materially affected or is reasonably likely to materially affect our internal control over financial reporting. 
+
+We will continue to periodically review our disclosure controls and procedures and internal control over financial 
+reporting and may make modifications from time to time as considered necessary or desirable.
+
+Subsequent Event
+Dividends
+On February 22, 2023, our Board of Directors declared a dividend of $0.195 per share, payable on April 17, 2023, to 
+shareholders of record on March 31, 2023.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-41
+
+Stantec Inc.
+
+Cautionary Note Regarding Forward-Looking Statements
+Our public communications often include written or verbal forward-looking statements within the meaning of the US 
+Private Securities Litigation Reform Act and Canadian securities laws. Forward-looking statements are disclosures 
+regarding possible events, conditions, or results of operations that are based on assumptions about future economic 
+conditions or courses of action and include financial outlook or future-oriented financial information. Any financial 
+outlook or future-oriented financial information in this Management’s Discussion and Analysis has been approved by 
+management of Stantec. Such financial outlook or future-oriented financial information is provided for the purpose of 
+providing information about management’s current expectations and plans relating to the future.
+
+Forward-looking statements may involve but are not limited to comments with respect to our objectives for 2023 and 
+beyond, our strategies or future actions, our targets, our expectations for our financial condition or share price, or the 
+results of or outlook for our operations. Statements of this type may be contained in filings with securities regulators 
+or in other communications and are contained in this MD&A. Forward-looking statements in this MD&A include but 
+are not limited to the following:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Our expectation to achieve our four key financial targets by the end of 2023 as set out in the Strategic 
+Plan section of this MD&A;
+
+Our pledge to achieve carbon neutrality and net zero commitments;
+
+Our expectation to achieve a 30% reduction in Stantec's real estate footprint relative to 2019 by the end 
+of 2023;
+
+Our belief that we are well positioned to address opportunities arising from the US federal funding, 
+commitments by Canada made on climate change and the need for environmental services and energy 
+transition, growth in the water asset programs in UK, Australia, and New Zealand, and infrastructure 
+supported by the European CHIPS Act and Australian Infrastructure Investment Program;   
+
+Our expectation that we will capitalize on strong economic tailwinds to further drive our organic growth 
+and our balance sheet strength and pipeline of potential opportunities will position us well for ongoing 
+M&A growth;
+
+Our continued focus on operational excellence will deliver margins and earnings growth in 2023 and 
+beyond;
+
+Our expectations in our Outlook section to address our Strategic Plan: 
+
+◦
+
+◦
+
+◦
+
+Our outlook for 2023 and beyond is very positive and our long-term net revenue CAGR target 
+remains at greater than 10%, although the effects of the pandemic during the first two years of 
+our plan may affect our ability to achieve this target by the end of 2023;
+
+Our expectation to achieve our adjusted EBITDA margin target of 16% to 17% in 2023 and our 
+adjusted diluted earnings per share CAGR of greater than 11%. We further expect to outperform 
+our adjusted return on invested capital of greater than 10%, raising that target to greater than 
+10.5% for 2023; 
+
+Our belief that we are well positioned to capitalize on the opportunities being created by public 
+sector stimulus and growing demand for sustainable solutions in infrastructure renewal and 
+resiliency in responding to climate change drivers, as well as drivers for re-shoring production 
+and supply chain resilience and security;
+
+•
+
+Our expectations in our Outlook section to address our targets and expectations for 2023: 
+
+◦
+
+◦
+
+◦
+
+◦
+
+Net revenue growth will increase 7% to 11%, with net revenue organic growth in the mid- to 
+high-single digits;
+
+Organic growth in the US is expected to be in the high single digits to low double digits, with 
+growth expected to be slower in the first half of the year and to accelerate in the second half of 
+the year;
+
+Organic growth in Canada is expected to maintain high levels of activity, moderating to organic 
+growth in the low single digits;
+
+Organic growth in Global is expected to achieve mid- to high-single digit growth driven by 
+continued high levels of activity in our UK Water business under the ongoing Asset 
+Management Program, and demand and stimulus in environmental services and infrastructure 
+sectors;
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-42
+
+Stantec Inc.
+
+◦
+
+◦
+
+◦
+
+◦
+
+◦
+
+◦
+
+◦
+
+Project margin as a percent of net revenues, expected to be relatively consistent in 2023 
+compared to 2022; 
+
+Adjusted EBITDA margin expected to be in the range of 16% to 17%, with some forecasted 
+fluctuations throughout 2023 and reflecting continued discipline in the management of 
+administration and marketing costs and continued investments in the commercialization of new 
+innovations and technologies;
+
+Benefits from the 2023 Real Estate Strategy will expect to generate approximately $0.35 to 
+$0.40 adjusted diluted EPS by the end of 2023 relative to our 2019 costs;
+
+Drive adjusted net income to a margin of 7.5% or greater of net revenue; 
+
+Adjusted diluted EPS growth expected to be in the range of 9% to 13%;  
+
+Adjusted ROIC expected to be above 10.5%
+
+Other expectations include a net debt to adjusted EBITDA ratio between 1.0x to 2.0x, effective 
+tax rate (without discrete transactions) to be in the range of 23.0% to 24.0%, earnings pattern of 
+40-45% in Q1 and Q4 and 55-60% in Q2 and Q3, and DSOs at or below 80; 
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Our positive outlook for a strong multi-year cycle due to backlog growth;
+
+Our expectation to contribute approximately $21 million to pension plans in 2023;
+
+Our estimates of the impact of an increase or decrease in the interest rate on our revolving credit facility 
+and term loan balances;
+
+Our estimates of the impact of an increase or decrease in market price risk on our investments held for 
+self-insured liabilities for equity funds and increase or decrease in our share price on our cash-settled 
+share-based payments; 
+
+Our expectations in the Critical Accounting Estimates section;
+
+Our belief that diversifying our geographic presences and service offerings, and focusing on key client 
+sectors will reduce our susceptibility to industry-specific and regional economic cycles;
+
+Our intention to continue to pursue selective acquisitions;
+
+Our expectations regarding our sources of cash and our ability to meet our normal operating and capital 
+expenditures in the Capital Management and Liquidity and Capital Resources section;
+
+Our ability to limit credit risk; and
+
+Our expected adoption of accounting standards discussed in the Future Adoptions section.
+
+These describe the management expectations and targets by which we measure our success and assist our 
+shareholders in understanding our financial position as at and for the periods ended on the dates presented in this 
+MD&A. Readers are cautioned that this information may not be appropriate for other purposes.
+
+By their nature, forward-looking statements require us to make assumptions and are subject to inherent risks and 
+uncertainties. There is a significant risk that predictions, forecasts, conclusions, projections, and other forward-looking 
+statements will not prove to be accurate. We caution readers of this MD&A not to place undue reliance on our 
+forward-looking statements since a number of factors could cause actual future results, conditions, actions, or events 
+to differ materially from the targets, expectations, estimates, or intentions expressed in these forward-looking 
+statements.
+
+Future outcomes relating to forward-looking statements may be influenced by many factors and material risks, 
+including the risks described in the Risk Factors section of this MD&A.
+
+Assumptions 
+In determining our forward-looking statements, we consider material factors including assumptions about the 
+performance of the Canadian, US, and global economies in 2023 and their effect on our business. The material 
+factors and assumptions used to support our 2023 outlook included on M-9 are set forth below:
+
+• Management assumed an average value for the US dollar of $1.32, GBP $1.62, and AU of $0.95 for 
+
+2023. 
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-43
+
+Stantec Inc.
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+The overnight interest rate target is currently 4.5% in both Canada and the US, and 4.0% in the UK. The 
+Company’s fixed rate debt on bonds and one term loan is expected to partially offset this.
+
+Our effective income tax rate, without discrete transactions, is expected to be approximately 23.0% to 
+24.0% and was considered based on the tax rates in place as of December 31, 2022, as well as our mix 
+of expected earnings for the countries we operate in.
+
+The Canadian unemployment rate— 5.0% in 2022— was a near record low. In the United States, the 
+unemployment rate— 3.5% in 2022, has returned to pre-COVID February 2020 levels, but expectations 
+of a slight increase in 2023 due to recession concerns.
+
+In Canada, the number of total housing starts is forecasted to decrease in 2023 by greater than 10% 
+compared to 2022. In the United States, the forecasted seasonally adjusted annual rate of total housing 
+starts for 2023 is 1.14 million, a 26% increase compared to 2022. 
+
+The American Institute of Architects ABI (architectural billing index) has decreased to 47.5 as of 
+December 2022 from 51.0 at the end of 2021, reflecting a softening in business conditions resulting from 
+an increase in project delays in Q4 2022. Architectural billings are expected to remain consistent in 2023. 
+
+Prices for precious metals, other metals, minerals, and crude oil have been volatile during the COVID 
+crisis. However, the World Bank expects oil, metals, and minerals prices for 2023 to slightly decrease 
+from 2022 levels.  
+
+• Management expects to support our targeted level of growth using a combination of cash flows from 
+
+operations and borrowings.
+
+The preceding list of factors is not exhaustive. Investors and the public should carefully consider these factors, other 
+uncertainties and potential events, and the inherent uncertainty of forward-looking statements when relying on these 
+statements to make decisions with respect to our Company. The forward-looking statements contained herein 
+represent our expectations as of February 22, 2023, and, accordingly, are subject to change after such date. Except 
+as may be required by law, we do not undertake to update any forward-looking statement, whether written or verbal, 
+that may be made from time to time. In the case of the ranges of expected performance for fiscal year 2023, it is our 
+current practice to evaluate and, where we deem appropriate, to provide updates. However, subject to legal 
+requirements, we may change this practice at any time at our sole discretion.
+
+Management's Discussion and Analysis
+December 31, 2022
+
+M-44
+
+Stantec Inc.

@@ -1,0 +1,4500 @@
+# Constellation Software Inc.
+# 来源：Annual MD&A - English.pdf (4580d171e8e0305e)
+
+CONSTELLATION SOFTWARE INC. 
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS (“MD&A”)  
+
+The  following  discussion  and  analysis  should  be  read  in  conjunction  with  the  Annual  Consolidated 
+Financial Statements for the year ended December 31, 2022, which we prepared in accordance with International 
+Financial Reporting Standards (“IFRS”).  Certain information included herein is forward-looking and based upon 
+assumptions and anticipated results that are subject  to uncertainties.  Should one or more of these uncertainties 
+materialize or should the underlying assumptions prove incorrect, actual results may vary significantly from those 
+expected.  See “Forward-Looking Statements” and “Risks and Uncertainties”.    
+
+Unless otherwise indicated, all dollar amounts are expressed in U.S. dollars.  All references to “$” are to 
+U.S. dollars and all references to “C$” are to Canadian dollars.  Due to rounding, certain totals and subtotals may 
+not foot and certain percentages may not reconcile.  
+
+Additional information about Constellation Software Inc. (the “Company” or “Constellation”), including 
+
+our most recently filed Annual Information Form ("AIF"), is available on SEDAR at www.sedar.com. 
+
+Forward Looking Statements 
+
+Certain statements in this report may contain “forward looking” statements that involve risks, uncertainties 
+and other factors that may cause the actual results, performance or achievements of the Company or industry to be 
+materially different from any future results, performance or achievements expressed or implied by such forward-
+looking statements.  Words such as “may”, “will”, “expect”, “believe”, “plan”, “intend”, “should”, “anticipate” and 
+other similar terminology are intended to identify forward looking statements.  These statements reflect current 
+assumptions  and  expectations  regarding  future  events  and  operating  performance  as  of  the  date  of  this  MD&A 
+March  29,  2023.    Forward  looking  statements  involve  significant  risks  and  uncertainties,  should not  be read  as 
+guarantees of future performance or results, and will not necessarily be accurate indications of whether or not such 
+results  will  be  achieved.    A  number  of  factors  could  cause  actual  results  to  vary  significantly  from  the  results 
+discussed in the forward looking statements, including, but not limited to, the factors discussed under “Risks and 
+Uncertainties”.    Although  the  forward  looking  statements  contained  in  this  MD&A  are  based  upon  what 
+management of the Company believes are reasonable assumptions, the Company cannot assure investors that actual 
+results will be consistent with these forward looking statements.  These forward looking statements are made as of 
+the date of this MD&A and the Company assumes no obligation, except as required by law, to update any forward 
+looking statements to reflect new events or circumstances.   This report should be viewed in conjunction with the 
+Company’s  other  publicly  available  filings,  copies  of  which  can  be  obtained  electronically  on  SEDAR  at 
+www.sedar.com. 
+
+Non-IFRS Measures 
+
+This MD&A includes certain measures which have not been prepared in accordance with IFRS such as 
+
+Free cash flow available to shareholders.  
+
+Free cash flow available to shareholders ‘‘FCFA2S’’ refers to net cash flows from operating activities less 
+interest paid on lease obligations, interest paid on other facilities, credit facility transaction costs, repayments of 
+lease obligations, the IRGA / TSS membership liability revaluation charge, and property and equipment purchased, 
+and includes interest and dividends received.  The portion of this amount applicable to non-controlling interests is 
+then deducted.  We believe that FCFA2S is useful supplemental information as it provides an indication of the 
+uncommitted cash flow that is available to shareholders if we do not make any acquisitions, or investments, and do 
+not repay any debts.  While we could use the FCFA2S to pay dividends or repurchase shares, our objective is to 
+invest all of our FCFA2S in acquisitions which meet our hurdle rate. 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+FCFA2S is not a recognized measure under IFRS and may not be comparable to similar financial measures 
+disclosed  by  other  issuers.    Accordingly,  readers  are  cautioned  that  FCFA2S  should  not  be  construed  as  an 
+alternative to net cash flows from operating activities.  See ‘‘Results of Operations —Free cash flow available to 
+shareholders” for a reconciliation of FCFA2S to net cash flows from operating activities. 
+
+Corporate Reorganization 
+
+On January 4, 2021 (in anticipation of the acquisition of Topicus.com B.V.), the Company’s subsidiary, 
+Constellation  Software  Netherlands  Holding  Coöperatief  U.A.  (“CSNH”),  which  principally  holds  the  Total 
+Specific  Solutions  Operating  Group  (“TSS”),  completed  a  corporate  reorganization.    In  conjunction  with  the 
+reorganization, the following steps were completed on January 4, 2021:   
+
+  CSNH changed its name to Topicus.com Coöperatief U.A. (“Topicus Coop”).   
+  The Company engaged in a series of transactions the result of which was that its then existing equity interest 
+in Topicus Coop became an equity interest in Topicus.com Inc. (“Topicus”) and Topicus became the new 
+parent company of Topicus Coop.  Topicus issued and Constellation received 39,412,385 preferred shares 
+of  Topicus  (the  “Topicus  Preferred  Shares”)  and  39,412,385  subordinate  voting  shares  of  Topicus  (the 
+“Topicus  Subordinate  Voting  Shares”).    CSI  distributed  39,412,367  of  the  Topicus  Subordinate  Voting 
+Shares  to  its  common  shareholders  pursuant  a  dividend-in-kind  and  continues  to  hold  18  Topicus 
+Subordinate Voting Shares of Topicus.       
+
+  Constellation also holds 1 super voting share of Topicus (the “Topicus Super Voting Share”).  The Topicus 
+Super Voting Share entitles Constellation to that number of votes that equals 50.1% of the aggregate number 
+of  votes  attached  to  all  the  outstanding  Topicus  Super  Voting  Shares  and  Topicus  Subordinate  Voting 
+Shares.  As a result, Constellation Software Inc. controls Topicus. 
+
+  Topicus Coop issued 19,665,642 Preference Units and 19,665,642 Ordinary Units to Joday Investments II 
+B.V. (“Joday”) and certain individual investors affiliated therewith (being the previous minority owners of 
+CSNH) (collectively known as the “Joday Group”).  
+
+On February 1, 2022, the Topicus Preferred Shares and Topicus Coop Preference Units were converted to Topicus 
+Subordinate Voting Shares and Topicus Coop Ordinary Units respectively.  Subsequent to the conversion, CSI will 
+continue to consolidate Topicus and reflect an equity interest of 60.65% in Topicus and a non-controlling interest 
+of  39.35%.    The  equity  interest  of  60.65%  that  the  Company  reflects  in  Topicus  principally  comprises  the 
+Company’s Subordinate Voting Shares and the ordinary units of Topicus Coop (“Topicus Coop Ordinary Units”) 
+that  are  currently  owned  by  the  Joday  Group  and  subject  to  the  terms  of  the  investor  rights  and  governance 
+agreement entered into by CSI, the Joday Group, Ijssel B.V., Topicus and Topicus Coop on January 5, 2021 (the 
+“IRGA”). 
+
+Overview 
+
+We acquire, manage and build vertical market software (“VMS”) businesses.  Generally, these businesses 
+provide mission critical software solutions that address the specific needs of our customers in particular markets.  
+Our focus on acquiring businesses with growth potential, managing them well and then building them, has allowed 
+us to generate significant cash flows and revenue growth during the past several years.   
+
+Our revenue consists primarily of software license fees, maintenance and other recurring fees, professional 
+service fees and hardware sales.  Software license revenue is comprised of non-recurring license fees charged for 
+the  use  of  software  products  licensed  under  multiple-year  or  perpetual  arrangements.    Maintenance  and  other 
+recurring revenue primarily consists of fees charged for customer support on software products post-delivery and 
+also  includes  recurring  fees  derived  from  combined  software/support  contracts,  transaction  revenues,  managed 
+services associated with CSI software that has been sold to the customer, and hosted software-as-a-service products.    
+
+2 
+
+ 
+ 
+Professional service revenue consists of fees charged for implementation services, custom programming, product 
+training, certain managed services, and consulting.  Hardware and other revenue includes the resale of third party 
+hardware as part of customized solutions, as well as sales of hardware assembled internally and the reimbursement 
+of travel costs.  Our customers typically purchase a combination of software, maintenance, professional services 
+and hardware, although the type, mix and quantity of each vary by customer and by product. 
+
+Expenses  consist  primarily  of  staff  costs,  the  cost  of  hardware,  third  party  licenses,  maintenance  and 
+professional  services  to  fulfill  our  customer  arrangements,  travel  and  occupancy  costs,  depreciation,  and  other 
+general operating expenses. 
+
+3 
+
+ 
+ 
+Results of Operations 
+(In millions of dollars, except percentages and per share amounts)
+Unaudited
+
+Revenue
+
+Expenses
+
+Amortization of intangible assets
+Foreign exchange (gain) loss
+IRGA / TSS membership liability revaluation charge
+Finance and other expense (income)
+Bargain purchase gain
+Impairment of intangible and other non-financial assets
+Redeemable preferred securities expense (income)
+Finance costs
+Income before income taxes
+
+Income tax expense (recovery)
+Current income tax expense (recovery)
+Deferred income tax expense (recovery)
+Income tax expense (recovery)
+
+Net income (loss) attributable to:
+  Common shareholders of CSI
+  Non-controlling interests
+Net income (loss)
+
+Net cash flows from operating activities
+
+Free cash flow available to shareholders
+
+Weighted average number of shares
+  outstanding
+   Basic and diluted
+
+Net income (loss) per share
+   Basic and diluted
+
+Net cash flows from operating activities per share
+   Basic and diluted
+
+Free cash flow available to shareholders per share
+   Basic and diluted
+
+Cash dividends declared per share
+   Basic and diluted
+
+Total assets
+Total long-term liabilities
+
+Three months ended 
+December 31,
+2022
+
+2021
+
+Period-Over-
+Period Change
+
+$
+
+%
+
+Year ended 
+December 31,
+2022
+
+2021
+
+Period-Over-Period 
+Change
+$
+
+%
+
+1,847
+
+1,383
+
+465
+
+34%
+
+6,622
+
+5,106
+
+1,515
+
+30%
+
+1,388
+
+1,004
+
+384
+
+38%
+
+5,065
+
+3,716
+
+1,349
+
+36%
+
+142
+185
+4
+42
+            23          25 
+2
+(23)
+(1)
+(13)
+5
+5
+
+43
+38
+        (3)
+(25)
+(12)
+0
+
+-
+18
+184
+
+-
+19
+20
+
+676
+30%
+969%
+(56)
+-10%         112 
+0
+NM
+(16)
+NM
+5%
+7
+NM
+107%
+11%
+
+-
+110
+725
+
+518
+1
+
+158
+(57)
+        132           (20)
+7
+(15)
+(5)
+(295)
+42
+351
+
+(7)
+(2)
+12
+295
+68
+374
+
+30%
+NM
+-15%
+NM
+738%
+-44%
+-100%
+63%
+94%
+
+48
+(8)
+40
+
+33
+(31)
+2
+
+69%
+381%
+5%
+
+28
+(11)
+18
+
+23%
+-51%
+12%
+
+403
+(228)
+175
+
+512
+38
+551
+
+257
+(51)
+206
+
+310
+(142)
+169
+
+146
+(177)
+(31)
+
+57%
+347%
+-15%
+
+202
+180
+382
+
+65%
+NM
+226%
+
+59
+
+17%
+
+1,297
+
+1,300
+
+(2)
+
+0%
+
+46
+
+19%
+
+853
+
+883
+
+(30)
+
+-3%
+
+124
+21
+145
+
+341
+
+244
+
+-
+37
+204
+
+80
+(39)
+41
+
+152
+10
+163
+
+400
+
+290
+
+21.2
+
+21.2
+
+21.2
+
+21.2
+
+$       
+
+7.19
+
+$    
+
+5.86
+
+$   
+
+1.33
+
+23%
+
+$    
+
+24.18
+
+$   
+
+14.65
+
+$     
+
+9.54
+
+65%
+
+$      
+
+18.88
+
+$  
+
+16.09
+
+$   
+
+2.79
+
+17%
+
+$    
+
+61.23
+
+$   
+
+61.33
+
+$    
+
+(0.11)
+
+0%
+
+$      
+
+13.68
+
+$  
+
+11.50
+
+$   
+
+2.18
+
+19%
+
+$    
+
+40.25
+
+$   
+
+41.69
+
+$    
+
+(1.44)
+
+-3%
+
+$       
+
+1.00
+
+$    
+
+1.00
+
+$    
+-
+
+0%
+
+$     
+
+4.00
+
+$     
+
+4.00
+
+$       
+-
+
+0%
+
+7,882
+2,181
+
+5,766
+1,784
+
+2,116
+397
+
+37%
+22%
+
+NM - Not meaningful
+Due to rounding, certain totals may not foot and certain percentages may not reconcile.
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+       
+    
+     
+     
+     
+     
+       
+    
+     
+     
+     
+     
+          
+       
+       
+        
+        
+        
+            
+          
+       
+         
+           
+         
+           
+          
+      
+            
+          
+           
+           
+         
+      
+         
+          
+         
+              
+          
+         
+            
+          
+          
+           
+       
+      
+         
+        
+       
+            
+        
+       
+        
+          
+          
+          
+       
+       
+        
+        
+        
+            
+        
+       
+        
+        
+        
+           
+         
+      
+       
+         
+       
+            
+        
+         
+        
+        
+         
+          
+       
+       
+        
+        
+        
+            
+        
+      
+          
+       
+        
+          
+       
+       
+        
+        
+        
+          
+       
+       
+     
+     
+          
+          
+       
+       
+        
+        
+         
+         
+      
+       
+       
+     
+     
+     
+     
+     
+        
+Comparison of the three and twelve month periods ended December 31, 2022 and 2021 
+
+Revenue: 
+
+Total revenue for the quarter ended December 31, 2022 was $1,847 million, an increase of 34%, or $465 million, 
+compared  to  $1,383  million  for  the  comparable  period  in  2021.    For  the  year  ended  December  31,  2022  total 
+revenues  were  $6,622  million,  an  increase  of  30%,  or  $1,515  million,  compared  to  $5,106  million  for  the 
+comparable period in 2021.  The increase for both the three and twelve month periods compared to the same periods 
+in the prior year is primarily attributable to growth from acquisitions as the Company experienced organic growth 
+of negative 1% in both periods, positive 4% and 3% respectively after adjusting for the impact of changes in the 
+valuation of the US dollar against most major currencies in which the Company transacts business.  For acquired 
+companies, organic growth is calculated as the difference between actual revenues achieved by each company in 
+the financial period following acquisition compared to the estimated revenues they achieved in the corresponding 
+financial period preceding the date of acquisition by Constellation.  Organic growth is not a standardized financial 
+measure and might not be comparable to measures disclosed by other issuers.  
+
+The following table displays the breakdown of our revenue according to revenue type: 
+
+Three months ended 
+December 31,
+
+Period-Over-
+Period Change
+
+2022
+
+2021
+
+$
+
+%
+
+Q421 
+Proforma 
+Adj.
+(Note 1)
+$
+
+Organic 
+Growth
+
+Year ended 
+December 31,
+
+Period-Over-
+Period Change
+
+%
+
+2022
+
+2021
+
+$
+
+%
+
+Q421 
+Proforma 
+Adj.
+(Note 2)
+$
+
+Organic 
+Growth
+
+%
+
+($ in millions, except percentages)
+
+($ in millions, except percentages)
+
+Licenses
+Professional services 
+Hardware and other
+Maintenance and other recurring
+
+100
+396
+82
+1,270
+1,847
+
+81
+286
+49
+967
+1,383
+
+19
+110
+33
+303
+465
+
+23%
+39%
+69%
+31%
+34%
+
+26
+152
+12
+292
+481
+
+-7%
+-10%
+36%
+1%
+-1%
+
+320
+1,381
+233
+4,688
+6,622
+
+287
+1,033
+176
+3,611
+5,106
+
+33
+348
+57
+1,078
+1,515
+
+11%
+34%
+33%
+30%
+30%
+
+85
+462
+48
+1,019
+1,614
+
+-14%
+-8%
+4%
+1%
+-1%
+
+$M - Millions of dollars
+Due to rounding, certain totals may not foot and certain percentages may not reconcile.
+Note 1: Estimated pre-acquisition revenues for the three months ended December 31, 2021 from companies acquired after September 30, 2021.  (Obtained from 
+unaudited vendor financial information.)
+
+Note 2: Estimated pre-acquisition revenues for the twelve months ended December 31, 2021 from companies acquired after December 31, 2020. (Obtained from 
+unaudited vendor financial information.)
+
+For comparative purposes the table below shows the quarterly organic growth as compared to the same period in 
+the prior year by revenue type since Q4 2020.  Note that the estimated revenues achieved by acquired companies in 
+the corresponding financial period preceding the date of acquisition by Constellation may be updated in the quarter 
+following the quarter they were acquired resulting in slight variances to previously reported figures. 
+
+Dec. 31 Mar. 31
+
+Jun. 30
+
+Sep. 30
+
+Dec. 31 Mar. 31
+
+Jun. 30
+
+Sep. 30
+
+Dec. 31
+
+2020
+
+2021
+
+2021
+
+2021
+
+2021
+
+2022
+
+2022
+
+2022
+
+2022
+
+Quarter Ended
+
+Licenses
+
+Professional services 
+
+Hardware and other
+
+Maintenance and other recurring
+
+Revenue
+
+‐6%
+‐4%
+‐13%
+4%
+1%
+
+‐4%
+6%
+‐12%
+7%
+6%
+
+18%
+17%
+15%
+12%
+14%
+
+3%
+8%
+‐12%
+8%
+7%
+
+4%
+6%
+‐12%
+5%
+4%
+
+‐13%
+‐5%
+‐5%
+4%
+1%
+
+‐21%
+‐8%
+‐8%
+1%
+‐2%
+
+‐16%
+‐7%
+‐7%
+‐1%
+‐3%
+
+‐7%
+‐10%
+36%
+1%
+‐1%
+
+The following table shows the same information adjusting for the impact of foreign exchange movements. 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+           
+        
+      
+         
+         
+      
+       
+        
+           
+      
+     
+        
+      
+   
+     
+       
+            
+        
+      
+         
+         
+      
+       
+        
+        
+      
+     
+        
+      
+   
+   
+    
+        
+   
+     
+        
+      
+   
+   
+    
+Dec. 31 Mar. 31
+
+Jun. 30
+
+Sep. 30
+
+Dec. 31 Mar. 31
+
+Jun. 30
+
+Sep. 30
+
+Dec. 31
+
+2020
+
+2021
+
+2021
+
+2021
+
+2021
+
+2022
+
+2022
+
+2022
+
+2022
+
+Quarter Ended
+
+Licenses
+
+Professional services 
+
+Hardware and other
+
+Maintenance and other recurring
+
+Revenue
+
+‐7%
+‐6%
+‐15%
+2%
+‐1%
+
+‐8%
+1%
+‐16%
+3%
+1%
+
+12%
+10%
+9%
+7%
+8%
+
+2%
+6%
+‐13%
+6%
+5%
+
+5%
+7%
+‐11%
+6%
+5%
+
+‐11%
+‐2%
+‐3%
+7%
+4%
+
+‐17%
+‐3%
+‐4%
+6%
+2%
+
+‐11%
+‐2%
+1%
+5%
+2%
+
+‐2%
+‐5%
+44%
+6%
+4%
+
+Expenses: 
+
+The following table displays the breakdown of our expenses: 
+
+Three months ended 
+December 31,
+2021
+
+%
+2022
+($ in millions, except percentages)
+
+$
+
+Period-Over-
+Period Change
+
+Year ended 
+December 31,
+2022
+%
+($ in millions, except percentages)
+
+Period-Over-
+Period Change
+
+2021
+
+$
+
+Expenses
+Staff 
+Hardware  
+Third party license, maintenance
+   and professional services 
+Occupancy 
+
+Travel, Telecommunications, Supplies 
+& Software and equipment
+Professional fees
+Other, net
+Depreciation
+
+958
+46
+
+183
+14
+
+91
+36
+22
+37
+1,388
+
+714
+28
+
+      244 
+34%
+        19  66%
+
+3,539
+134
+
+2,695
+99
+
+       844  31%
+36%
+        35 
+
+116
+10
+
+        67  58%
+32%
+         3 
+
+626
+49
+
+433
+40
+
+       193  44%
+22%
+          9 
+
+57
+26
+22
+31
+1,004
+
+        35  61%
+        10  39%
+-1%
+        (0)
+20%
+         6 
+38%  
+384
+
+307
+114
+154
+143
+5,065
+
+186
+79
+62
+121
+3,716
+
+       121  65%
+        35 
+44%
+        91  146%
+18%
+        22 
+36%
+1,349
+
+Due to rounding, certain totals may not foot and certain percentages may not reconcile.
+
+Overall  expenses  for  the  quarter  ended  December  31,  2022  increased  38%,  or  $384  million  to  $1,388 
+million, compared to $1,004 million during the same period in 2021. As a percentage of total revenue, expenses 
+equalled 75% for the quarter ended December 31, 2022 and 73% for the same period in 2021.  During the twelve 
+months  ended  December  31,  2022,  expenses  increased  36%,  or  $1,349  million  to  $5,065  million,  compared  to 
+$3,716 million during the same period in 2021.  As a percentage of total revenue, expenses equalled 76% for the 
+twelve months ended December 31, 2022 and 73% for the same period in 2021.  For the three and twelve months 
+ended December 31, 2022 the change in valuation of the US dollar against most major currencies in which the 
+Company transacts business resulted in an approximate 5% decrease in expenses for both periods compared to the 
+comparable periods of 2021. 
+
+Staff expense – Staff expenses increased 34% or $244 million for the quarter ended December 31, 2022 
+and 31% or $844 million for the twelve months ended December 31, 2022 over the same periods in 2021.  Staff 
+expense can be broken down into five key operating departments: Professional Services, Maintenance, Research 
+and Development, Sales and Marketing, and General and Administrative.  Included within staff expenses for each 
+of the above five departments are personnel and related costs associated with providing the necessary services.   The 
+table below compares the period over period variances. 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+      
+          
+      
+   
+        
+            
+         
+        
+      
+          
+         
+      
+        
+            
+           
+        
+        
+            
+         
+      
+        
+            
+         
+        
+        
+            
+         
+        
+        
+            
+         
+      
+    
+       
+      
+      
+   
+    
+Three months ended 
+December 31,
+2021
+
+2022
+%
+($ in millions, except percentages)
+
+$
+
+Period-Over-
+Period Change
+
+Year ended 
+December 31,
+2022
+%
+($ in millions, except percentages)
+
+Period-Over-
+Period Change
+
+2021
+
+$
+
+Professional services
+Maintenance  
+Research and development
+Sales and marketing
+General and administrative
+
+239
+182
+259
+122
+157
+958
+
+148
+144
+193
+101
+128
+714
+
+91
+38
+66
+21
+29
+244
+
+62%
+26%
+34%
+21%
+22%
+34%
+
+837
+675
+948
+453
+627
+3,539
+
+558
+539
+732
+369
+497
+2,695
+
+278
+136
+216
+84
+129
+844
+
+50%
+25%
+29%
+23%
+26%
+31%
+
+Due to rounding, certain totals may not foot and certain percentages may not reconcile.
+
+The increase in staff expenses for the three and twelve months ended December 31, 2022 was primarily 
+due to the growth in the number of employees compared to the same periods in 2021 primarily due to acquisitions. 
+
+Hardware expenses – Hardware expenses increased 66% or $19 million for the quarter ended December 
+31, 2022 and 36% or $35 million for the twelve months ended December 31, 2022 over the same periods in 2021 
+as compared with the 69% and 33% increases in hardware and other revenue for the three and twelve month periods 
+ending December 31, 2022 respectively over the comparable periods in 2021.  Hardware margins for the three and 
+twelve months ended December 31, 2022 were 43% and 42% respectively as compared to 42% and 44% for the 
+comparable periods in 2021.   
+
+Third party license, maintenance and professional services expenses – Third party license, maintenance 
+and professional services expenses increased 58% or $67 million for the quarter ended December 31, 2022 and 44% 
+or $193 million for the twelve months ended December 31, 2022 over the same periods in 2021.  The increase is 
+primarily due to third party license, maintenance and professional services expenses of acquired businesses. 
+
+Occupancy expenses – Occupancy expenses increased 32% or $3 million for the quarter ended December 
+31, 2022 and 22% or $9 million for the twelve months ended December 31, 2022 over the same periods in 2021.  
+The increase is primarily due to the occupancy expenses of acquired businesses.   
+
+Travel,  Telecommunications,  Supplies  &  Software  and  equipment  expenses  –  Travel, 
+Telecommunications, Supplies & Software and equipment expenses increased 61% or $35 million for the quarter 
+ended December 31, 2022 and 65% or $121 million for the twelve months ended December 31, 2022 over the same 
+periods in 2021.  The increase in these expenses is primarily due to expenses incurred by acquired businesses.  In 
+addition employee travel is increasing as restrictions imposed as a result of COVID-19 are gradually being lifted. 
+
+Professional fees – Professional fees increased 39% or $10 million for the quarter ended December 31, 
+2022 and 44% or $35 million for the twelve months ended December 31, 2022 over the same periods in 2021.  
+There are no individually material reasons contributing to this variance.  
+
+Other, net – Other expenses decreased 1% to $22 million for the quarter ended December 31, 2022 and 
+increased 146% or $91 million for the twelve months ended December 31, 2022 over the same periods in 2021. The 
+following table provides a further breakdown of expenses within this category. 
+
+7 
+
+ 
+ 
+  
+ 
+ 
+ 
+      
+          
+        
+         
+      
+       
+      
+          
+        
+         
+      
+       
+      
+          
+        
+         
+      
+       
+      
+          
+        
+         
+      
+        
+      
+          
+        
+         
+      
+       
+      
+          
+      
+      
+   
+       
+Three months ended 
+December 31,
+
+Period-Over-Period 
+Change
+
+Year ended 
+December 31,
+
+Period-Over-Period 
+Change
+
+2022
+
+2021
+
+$
+
+%
+
+2022
+
+2021
+
+$
+
+%
+
+($ in millions, except percentages)
+
+($ in millions, except percentages)
+
+Advertising and promotion
+
+Recruitment and training
+
+Bad debt expense
+
+R&D tax credits
+
+Contingent consideration
+
+Government assistance
+
+Other expense, net
+
+23
+
+9
+
+2
+
+(17)
+
+(4)
+
+(1)
+
+9
+
+22
+
+17
+
+7
+
+(0)
+
+(13)
+
+6
+
+(1)
+
+7
+
+22
+
+6
+
+3
+
+2
+
+(4)
+
+(9)
+
+1
+
+2
+
+(0)
+
+38%
+
+40%
+
+NM
+
+32%
+
+NM
+
+-43%
+
+21%
+
+-1%
+
+86
+
+36
+
+7
+
+(40)
+
+42
+
+(2)
+
+25
+
+154
+
+54
+
+22
+
+2
+
+(33)
+
+14
+
+(17)
+
+20
+
+62
+
+32
+
+14
+
+5
+
+(7)
+
+27
+
+15
+
+5
+
+91
+
+59%
+
+62%
+
+281%
+
+21%
+
+193%
+
+-87%
+
+25%
+
+146%
+
+Due to rounding, certain totals may not foot and certain percentages may not reconcile.
+
+In  2020  and  2021  the  governments  of  various  jurisdictions  in  which  we  have  operations  had  approved 
+legislation and took administrative actions intended to aid businesses that had been adversely impacted by COVID-
+19,  including  making  grants  or    credits  available  to  eligible  entities  to  subsidize  or  offset  qualifying  expenses, 
+including employee wages, or to lower payroll taxes or required social insurance programs (in certain countries), in 
+each case subject to limits and other specified criteria. During the twelve months ended December 31, 2021, we 
+determined that we qualified for an estimated aggregate amount of $17 million of grants from various government 
+authorities, including the Canada Emergency Wage Subsidy (CEWS) announced by the Government of Canada in 
+April 2020, and recognized such amounts as a reduction in expenses during the period.  During 2022, programs 
+have  either  been  canceled  or  we  have  determined  that  we  no  longer  qualify.    During  the  twelve  months  ended 
+December 31, 2022 we recognized $2 million as a reduction in expenses from programs that are still applicable. 
+
+The contingent consideration expense amounts recorded for the three and twelve months ended December 
+31, 2022 related to an increase (decrease) in anticipated acquisition earnout payment accruals primarily as a result 
+of increases (decreases) to revenue forecasts for the associated acquisitions.  Revenue forecasts are updated on a 
+quarterly  basis  and  the  related  anticipated  acquisition  earnout  payment  accruals  are  updated  accordingly.    The 
+advertising and promotion increase is primarily related to spending by acquired businesses and a gradual return to 
+pre-COVID-19 levels of spending on trade shows and other marketing activities.  Recruitment and training expenses 
+have increased as many businesses that had a freeze on hiring as a result of COVID-19 are now hiring.  
+
+There are no individually material reasons contributing to the remaining variances. 
+
+Depreciation – Depreciation of property and equipment increased 20% or $6 million for the quarter ended 
+December 31, 2022 and 18% or $22 million for the twelve months ended December 31, 2022 over the same periods 
+in 2021.  The increases are primarily due to the depreciation expense associated with acquired businesses. 
+
+8 
+
+ 
+ 
+ 
+         
+            
+            
+          
+          
+          
+          
+              
+            
+          
+          
+          
+          
+             
+            
+            
+            
+            
+        
+           
+           
+         
+         
+           
+         
+              
+           
+          
+          
+          
+         
+             
+            
+           
+         
+          
+          
+              
+            
+          
+          
+            
+         
+            
+           
+        
+          
+          
+Other Income and Expenses: 
+
+The following table displays the breakdown of our other income and expenses: 
+
+Three months ended 
+December 31,
+2021
+
+2022
+%
+($ in millions, except percentages)
+
+$
+
+Period-Over-
+Period Change
+
+Year ended 
+December 31,
+2022
+%
+($ in millions, except percentages)
+
+Period-Over-
+Period Change
+
+2021
+
+$
+
+Amortization of intangible assets
+Foreign exchange (gain) loss
+IRGA / TSS membership liability revaluation charge
+Finance and other expense (income)
+Bargain purchase gain
+Impairment of intangible and other non-financial assets
+Redeemable preferred securities expense (income)
+Finance costs
+Income tax expense (recovery)
+
+185
+42
+23
+(23)
+(13)
+5
+
+-
+37
+42
+297
+
+142
+4
+25
+2
+(1)
+5
+
+-
+18
+40
+234
+
+43
+38
+(3)
+(25)
+(12)
+0
+
+-
+19
+2
+63
+
+30%
+969%
+-10%
+NM
+NM
+5%
+NM
+107%
+5%
+27%
+
+676
+(56)
+112
+0
+(16)
+7
+
+-
+110
+175
+1,007
+
+518
+1
+132
+(7)
+(2)
+12
+295
+68
+206
+1,222
+
+158
+(57)
+(20)
+7
+(15)
+(5)
+(295)
+42
+(31)
+(216)
+
+30%
+NM
+-15%
+NM
+738%
+-44%
+-100%
+63%
+-15%
+-18%
+
+NM - Not meaningful
+Due to rounding, certain totals may not foot and certain percentages may not reconcile.
+
+Amortization of intangible assets – Amortization of intangible assets increased 30% or $43 million for 
+the quarter ended December 31, 2022 and 30% or $158 million for the twelve months ended December 31, 2022 
+over  the  same  periods  in  2021.  The  increase  in  amortization  expense  for  the  three  and  twelve  months  ended 
+December 31, 2022 is primarily attributable to an increase in the carrying amount of our intangible asset balance 
+over the twelve-month period ended December 31, 2022 as a result of acquisitions completed during this twelve-
+month period. 
+
+Foreign exchange – Most of our businesses are organized geographically so many of our expenses are 
+incurred in the same currency as our revenues, which mitigates some of our exposure to currency fluctuations.  For 
+the three and twelve months ended December 31, 2022, we realized a foreign exchange loss of $42 million and a 
+foreign exchange gain of $56 million respectively compared to losses of $4 million and $1 million for the same 
+periods in 2021.   The following table provides a breakdown of these amounts. 
+
+Unrealized foreign exchange (gain) loss related to:
+
+‐ revaluation of intercompany loans between 
+entities with differing functional currencies (1)
+
+‐ revaulation of the Company's unsecured 
+
+subordinated floating rate debentures as a 
+result of the appreciation (depreciation) of the 
+Canadian dollar against the US dollar.
+
+‐ revaluation of the liability associated with the 
+
+IRGA (Euro denominated liability)
+
+Remaining foreign exchange (gain) loss
+
+NM - Not meaningful
+
+Three months ended 
+December 31,
+
+Period-Over-Period 
+Change
+
+Year ended 
+December 31,
+
+Period-Over-Period 
+Change
+
+2022
+
+2021
+
+$
+
+%
+
+2022
+
+2021
+
+$
+
+%
+
+($ in millions, except percentages)
+
+($ in millions, except percentages)
+
+3
+
+3
+
+38
+
+(1)
+
+42
+
+9
+
+0
+
+(6)
+
+-69%
+
+(22)
+
+20
+
+(42)
+
+NM
+
+3
+
+NM
+
+(14)
+
+1
+
+(15)
+
+NM
+
+(8)
+
+45
+
+NM
+
+(19)
+
+(24)
+
+5
+
+-22%
+
+3
+
+4
+
+(4)
+
+38
+
+NM
+
+969%
+
+(1)
+
+(56)
+
+4
+
+1
+
+(6)
+
+(57)
+
+NM
+
+NM
+
+Due to rounding, certain totals may not foot and certain percentages may not reconcile.
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+      
+          
+        
+         
+      
+       
+        
+             
+        
+          
+          
+       
+        
+            
+        
+         
+      
+       
+       
+             
+       
+            
+         
+          
+       
+            
+       
+          
+         
+       
+          
+             
+         
+            
+        
+         
+       
+           
+       
+          
+      
+      
+        
+            
+        
+         
+        
+        
+        
+            
+         
+         
+      
+       
+      
+          
+        
+      
+   
+      
+            
+           
+          
+          
+         
+       
+            
+           
+           
+          
+           
+       
+          
+          
+         
+          
+        
+          
+           
+           
+          
+           
+           
+         
+          
+           
+         
+          
+           
+       
+The remaining foreign exchange gains and losses per the table above are primarily related to the unrealized 
+foreign exchange translation gains and losses of certain non-US dollar denominated working capital balances to US 
+dollars as a result of the depreciation or appreciation of the US dollar. 
+
+IRGA / TSS membership liability revaluation charge – On December 23, 2014, in accordance with the 
+terms of the purchase and sale agreement for the initial acquisition of TSS (as defined below) by CSI, and on the 
+basis of the term sheets attached thereto, Constellation and the Joday Group, among others, entered into a Members 
+Agreement (the “Members Agreement”) pursuant to which the Joday Group acquired 33.29% of the voting interests 
+in Constellation Software Netherlands Holding Coöperatief U.A. (which was renamed to Topicus.com Coöperatief 
+U.A.), a subsidiary of Constellation and the indirect owner of 100% of TSS at the time of the acquisition. Total 
+proceeds from this transaction was €39 million ($49 million).   
+
+On  January  5,  2021,  the  Members  Agreement  was  terminated  in  conjunction  with  the  acquisition  of 
+Topicus.com B.V., the reorganization of Topicus Coop and the execution of the IRGA.  The IRGA was established 
+to create certain contractual obligations of the parties in respect of the governance of Topicus and Topicus Coop.  
+The Joday Group’s interest in Topicus Coop now comprises 39,331,284 Topicus Coop Ordinary Units (“Topicus 
+Coop Units”) resulting in an interest of 30.29% in Topicus Coop as of September 30, 2022.  The IRGA provides 
+for transfer restrictions in respect of the Topicus Coop Units.  See “Liability of CSI under the terms of the IRGA” 
+below for further details.   
+
+The valuation of the IRGA liability (previously the TSS membership liability) increased by approximately 
+6%  or  $23  million  from  Q3  2022,  and  approximately  28%  or  $112  million  from  Q4  2021.    The  increases  are 
+primarily  the  result  of  the  growth  in  TSS’  trailing  twelve  month  maintenance  revenue  on  a  pro-forma  basis 
+(primarily  due  to  acquisitions).    Maintenance  revenue  and  net  tangible  assets  are  the  two  main  drivers  in  the 
+calculation of the liability.  The liability recorded on the balance sheet increased by 18% or $70 million over the 
+twelve month period ended December 31, 2022 from $395 million to $465 million as a result of the revaluation 
+charge of $112 million offset by a distribution to the Joday Group of $23 million and a $19 million foreign exchange 
+gain.  The IRGA / TSS membership liability is denominated in Euros and the Euro depreciated 4% versus the US 
+dollar during the year ended December 31, 2022. 
+
+Finance and other expense (income) – Finance and other income for the three and twelve months ended 
+December 31, 2022 was $23 million and nil respectively, compared to an expense of $2 million and income of $7 
+million respectively for the same periods in 2021.  The increase in fair value of equity securities held for trading for 
+the  three  months  ended  December  31,  2022  was  $22  million  and  the  decrease  for  the  twelve  months  ended 
+December 31, 2022 was $16 million.  A decrease of $1 million and an increase of $2 million was recorded for the 
+three and twelve months ended December 31, 2021 respectively.  Interest earned on cash balances for the three and 
+twelve months ended December 31, 2022 was $0.1 million and $1 million respectively, compared to $0.4 million 
+and $2 million respectively for the same periods in 2021. 
+
+Bargain purchase gain – Bargain purchase gains totalling $13 million and $16 million were recorded in 
+the three and twelve month periods ended December 31, 2022 relating to acquisitions made in the period.  Bargain 
+purchase  gains  totalling  $1  million  and  $2  million  were  recorded  in  the  three  and  twelve  month  periods  ended 
+December 31, 2021 relating to acquisitions made in the period.  The gains in all periods resulted from the fact that 
+the  fair  value  of  the  separately  identifiable  assets  and  liabilities  acquired  exceeded  the  total  consideration  paid, 
+principally due to the acquisition of certain assets that will benefit the Company that had limited value to the sellers.    
+
+Impairment of intangible and other non-financial assets – Impairment expenses of $5 million and $7 
+million were recorded in the three and twelve month periods ended December 31, 2022 compared to $5 million and 
+$12 million for the same periods in 2021.  The expense for the three months ended December 31, 2022 primarily 
+relates to the write down of goodwill associated with a business acquired in 2004.  The majority of the customers 
+from the business have been transitioned to another business owned by the Company that operates in the same 
+vertical.  The remaining expenses primarily relate to acquired businesses that have been unable to achieve the goals 
+established in their associated investment thesis.      
+
+10 
+
+ 
+ 
+ 
+ 
+Redeemable preferred securities expense (income) – The redeemable preferred securities expense for the 
+twelve  months  ended  December  31,  2021  was  $295  million,  with  no  similar  expense  recorded  in  2022.    In 
+conjunction with the acquisition of Topicus.com B.V., Topicus Coop issued 5,842,882 Topicus Coop Preference 
+Units (the “Preferred Securities”) to Ijssel B.V.  The Preferred Securities were non-voting and were redeemable at 
+the option of the holder for a redemption price of approximately €19.06 ($23.28) per security.  The redemption 
+price was either to be settled in cash or through the issuance of a variable number of Topicus Coop Ordinary Units 
+of equal value.  The Preferred Securities were convertible into Topicus Coop Ordinary Units at a conversion ratio 
+of 1:1, and the Topicus Coop Ordinary Units are convertible into Subordinate Voting Shares of Topicus also at a 
+conversion ratio of 1:1.  The Preferred Securities holders were also entitled to a fixed annual cumulative dividend 
+of 5% per annum on the initial Preferred Securities value of approximately €19.06 ($23.28) per security.   
+
+The Preferred Securities were recorded at fair value at the end of each reporting period until the Notification 
+of  Conversion  (as  described  in  note  12  to  the  Annual  Consolidated  Financial  Statements  for  the  year  ended 
+December 31, 2021).   The change in fair value of the Preferred Securities was recorded as redeemable preferred 
+securities expense (income) in the consolidated statements of income.  Based on the Preferred Securities conversion 
+right, the value of the Preferred Securities was primarily dependent on the price movement of Topicus’ Subordinate 
+Voting Shares.  The Notification of Conversion was received from the Preferred Securities holders on May 17, 
+2021.  The closing market price of Topicus’ Subordinate Voting Shares on that date was C$89.87 or approximately 
+$74.28.  The increase in value from $23.28 to $74.28 multiplied by the 5.8 million Preferred Securities outstanding 
+equalled  approximately  $298  million.    The  difference  between  the  increase  of  $298  million  and  the  fair  value 
+adjustment  of  $295  million  for  the  twelve  months  ended  December  31,  2021  primarily  relates  to  the  accrued 
+dividend of $3 million for the period. 
+
+On February 1, 2022, all outstanding Topicus Coop Preference Securities were converted into Topicus Coop 
+
+Ordinary Units.      
+
+Finance  costs  –  Finance  costs  for  the  quarter  ended  December  31,  2022  increased  $19  million  to  $37 
+million, compared to $18 million for the same period in 2021.  During the twelve months ended December 31, 
+2022, finance costs increased $42 million to $110 million, from $68 million for the same period in 2021.  The 
+increases are primarily a result of an increase in the average debt outstanding in 2022 as compared to 2021. 
+
+Income taxes – We operate globally and we calculate our tax provision in each of the jurisdictions in which 
+we conduct business.  Our effective tax rate on a consolidated basis is, therefore, affected by the realization and 
+anticipated relative profitability of our operations in those various jurisdictions, as well as different tax rates that 
+apply and our ability to utilize tax losses and other credits.  For the quarter ended December 31, 2022, income tax 
+expense increased $2 million to $41 million compared to $40 million for the same period in 2021.  During the 
+twelve months ended December 31, 2022, income tax expense decreased $31 million to $175 million compared to 
+$206 million for the same period in 2021.  Current tax expense has historically approximated our cash tax rate 
+however the quarterly expense can sometimes fall outside of the annual range due to out of period adjustments.  
+Current tax expense reflects gross taxes before the application of R&D tax credits which are classified as part of 
+“other, net” expenses in the statement of income (loss).  The Company’s consolidated effective tax rate in respect 
+of continuing operations for the year ended December 31, 2022 was 24% (55% for the year ended December 31, 
+2021).    The  2021  effective  tax  rate  is  impacted  by  the  redeemable  preferred  securities  expense,  which  is  not 
+deductible for tax purposes. 
+
+Effective for 2022, research and experimentation (R&E) expenditures are no longer allowed to be deducted 
+as  incurred  for  tax  purposes  by  US  entities.  The  Tax  Cuts  and  Jobs  Act  (TCJA)  mandates  that,  for  tax  years 
+beginning after December 31, 2021, R&E expenditures be deferred and amortized. US-based expenditures will be 
+amortized over a 5 year period, and non-US-based expenditures over a 15 year period.  The total impact to current 
+income tax expense is $105 million for the 2022 fiscal year.  Negative $12 million and positive $105 million was 
+accrued and expensed in the three and twelve month periods ended December 31, 2022 respectively.  An offsetting 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+amount has been booked to deferred income tax expense so there is no impact on net tax expense or the effective 
+tax rate.  
+
+Constellation is subject to tax audits in the countries in which the Company carries on business globally.  
+These tax audits could result in additional tax expense in future periods relating to historical filings.  Reviews by 
+tax authorities generally focus on, but are not limited to, the validity of the Company’s inter-company transactions, 
+including  financing  and  transfer  pricing  policies  which  generally  involve  subjective  areas  of  taxation  and  a 
+significant degree of judgment. If any of these tax authorities are successful with their challenges, the Company’s 
+income  tax  expense  may  be  adversely  affected  and  Constellation  could  also  be  subject  to  interest  and  penalty 
+charges. 
+
+Net Income and Earnings per Share: 
+
+Net income attributable to common shareholders of CSI for the quarter ended December 31, 2022 was $152 
+million compared to $124 million for the same period in 2021.  On a per share basis this translated into a net income 
+per diluted share of $7.19 in the quarter ended December 31, 2022 compared to net income per diluted share of 
+$5.86 for the same period in 2021.  For the twelve months ended December 31, 2022, net income attributable to 
+common shareholders of CSI was $512 million or $24.18 per diluted share compared to $310 million or $14.65 per 
+diluted share for the same period in 2021.  There was no change in the number of shares outstanding.     
+
+Net cash flows from operating activities (“CFO”): 
+
+For the quarter ended December 31, 2022, CFO increased $59 million to $400 million compared to $341 
+million for the same period in 2021 representing an increase of 17%.  For the twelve months ended December 31, 
+2022, CFO decreased $2 million to $1,297 million compared to $1,300 million for the same period in 2021.  The 
+primary reasons for the decline in CFO for the twelve months ended December 31, 2022 is that CFO includes the 
+impact  of  changes  in  non-cash  operating  assets  and  liabilities  exclusive  of  effects  of  business  combinations  or, 
+changes in non-cash operating working capital (“NCOWC”), and income taxes paid.  For the twelve months ended 
+December 31, 2022 there was $60 million of cash used in NCOWC compared to $45 million of cash generated from 
+NCOWC  for  the  same  period  in  2021.      There  are  many  reasons  contributing  to  the  NCOWC  variance  for  the 
+Company, none of which are indicative of an underlying concern with the overall NCOWC balance.  Specifically, 
+there are no concerns with accounts receivable or unbilled revenue aging.  Income taxes paid increased 33% or $86 
+million  for  the  twelve  months  ended  December  31,  2022  over  the  same  periods  in  2021.    Approximately  $100 
+million in cash tax payments were  made in the twelve month period ending December 31, 2022 relating to the 
+deferral of R&E expenses associated with the TCJA.  (See “Income taxes” above.) 
+
+Free cash flow available to shareholders (“FCFA2S”): 
+
+For the quarter ended December 31, 2022, FCFA2S increased $46 million to $290 million compared to 
+$244 million for the same period in 2021 representing an increase of 19%.  For the twelve months ended December 
+31, 2022, FCFA2S decreased $30 million to $853 million compared to $883 million for the same period in 2021 
+representing  a  decrease  of  3%.    The  items  negatively  impacting  CFO  summarized  above  are  the  same  items 
+negatively  impacting  FCFA2S.    In  addition  interest  payments  on  debt  facilities  for  the  twelve  months  ended 
+December 31, 2022 increased $34 million or 88% compared to the same period in 2021.  On February 1, 2022, the 
+Topicus Preferred Shares and Topicus Coop Preference Units were converted to Topicus Subordinate Voting Shares 
+and  Topicus  Coop  Ordinary  Units  respectively.    As  a  result  of  this  conversion  the  non-controlling  interest  in 
+Topicus.com Inc. decreased from approximately 70% to 39%.     
+
+The controlling / non-Controlling interest ("NCI") percentage is based on the Topicus Subordinate Voting 
+Shares and Topicus Coop Ordinary Units ("Common Shares").  The controlling interest that the Company reflects 
+in Topicus includes the Common Shares that are currently owned by the Joday Group and subject to the terms of 
+the IRGA. 
+
+12 
+
+ 
+ 
+ 
+ 
+Common Share Holdings:
+
+Public shareholders of TOI
+Ijssel Group
+
+Joday Group
+CSI
+
+Jan 31, 2022
+40,512,360
+4,742,889
+
+19,665,642
+19
+64,920,910
+
+62.4%
+7.3%
+
+30.3%
+0.0%
+
+Feb 1, 2022
+
+40,512,360
+10,585,771
+
+31.2%
+8.2%
+
+Dec 31, 2022
+42,477,360
+8,620,771
+
+39,331,284
+39,412,404
+129,841,819
+
+30.3%
+30.4%
+
+39,331,284
+39,412,404
+129,841,819
+
+32.7%
+6.6%
+
+30.3%
+30.4%
+
+NCI
+
+69.7%
+
+39.4%
+
+39.4%
+
+The following table reconciles FCFA2S to net cash flows from operating activities:  
+
+Net cash flows from operating activities
+Adjusted for:
+Interest paid on lease obligations
+Interest paid on other facilities
+Credit facility transaction costs
+Payments of lease obligations
+IRGA / TSS membership liability revaluation charge
+Property and equipment purchased
+Interest and dividends received
+
+Less amount attributable to
+  Non-controlling interests
+
+Three months ended 
+December 31,
+
+2022
+
+2021
+
+($ in millions)
+
+Year ended 
+December 31,
+
+2022
+
+2021
+
+($ in millions)
+
+400
+
+341
+
+1,297
+
+1,300
+
+(3)
+(26)
+(4)
+(25)
+(23)
+(14)
+0
+
+(2)
+(10)
+(2)
+(22)
+(25)
+(10)
+0
+
+(11)
+(74)
+(7)
+(94)
+(112)
+(41)
+1
+
+(9)
+(40)
+(6)
+(83)
+(132)
+(29)
+2
+
+306
+
+271
+
+958
+
+1,003
+
+(16)
+
+(27)
+
+(105)
+
+(120)
+
+Free cash flow available to shareholders
+
+290
+
+244
+
+853
+
+883
+
+Due to rounding, certain totals may not foot.
+
+Quarterly Results 
+
+Dec. 31 Mar. 31
+
+Jun. 30 Sep. 30 Dec. 31 Mar. 31
+
+2020
+
+2021
+
+2021
+
+2021
+
+2021
+
+2022
+
+Quarter Ended
+
+Jun. 30 Sep. 30 Dec. 31
+2022
+
+2022
+
+2022
+
+Revenue
+Net income (loss) *
+CFO
+FCFA2S
+
+Net income per share *
+   Basic & diluted
+
+CFO per share
+   Basic & diluted
+
+FCFA2S per share
+   Basic & diluted
+
+1,091
+149
+355
+307
+
+1,176
+(9)
+495
+269
+
+1,249
+88
+171
+145
+
+1,299
+107
+292
+226
+
+1,383
+124
+341
+244
+
+1,431
+98
+498
+324
+
+1,618
+126
+78
+12
+
+1,725
+136
+321
+229
+
+1,847
+152
+400
+290
+
+7.02
+
+-0.41
+
+4.16
+
+5.04
+
+5.86
+
+4.63
+
+5.94
+
+6.42
+
+7.19
+
+16.73
+
+23.38
+
+8.07
+
+13.78
+
+16.09
+
+23.51
+
+3.66
+
+15.17
+
+18.89
+
+14.47
+
+12.67
+
+6.84
+
+10.68
+
+11.50
+
+15.27
+
+0.56
+
+10.82
+
+13.68
+
+* Attributable to common shareholders of CSI
+
+13 
+
+ 
+ 
+    
+ 
+ 
+ 
+ 
+        
+    
+    
+        
+      
+ 
+        
+    
+                  
+        
+    
+ 
+     
+ 
+          
+      
+        
+    
+            
+         
+           
+         
+           
+       
+           
+       
+            
+         
+             
+         
+           
+       
+           
+       
+           
+       
+         
+      
+           
+       
+           
+       
+             
+          
+              
+          
+          
+      
+          
+    
+           
+       
+         
+      
+          
+      
+          
+       
+     
+     
+     
+     
+     
+     
+     
+     
+     
+       
+          
+         
+       
+       
+         
+       
+       
+       
+       
+       
+       
+       
+       
+       
+         
+       
+       
+       
+       
+       
+       
+       
+       
+         
+       
+       
+    We experience seasonality in our operating results in that CFO and FCFA2S in the first quarter of every 
+year is typically the highest and CFO and FCFA2S in the second quarter of every year is the lowest.  The key driver 
+impacting this seasonality is the timing of annual maintenance contract renewals.  Our quarterly results may also 
+fluctuate as a result of the various acquisitions which may be completed by the Company in any given quarter.  We 
+may experience variations in our net income on a quarterly basis depending upon the timing of certain expenses or 
+gains, which may include changes in provisions, acquired contract liabilities, foreign exchange gains and losses, 
+bargain purchase gains, and gains or losses on the sale of financial and other assets.  
+
+Supplemental Financial Information 
+
+We are no longer including the non-IFRS and IFRS tables that were historically included in the annual 
+letter to shareholders.  However, the Average Invested Capital figure will be provided for purposes of calculating a 
+return on invested capital metric.  It will be left to the discretion of shareholders to determine what profitability 
+metric to include in the numerator of such a calculation.  The Average Invested Capital for 2022 was $4,641 million.
+
+“Average  Invested  Capital”  represents  the  average  equity  capital  of  Constellation,  and  is  based  on  the 
+Company’s  estimate  of  the  amount  of  money  that  its  common  shareholders  had  invested  in  Constellation. 
+Subsequent to that estimate, each period the Company has kept a running tally, adding a proxy for cash earnings, 
+subtracting any dividends, adding any amounts related to share issuances and  making some minor adjustments, 
+including adjustments relating to our use of certain incentive programs and the amortization of impaired intangibles. 
+The Company believes that Average Invested Capital is a useful measure as it approximates the retained earnings 
+of the Company prior to taking into consideration amortization of intangible assets, deferred income taxes, and 
+certain other non-cash expenses (income) incurred or recognized by the Company from time to time.  
+
+Spin-Out of Topicus.com Inc. 
+
+Constellation  (TSX:CSU)  and  Topicus  (TSXV:TOI)  announced  on  January  5,  2021  that  Constellation, 
+acting  through  its  Total  Specific  Solutions  (“TSS”)  operating  group  and  its  subsidiary  TPCS  Holding  B.V., 
+completed the purchase of 100% of the shares of Topicus.com B.V., a Netherlands-based diversified vertical market 
+software provider, from IJssel B.V. and that in connection with the closing of the acquisition, TSS has been spun 
+out of Constellation and now operates, together with Topicus.com B.V., as a separate public company, Topicus.com 
+Inc. (collectively, the “Spin-Out Transactions”). 
+
+In connection with the completion of the Spin-Out Transactions, on January 4, 2021, all of Constellation’s 
+common  shareholders  of  record  on  December  28,  2020  received,  by  way  of  a  dividend-in-kind,  1.859817814 
+subordinate voting shares of Topicus.com (the “Spin-Out Shares”) for each common share of Constellation held.   
+
+Constellation’s equity interest in TSS prior to the Spin-Out Transactions was 66.7%.  Constellation’s equity 
+interest in Topicus after completion of the Spin-Out Transactions on a fully diluted basis was approximately 30.4%.  
+In addition, Constellation as the holder of the Topicus Super Voting Share is entitled to that number of votes that 
+equals 50.1% of the aggregate number of votes attached to all of the outstanding voting shares at such time.  As a 
+result  of  the  Topicus  Super  Voting  Share  Constellation  consolidated  the  financial  results  of  Topicus  with  its 
+financial results. 
+
+The tables below provide certain supplemental balance sheet, statement of income, and net operating cash 
+flow information of Topicus for the three and twelve months ended December 31, 2022. Topicus is not considered 
+a reportable operating segment of Constellation, however, management has chosen to provide certain supplemental 
+financial information to provide greater clarity into the operating performance and cash flow from operations of 
+Topicus considering Constellation’s equity ownership. 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Constellation 
+Software Inc. 
+(excluding 
+Topicus)
+
+664
+1,250
+
+Topicus
+146
+259
+
+Consolidated
+811
+1,509
+
+Selected Balance Sheet Information
+As at December 31, 2022
+
+(Unaudited)
+Cash
+Bank debt and debentures
+
+Statement of Income
+(Excluding intercompany activity)
+
+(Unaudited)
+
+Revenue
+
+Expenses
+
+Amortization of intangible assets
+
+Foreign exchange (gain) loss
+
+IRGA / Membership liability revaluation charge
+
+Finance and other income
+
+Bargain purchase gain
+
+Impairment of intangible and other non-financial assets
+
+Redeemable preferred securities expense (income)
+
+Finance costs
+
+Income before income taxes
+
+Income tax expense (recovery)
+
+Current income tax expense (recovery)
+
+Deferred income tax expense (recovery)
+
+Income tax expense (recovery)
+
+Net income
+
+Net cash flows from operating activities
+
+Foreign Exchange Adjusted Organic Revenue Growth
+(Excluding intercompany activity)
+
+Licenses
+
+Professional services 
+
+Hardware and other
+
+Maintenance and other recurring
+
+Revenue
+
+For the three months ended December 31, 2022
+
+For the year ended December 31, 2022
+
+Constellation 
+Software Inc. 
+(excluding 
+Topicus)
+
+Topicus
+
+Consolidated
+
+Constellation 
+Software Inc. 
+(excluding 
+Topicus)
+
+Topicus
+
+Consolidated
+
+1,580
+
+1,185
+
+155
+42
+23
+(22)
+(13)
+5
+
+‐
+
+30
+175
+
+71
+(29)
+42
+
+133
+
+348
+
+268
+
+203
+
+‐
+
+‐
+‐
+‐
+
+30
+(0)
+
+(1)
+
+7
+29
+
+10
+(10)
+(0)
+
+29
+
+52
+
+1,847
+
+1,388
+
+185
+42
+23
+(23)
+(13)
+5
+
+‐
+
+37
+204
+
+80
+(39)
+41
+
+163
+
+400
+
+5,666
+
+4,338
+
+563
+(57)
+112
+9
+(16)
+7
+
+‐
+
+92
+617
+
+357
+(200)
+157
+
+461
+
+1,070
+
+956
+
+727
+
+112
+0
+
+(9)
+
+‐
+
+‐
+‐
+‐
+
+18
+108
+
+46
+(28)
+18
+
+90
+
+227
+
+6,622
+
+5,065
+
+676
+(56)
+112
+0
+(16)
+7
+
+‐
+110
+725
+
+403
+(228)
+175
+
+551
+
+1,297
+
+For the three months ended December 31, 2022
+
+For the year ended December 31, 2022
+
+Constellation 
+Software Inc. 
+(excluding 
+Topicus)
+
+‐3%
+‐7%
+46%
+6%
+4%
+
+Topicus
+‐2%
+7%
+8%
+6%
+6%
+
+Consolidated
+‐2%
+‐5%
+44%
+6%
+4%
+
+Constellation 
+Software Inc. 
+(excluding 
+Topicus)
+
+‐9%
+‐4%
+10%
+6%
+3%
+
+Topicus
+‐16%
+2%
+7%
+6%
+4%
+
+Consolidated
+‐10%
+‐3%
+10%
+6%
+3%
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                           
+         
+                      
+                       
+         
+                  
+                         
+         
+                
+                       
+         
+                  
+                         
+         
+                
+                       
+         
+                  
+                             
+           
+                    
+                           
+         
+                      
+                               
+            
+                      
+                            
+              
+                      
+                               
+          
+                      
+                           
+          
+                      
+                             
+            
+                     
+                                
+            
+                          
+                             
+          
+                     
+                            
+          
+                      
+                                 
+          
+                         
+                                
+          
+                          
+                             
+          
+                     
+                            
+          
+                      
+                               
+              
+                      
+                             
+            
+                      
+                             
+           
+                    
+                           
+         
+                      
+                               
+           
+                      
+                           
+            
+                      
+                             
+          
+                     
+                         
+          
+                    
+                               
+            
+                      
+                           
+            
+                      
+                             
+           
+                    
+                           
+            
+                      
+                             
+           
+                    
+                       
+         
+                  
+Acquisition of business segment from Allscripts Healthcare Solutions  
+
+On May 2, 2022, Constellation, through its wholly-owned subsidiary, N. Harris Computer Corporation, 
+completed  the  purchase  from  Allscripts  Healthcare  Solutions  (“Allscripts”)  of  Allscripts’  Hospitals  and  Large 
+Physician Practices business segment.  This business segment now operates under the name Altera. 
+
+The tables below provide certain supplemental balance sheet, statement of income, and net operating cash 
+flow information of Altera for the three and twelve months ended December 31, 2022. Altera is not considered a 
+reportable operating segment of Constellation, however, management has chosen to provide certain supplemental 
+financial information to provide greater clarity into the operating performance and cash flow from operations of 
+Altera considering the size of the business and its impact on the results of Constellation.  
+
+Selected Balance Sheet Information
+As at December 31, 2022
+
+(Unaudited)
+Cash
+Bank debt and debentures
+
+Constellation 
+Software Inc. 
+(excluding 
+Altera)
+
+697
+1,203
+
+Altera
+114
+306
+
+Consolidated
+811
+1,509
+
+Statement of Income
+(Excluding intercompany activity)
+
+(Unaudited)
+
+Revenue
+
+Expenses
+
+Amortization of intangible assets
+
+Foreign exchange (gain) loss
+
+IRGA / Membership liability revaluation charge
+
+Finance and other income
+
+Bargain purchase gain
+
+Impairment of intangible and other non-financial assets
+
+Redeemable preferred securities expense (income)
+
+Finance costs
+
+Income before income taxes
+
+Income tax expense (recovery)
+
+Current income tax expense (recovery)
+
+Deferred income tax expense (recovery)
+
+Income tax expense (recovery)
+
+Net income
+
+Net cash flows from operating activities
+
+Free cash flow available to shareholders
+
+For the three months ended December 31, 2022
+
+For the year ended December 31, 2022
+
+Constellation 
+Software Inc. 
+(excluding 
+Altera)
+
+Altera
+
+Consolidated
+
+Constellation 
+Software Inc. 
+(excluding 
+Altera)
+
+Altera
+
+Consolidated
+
+1,847
+
+1,388
+
+185
+42
+23
+(23)
+(13)
+5
+
+‐
+
+37
+204
+
+80
+(39)
+41
+
+163
+
+400
+
+290
+
+6,066
+
+4,573
+
+629
+(54)
+112
+1
+(16)
+7
+
+‐
+
+97
+718
+
+396
+(224)
+172
+
+546
+
+1,201
+
+782
+
+556
+
+491
+
+‐
+
+‐
+‐
+‐
+
+47
+(2)
+
+(0)
+
+13
+8
+
+6
+(4)
+3
+
+5
+
+96
+
+71
+
+6,622
+
+5,065
+
+676
+(56)
+112
+0
+(16)
+7
+
+‐
+110
+725
+
+403
+(228)
+175
+
+551
+
+1,297
+
+853
+
+197
+
+180
+
+‐
+
+‐
+‐
+‐
+
+17
+(2)
+
+0
+
+5
+(4)
+
+13
+(14)
+(1)
+
+(3)
+
+69
+
+60
+
+1,650
+
+1,208
+
+168
+44
+23
+(23)
+(13)
+5
+
+‐
+
+31
+208
+
+67
+(25)
+43
+
+166
+
+332
+
+230
+
+16 
+
+ 
+ 
+ 
+ 
+                           
+         
+                      
+                       
+         
+                  
+                       
+         
+                
+                       
+         
+                  
+                       
+         
+                
+                       
+         
+                  
+                          
+           
+                    
+                           
+            
+                      
+                             
+            
+                      
+                            
+            
+                      
+                             
+          
+                      
+                           
+          
+                      
+                           
+              
+                     
+                                
+            
+                          
+                           
+          
+                     
+                            
+          
+                      
+                               
+          
+                         
+                                
+          
+                          
+                           
+          
+                     
+                            
+          
+                      
+                             
+              
+                      
+                             
+            
+                      
+                          
+            
+                    
+                           
+              
+                      
+                             
+           
+                      
+                           
+              
+                      
+                           
+          
+                     
+                         
+            
+                    
+                             
+            
+                      
+                           
+              
+                      
+                          
+            
+                    
+                           
+              
+                      
+                          
+           
+                    
+                       
+            
+                  
+                          
+           
+                    
+                           
+            
+                      
+Foreign Exchange Adjusted Organic Revenue Growth
+(Excluding intercompany activity)
+
+Licenses
+
+Professional services 
+
+Hardware and other
+
+Maintenance and other recurring
+
+Revenue
+
+Liquidity  
+
+For the three months ended December 31, 2022
+
+For the year ended December 31, 2022
+
+Constellation 
+Software Inc. 
+(excluding 
+Altera)
+
+0%
+0%
+38%
+7%
+6%
+
+Altera
+
+‐30%
+‐25%
+286%
+‐7%
+‐13%
+
+Consolidated
+‐2%
+‐5%
+44%
+6%
+4%
+
+Constellation 
+Software Inc. 
+(excluding 
+Altera)
+
+‐8%
+‐2%
+8%
+7%
+4%
+
+Altera
+
+‐46%
+‐10%
+90%
+‐5%
+‐8%
+
+Consolidated
+‐10%
+‐3%
+10%
+6%
+3%
+
+Our net debt position (bank indebtedness excluding capitalized transaction costs less cash) increased by 
+$754 million to $502 million in the twelve months ended December 31, 2022 resulting from the net capital deployed 
+on acquisitions plus dividends exceeding cash flows from operations.  Cash increased by $48 million to $811 million 
+at December 31, 2022 compared to $763 million at December 31, 2021 and bank indebtedness increased by $802 
+million to $1,313 million at December 31, 2022 compared to $511 million at December 31, 2021. 
+
+Total  assets  increased  $2,116  million,  from  $5,766  million  at  December  31,  2021  to  $7,882  million  at 
+December 31, 2022.  The increase is primarily due to a $1,250 million increase in intangible assets, an increase in 
+accounts  receivable  of  $276  million,  and  a  $200  million  increase  in  other  assets.    At  December  31,  2022  ten 
+subsidiaries  holding  cash  totalling  $303  million  maintained  debt  facilities,  which  are  without  recourse  to 
+Constellation.  As explained in the “Capital Resources and Commitments” section below, there are limitations on 
+the ability of these subsidiaries to distribute funds to Constellation. 
+
+Current liabilities increased $1,307 million, from $2,461 million at December 31, 2021 to $3,768 million 
+at December 31, 2022.  The increase is primarily due to an increase in deferred revenue of $326 million mainly due 
+to acquisitions made since December 31, 2021 and the timing of maintenance and other billings versus performance 
+and delivery under those customer arrangements, an increase in bank indebtedness of $618 million, and an increase 
+in accounts payable and accrued liabilities of $248 million. 
+
+Net Changes in Cash Flows
+($ in millions)
+
+Net cash provided by operating activities
+
+Net cash from (used in) financing activities
+
+Cash used in the acquisition of businesses
+
+Cash obtained with acquired businesses
+
+Net cash from (used in) other investing activities
+
+Net cash from (used in) investing activities
+
+Effect of foreign currency
+
+Net increase (decrease) in cash and cash equivalents
+
+Year ended 
+December 31, 2022
+
+Year ended 
+December 31, 2021
+
+1,297
+
+483
+
+(1,782)
+
+216
+
+(127)
+
+(1,694)
+
+(39)
+
+48
+
+1,300
+
+(41)
+
+(1,337)
+
+153
+
+(55)
+
+(1,238)
+
+(16)
+
+5
+
+The net cash flows from operating activities were $1,297 million for the year ended December 31, 2022.  
+The $1,297 million provided by operating activities resulted from net income of $551 million plus $1,149 million 
+
+17 
+
+ 
+ 
+ 
+ 
+  
+                      
+                         
+                        
+                            
+                     
+                        
+                        
+                           
+                       
+                            
+                     
+                        
+                         
+                            
+                          
+                               
+of non-cash adjustments to net income, offset by $343 million in taxes paid and $60 million used towards non-cash 
+operating working capital.  
+
+The net cash flows from financing activities for the year ended December 31, 2022 were $483 million, 
+which is mainly a result of $786 million from the net increase in bank indebtedness offset by dividends paid to 
+common shareholders of $85 million, a distribution to the Joday Group of $23 million, lease obligation payments 
+of $94 million, and interest payments of $85 million. 
+
+The net cash flows used in investing activities for the twelve months ended December 31, 2022 were $1,694 
+million. The cash used in investing activities was primarily due to acquisitions for an aggregate of $1,782 million 
+(including payments for holdbacks relating to prior acquisitions), and $97 million in purchases of other investments, 
+offset by $216 million of acquired cash. 
+
+We believe we have sufficient cash and available credit capacity to continue to operate for the foreseeable 
+future.    Generally  our  VMS  businesses  operate  with  negative  working  capital  as  a  result  of  the  collection  of 
+maintenance  payments  and  other  revenues  in  advance  of  the  performance  of  the  related  services.      As  such, 
+management anticipates that it can continue to grow the business organically without any additional funding. If we 
+continue to acquire VMS businesses we may need additional external funding depending upon the size and timing 
+of the potential acquisitions.  
+
+Capital Resources and Commitments 
+
+CSI Facility 
+
+On  November  5,  2021,  Constellation  completed  an  amendment  and  restatement  of  its  revolving  credit 
+facility agreement (the “CSI Facility”), with a syndicate of Canadian chartered banks and U.S. banks in the amount 
+of $700 million, extending its maturity date to November 2026.  The CSI Facility bears a variable interest rate with 
+no fixed repayments required over the term to maturity.  Interest rates are calculated at standard U.S. and Canadian 
+reference rates plus interest rate spreads based on a leverage table.  The CSI Facility is currently collateralized by 
+the majority of the Company’s assets including the assets of certain material subsidiaries. The CSI Facility contains 
+standard events of default which if not remedied within a cure period would trigger the repayment of any outstanding 
+balance.  As  at December  31, 2022, $322 million had been drawn from this credit facility, and letters of credit 
+totaling $12 million were issued, which limits the borrowing capacity on a dollar-for-dollar basis.  
+
+On  March  3,  2022,  Constellation  completed  a  further  amendment  to  the  CSI  Facility  that  increased  the 
+
+revolving credit facility limit to $840 million. 
+
+Guarantees 
+
+One of CSI’s subsidiaries has entered into a $79 million (£65 million) term debt facility with a financial 
+institution for which CSI has guaranteed the debt.  The facility bears a fixed rate of interest.  The term loan contains 
+events of default that, if not remedied, allow the loan note holder to require repayment of the loan principal and 
+interest.  The loan is due in 2028. 
+
+Debt without recourse to CSI 
+
+Certain  of  CSI’s  subsidiaries  have  entered  into  term  debt  facilities  and  revolving  credit  facilities  with 
+various financial institutions. Except as noted above, CSI does not guarantee the debt of its subsidiaries, nor are 
+there any cross-guarantees between subsidiaries.  The credit facilities are collateralized by substantially all of the 
+assets of the borrowing entity and its subsidiaries.  The credit facilities typically bear interest at a rate calculated 
+using an interest rate index plus a margin.  The financing arrangements for each subsidiary typically contain certain 
+
+18 
+
+ 
+ 
+ 
+restrictive covenants, which may include limitations or prohibitions on additional indebtedness, payment of cash 
+dividends, redemption of capital, capital spending, making of acquisitions and sales of assets.  In addition, certain 
+financial covenants must be met by those subsidiaries that have outstanding debt.  
+
+Debt without recourse to CSI comprises the following ($ in millions): 
+
+Topicus Revolving 
+Credit  Facility
+
+Debt 
+Facilities
+
+Total
+
+Principal outstanding at December 31, 2022 (and equal to fair value)
+
+$                           
+
+139
+
+$                
+
+773
+
+Deduct:  Carrying value of transaction costs included in debt balance
+
+(3)
+
+(8)
+
+Carrying value at December 31, 2022
+
+Current portion
+
+Non-current portion
+
+Debentures 
+
+136
+
+136
+
+-
+
+766
+
+180
+
+586
+
+912
+
+(11)
+
+902
+
+316
+
+586
+
+On October 1, 2014 and November 19, 2014, the Company issued unsecured subordinated debentures (the 
+“Debentures”) with a total principal value of C$96 million for total proceeds of C$91 million. The proceeds were 
+used by the Company to pay down $81 million of outstanding bank indebtedness. 
+
+On September 30, 2015, the Company issued an additional tranche of Debentures with a total principal 
+value of C$186 million for total proceeds of C$214 million.  The proceeds were used by the Company to pay down 
+$130 million of outstanding bank indebtedness.  The September 30, 2015 issuance formed a single series with the 
+outstanding C$96 million aggregate principal amount of Debentures, Series 1 of the Company.  The Debentures 
+have a maturity date of March 31, 2040. 
+
+Liability of CSI under the terms of the IRGA / TSS Membership Agreement 
+
+On December 23, 2014, in accordance with the terms of the purchase and sale agreement for the initial 
+acquisition of TSS by CSI, and on the basis of the term sheets attached thereto, Constellation and the Joday Group, 
+among others, entered into a Members Agreement (the “Members Agreement”) pursuant to which the Joday Group 
+acquired 33.29% of the voting interests in Constellation Software Netherlands Holding Coöperatief U.A. (which 
+was renamed to Topicus.com Coöperatief U.A.), a subsidiary of Constellation and the indirect owner of 100% of 
+TSS at the time of the acquisition. Total proceeds from this transaction was €39 million ($49 million).   
+
+On  January  5,  2021,  the  Members  Agreement  was  terminated  in  conjunction  with  the  acquisition  of 
+Topicus.com B.V., the reorganization of Topicus Coop and the execution of the IRGA.  The IRGA was established 
+to create certain contractual obligations of the parties in respect of the governance of Topicus and Topicus Coop.  
+The Joday Group’s interest in Topicus Coop now comprises 39,331,284 Topicus Coop Ordinary Units resulting in 
+an interest of 30.29% in Topicus Coop as of December 31, 2022.  The IRGA provides for transfer restrictions in 
+respect of the Topicus Coop Units.   
+
+Any time after January 5, 2021, any member of the Joday Group has the right, at his or its option, to sell 
+any number of its Topicus Coop Units to CSI at a cash price per Topicus Coop Unit determined in accordance with 
+the IRGA. Upon the exercise of such option by a member of the Joday Group, CSI will be obligated to purchase 
+33.33% of such Topicus Coop Units within 30 days, and an additional 33.33% on each of the first and the second 
+anniversary of such initial purchase. Notwithstanding the foregoing, CSI can offer Topicus the right to purchase 
+such Topicus Coop Units in lieu of CSI. 
+
+19 
+
+ 
+ 
+ 
+            
+                               
+                     
+            
+                             
+                  
+            
+                             
+                  
+            
+                             
+                  
+            
+In the event of a change of control of CSI, any member of the Joday Group has the right, at his or its option, 
+to sell all of its Topicus Coop Units to CSI at a cash price per Topicus Coop Unit determined in accordance with 
+the IRGA. Upon the exercise of such option by a member of the Joday Group, CSI will be obligated to purchase all 
+such Topicus Coop Units. Notwithstanding the foregoing, CSI can offer Topicus the right to purchase such Topicus 
+Coop Units in lieu of CSI. 
+
+If CSI reduces its economic interest in Topicus by a sale or transfer of its economic interest (and not due to 
+any additional issuance of any shares or equity by Topicus) by more than one-third (calculated on a fully converted 
+basis in accordance with the IRGA), any member of the Joday Group has the right, at his or its option, to sell to CSI 
+one-third of its Topicus Coop Units at a cash price per Topicus Coop Unit determined in accordance with the IRGA. 
+Upon the exercise of such put option by a member of the Joday Group, CSI will be obligated to purchase all such 
+put Topicus Coop Units. Notwithstanding the foregoing, CSI can offer Topicus the right to purchase such Topicus 
+Coop Units in lieu of CSI. Any member of the Joday Group has a similar right to sell one-half or all of its remaining 
+Topicus Coop Units, respectively, at its option, if CSI further reduces its remaining fully-diluted economic interest 
+in  Topicus  by  a  sale  or  transfer  of  its  economic  interest  by  one-half  and  again  if  CSI  sells  its  entire  remaining 
+economic interest in Topicus. 
+
+All of the Topicus Coop Ordinary Units and Topicus Coop Preference Units held by the Joday Group and 
+Ijssel  B.V.  (collectively,  the  “Topicus  Coop  Exchangeable  Units”)  are  exchangeable,  directly  or  indirectly,  for 
+Topicus Subordinate Voting Shares. All of the above rights of members of the Joday Group apply to any Topicus 
+Subordinate Voting Shares issued on an exchange of Topicus Coop Exchangeable Units. 
+
+At any time after December 31, 2023, CSI has the right, at its option, to buy all of the Topicus Coop Units 
+and shares of Topicus held by certain members of the Joday Group (excluding Joday) at a cash price per Topicus 
+Coop Unit (or share of Topicus, as applicable) determined in accordance with the IRGA. After December 31, 2043, 
+CSI has the same right to buy all of the Topicus Coop Units and shares of Topicus held by the remaining members 
+of the Joday Group, including Joday.   
+
+In addition, if certain individuals affiliated with Joday are terminated from their employment with Topicus 
+Coop or an affiliate thereof for urgent cause (as defined in the Dutch Civil Code), CSI has the right, at its option, to 
+buy  all  of  Topicus  Coop  Units  held  by  such  individuals  at  a  cash  price  per  Topicus  Coop  Unit  determined  in 
+accordance with the IRGA. 
+
+The Company classified the above obligations of CSI under the terms of the IRGA as a liability consistent 
+with the classification of similar obligations under the Members Agreement.   The main valuation driver in the 
+calculation of the liability is the maintenance and other recurring revenue of Topicus.  Maintenance and recurring 
+revenue of Topicus for the trailing twelve months on a pro-forma basis determined at the end of the current reporting 
+period was used as the basis for valuing the interests at each purchase date.  Any increase or decrease in the value 
+of such liability is recorded as an expense or income in the consolidated statement of income for the period. In 
+conjunction  with  the  termination  of  the  Members  Agreement  and  the  execution  of  the  IRGA,  the  Company 
+recognized an expense of $19 million as the formula associated with the calculation of the obligation has changed 
+from the use of actual trailing twelve months maintenance and other recurring revenue of Topicus to a calculation 
+which includes the revenue increase from acquired companies on a pro-forma basis.   
+
+During the periods ended December 31, 2022 and December 31, 2021, no options were exercised.  During 
+the twelve months ended December 31, 2022, a distribution in the amount of $23 million was paid to the Joday 
+Group relating to their Topicus Preferred Securities.   
+
+Redeemable Preferred Securities 
+
+In conjunction with the acquisition of Topicus.com B.V., Topicus Coop issued 5,842,882 Topicus Coop 
+Preference Units (the “Preferred Securities”) to Ijssel B.V.  The Preferred Securities were non-voting and prior to 
+the Notification of Conversion were redeemable at the option of the holder for a redemption price of approximately 
+
+20 
+
+ 
+ 
+€19.06 per unit.  The redemption price would have been either settled in cash or through the issuance of a variable 
+number of Topicus Coop Ordinary Units of equal value.  The Preferred Securities are convertible into Topicus Coop 
+Ordinary  Units  at  a  conversion  ratio  of  1:1.  The  Preferred  Securities  holders  were  entitled  to  a  fixed  annual 
+cumulative dividend of 5% per annum on the initial Preferred Securities value of approximately €19.06 per unit. 
+
+On February 1, 2022, the Preferred Securities were converted to Topicus Coop Ordinary Units.  
+
+Other commitments 
+
+Commitments include operating leases for office equipment and facilities, letters of credit and performance 
+bonds  issued  on  our  behalf  by  financial  institutions  in  connection  with  facility  leases  and  contracts  with  public 
+sector customers.  Also, occasionally we structure some of our acquisitions with contingent consideration based on 
+the  future  performance  of  the  acquired  business.    The  fair  value  of  contingent  consideration  recorded  in  our 
+statement of financial position was $157 million at December 31, 2022.  Aside from the aforementioned, we do not 
+have any other business arrangements, derivative financial instruments, or any equity interests in non-consolidated 
+entities that would have a significant effect on our assets and liabilities as at December 31, 2022.  
+
+The IRGA liability commitment assumes that the Joday Group has exercised their put option to sell 100% 
+of their interests back to Constellation.  This option however has not been exercised as at March 29, 2023.  See note 
+10 to the Annual Consolidated Financial Statements for the year ended December 31, 2022 for a discussion on the 
+valuation methodology utilized. 
+
+Foreign Currency Exposure  
+
+We  operate  internationally  and  have  foreign  currency  risks  related  to  our  revenue,  operating  expenses, 
+assets and liabilities denominated in currencies other than the U.S. dollar.  Consequently, we believe movements in 
+the  foreign  currencies  in  which  we  transact  will  impact  future  revenue  and  net  income.    The  impact  to  organic 
+revenue growth for the three and twelve months ended December 31, 2022 was approximately negative 5% and 
+negative 4% respectively.  We cannot predict the effect of foreign exchange gains or losses in the future; however, 
+if significant foreign exchange losses are experienced, they could have a material adverse effect on our business, 
+revenues,  results  of  operations,  and  financial  condition.    The  Company  enters  into  forward  foreign  exchange 
+contracts  from  time  to  time  with  the  objective  of  mitigating  volatility  in  profit  or  loss  in  respect  of  financial 
+liabilities.    In  entering  into  these  forward  exchange  contracts,  the  Company  is  exposed  to  the  credit  risk  of  the 
+counterparties to such contracts and the possibility that the counterparties will default on their payment obligations 
+under  these  contracts.  However,  given  that  the  counterparties  are  Schedule  1  banks  or  affiliates  thereof,  the 
+Company believes these risks are not material. During the twelve months ended December 31, 2022, the Company 
+did not purchase any contracts of this nature. 
+
+The  following  table  provides  an  approximate  breakdown  of  our  revenue  and  expenses  by  currency, 
+expressed  as  a  percentage  of  total  revenue  and  expenses,  as  applicable,  for  the  three  and  twelve  months  ended 
+December 31, 2022: 
+
+21 
+
+ 
+ 
+Three Months Ended December 31, 2022
+
+Year Ended December 31, 2022
+
+Currencies
+USD
+EUR
+GBP
+CAD
+AUD
+BRL
+CHF
+SEK
+Others
+Total
+
+% of Revenue
+54%
+18%
+7%
+5%
+4%
+2%
+1%
+1%
+8%
+100%
+
+% of Expenses
+50%
+18%
+7%
+8%
+4%
+2%
+2%
+1%
+9%
+100%
+
+% of Revenue
+52%
+18%
+8%
+6%
+4%
+2%
+1%
+1%
+8%
+100%
+
+% of Expenses
+47%
+18%
+8%
+9%
+4%
+2%
+2%
+1%
+10%
+100%
+
+Due to rounding, certain totals may not foot.
+
+Off-Balance Sheet Arrangements 
+
+As  a  general  practice,  we  have  not  entered  into  off-balance  sheet  financing  arrangements.    Except  for 
+insignificant and short-term operating leases and letters of credit, all of our liabilities and commitments are reflected 
+as part of our statement of financial position. 
+
+Proposed Transactions 
+
+We seek potential acquisition targets on an ongoing basis and may complete several acquisitions in any 
+
+given fiscal year.   
+
+Critical Accounting Estimates 
+
+General  
+
+The  preparation  of  our  consolidated  ﬁnancial  statements  requires  management  to  make  estimates  and 
+assumptions that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosure of 
+contingent assets and liabilities. Our estimates are based on historical experience and on various other assumptions 
+that are believed to be reasonable under the circumstances. Our ongoing evaluation of these estimates forms the 
+basis for making judgments about the carrying values of assets and liabilities and the reported amount of revenues 
+and expenses, in cases where they are not readily ascertainable from other sources. Actual amounts may differ from 
+these estimates under different assumptions or conditions.  
+
+Our  signiﬁcant  accounting  policies  are  fully  described  in  Note  3  to  our  annual  consolidated  financial 
+statements which are available on SEDAR (www.sedar.com). Certain accounting policies are particularly important 
+to the reporting of our ﬁnancial position and results of operations, and require the application of signiﬁcant judgment 
+by our management. An accounting policy is deemed to be critical if it requires an accounting estimate to be made 
+based  on  assumptions  about  matters  that  are  highly uncertain  at  the  time  the  estimate  is  made,  and if  different, 
+estimates that reasonably could have been used, or changes in the accounting estimates that are reasonably likely to 
+occur periodically, could have a material impact on the ﬁnancial statements. Management believes the following 
+critical accounting policies reﬂect the more signiﬁcant estimates and assumptions used in the preparation of our 
+consolidated ﬁnancial statements. We believe that there have been no signiﬁcant changes in our critical accounting 
+estimates for the years presented in our consolidated ﬁnancial statements.  
+
+Revenue Recognition 
+
+Revenue represents the amount the Company expects to receive for products and services in its contracts 
+with  customers,  net  of  discounts  and  sales  taxes.    The  Company  reports  revenue  under  four  revenue  categories 
+
+22 
+
+ 
+ 
+ 
+being, License, Hardware and other, Professional services, and Maintenance and other recurring revenue.  Software 
+license revenue is comprised of non-recurring license fees charged for the use of software products licensed under 
+multiple-year or perpetual arrangements.  Professional service revenue consists of fees charged for implementation 
+services, custom programming, product training, certain managed services, and consulting.  Hardware and other 
+revenue includes the resale of third party hardware as part of customized solutions, as well as sales of hardware 
+assembled internally and the reimbursement of travel costs.  Maintenance and other recurring revenue primarily 
+consists of fees charged for customer support on software products post-delivery and also includes recurring fees 
+derived  from  combined  software/support  contracts,  transaction  revenues,  managed  services  associated  with  CSI 
+software that has been sold to the customer, and hosted software-as-a-service products. 
+
+Contracts with multiple products or services  
+
+Typically, the Company enters into contracts that contain multiple products and services such as software 
+licenses, hosted software-as-a-service, maintenance, professional services, and hardware. The Company evaluates 
+these  arrangements  to  determine  the  appropriate  unit  of  accounting  (performance  obligation)  for  revenue 
+recognition purposes based on whether the product or service is distinct from some or all of the other products or 
+services in the arrangement.    A product or service is distinct if the customer can benefit from it on its own or 
+together  with  other  readily  available  resources  and  Constellation’s  promise  to  transfer  the  good  or  service  is 
+separately identifiable from other promises in the contractual arrangement with the customer. Non-distinct products 
+and services are combined with other goods or services until they are distinct as a bundle and therefore form a single 
+performance obligation.   
+
+Where a contract consists of more than one performance obligation, revenue is allocated to each based on 
+
+their estimated standalone selling price. 
+
+Nature of products and services 
+
+The Company sells on-premise software licenses on both a perpetual and specified-term basis.  Revenue 
+from the license of distinct software is recognized at the time that both the right-to-use the software has commenced 
+and the software has been made available to the customer.  Certain of the Company’s contracts with customers 
+contain provisions that require the customer to renew optional support and maintenance in order to maintain the 
+active  right  to  use  a  perpetual  or  term  license.    The  renewal  payments  after  the  initial  bundled  support  and 
+maintenance term in these cases apply to both the continued right-to-use the license and the support and maintenance 
+renewal.  Where the fees payable for the initial term are incremental to the fees for the renewal terms, the excess is 
+treated  as  a  prepayment  for  expected  renewals  and  allocated  (amortized)  evenly  over  the  expected  customer 
+renewals, up to the estimated life of the software that is typically 4-6 years.  
+
+Revenue from the license of software that involves complex implementation or customization that is not 
+distinct, and/or includes sales of hardware that is not distinct, is recognized as a combined performance obligation 
+using the percentage-of-completion method based primarily on labour hours. The percentage-of-completion method 
+based on labour hours requires the Company to make significant judgments to determine the estimated hours to 
+completion which affects the timing of revenue recognized.   
+
+A portion of the Company's sales, categorized as hardware and other revenue, are accounted for as product 
+revenue.    Product  revenue  is  recognized  when  control  of  the  product  has  transferred  under  the  terms  of  an 
+enforceable contract. 
+
+Revenue  related  to  the  customer  reimbursement  of  travel  related  expenses  incurred  during  a  project 
+implementation  where  the  Company  is  the  principal  in  the  arrangement  is  included  in  the  hardware  and  other 
+revenue category.  Revenue is recognized as costs are incurred which is consistent with the period in which the 
+costs are invoiced.  Reimbursable travel expenses incurred for which an invoice has not been issued, are recorded 
+as part of unbilled revenue on the statement of financial position. 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Maintenance  and  other  recurring  revenue  primarily  consists  of  fees  charged  for  customer  support  on 
+software products post-delivery and also includes, to a lesser extent, recurring fees derived from software licenses 
+that are not distinct from maintenance, transaction revenues, managed services, and hosted products.  
+
+Revenue from software-as-a-service (SaaS) arrangements, which allows customers to use hosted software 
+over a term without taking possession of the software, are provided on a subscription basis. Revenue from the SaaS 
+subscription,  which  includes  the  hosted  software  and  maintenance  is  recognized  rateably  over  the  term  of  the 
+subscription. Significant incremental payments for SaaS in an initial term are recognized rateably over the expected 
+renewal periods, up to the estimated life of the software. 
+
+Professional  services  revenue  including  installation,  implementation,  training  and  customization  of 
+software is recognized by the stage of completion of the performance obligation determined using the percentage 
+of  completion  method  noted  above  or  as  such  services  are  performed  as  appropriate  in  the  circumstances.  
+Professional services revenue also includes managed services not associated with CSI software.  The revenue and 
+profit of fixed price contracts is recognized on a percentage of completion basis when the outcome of a contract can 
+be estimated reliably.  When the outcome of the contract cannot be estimated reliably but the Company expects to 
+recover  its  costs,  the  amount  of  expected  costs  is  treated  as  variable  consideration  and  the  transaction  price  is 
+updated as more information becomes known. 
+
+The timing of revenue recognition often differs from contract payment schedules, resulting in revenue that 
+has been earned but not billed.  These amounts are included in unbilled revenue.  Amounts billed in accordance 
+with customer contracts, but not yet earned, are recorded and presented as part of deferred revenue. 
+
+Valuation of Identiﬁable Goodwill and Other Intangible Assets  
+
+Acquisitions have been accounted for using the acquisition method required by IFRS 3.  Goodwill arising 
+on acquisitions is measured as the fair value of the consideration transferred including the recognized amount of 
+any non-controlling interest in the acquiree, if any, less the net recognized amount of the estimated fair value of 
+identifiable  assets  acquired  and  liabilities  assumed  (subject  to  certain  exemptions  to  fair  value  measurement 
+principles such as deferred tax assets or liabilities), all measured as of the acquisition date. When the excess of the 
+consideration transferred less the assets and liabilities acquired is negative, a bargain purchase gain is recognized 
+immediately in profit or loss. Transaction costs that the Company incurs in connection with a business combination 
+are expensed as incurred. 
+
+We use the income approach to value acquired technology and customer related intangible assets, which 
+
+are the two material intangible asset categories reported in our financial statements. 
+
+The income approach is a valuation technique that calculates the fair value of an intangible asset based on 
+the cash flows that the asset can be expected to generate over its remaining useful life.  We utilize the discounted 
+cash flow (“DCF”) methodology which is a form of the income approach that begins with a forecast of the annual 
+cash  flows  a  market  participant  would expect  the  subject  intangible  asset  to  generate  over  a  discrete  projection 
+period.  The forecasted cash flows for each of the years in the discrete projection period are then converted to their 
+present value equivalent using a rate of return appropriate for the risk of achieving the intangible assets’ projected 
+cash flows, again, from a market participant perspective.  The present value of the forecasted cash flows are then 
+added to the present value of the residual value of the intangible asset (if any) at the end of the discrete projection 
+period to arrive at a conclusion with respect to the estimated fair value of the subject intangible asset.   
+
+Specifically, we rely on the relief-from-royalty method to value the acquired technology and the multiple-
+
+period excess earnings method (“MEEM”) to value customer relationship assets. 
+
+The underlying premise of the relief-from-royalty method is that the fair value of the technology is equal 
+to the costs savings (or the "royalty avoided") resulting from the ownership of the asset by the avoidance of paying 
+royalties to license the use of the technology from another owner.  Accordingly the income forecast reflects an 
+
+24 
+
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+estimate of a fair royalty that a licensee would pay, on a percentage of revenue basis, to obtain a license to utilize 
+the technology. 
+
+The  MEEM  method  isolates  the  cash  flows  attributable  to  the  subject  asset  by  utilizing  a  forecast  of 
+
+expected cash flows less the returns attributable to other enabling assets, both tangible and intangible. 
+
+Goodwill  is  initially  recorded  when  the  purchase  price  paid  for  an  acquisition  exceeds  the  fair  value 
+assigned to the net identiﬁable tangible and intangible assets acquired. Goodwill is not amortized but rather it is 
+periodically assessed for impairment.  
+
+After initial recognition, goodwill is measured at cost less any accumulated impairment losses, with the 
+carrying value being reviewed for impairment at least annually and whenever events or changes in circumstances 
+indicate that the carrying value may be impaired.  We perform an annual review in the fourth quarter of each ﬁscal 
+year,  or  more  frequently  if  indicators  of  potential  impairment  exist,  to  determine  if  the  recorded  goodwill  is 
+impaired.  In respect of equity accounted investees, the carrying amount of goodwill is included in the carrying 
+amount of the investment, and an impairment loss on such an investment is not allocated to any asset, including 
+goodwill,  that  forms  part  of  the  carrying  amount  of  the  equity  accounted  investee.    No  such  losses  have  been 
+recognized during the year. 
+
+The impairment test methodology is based on a comparison between the higher of fair value less costs to 
+sell and value-in-use of each of the Company's cash generating units (“CGU”) and the net asset carrying values 
+(including goodwill).  Within the Company's reporting structure, business units generally reflect the CGU and are 
+one level below the six operating groups (Volaris, Harris, Topicus, Jonas, Perseus, and Vela Operating Groups).  In 
+determining the recoverable amount, the Company applies an estimated market valuation multiple to the business 
+unit's  most  recent  annual  recurring  revenues,  which  are  generally  derived  from  post-contract  customer  support 
+revenues, transactional revenues, and hosted products revenues.  Valuation multiples applied by the Company for 
+this purpose reflect current market conditions specific to the business unit and are assessed for reasonability by 
+comparison to the Company's current and past acquisition experience involving ranges of revenue-based multiples 
+required to acquire representative software companies and the Company’s overall revenue based-trading multiple.  
+In addition, in certain instances, the recoverable amount is determined using a value-in-use approach which follows 
+the  same  valuation  process  that  is  undertaken  for  the  Company’s  business  acquisitions.    An  impairment  is 
+recognized if the carrying amount of a CGU exceeds its estimated recoverable amount.  The recoverable amount of 
+goodwill  is  estimated  annually  on  December  31  of  each  year  or  whenever  events  or  changes  in  circumstances 
+indicate that the carrying value may be impaired. 
+
+We also review the carrying value of amortizable intangible assets for impairment whenever events and 
+circumstances indicate that the carrying value of an asset may not be recoverable from the estimated future cash 
+ﬂows  expected  to  result  from  its  use  and  eventual  disposition.  Any  change  in  estimate  which  causes  the 
+undiscounted expected future cash ﬂows to be less than the carrying value, would result in an impairment loss being 
+recognized equal to the amount by which the carrying value of the asset exceeds the fair value of the asset.  
+
+Accounting for Income Taxes  
+
+Signiﬁcant management judgment is required in determining our provision for income taxes, our income 
+tax assets and liabilities, and any valuation allowance recorded against our net income tax assets. We operate in 
+multiple geographic jurisdictions, and to the extent that we have proﬁts in each jurisdiction, these proﬁts are taxed 
+pursuant to the tax laws of their jurisdiction. Our effective tax rate may be affected by changes in, or interpretations 
+of, tax laws in any given jurisdiction, the level of proﬁtability, utilization of net operating losses and tax credit carry 
+forwards, changes in geographical mix of income and expense, and changes in management’s assessment of matters, 
+such as the ability to realize future tax assets. As a result of these considerations, we must estimate our income taxes 
+in each of the jurisdictions in which we operate on a quarterly basis. This process involves estimating our actual 
+
+25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+current tax exposures, together with assessing temporary differences resulting from differing treatment of items for 
+tax and accounting purposes. These differences result in future tax assets and liabilities, which are included in our 
+consolidated balance sheet.  
+
+Current tax is the expected taxes payable or receivable on the taxable income or loss for the period, using 
+tax rates enacted or substantively enacted at the reporting date, and any adjustment to taxes payable in respect of 
+previous years. 
+
+Deferred tax is recognized in respect of temporary differences between the carrying amounts of assets and 
+liabilities for financial reporting purposes and the amounts used for taxation purposes. Deferred tax is not recognized 
+for temporary differences relating to investments in subsidiaries to the extent that it is probable that they will not 
+reverse in the foreseeable future. In addition, deferred tax is not recognized for taxable temporary differences arising 
+on the initial recognition of goodwill. 
+
+Deferred tax is measured at tax rates that are expected to be applied to temporary differences when they 
+reverse, based on the laws that have been enacted or substantively enacted by the reporting date. Deferred tax assets 
+and liabilities are offset if there is a legally enforceable right to offset current tax liabilities and assets, and they 
+relate to income taxes levied by the same tax authority on the same taxable entity, or on different tax entities, but 
+we intend to settle current tax liabilities and assets on a net basis or their tax assets and liabilities will be realized 
+simultaneously. 
+
+A deferred tax asset is recognized for unused tax losses, tax credits, difference in tax bases in the purchaser's 
+tax jurisdiction and its cost as reported in the consolidated financial statements as a result of an intra-group transfer 
+of assets and deductible temporary differences, to the extent that it is probable that future taxable profits will be 
+available against which they can be utilized. Deferred tax assets are reviewed at each reporting date and are reduced 
+to the extent that it is no longer probable that the related tax benefit will be realized. 
+
+We are subject to income tax audits by various authorities in respect of prior periods that could result in 
+additional  tax  expense  in  future  periods.  While  the  outcome  of  current  outstanding  actions  and  claims  remains 
+uncertain, it is expected that they will be resolved without a material impact to our financial position. However, 
+there can be no assurances as to the final resolution of these matters and, if the final outcome is adverse to us,  the 
+amounts we will be required to pay and the loss of certain future tax deductions could be material to our financial 
+statements. 
+
+Accounts Receivable  
+
+We  evaluate  the  collectability  of  our  trade  receivables  at  both  a  specific  and  collective  level.    All 
+individually significant receivables are assessed for specific impairment. All individually significant receivables 
+found not to be specifically impaired, together with receivables that are not individually significant are collectively 
+assessed for impairment by grouping together receivables with similar risk characteristics.  
+
+Work In Progress  
+
+For revenue arrangements that are accounted for under the percentage of completion method as well as 
+other arrangements and contracts which limit our ability to invoice at certain milestones that do not match the timing 
+of the actual provision of the services, we record such revenue and the related unbilled receivable in work in process. 
+Similar  to  accounts  receivable,  we  constantly  have  to  evaluate  our  ability  to  bill  and  subsequently  collect  any 
+amounts  contained  in  the  work  in  progress  accounts.  We  review  these  balances  on  a  periodic  basis  to  ensure 
+customer  balances  are  prudent  based  upon  a  variety  of  factors,  such  as  the  ﬁnancial  health  of  the  customer, 
+macroeconomic considerations and historical experience. If circumstances related to speciﬁc customers change, our 
+estimates of the recoverability of work in progress may be further adjusted.  
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provisions 
+
+A provision is recognized if, as a result of a past event, the Company has a present legal or constructive 
+obligation that can be estimated reliably, and it is probable that an outflow of economic benefits will be required to 
+settle  the  obligation.    Provisions  are  measured  at  the  estimated  future  cash  flows  required  to  settle  the  present 
+obligation,  based  on  the  most  reliable  evidence  available  at  the  reporting  date.    The  estimated  cash  flows  are 
+discounted at a pre-tax rate that reflects current market assessments of the time value of money and the risks specific 
+to the liability. The amortization of the discount is recognized as part of finance costs. 
+
+We are currently involved in various claims and legal proceedings. Quarterly, we review the status of each 
+signiﬁcant matter and assess our potential ﬁnancial exposure. Because of the uncertainties related to these matters, 
+provisions are based only on the best information available at the time. As additional information becomes available, 
+we reassess the potential liability related to our pending claims and litigation and, if necessary, revise our provisions. 
+Such revisions in the estimates of the potential liabilities could have a material impact on our results of operations 
+and ﬁnancial position. 
+
+Share Capital 
+
+As at March 29 2023, there were 21,191,530 common shares outstanding. 
+
+Risks and Uncertainties 
+
+The Company’s business is subject to a number of risk factors which are described in our most recently 
+filed AIF.  Additional risks and uncertainties not presently known to us or that we currently consider immaterial 
+also may impair our business and operations and cause the price of the common shares to decline.  If any of the 
+noted risks actually occur, our business may be harmed and the financial condition and results of operations may 
+suffer significantly.  In that event, the trading price of the common shares could decline, and shareholders may lose 
+all or part of their investment. 
+
+The Company is closely monitoring the impact of COVID-19 on all aspects of its business. COVID-19 was 
+declared a global pandemic by the World Health Organization on March 11, 2020. The COVID-19 pandemic has 
+had disruptive effects in countries in which the Company operates and has adversely impacted many of its business 
+units’  operations  to  date,  including  through  the  cancellation  by  certain  customers  of  their  ongoing  software 
+maintenance contracts and the suspension or cancellation of new software purchases.  The pandemic may also have 
+an  adverse  impact  on  many  of  the  Company’s  customers,  including  their  ability  to  satisfy  ongoing  payment 
+obligations to the Company, which could increase the Company’s bad debt exposure. The future impacts of the 
+pandemic and any resulting economic impact are largely unknown. It is possible that the COVID-19 pandemic, the 
+measures  taken  by  the  governments  of  countries  affected  and  the  resulting  economic  impact  may  continue  to 
+adversely affect the Company’s results of operations, cash flows and financial position as well as its customers in 
+future periods, and this impact could be material. 
+
+Controls and Procedures  
+
+Evaluation of disclosure controls and procedures: 
+
+Management is responsible for establishing and maintaining disclosure controls and procedures as defined 
+under National Instrument 52-109.  At December 31, 2022, the President and Chief Financial Officer, based on the 
+investigation and advice of those under their supervision, have concluded that the design and operation of these 
+disclosure controls and procedures were effective and that material information relating to the Company, including 
+its subsidiaries, was made known to them and was recorded, processed, summarized and reported within the time 
+periods specified under applicable securities legislation.   
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+Internal controls over financial reporting: 
+
+  The President and Chief Financial Officer have designed or caused to be designed by those under their 
+supervision,  disclosure  controls  and  procedures  which  provide  reasonable  assurance  that  material  information 
+regarding the Company is accumulated and communicated to the Company’s management, including its President 
+and Chief Financial Officer in a timely manner.  
+
+In addition, the President and Chief Financial Officer have designed or caused it to be designed under their 
+supervision  internal  controls  over  financial  reporting  (“ICFR”)  to  provide  reasonable  assurance  regarding  the 
+reliability  of  financial  reporting  and  the  preparation  of  financial  statements.  The  President  and  Chief  Financial 
+Officer have been advised that the control framework the President and the Chief Financial Officer used to design 
+the Company’s ICFR is recognized by the Committee of Sponsoring Organizations of the Treadway Commission. 
+
+The President and the Chief Financial Officer have evaluated, or caused to be evaluated by those under 
+their supervision, whether or not there were changes to its ICFR during the period ended December 31, 2022 that 
+have materially affected, or are reasonably likely to materially affect the Company’s ICFR.  No such changes were 
+identified through their evaluation. 
+
+A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, 
+assurance that its objectives are met. Due to inherent limitations in all such systems, no evaluations of controls can 
+provide absolute assurance that all control issues, if any, within a company have been detected. Accordingly, our 
+disclosure  controls  and  procedures  and  our  internal  controls  over  financial  reporting  are  effective  in  providing 
+reasonable, not absolute, assurance that the objectives of our control systems have been met. 
+
+Limitation on scope of design 
+
+Management has limited the scope of the design of internal controls over financial reporting and disclosure 
+controls and procedures to exclude the controls, policies and procedures of Altera. (See “Acquisition of business 
+segment from Allscripts Healthcare Solutions” above.)  The scope limitation is in accordance with Section 3.3 of 
+National Instrument 52-109, Certification of Disclosure in Issuer’s Annual and Interim Filings, which allows an 
+issuer  to  limit  its  design  of  internal  controls  over  financial  reporting  and  disclosure  controls  and  procedures  to 
+exclude the controls, policies and procedures of a company acquired not more than 365 days before the end of the 
+financial period to which the certificate relates. The table below shows additional summary financial information 
+for  Altera  which  is  included  in  the  December  31,  2022  audited  annual  consolidated  financial  statements  of 
+Constellation. 
+
+As at December 31, 2022
+($ in millions)
+
+Current Assets
+Non‐current assets
+Current liabilities
+Non‐current liabilities
+
+Altera
+338
+742
+332
+346
+
+28 
+
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+          
+          
+          
+Subsequent Events  
+
+On  February  22  and  23,  2023  (as  part  of  a  series  of  transactions  relating  to  the  acquisition  of  WideOrbit  Inc. 
+(“WideOrbit”) described further below), the Company’s subsidiary, Lumine Group Inc. (“Lumine”), completed a 
+corporate reorganization.  After the reorganization was completed, the Company now owns 1 super voting share, 6 
+subordinate  voting  shares  and  63,582,712  preferred  shares  of  Lumine.    Furthermore,  the  Company  distributed 
+63,582,706 of the subordinate voting shares to its common shareholders pursuant to a dividend-in-kind on February 
+23, 2022.  The steps performed in conjunction with the reorganization consisted of the following:     
+
+  The Company exchanged its existing common shares and preferred shares in Lumine Group (Holdings) 
+Inc. (“Lumine Group Holdings”) for 63,582,712 subordinate voting shares and 55,233,745 preferred shares 
+of Lumine on February 22, 2023.  
+
+  Lumine and Lumine Group Holdings amalgamated on February 22, 2023.  
+  The Company subscribed for 8,348,967 preferred shares of Lumine on February 22, 2023.  The preferred 
+
+shares are convertible into subordinate voting shares of Lumine at a rate of 1:2.43. 
+
+  Lumine  had  63,582,712  subordinate  voting  shares  outstanding  on  February  22,  2023.  The  Company 
+distributed 63,582,706 of the subordinate voting shares to its common shareholders pursuant to a dividend-
+in-kind on February 23, 2022 and continues to hold 6 subordinate voting shares of Lumine.  
+
+  Under certain conditions, the preferred shares are retractable at the option of the holder for a retraction price 
+of approximately $21.74 per preferred share. The holders of the preferred shares are also entitled to a fixed 
+annual cumulative dividend of 5% per annum. 
+
+  The Company holds 1 super voting share of Lumine.  The super voting share entitles the holder to that 
+number of votes that equals 50.1% of the aggregate number of votes attached to all the outstanding super 
+voting shares, subordinate voting shares and special shares of Lumine.  As a result, the Company controls 
+Lumine and will consolidate its financial position and results of operations with Lumine. The Company 
+will reflect a non-controlling interest held by other parties.       
+
+On  February  23,  2023,  the  Company  purchased  100%  of  the  shares  of  WideOrbit,  a  US-based  vertical  market 
+software  provider.  Annual  gross  revenues  of  WideOrbit  for  2022  were  approximately  $169  million.  The  gross 
+purchase price for the transaction was $490 million, subject to customary adjustments, as a result of, but not limited 
+to,  minimum  cash  requirements  of  $10  million,  target  net  indebtedness  of  $87  million,  and  claims  under  the 
+representations and warranties of the purchase agreement. The Company has the ability to reduce the cash portion 
+of the purchase consideration by $10 million for net indebtedness up to $97 million. If net indebtedness is greater 
+than  $97  million,  excess  repayment  would  be  funded  by  the  Company  and  added  to  the  gross  purchase  price. 
+Furthermore,  Lumine  issued  10,204,294  special  shares  of  Lumine  to  the  sellers  of  WideOrbit  for  an  initial 
+subscription  price  of  approximately  $222  million  which  will  be  included  in the  purchase  consideration.    Under 
+certain conditions, the special shares are retractable at the option of the holder for a retraction price of approximately 
+$21.74  per  special  share  plus  one  subordinate  voting  share  of  Lumine  for  each  special  share  held  and  will  be 
+classified as a liability on the balance sheet of Lumine and the Company.  The special shares are also convertible 
+into subordinate voting shares of Lumine at a conversion ratio of 1:3.43 at any time. The holders of the special 
+shares are also entitled to a fixed annual cumulative dividend of 5% per annum. 
+
+29

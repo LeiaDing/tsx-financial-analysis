@@ -1,0 +1,5234 @@
+# BlackBerry Limited
+# 来源：Annual MD&A - English.pdf (05e00a5773ceecb5)
+
+following  conditions  are  met  concurrently:  (a)  25%  or  more  of  the  issued  shares  of  any  class  of  the  capital  stock  of  the 
+Company were owned by or belonged to one or any combination of (i) the U.S. Resident Holder, (ii) persons with whom the 
+U.S. Resident Holder did not deal at arm’s length for purposes of the Tax Act, and (iii) partnerships in which the U.S. Resident 
+Holder or a person described in (ii) holds a membership interest directly or indirectly through one or more partnerships; and (b) 
+more than 50% of the fair market value of the common share was derived, directly or indirectly, from one or any combination 
+of:  (i)  real  or  immovable  property  situated  in  Canada,  (ii)  “Canadian  resource  properties”  (as  defined  in  the  Tax  Act),  (iii) 
+“timber resource properties” (as defined in the Tax Act), and (iv) options in respect of, or interests in, or for civil law rights in, 
+property  described  in  any  of  (b)(i)  to  (iii),  whether  or  not  the  property  exists.  A  common  share  may  also  be  deemed  to  be 
+“taxable Canadian property” in certain circumstances as set out in the Tax Act. In the case of a U.S. Resident Holder to whom a 
+common  share  of  the  Company  represents  “taxable  Canadian  property”,  under  the  Treaty,  such  a  U.S.  Resident  Holder  will 
+generally not be subject to tax under the Tax Act on a capital gain realized on the disposition of such share unless the value of 
+such share is derived principally from real property situated in Canada (within the meaning of the Treaty).
+
+In the event that a common share is “taxable Canadian property,” within the meaning of the Tax Act, to a U.S. Resident Holder 
+at the time of disposition, such U.S. Resident Holder should consult its own tax advisor as to the Canadian federal income tax 
+consequences of the disposition.
+
+ITEM 6.  [RESERVED]
+
+ITEM  7.    MANAGEMENT’S  DISCUSSION  AND  ANALYSIS  OF  FINANCIAL  CONDITION  AND  RESULTS  OF 
+OPERATIONS
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) should be 
+read together with the consolidated financial statements and the accompanying notes (the “Consolidated Financial Statements”) 
+of BlackBerry Limited, for the fiscal year ended February 28, 2023. The Consolidated Financial Statements are presented in 
+U.S. dollars and have been prepared in accordance with U.S. GAAP. All financial information in this MD&A is presented in 
+U.S. dollars, unless otherwise indicated.
+
+Readers should carefully review Part I, Item 1A “Risk Factors” and other documents filed from time to time with the Securities 
+and  Exchange  Commission  (“SEC”)  and  other  securities  regulators.  A  number  of  factors  may  materially  affect  our  business, 
+financial condition, operating results and prospects. These factors include but are not limited to those set forth in Part I, Item 1A 
+“Risk  Factors”  and  elsewhere  in  this  Annual  Report  on  Form  10-K.  Any  one  of  these  factors,  and  other  factors  that  we  are 
+unaware  of,  or  currently  deem  immaterial,  may  cause  our  actual  results  to  differ  materially  from  recent  results  or  from  our 
+anticipated future results. Please refer to our MD&A included in our Annual Report on 10-K for the fiscal year ended February 
+28, 2022 for a comparative discussion of our fiscal 2022 financial results as compared to our fiscal 2021 financial results, which 
+is  incorporated  herein  by  reference.  Additional  information  about  the  Company  can  be  found  on  SEDAR  at  www.sedar.com 
+and on the SEC’s website at www.sec.gov.
+
+Cautionary Note Regarding Forward-Looking Statements 
+
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of certain securities laws, including 
+under the U.S. Private Securities Litigation Reform Act of 1995 and applicable Canadian securities laws, including statements 
+relating to:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+the  Company’s  plans,  strategies  and  objectives,  including  its  intentions  to  increase  and  enhance  its  product  and 
+service offerings and to patent new innovations, and to complete the sale of a portfolio of its non-core patent assets; 
+
+the Company’s expectations with respect to the impact of the COVID-19 pandemic and the global semiconductor 
+shortage, as well as other macroeconomic factors including inflation and interest rates, on its results of operations 
+and financial condition;
+
+the Company’s expectations with respect to its revenue and billings in fiscal 2024, the annual recurring revenue of 
+its  Cybersecurity  business  in  fiscal  2024,  installations  of  the  BlackBerry  IVY™  platform  and  the  sale  of 
+substantially all of its non-core patent assets;
+
+the Company’s estimates of purchase obligations and other contractual commitments; and
+
+the Company’s expectations with respect to the sufficiency of its financial resources.
+
+The  words  “expect”,  “anticipate”,  “estimate”,  “may”,  “will”,  “should”,  “could”,  “intend”,  “believe”,  “target”,  “plan”  and 
+similar expressions are intended to identify forward-looking statements in this Annual Report on Form 10-K, including in the 
+sections in Part I, Item 1 “Business” entitled “Products and Services - IoT”, “Products and Services - Licensing and Other”, 
+“Intellectual Property” and “Human Capital”, and in the sections of this MD&A entitled “Business Overview - COVID-19”, 
+“Business Overview - Russia Ukraine Conflict”, “Non-GAAP Financial Measures - Key Metrics - Annual Recurring Revenue”, 
+“Non-GAAP Financial Measures - Key Metrics - TCV Billings”, “Results of Operations - Fiscal year ended February 28, 2023 
+
+28
+
+compared to fiscal year ended February 28, 2022 - Revenue - Revenue by Segment”, “Results of Operations - Three months 
+ended  February  28,  2023  compared  to  the  three  months  ended  February  28,  2022  -  Revenue  -  Revenue  by  Segment”  and 
+“Financial  Condition  -  Contractual  and  Other  Obligations”.  Forward-looking  statements  are  based  on  estimates  and 
+assumptions  made  by  the  Company  in  light  of  its  experience  and  its  perception  of  historical  trends,  current  conditions  and 
+expected  future  developments,  as  well  as  other  factors  that  the  Company  believes  are  appropriate  in  the  circumstances, 
+including  but  not  limited  to,  the  Company’s  expectations  regarding  its  business,  strategy,  opportunities  and  prospects,  the 
+launch  of  new  products  and  services,  general  economic  conditions,  the  ongoing  COVID-19  pandemic,  competition,  and  the 
+Company’s  expectations  regarding  its  financial  performance.  Many  factors  could  cause  the  Company’s  actual  results, 
+performance or achievements to differ materially from those expressed or implied by the forward-looking statements, including, 
+without limitation, the risk factors discussed in Part I, Item 1A “Risk Factors” in this Annual Report on Form 10-K.
+
+All  of  these  factors  should  be  considered  carefully,  and  readers  should  not  place  undue  reliance  on  the  Company’s  forward-
+looking statements. Any statements that are forward-looking statements are intended to enable the Company’s shareholders to 
+view the anticipated performance and prospects of the Company from management’s perspective at the time such statements are 
+made,  and  they  are  subject  to  the  risks  that  are  inherent  in  all  forward-looking  statements,  as  described  above,  as  well  as 
+difficulties in forecasting the Company’s financial results and performance for future periods, particularly over longer periods, 
+given changes in technology and the Company’s business strategy, evolving industry standards, intense competition and short 
+product life cycles that characterize the industries in which the Company operates. See the “Strategy” subsection in Part I, Item 
+1 “Business” of this Annual Report on Form 10-K.
+
+The Company has no intention and undertakes no obligation to update or revise any forward-looking statements, whether as a 
+result of new information, future events or otherwise, except as required by applicable law.
+
+Business Overview 
+
+The  Company  provides  intelligent  security  software  and  services  to  enterprises  and  governments  around  the  world.  The 
+Company secures more than 500 million endpoints including more than 215 million vehicles. Based in Waterloo, Ontario, the 
+Company  leverages  artificial  intelligence  and  machine  learning  to  deliver  innovative  solutions  in  the  areas  of  cybersecurity, 
+safety  and  data  privacy,  and  is  a  leader  in  the  areas  of  endpoint  security,  endpoint  management,  encryption  and  embedded 
+systems.  The  Company’s  common  shares  trade  under  the  ticker  symbol  “BB”  on  the  New  York  Stock  Exchange  and  the 
+Toronto Stock Exchange. The Company was incorporated under the Business Corporations Act (Ontario) on March 7, 1984.
+
+The Company continued to execute on its strategy in fiscal 2023 and announced the following significant achievements:
+
+Products and Innovation:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Demonstrated  BlackBerry  IVY™  running  on  three  commercially-available  automotive  platforms  at  CES  2023  and 
+announced general availability for May 2023;
+Launched QNX® Accelerate, making the QNX® Neutrino® real time operating system (RTOS) and QNX® OS for 
+Safety available in the cloud and through AWS Marketplace;
+Released QNX® Hypervisor 2.2 for Safety, the latest edition of the Company’s safety-certified, real-time embedded 
+hypervisor product, certified to the highest level of functional safety for both automotive and medical device software;
+Strengthened  QNX®  Advanced  Virtualization  Framework  for  Android  Automotive  OS  to  simplify  and  accelerate 
+building IVI systems on the QNX® Hypervisor;
+Achieved the certification of QNX® OS for Safety 2.2 to the highest integrity level of the functional safety standard 
+for the railway industry;
+Launched CylanceGATEWAY, BlackBerry’s Zero Trust Network Access (ZTNA) service offering;
+Released  CylanceAVERT™,  a  data  loss  detection  module  that  provides  data  access  and  leakage  visibility  via 
+CylanceGATEWAY™;
+Released Cyber Threat Intelligence (CTI), a professional threat intelligence service to help customers prevent, detect, 
+and effectively respond to cyberattacks;
+Recognized as a 2023 Gartner® Peer Insights™ Customers’ Choice for Unified Endpoint Management (UEM) tools, 
+including as the only vendor to be placed in the upper right quadrant;
+Named as a ‘Leader’ for a third consecutive year in the IDC MarketScape: Worldwide UEM Software 2022 Vendor 
+Assessment;
+Announced  that  NATO  Communications  and  Information  Agency  (NCI  Agency)  awarded  security  accreditation  to 
+SecuSUITE for Government for global use in official NATO secure communications; and
+Awarded updated NIAP/Common Criteria and CSfC certification for BlackBerry SecuSUITE® for Government.
+
+29
+
+Customers and Partners:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+•
+
+•
+•
+
+Announced  an  agreement  to  sell  substantially  all  of  BlackBerry’s  non-core  patent  assets  to  Malikie  Innovations 
+Limited,  a  subsidiary  of  Key  Patent  Innovations  Limited,  for  a  combination  of  cash  at  closing  and  potential  future 
+royalties in the aggregate amount of up to $900 million;
+Announced  first  BlackBerry  IVY  design  win  as  Dongfeng  Motor  selected  PATEO  digital  cockpit  for  the  next-
+generation all-electric VOYAH Model;
+Selected by Volkswagen Group’s software company, Cariad, for its VW.OS, part of a unified software platform to be 
+deployed across all Volkswagen Group brands;
+Entered into a multi-year agreement with Magna International Inc. to collaborate on next-generation Advanced Driver 
+Assistance System (ADAS) solutions for global automakers; 
+Selected by Chongqing Yazaki to power a digital LCD cluster for the Chinese market, including deployment within 
+next-generation vehicles from Geely Auto and Dongfeng Liuzhou Auto;
+Selected  by  BDStar  Intelligent  &  Connected  Vehicle  Technology  Co.,  Ltd.  (BICV)  to  power  an  intelligent  digital 
+cockpit, featuring augmented reality, artificial intelligence, and hologram functions for the new Renault Jiangling all-
+electric sedan;
+Jointly  developed  a  digital  LCD  instrument  cluster  with  BiTECH  for  Changan’s  next-generation  high-end  UNI-V 
+Coupe;
+Selected  by  Dayin  Technology  to  develop  acoustic  solutions  for  Great  Wall  Motors’  premium,  next-generation 
+vehicles;
+Announced that BlackBerry QNX software is embedded in over 215 million vehicles;
+Launched the Software-Defined Vehicle Innovator Awards with MotorTrend;
+Collaborated  with  LeapXpert  to  enable  the  BlackBerry®  Dynamics™  platform  to  provide  secure  communications 
+through leading messaging applications such as iMessage, WhatsApp and SMS;
+Partnered with Midis Group to expand go-to-market activities in Eastern Europe, the Middle East, and Africa; and
+Expanded BlackBerry SecuSUITE secure communications partner network in Asia Pacific, with the addition of NSI 
+Global, Praesidum Group and Teletrol-One.
+
+Environmental, Sustainability and Corporate Governance:
+
+•
+•
+
+Appointed Phil Kurtz as Chief Legal Officer and Corporate Secretary; and
+Released the Company’s 2022 Environmental, Social, and Governance (ESG) report.
+
+Pearlstein Settlement
+
+On April 7, 2022, the Company announced that it had reached an agreement in principle to settle the consolidated securities 
+class action lawsuit captioned Pearlstein v. Blackberry Limited, et al., Case No. 13 Civ. 7060 (CM) (KHP) pending against the 
+Company  and  certain  of  its  former  officers  in  the  U.S.  District  Court  for  the  Southern  District  of  New  York.  A  formal 
+settlement  agreement  was  signed  on  June  9,  2022,  and  contemplated  an  aggregate  cash  payment  by  the  Company  of  $165 
+million  to  settle  the  claims  brought  on  behalf  of  all  persons  who  purchased  or  otherwise  acquired  BlackBerry  shares  on  the 
+NASDAQ  between  March  28,  2013  and  September  20,  2013.  The  Stipulation  of  Settlement  was  executed  effective  June  7, 
+2022. On June 14, 2022, the Court granted plaintiffs’ motion for preliminary approval of the settlement and scheduled the final 
+approval  hearing  for  September  29,  2022.  On  September  29,  2022,  the  Court  granted  final  approval  of  the  settlement  and 
+entered final judgment. While the Company believes that the allegations in the case were without merit, it also believes that 
+eliminating  the  distraction,  expense  and  risk  of  continued  litigation  was  in  the  best  interests  of  the  Company  and  its 
+shareholders. In the first quarter of fiscal 2023, the Company accrued $165 million associated with this settlement within the 
+line Litigation settlement on the consolidated statement of operations. On June 29, 2022, the Company paid $1 million of the 
+settlement amount. The remaining $164 million was paid on September 6, 2022.
+
+Goodwill Impairment
+
+During the fourth quarter of fiscal 2023, as part of its process for setting the annual operating plan for fiscal 2024, the Company 
+updated  its  estimates  of  long-term  future  cash  flows  to  reflect  lower  revenue  and  EBITDA  growth  rate  expectations  and  a 
+reduction  in  revenue  multiples  used  in  the  valuation  of  the  BlackBerry  Spark  reporting  unit.  These  changes  in  estimates, 
+combined with the global economic weakness and inflation resulting directly or indirectly from the COVID-19 pandemic and 
+the  Russian  invasion  of  Ukraine,  higher  interest  rates  implemented  in  response  to  inflation,  and  a  broad-based  stock  market 
+decline impacting the Company’s market capitalization, resulted in the recognition of a goodwill impairment charge of $245 
+million (the “Fiscal 2023 Goodwill Impairment Charge”) in the BlackBerry Spark reporting unit, which is included within the 
+Company’s  Cybersecurity  segment.  For  additional  information,  see  Note  3  to  the  Consolidated  Financial  Statements.  The 
+estimated  fair  values  of  the  Company’s  other  reporting  units  substantially  exceeded  their  carrying  values  as  at  the  annual 
+goodwill impairment test date.
+
+30
+
+Long-Lived Asset Impairment (“LLA Impairment”)
+
+During the fourth quarter of fiscal 2023, market conditions and changes in the Company’s estimates as described above under 
+“Goodwill  Impairment”  provided  indicators  of  potential  impairment  in  the  Company’s  UES  asset  group,  which  is  primarily 
+composed  of  intangible  assets  recognized  in  the  acquisition  of  Cylance  and  is  included  within  the  Company’s  Cybersecurity 
+segment.  The  Company  performed  the  two-step  impairment  testing  process  as  described  in  Note  1,  utilizing  the  income 
+approach using a discounted future cash flow model and market-based approaches, and concluded that the carrying values of 
+the Company’s UES asset group exceeded their fair values, necessitating an impairment charge of $231 million. None of the 
+Company’s other asset groups demonstrated indicators of potential impairment. During fiscal 2023, the Company also recorded 
+a $4 million impairment charge relating to right-of-use assets for a total LLA impairment charge of $235 million (the “Fiscal 
+2023 LLA Impairment Charge”). For additional information, see Note 3 to the Consolidated Financial Statements.
+
+COVID-19 and Macroeconomic Factors
+
+The COVID-19 pandemic and ensuing global semiconductor shortage have had and continue to have a material adverse impact 
+on production-based royalties for the Company’s QNX automotive software business.  The invasion of Ukraine by Russia and 
+resulting  global  sanctions  against  Russia  have  exacerbated  the  disruption  of  automotive  supply  chains  and  its  impact  on  the 
+Company’s business.
+
+Economic  weakness  or  inflation  resulting  directly  or  indirectly  from  the  COVID-19  pandemic  and  the  Russian  invasion  of 
+Ukraine, as well as higher interest rates implemented in response to inflation and resulting fears of recession, may negatively 
+impact  consumer  demand  for  automobiles  and  is  contributing  to  reduced  spending  and  longer  sales  cycles  for  cybersecurity 
+solutions, which in turn may continue to adversely affect the Company’s business.  The Company does not believe that inflation 
+had  a  direct  effect  on  its  operations  during  fiscal  2023;  however,  higher  interest  rates  implemented  in  response  to  inflation 
+negatively impacted the Company’s estimates of the fair values of its reporting units which, among other factors, resulted in the 
+Fiscal 2023 Goodwill Impairment Charge.
+
+Refer to Part I, Item 1A “Risk Factors” in this Annual Report on form 10-K for a discussion of these factors and other risks.
+
+Fiscal 2023 Summary Results of Operations
+
+The following table sets forth certain consolidated statements of operations data, as well as certain consolidated balance sheet 
+data, as at and for the fiscal years ended February 28, 2023, February 28, 2022, and February 28, 2021: 
+
+As at and for the Fiscal Years Ended
+(in millions, except for share and per share amounts)
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+February 28, 2021
+
+Change
+
+Revenue 
+Gross margin
+
+Operating expenses
+
+Investment income (loss), net
+
+Income (loss) before income taxes
+
+Provision for (recovery of) income taxes
+Net income (loss)
+
+Earnings (loss) per share - reported
+
+Basic
+
+Diluted
+
+Weighted-average number of shares 
+outstanding (000’s)
+
+Basic
+Diluted (1)
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+656  $ 
+
+718  $ 
+
+419 
+
+1,144 
+
+5 
+
+(720)   
+
+14 
+
+(734)  $ 
+
+467 
+
+469 
+
+21 
+
+19 
+
+7 
+
+(62)  $ 
+
+(48)   
+
+675 
+
+(16)   
+
+(739)   
+
+7 
+
+893  $ 
+
+643 
+
+1,750 
+
+(6)   
+
+(1,113)   
+
+(9)   
+
+(175) 
+
+(176) 
+
+(1,281) 
+
+27 
+
+1,132 
+
+16 
+
+12  $ 
+
+(746)  $ 
+
+(1,104)  $ 
+
+1,116 
+
+(1.27)  $ 
+
+(1.35)  $ 
+
+0.02 
+
+(0.31) 
+
+$ 
+
+$ 
+
+(1.97) 
+
+(1.97) 
+
+578,654 
+
+639,487 
+
+570,607 
+
+631,440 
+
+561,305 
+
+561,305 
+
+______________________________
+(1) Diluted  loss  per  share  on  a  U.S.  GAAP  basis  for  fiscal  2021  does  not  include  the  dilutive  effect  of  the  Debentures  (as 
+defined below) as to do so would be anti-dilutive. Diluted loss per share on a U.S. GAAP basis for fiscal 2023, fiscal 2022 
+and fiscal 2021 does not include the dilutive effect of stock-based compensation as to do so would be anti-dilutive. See Note 
+8  to  the  Consolidated  Financial  Statements  for  the  fiscal  year  ended  February  28,  2023  for  calculation  of  the  diluted 
+weighted average number of shares outstanding.
+
+31
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The  following  tables  show  information  by  operating  segment  for  the  three  months  and  year  ended  February  28,  2023  and 
+February  28,  2022.  The  Company  reports  segment  information  in  accordance  with  U.S.  GAAP  Accounting  Standards 
+Codification  Section  280  based  on  the  “management”  approach.  The  management  approach  designates  the  internal  reporting 
+used  by  the  CODM  for  making  decisions  and  assessing  performance  of  the  Company’s  reportable  operating  segments.  See 
+“Business Overview - Segment Reporting” for a description of the Company’s operating segments, as well as Note 12 to the 
+Consolidated Financial Statements.
+
+Cybersecurity
+
+IoT
+
+Licensing and Other
+
+Segment Totals
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+Segment revenue
+
+$  88  $  122  $  (34)  $  53  $  52  $ 
+
+1  $  10  $  11  $ 
+
+(1)  $  151  $  185  $  (34) 
+
+For the Three Months Ended
+(in millions)
+
+Segment cost of sales
+Segment gross margin $  52  $  75  $  (23)  $  43  $  44  $ 
+
+(11)   
+
+36 
+
+10 
+
+47 
+
+8 
+
+2 
+
+4 
+
+5 
+
+(1)   
+
+50 
+
+60 
+
+(10) 
+
+(1)  $ 
+
+6  $ 
+
+6  $  —  $  101  $  125  $  (24) 
+
+ For the Year Ended
+(in millions)
+
+Cybersecurity
+
+IoT
+
+Licensing and Other
+
+Segment Totals
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+Segment revenue
+
+$ 418 
+
+$ 477 
+
+$ (59)  $ 206  $ 178  $  28  $  32  $  63  $ (31)  $ 656  $ 718  $ (62) 
+
+  185 
+Segment cost of sales
+Segment gross margin $ 233 
+
+  194 
+
+(9) 
+
+37 
+
+30 
+
+7 
+
+12 
+
+23 
+
+  (11) 
+
+  234 
+
+  247 
+
+  (13) 
+
+$ 283 
+
+$ (50)  $ 169  $ 148  $  21  $  20  $  40  $ (20)  $ 422  $ 471  $ (49) 
+
+The  following  tables  reconcile  the  Company’s  segment  results  for  the  three  months  and  year  ended  February  28,  2023  to 
+consolidated U.S. GAAP results:
+
+Revenue
+
+Cost of sales
+Gross margin (1)
+Operating expenses
+
+Investment income, net
+
+Loss before income taxes
+
+Revenue
+
+Cost of sales 
+Gross margin (1)
+Operating expenses
+
+Investment income, net
+
+Loss before income taxes
+
+For the Three Months Ended February 28, 2023
+(in millions)
+
+Cybersecurity
+
+IoT
+
+Licensing and 
+Other
+
+Segment Totals
+
+Reconciling 
+Items
+
+Consolidated 
+U.S. GAAP
+
+$ 
+
+$ 
+
+88  $ 
+
+36 
+
+52  $ 
+
+53  $ 
+
+10 
+
+43  $ 
+
+10  $ 
+
+4 
+
+6  $ 
+
+151  $ 
+
+50 
+
+101  $ 
+
+—  $ 
+
+1 
+
+(1)  $ 
+
+599 
+
+(6)   
+
+151 
+
+51 
+
+100 
+
+599 
+(6) 
+
+$ 
+
+(493) 
+
+ For the Year Ended February 28, 2023
+(in millions)
+
+Cybersecurity
+
+IoT
+
+Licensing and 
+Other
+
+Segment Totals
+
+Reconciling 
+Items
+
+Consolidated 
+U.S. GAAP
+
+$ 
+
+$ 
+
+418  $ 
+
+185 
+
+233  $ 
+
+206  $ 
+
+37 
+
+169  $ 
+
+32  $ 
+
+12 
+
+20  $ 
+
+656  $ 
+
+234 
+
+422  $ 
+
+—  $ 
+
+3 
+
+(3)  $ 
+
+1,144 
+
+(5)   
+
+$ 
+
+656 
+
+237 
+
+419 
+
+1,144 
+
+(5) 
+
+(720) 
+
+______________________________
+(1) See “Non-GAAP Financial Measures” for a reconciliation of selected U.S. GAAP-based measures to adjusted measures for 
+the three months and year ended February 28, 2023.
+
+32
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The  following  tables  reconcile  the  Company’s  segment  results  for  the  three  months  and  year  ended  February  28,  2022  to 
+consolidated U.S. GAAP results:
+
+For the Three Months Ended February 28, 2022
+(in millions)
+
+Cybersecurity
+
+IoT
+
+Licensing and 
+Other
+
+Segment Totals
+
+Reconciling 
+Items
+
+Consolidated 
+U.S. GAAP
+
+Revenue
+
+Cost of sales 
+Gross margin (1)
+Operating expenses
+
+Investment loss, net
+
+Income before income taxes
+
+Revenue
+
+Cost of sales
+Gross margin (1)
+Operating expenses
+
+Investment income, net
+
+Income before income taxes
+
+$ 
+
+$ 
+
+122  $ 
+
+47 
+
+75  $ 
+
+52  $ 
+
+8 
+
+44  $ 
+
+11  $ 
+
+5 
+
+6  $ 
+
+185  $ 
+
+60 
+
+125  $ 
+
+—  $ 
+
+1 
+
+(1)  $ 
+
+(22)   
+
+1 
+
+$ 
+
+185 
+
+61 
+
+124 
+
+(22) 
+
+1 
+
+145 
+
+ For the Year Ended February 28, 2022
+(in millions)
+
+Cybersecurity
+
+IoT
+
+Licensing and 
+Other
+
+Segment Totals
+
+Reconciling 
+Items
+
+Consolidated 
+U.S. GAAP
+
+$ 
+
+$ 
+
+477  $ 
+
+194 
+
+283  $ 
+
+178  $ 
+
+30 
+
+148  $ 
+
+63  $ 
+
+23 
+
+40  $ 
+
+718  $ 
+
+247 
+
+471  $ 
+
+—  $ 
+
+4 
+
+(4)  $ 
+
+469 
+
+(21)   
+
+$ 
+
+718 
+
+251 
+
+467 
+
+469 
+
+(21) 
+
+19 
+
+______________________________
+(1) See “Non-GAAP Financial Measures” for a reconciliation of selected U.S. GAAP-based measures to adjusted measures for 
+the three months and year ended February 28, 2022.
+
+Financial Highlights 
+
+The Company had approximately $487 million in cash, cash equivalents and investments as of February 28, 2023 (Fiscal 2022 - 
+$770 million). 
+
+In fiscal 2023, the Company recognized revenue of $656 million and incurred a net loss of $734 million, or $1.27 basic loss per 
+share  and  $1.35  diluted  loss  per  share  on  a  U.S.  GAAP  basis  (fiscal  2022  -  revenue  of  $718  million  and  net  income  of  $12 
+million, or $0.02 basic earnings per share and $0.31 diluted loss per share). The net loss was primarily due to the Fiscal 2023 
+Goodwill Impairment Charge and Fiscal 2023 LLA Impairment Charge, as discussed above in “Business Overview - Goodwill 
+Impairment” and “Business Overview - Long-Lived Asset Impairment”. 
+
+The Company recognized adjusted net loss of $103 million, or adjusted loss of $0.18 per share, on a non-GAAP basis in fiscal 
+2023 (fiscal 2022 - adjusted net loss of $55 million and adjusted loss of $0.10 per share). See “Non-GAAP Financial Measures” 
+below.
+
+Debentures Fair Value Adjustment
+
+As previously disclosed, the Company elected the fair value option to account for its outstanding 1.75% unsecured convertible 
+debentures  (the  “1.75%  Debentures”)  and  its  previously  outstanding  3.75%  outstanding  convertible  debentures  (the  “3.75% 
+Debentures” and together with the 1.75% Debentures, the “Debentures”); therefore, periodic revaluation has been and continues 
+to be required under U.S. GAAP. The fair value adjustment does not impact the terms of the Debentures such as the face value, 
+the redemption features or the conversion price. 
+
+As of February 28, 2023, the fair value of the 1.75% Debentures was approximately $367 million versus the principal value of 
+$365 million. For the three months ended February 28, 2023, the Company recorded a non-cash loss relating to changes in fair 
+value  from  instrument  specific  credit  risk  of  $1  million  in  other  comprehensive  income  (loss)  (“OCI”)  and  non-cash  income 
+relating  to  changes  in  fair  value  from  non-credit  components  of  $26  million  (pre-tax  and  after  tax)  (the  “Q4  Fiscal  2023 
+Debentures  Fair  Value  Adjustment”)  in  the  Company’s  consolidated  statements  of  operations.  In  fiscal  2023,  the  Company 
+recorded non-cash income relating to changes in fair value from instrument-specific credit risk of $2 million in OCI and non-
+cash income relating to changes in fair value from non-credit components of $138 million (pre-tax and after tax) (the “Fiscal 
+
+33
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2023  Debentures  Fair  Value  Adjustment”)  in  the  Company’s  consolidated  statements  of  operations.  See  Note  6  to  the 
+Consolidated Financial Statements for further details on the Debentures.
+
+Non-GAAP Financial Measures
+
+The Consolidated Financial Statements have been prepared in accordance with U.S. GAAP, and information contained in this 
+MD&A is presented on that basis. On March 30, 2023, the Company announced financial results for the three months and fiscal 
+year ended February 28, 2023, which included certain non-GAAP financial measures and non-GAAP ratios, including adjusted 
+gross margin, adjusted gross margin percentage, adjusted operating expense, adjusted net income (loss), adjusted income (loss) 
+per  share,  adjusted  research  and  development  expense,  adjusted  selling,  marketing  and  administrative  expense,  adjusted 
+amortization expense, adjusted operating income (loss), adjusted EBITDA, adjusted operating income (loss) margin percentage, 
+adjusted EBITDA margin percentage and free cash flow (usage).
+
+In the Company’s internal reports, management evaluates the performance of the Company’s business on a non-GAAP basis by 
+excluding  the  impact  of  certain  items  below  from  the  Company’s  U.S.  GAAP  financial  results.  The  Company  believes  that 
+these non-GAAP financial measures and non-GAAP ratios provide management, as well as readers of the Company’s financial 
+statements, with a consistent basis for comparison across accounting periods and is useful in helping management and readers 
+understand the Company’s operating results and underlying operational trends. In the first quarter of fiscal 2022, the Company 
+discontinued its use of software deferred revenue acquired and software deferred commission expense acquired adjustments in 
+its non-GAAP financial measures due to the quantitative decline in the adjustments over time. For purposes of comparability, 
+the Company’s non-GAAP financial measures for the three months ended and year ended February 28, 2021 have been updated 
+to conform to the current year’s presentation.
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Debentures fair value adjustment. The Company has elected to measure its outstanding 1.75% Debentures at fair value 
+in accordance with the fair value option under U.S. GAAP.  Each period, the fair value of the 1.75% Debentures is 
+recalculated and resulting non-cash income and charges from the change in fair value from non-credit components of 
+the  1.75%  Debentures  are  recognized  in  income.    The  amount  can  vary  each  period  depending  on  changes  to  the 
+Company’s  share  price,  share  price  volatility  and  credit  indices.    This  is  not  indicative  of  the  Company’s  core 
+operating  performance,  and  may  not  be  meaningful  when  comparing  the  Company’s  operating  performance  against 
+that of prior periods.
+
+Restructuring  charges.  The  Company  believes  that  restructuring  costs  relating  to  employee  termination  benefits,  
+facilities  and  other  costs  pursuant  to  the  Cost  Optimization  Program  to  reduce  its  annual  expenses  amongst  R&D, 
+infrastructure  and  other  functions  do  not  reflect  expected  future  operating  expenses,  are  not  indicative  of  the 
+Company’s  core  operating  performance,  and  may  not  be  meaningful  when  comparing  the  Company’s  operating 
+performance against that of prior periods.
+
+Stock compensation expenses. Equity compensation is a non-cash expense and does not impact the ongoing operating 
+decisions taken by the Company’s management. 
+
+Amortization  of  acquired  intangible  assets.  When  the  Company  acquires  intangible  assets  through  business 
+combinations,  the  assets  are  recorded  as  part  of  purchase  accounting  and  contribute  to  revenue  generation.  Such 
+acquired intangible assets depreciate over time and the related amortization will recur in future periods until the assets 
+have  been  fully  amortized.  This  is  not  indicative  of  the  Company’s  core  operating  performance,  and  may  not  be 
+meaningful when comparing the Company’s operating performance against that of prior periods.
+
+Long-lived  asset  impairment  charge.  The  Company  believes  that  long-lived  asset  impairment  charges  do  not  reflect 
+expected future operating expenses, are not indicative of the Company’s core operating performance, and may not be 
+meaningful when comparing the Company’s operating performance against that of prior periods.
+
+Goodwill impairment charge. The Company believes that goodwill impairment charges do not reflect expected future 
+operating expenses, are non-cash, and may not be meaningful when comparing the Company’s operating performance 
+against that of prior periods.
+
+Litigation  settlement.  The  Company  believes  that  litigation  settlements  do  not  reflect  expected  future  operating 
+expenses,  are  not  indicative  of  the  Company’s  core  operating  performance,  and  may  not  be  meaningful  when 
+comparing the Company’s operating performance against that of prior periods.
+
+On a U.S. GAAP basis, the impacts of these items are reflected in the Company’s income statement. However, the Company 
+believes that the provision of supplemental non-GAAP measures allows investors to evaluate the financial performance of the 
+Company’s  business  using  the  same  evaluation  measures  that  management  uses  and  is  therefore  a  useful  indication  of  the 
+Company’s performance or expected performance of future operations and facilitates period-to-period comparison of operating 
+performance. As a result, the Company considers it appropriate and reasonable to provide, in addition to U.S. GAAP measures, 
+supplementary non-GAAP financial measures that exclude certain items from the presentation of its financial results. 
+
+34
+
+Reconciliation of non-GAAP based measures with most directly comparable U.S. GAAP based measures for the three 
+months ended February 28, 2023, February 28, 2022 and February 28, 2021
+
+Readers are cautioned that adjusted gross margin, adjusted gross margin percentage, adjusted operating expense, adjusted net 
+income  (loss),  adjusted  income  (loss)  per  share,  adjusted  research  and  development  expense,  adjusted  selling,  marketing  and 
+administrative expense, adjusted amortization expense, adjusted operating income (loss), adjusted EBITDA, adjusted operating 
+income (loss) margin percentage, adjusted EBITDA margin percentage and free cash flow (usage) and similar measures do not 
+have  any  standardized  meaning  prescribed  by  U.S.  GAAP  and  are  therefore  unlikely  to  be  comparable  to  similarly  titled 
+measures reported by other companies. These non-GAAP financial measures should be considered in the context of the U.S. 
+GAAP results, which are described in this MD&A and presented in the Consolidated Financial Statements. 
+
+A reconciliation of the most directly comparable U.S. GAAP financial measures for the three months ended February 28, 2023, 
+February 28, 2022 and February 28, 2021 to adjusted financial measures is reflected in the table below: 
+
+For the Three Months Ended (in millions)
+
+February 28, 2023
+
+February 28, 2022
+
+February 28, 2021
+
+Gross margin 
+
+Stock compensation expense
+
+Adjusted gross margin 
+
+Gross margin % 
+
+Stock compensation expense
+
+Adjusted gross margin % 
+
+$ 
+
+$ 
+
+100 
+
+$ 
+
+124 
+
+$ 
+
+1 
+
+1 
+
+101 
+
+$ 
+
+125 
+
+$ 
+
+ 66.2 %
+
+ 0.7 %
+
+ 66.9 %
+
+ 67.0 %
+
+ 0.6 %
+
+ 67.6 %
+
+152 
+
+1 
+
+153 
+
+ 72.4 %
+
+ 0.5 %
+
+ 72.9 %
+
+Reconciliation of U.S. GAAP operating expense (income) for the three months ended February 28, 2023, November 30, 2022, 
+February 28, 2022 and February 28, 2021 to adjusted operating expense is reflected in the table below:
+
+For the Three Months Ended (in millions)
+
+February 28, 2023 November 30, 2022
+
+February 28, 2022
+
+February 28, 2021
+
+Operating expense (income)
+
+$ 
+
+599  $ 
+
+111  $ 
+
+(22)  $ 
+
+Restructuring charges
+
+Stock compensation expense
+Debentures fair value adjustment (1)
+
+Acquired intangibles amortization
+
+Goodwill impairment charge
+
+LLA impairment charge
+
+Adjusted operating expense
+
+______________________________
+
+7 
+
+9 
+
+— 
+
+8 
+
+— 
+
+4 
+
+(26)   
+
+(56)   
+
+(165)   
+
+15 
+
+245 
+
+231 
+
+22 
+
+— 
+
+— 
+
+22 
+
+— 
+
+— 
+
+$ 
+
+118  $ 
+
+137  $ 
+
+117  $ 
+
+(1) See “Fiscal 2023 Summary Results of Operations - Financial Highlights - Debentures Fair Value Adjustment”.
+
+465 
+
+— 
+
+16 
+
+258 
+
+32 
+
+— 
+
+22 
+
+137 
+
+35
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reconciliation  of  U.S.  GAAP  net  income  (loss)  and  U.S.  GAAP  basic  earnings  (loss)  per  share  for  the  three  months  ended 
+February 28, 2023, February 28, 2022 and February 28, 2021 to adjusted net income (loss) and adjusted basic earnings (loss) 
+per share is reflected in the table below:
+
+For the Three Months Ended (in millions, except per share amounts)
+
+February 28, 2023
+
+February 28, 2022
+
+February 28, 2021
+
+Net income (loss)
+
+Restructuring charges
+
+Stock compensation expense
+
+Debentures fair value adjustment
+
+Acquired intangibles amortization
+
+Goodwill impairment charge
+
+LLA impairment charge
+
+Adjusted net income (loss)
+
+Basic loss 
+per share
+
+Basic 
+earnings 
+per share
+
+Basic 
+earnings 
+(loss) 
+per share
+
+$ 
+
+(495)  $(0.85)
+
+$ 
+
+144 
+
+$0.25
+
+$ 
+
+(315)  $(0.56)
+
+7 
+
+10 
+
+(26) 
+
+15 
+
+245 
+
+231 
+
+$ 
+
+(13)  $(0.02)
+
+$ 
+
+— 
+
+5 
+
+(165) 
+
+22 
+
+— 
+
+— 
+
+6 
+
+$0.01
+
+$ 
+
+— 
+
+17 
+
+258 
+
+32 
+
+— 
+
+22 
+
+14 
+
+$0.02
+
+Reconciliation of U.S. GAAP research and development, selling, marketing and administration, and amortization expense for 
+the three months ended February 28, 2023, February 28, 2022 and February 28, 2021 to adjusted research and development, 
+selling, marketing and administration, and amortization expense is reflected in the table below:
+
+For the Three Months Ended (in millions)
+
+February 28, 2023
+
+February 28, 2022
+
+February 28, 2021
+
+Research and development
+
+Stock compensation expense
+
+Adjusted research and development
+
+Selling, marketing and administration
+
+Restructuring charges
+
+Stock compensation expense
+
+Adjusted selling, marketing and administration
+
+Amortization
+
+Acquired intangibles amortization
+
+Adjusted amortization
+
+48  $ 
+
+3 
+
+45  $ 
+
+83  $ 
+
+7 
+
+6 
+
+70  $ 
+
+18  $ 
+
+15 
+
+3  $ 
+
+47  $ 
+
+2 
+
+45  $ 
+
+64  $ 
+
+— 
+
+2 
+
+62  $ 
+
+32  $ 
+
+22 
+
+10  $ 
+
+48 
+
+3 
+
+45 
+
+92 
+
+— 
+
+13 
+
+79 
+
+45 
+
+32 
+
+13 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+36
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reconciliation of selected non-GAAP based measures with most directly comparable U.S. GAAP measures for the years 
+ended February 28, 2023, February 28, 2022 and February 28, 2021
+
+A  reconciliation  of  the  most  directly  comparable  U.S.  GAAP  financial  measures  for  the  years  ended  February  28,  2023, 
+February 28, 2022 and February 28, 2021 to adjusted financial measures is reflected in the table below:
+
+For the Fiscal Years Ended (in millions)
+
+February 28, 2023
+
+February 28, 2022
+
+February 28, 2021
+
+Gross margin
+
+Stock compensation expense
+
+Adjusted gross margin
+
+Gross margin %
+
+Stock compensation expense
+
+Adjusted gross margin %
+
+Operating expense
+
+Restructuring charges 
+
+Stock compensation expense
+Debentures fair value adjustment (1)
+
+Acquired intangibles amortization
+
+Goodwill impairment charge
+
+LLA impairment charge
+
+Litigation settlement
+
+Adjusted operating expense
+
+______________________________
+
+$ 
+
+$ 
+
+419 
+
+$ 
+
+467 
+
+$ 
+
+3 
+
+4 
+
+422 
+
+$ 
+
+471 
+
+$ 
+
+ 63.9 %
+
+ 0.4 %
+
+ 64.3 %
+
+ 65.0 %
+
+ 0.6 %
+
+ 65.6 %
+
+643 
+
+5 
+
+648 
+
+ 72.0 %
+
+ 0.6 %
+
+ 72.6 %
+
+$ 
+
+1,144 
+
+$ 
+
+469 
+
+$ 
+
+1,750 
+
+11 
+
+28 
+
+(138) 
+
+82 
+
+245 
+
+235 
+
+165 
+
+516 
+
+$ 
+
+— 
+
+26 
+
+(212) 
+
+115 
+
+— 
+
+— 
+
+— 
+
+$ 
+
+540 
+
+$ 
+
+2 
+
+47 
+
+372 
+
+129 
+
+594 
+
+43 
+
+— 
+
+563 
+
+(1) See “Fiscal 2023 Summary Results of Operations - Financial Highlights - Debentures Fair Value Adjustment”.
+
+Reconciliation of U.S. GAAP net income (loss) and U.S. GAAP basic earnings (loss) per share for the years ended February 28, 
+2023, February 28, 2022 and February 28, 2021 to the adjusted net income (loss) and adjusted basic earnings (loss) per share is 
+reflected in the table below:
+
+For the Fiscal Years Ended (in millions, except per share amounts)
+
+February 28, 2023
+
+February 28, 2022
+
+February 28, 2021
+
+Net income (loss)
+
+Restructuring charges 
+
+Stock compensation expense
+
+Debentures fair value adjustment
+
+Acquired intangibles amortization
+
+Goodwill impairment charge
+
+LLA impairment charge
+
+Litigation settlement
+
+Adjusted net income (loss)
+
+Basic  
+loss per 
+share
+
+Basic 
+earnings 
+(loss) per 
+share
+
+Basic 
+earnings 
+(loss) per 
+share
+
+$ 
+
+(734)  $  (1.27)  $ 
+
+12  $  0.02  $ 
+
+(1,104)  $  (1.97) 
+
+11 
+
+31 
+
+(138) 
+
+82 
+
+245 
+
+235 
+
+165 
+
+— 
+
+30 
+
+(212) 
+
+115 
+
+— 
+
+— 
+
+— 
+
+$ 
+
+(103)  $(0.18)
+
+$ 
+
+(55)  $(0.10)
+
+$ 
+
+2 
+
+52 
+
+372 
+
+129 
+
+594 
+
+43 
+
+— 
+
+88 
+
+$0.16
+
+37
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reconciliation  of  U.S  GAAP  research  and  development,  selling,  marketing  and  administration,  and  amortization  expense  for 
+the years ended February 28, 2023, February 28, 2022 and February 28, 2021 to adjusted research and development, selling, 
+marketing and administration, and amortization expense is reflected in the table below:
+
+For the Fiscal Years Ended (in millions)
+
+February 28, 2023
+
+February 28, 2022
+
+February 28, 2021
+
+Research and development
+
+Stock compensation expense
+
+Adjusted research and development
+
+Selling, marketing and administration
+
+Restructuring charges
+
+Stock compensation expense
+
+Adjusted selling, marketing and administration
+
+Amortization
+
+Acquired intangibles amortization
+
+Adjusted amortization
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+207  $ 
+
+9 
+
+198  $ 
+
+219  $ 
+
+8 
+
+211  $ 
+
+340  $ 
+
+297  $ 
+
+11 
+
+19 
+
+— 
+
+18 
+
+310  $ 
+
+279  $ 
+
+96  $ 
+
+82 
+
+14  $ 
+
+165  $ 
+
+115 
+
+50  $ 
+
+215 
+
+11 
+
+204 
+
+344 
+
+2 
+
+36 
+
+306 
+
+182 
+
+129 
+
+53 
+
+Adjusted  operating  income  (loss),  adjusted  EBITDA,  adjusted  operating  income  (loss)  margin  percentage  and  adjusted 
+EBITDA  margin  percentage  for  the  three  months  ended  February  28,  2023,  February  28,  2022  and  February  28,  2021  are 
+reflected in the table below. These are non-GAAP financial measures and non-GAAP ratios that do not have any standardized 
+meaning  as  prescribed  by  U.S.  GAAP  and  are  therefore  unlikely  to  be  comparable  to  similar  measures  presented  by  other 
+companies.
+
+For the Three Months Ended (in millions)
+
+February 28, 2023
+
+February 28, 2022
+
+February 28, 2021
+
+Operating income (loss)
+
+$ 
+
+(499)  $ 
+
+146  $ 
+
+(313) 
+
+Non-GAAP adjustments to operating income (loss)
+
+Restructuring charges
+
+Stock compensation expense
+
+Debentures fair value adjustment
+
+Acquired intangibles amortization
+
+Goodwill impairment charge
+
+LLA impairment charge
+
+Total non-GAAP adjustments to operating income (loss)
+
+Adjusted operating income (loss)
+
+Amortization
+
+Acquired intangibles amortization
+
+Adjusted EBITDA
+
+Revenue
+Adjusted operating income (loss) margin % (1)
+Adjusted EBITDA margin % (2)
+
+______________________________
+
+$ 
+
+$ 
+
+7 
+
+10 
+
+(26) 
+
+15 
+
+245 
+
+231 
+
+482 
+
+(17) 
+
+20 
+
+(15) 
+
+(12)  $ 
+
+— 
+
+5 
+
+(165)   
+
+22 
+
+— 
+
+— 
+
+(138)   
+
+8 
+
+34 
+
+(22)   
+
+20  $ 
+
+151  $ 
+
+185  $ 
+
+ (11%) 
+
+ (8%) 
+
+ 4% 
+
+ 11% 
+
+— 
+
+17 
+
+258 
+
+32 
+
+— 
+
+22 
+
+329 
+
+16 
+
+49 
+
+(32) 
+
+33 
+
+210 
+
+ 8% 
+
+ 16% 
+
+(1) Adjusted operating income (loss) margin % is calculated by dividing adjusted operating income (loss) by revenue.
+(2) Adjusted EBITDA margin % is calculated by dividing adjusted EBITDA by revenue.
+
+38
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adjusted  operating  income  (loss),  adjusted  EBITDA,  adjusted  operating  income  (loss)  margin  percentage  and  adjusted 
+EBITDA  margin  percentage  for  the  fiscal  years  ended  February  28,  2023,  February  28,  2022  and  February  28,  2021  are 
+reflected in the table below.
+
+For the Fiscal Years Ended (in millions)
+
+February 28, 2023
+
+February 28, 2022
+
+February 28, 2021
+
+Operating loss
+
+Non-GAAP adjustments to operating loss
+
+Restructuring charges
+
+Stock compensation expense
+
+Debentures fair value adjustment
+
+Acquired intangibles amortization
+
+Goodwill impairment charge
+
+LLA impairment charge
+
+Litigation settlement
+
+Total non-GAAP adjustments to operating loss
+
+Adjusted operating income (loss)
+
+Amortization
+
+Acquired intangibles amortization
+
+Adjusted EBITDA
+
+Revenue
+Adjusted operating income (loss) margin % (1)
+Adjusted EBITDA margin % (2)
+
+$ 
+
+(725) 
+
+$ 
+
+(2) 
+
+$ 
+
+(1,107) 
+
+11 
+
+31 
+
+(138) 
+
+82 
+
+245 
+
+235 
+
+165 
+
+631 
+
+(94) 
+
+105 
+
+(82) 
+
+(71) 
+
+— 
+
+30 
+
+(212) 
+
+115 
+
+— 
+
+— 
+
+— 
+
+(67) 
+
+(69) 
+
+176 
+
+(115) 
+
+$ 
+
+(8) 
+
+$ 
+
+656 
+
+$ 
+
+718 
+
+$ 
+
+ (14%) 
+
+ (11%) 
+
+ (10%) 
+
+ (1%) 
+
+2 
+
+52 
+
+372 
+
+129 
+
+594 
+
+43 
+
+— 
+
+1,192 
+
+85 
+
+198 
+
+(129) 
+
+154 
+
+893 
+
+ 10% 
+
+ 17% 
+
+$ 
+
+$ 
+
+______________________________
+(1) Adjusted operating income (loss) margin % is calculated by dividing adjusted operating income (loss) by revenue.
+(2) Adjusted EBITDA margin % is calculated by dividing adjusted EBITDA by revenue.
+
+The Company uses free cash flow (usage) when assessing its sources of liquidity, capital resources, and quality of earnings. The 
+Company believes that free cash flow (usage) is helpful in understanding the Company’s capital requirements and provides an 
+additional means to reflect the cash flow trends in the Company’s business. 
+
+Reconciliation of U.S. GAAP net cash provided by (used in) operating activities for the three months ended February 28, 2023, 
+February 28, 2022 and February 28, 2021 to free cash flow (usage) is reflected in the table below:
+
+For the Three Months Ended (in millions)
+
+February 28, 2023
+
+February 28, 2022
+
+February 28, 2021
+
+Net cash provided by (used in) operating activities
+
+Acquisition of property, plant and equipment
+
+Free cash flow (usage)
+
+$ 
+
+$ 
+
+(7)  $ 
+
+(2)   
+
+(9)  $ 
+
+10  $ 
+
+(2)  $ 
+
+8  $ 
+
+51 
+
+(3) 
+
+48 
+
+Reconciliation  of  U.S.  GAAP  net  cash  provided  by  (used  in)  operating  activities  for  the  years  ended  February  28,  2023, 
+February 28, 2022 and February 28, 2021 to free cash flow (usage) is reflected in the table below:
+
+For the Fiscal Years Ended (in millions)
+
+February 28, 2023
+
+February 28, 2022
+
+February 28, 2021
+
+Net cash provided by (used in) operating activities
+
+Acquisition of property, plant and equipment
+
+Free cash flow (usage)
+
+$ 
+
+$ 
+
+(263)  $ 
+
+(7) 
+
+(270)  $ 
+
+(28)  $ 
+
+(8)   
+
+(36)  $ 
+
+82 
+
+(8) 
+
+74 
+
+For  the  year  ended  February  28,  2023,  free  cash  usage  includes  $165  million  paid  in  relation  to  the  Pearlstein  settlement 
+discussed above in “Business Overview - Pearlstein Settlement”.
+
+39
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key Metrics 
+
+The Company regularly monitors a number of financial and operating metrics, including the following key metrics, in order to 
+measure  the  Company’s  current  performance  and  estimated  future  performance.  Readers  are  cautioned  that  annual  recurring 
+revenue  (“ARR”),  dollar-based  net  retention  rate  (“DBNRR”),  Cybersecurity  total  contract  value  (“TCV”)  billings,  recurring 
+revenue  percentage  and  QNX  royalty  backlog  do  not  have  any  standardized  meaning  and  are  unlikely  to  be  comparable  to 
+similarly titled measures reported by other companies.
+
+Comparative breakdowns of certain key metrics for the three months ended February 28, 2023 and February 28, 2022 are set 
+forth below.
+
+For the Three Months Ended (in millions)
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+Cybersecurity Annual Recurring Revenue
+
+Cybersecurity Dollar-Based Net Retention Rate
+
+Cybersecurity Total Contract Value Billings
+
+Recurring Software Product Revenue
+
+Annual Recurring Revenue 
+
+$ 
+
+$ 
+
+298 
+
+$ 
+
+ 81 %
+
+107 
+
+$ 
+
+~ 90%
+
+347 
+
+$ 
+
+ 91 %
+
+125 
+
+$ 
+
+~ 80 %
+
+(49) 
+
+ (10%) 
+
+(18) 
+
+ 10% 
+
+The Company defines ARR as the annualized value of all subscription, term, maintenance, services, and royalty contracts that 
+generate  recurring  revenue  as  of  the  end  of  the  reporting  period.  The  Company  uses  ARR  as  an  indicator  of  business 
+momentum for the Cybersecurity business.
+
+Cybersecurity  ARR  was  approximately  $298  million  in  the  fourth  quarter  of  fiscal  2023  and  decreased  compared  to 
+$313  million  in  the  third  quarter  of  fiscal  2023  and  decreased  compared  to  $347  million  in  the  fourth  quarter  of  fiscal  2022 
+primarily due to customer churn in the BlackBerry Spark business.
+
+The Company expects Cybersecurity ARR to return to sequential growth in the second half of fiscal 2024.
+
+Dollar-Based Net Retention Rate 
+
+The Company calculates the DBNRR as of period end by first calculating the ARR from the customer base as at 12 months 
+prior to the current period end (“Prior Period ARR”).  The Company then calculates the ARR for the same cohort of customers 
+as at the current period end (“Current Period ARR”).  The Company then divides the Current Period ARR by the Prior Period 
+ARR to calculate the DBNRR. 
+
+Cybersecurity  DBNRR  was  81%  in  the  fourth  quarter  of  fiscal  2023  and  decreased  compared  to  84%  in  the  third  quarter  of 
+fiscal 2023 and compared to 91% in the fourth quarter of fiscal 2022 primarily due to customer churn in the BlackBerry Spark 
+business.
+
+TCV Billings
+
+The  Company  defines  TCV  billings  as  amounts  invoiced  less  credits  issued.  The  Company  considers  TCV  billings  to  be  a 
+useful  metric  because  billings  drive  deferred  revenue,  which  is  an  important  indicator  of  the  health  and  visibility  of  the 
+business, and represents a significant percentage of future revenue.
+
+Cybersecurity TCV billings was $107 million in the fourth quarter of fiscal 2023 and increased compared to $103 million in the 
+third  quarter  of  fiscal  2023  and  decreased  compared  to  $125  million  in  the  fourth  quarter  of  fiscal  2022  primarily  due  to 
+elongated sales cycles in government causing some large deals to slip into later quarters.
+
+The Company previously stated that it expected quarterly year-over-year Cybersecurity TCV billings growth throughout fiscal 
+2023  when  compared  to  the  same  quarter  in  the  prior  year,  with  growth  of  between  8%  to  12%  in  fiscal  2023  as  a  whole 
+compared  to  fiscal  2022.    In  the  fourth  quarter  of  fiscal  2023,  Cybersecurity  TCV  billings  decreased  compared  to  the  fourth 
+quarter of fiscal 2022 and Cybersecurity TCV billings decreased in fiscal 2023 as a whole compared to fiscal 2022, in each case 
+primarily due to the reasons discussed in the paragraph immediately above.
+
+The  Company  expects  Cybersecurity  TCV  billings  for  fiscal  2024  to  be  in  the  range  of  $430  million  to  $480  million.  The 
+Company also expects Cybersecurity TCV billings to continue to exceed Cybersecurity revenue in fiscal 2024.
+
+40
+
+Recurring Software Product Revenue 
+
+The  Company  defines  recurring  software  product  revenue  percentage  as  recurring  software  product  revenue  divided  by  total 
+software and services revenue. Recurring software product revenue is comprised of subscription and term licenses, maintenance 
+arrangements,  royalty  arrangements  and  perpetual  licenses  recognized  ratably  under  ASC  606.  Total  software  and  services 
+revenue  is  comprised  of  recurring  product  revenue,  non-recurring  product  revenue  and  professional  services.  The  Company 
+uses  recurring  software  product  revenue  percentage  to  provide  visibility  into  the  revenue  expected  to  be  recognized  in  the 
+current and future periods. 
+
+Total Software and Services product revenue, excluding professional services, was approximately 90% recurring in the fourth 
+quarter  of  fiscal  2023  and  increased  compared  to  approximately  80%  recurring  in  the  third  quarter  of  fiscal  2023  and  fourth 
+quarter of fiscal 2022.
+
+QNX Royalty Backlog 
+
+The Company defines the royalty backlog of its QNX business as estimated future revenue from variable forecasted royalties 
+related  to  the  QNX  business.  The  estimation  of  forecasted  royalties  is  based  on  QNX’s  royalty  rates  and  on  projections  of 
+anticipated volumes that are based on historical shipping experience and current customer projections that management believes 
+are reasonable over the lifetime of a design. The QNX royalty backlog is calculated annually based on current projections of 
+volumes and may not be indicative of actual future revenue. The revenue that the Company will recognize is subject to several 
+factors, including actual volumes and potential terminations or modifications to customer contracts.
+
+The  Company’s  QNX  royalty  backlog  was  approximately  $640  million  at  the  end  of  the  fourth  quarter  of  fiscal  2023  and 
+increased compared to approximately $560 million at the end of the first quarter of fiscal 2023.
+
+Results of Operations - Fiscal year ended February 28, 2023 compared to fiscal year ended February 28, 2022
+
+Revenue
+
+Revenue by Segment
+
+Comparative breakdowns of revenue by segment are set forth below.
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+February 28, 2021
+
+Change
+
+For the Fiscal Years Ended
+(in millions)
+
+$ 
+
+$ 
+
+418 
+206 
+
+32 
+
+656 
+
+$ 
+
+$ 
+
+477 
+178 
+
+63 
+
+718 
+
+$ 
+
+$ 
+
+(59)  $ 
+28 
+
+(31)   
+
+(62)  $ 
+
+491 
+130 
+
+272 
+
+893 
+
+$ 
+
+$ 
+
+(14) 
+48 
+
+(209) 
+
+(175) 
+
+ 63.7 %
+ 31.4 %
+
+ 4.9 %
+
+ 66.4 %
+ 24.8 %
+
+ 8.8 %
+
+ 100.0 %
+
+ 100.0 %
+
+ 55.0 %
+ 14.5 %
+
+ 30.5 %
+
+ 100.0 %
+
+Revenue by Segment
+
+Cybersecurity
+IoT
+Licensing and Other
+
+% Revenue by Segment
+
+Cybersecurity
+IoT
+
+Licensing and Other
+
+Cybersecurity
+
+The  decrease  in  Cybersecurity  revenue  of  $59  million  was  primarily  due  to  a  decrease  of  $47  million  relating  to  product 
+revenue in BlackBerry Spark, a decrease of $12 million relating to professional services and a decrease of $3 million relating to 
+non-automotive OEM business, partially offset by an increase of $6 million relating to product revenue in Secusmart.
+
+The Company previously stated that it expected Cybersecurity revenue in fiscal 2023 to be broadly consistent with fiscal 2022. 
+Cybersecurity  revenue  in  fiscal  2023  decreased  compared  to  fiscal  2022  due  to  both  elongated  sales  cycles  in  government 
+causing some large deals to slip into later quarters and customer churn in the BlackBerry Spark business.
+
+The Company expects Cybersecurity revenue for the first quarter of fiscal 2024 to increase sequentially and be in the range of 
+$100  million  to  $110  million.  The  Company  expects  Cybersecurity  revenue  for  fiscal  2024  as  a  whole  to  be  in  the  range  of 
+$425 million to $450 million.
+
+41
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Company previously disclosed long-term Cybersecurity revenue targets in the first quarter of fiscal 2023.  The Company 
+expects to disclose updated long-term Cybersecurity revenue targets in the first quarter of fiscal 2024.
+
+IoT
+
+The increase in IoT revenue of $28 million was primarily due to an increase of $18 million in QNX development seat revenue 
+and  an  increase  of  $15  million  in  BlackBerry  QNX  royalty  revenue,  partially  offset  by  a  decrease  of  $5  million  relating  to 
+professional services.
+
+The Company previously stated that it expected IoT revenue to be between $205 million and $210 million for fiscal 2023. IoT 
+revenue was $206 million in fiscal 2023.
+
+The Company expects IoT revenue to be in the range of $50 million to $53 million in the first quarter of fiscal 2024 and expects 
+IoT revenue to be in the range of $240 million and $250 million for fiscal 2024 as a whole.
+
+Licensing and Other
+
+The decrease in Licensing and Other revenue of $31 million was primarily due to a decrease of $23 million in revenue from the 
+Company’s  intellectual  property  licensing  arrangements  due  to  a  proposed  patent  portfolio  sale  transaction  with  Catapult  IP 
+Innovations,  Inc.  (the  “Catapult  Sale  Transaction”)  that  was  pending  in  the  fourth  quarter  of  fiscal  2023  and  associated 
+restrictions on monetization activity and a decrease of $7 million in SAF revenue.
+
+The Company expects revenue from intellectual property licensing to be approximately $5 million per quarter in fiscal 2024, 
+excluding the Malikie Transaction.
+
+Revenue by Geography 
+
+Comparative breakdowns of the geographic regions are set forth in the following table:
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+February 28, 2021
+
+Change
+
+For the Fiscal Years Ended
+(in millions)
+
+$ 
+
+$ 
+
+350 
+
+222 
+
+84 
+
+656 
+
+$ 
+
+$ 
+
+413 
+
+234 
+
+71 
+
+718 
+
+$ 
+
+$ 
+
+(63)  $ 
+
+(12)   
+
+13 
+
+(62)  $ 
+
+633 
+
+197 
+
+63 
+
+893 
+
+$ 
+
+$ 
+
+(220) 
+
+37 
+
+8 
+
+(175) 
+
+ 53.4 %
+
+ 33.8 %
+
+ 12.8 %
+
+ 57.5 %
+
+ 32.6 %
+
+ 9.9 %
+
+ 100.0 %
+
+ 100.0 %
+
+ 70.9 %
+
+ 22.1 %
+
+ 7.0 %
+
+ 100.0 %
+
+Revenue by Geography
+North America
+
+Europe, Middle East and Africa
+
+Other regions
+
+% Revenue by Geography
+North America
+
+Europe, Middle East and Africa
+
+Other regions
+
+North America Revenue
+
+The decrease in North America revenue of $63 million was primarily due to a decrease of $28 million in product revenue in 
+BlackBerry Spark, a decrease of $23 million in Licensing and Other revenue due to the reasons discussed above in “Revenue by 
+Segment”  and  a  decrease  of  $17  million  relating  to  professional  services,  partially  offset  by  an  increase  of  $7  million  in 
+BlackBerry QNX royalty revenue.
+
+Europe, Middle East and Africa Revenue
+
+The  decrease  in  Europe,  Middle  East  and  Africa  revenue  of  $12  million  was  primarily  due  to  a  decrease  of  $19  million  in 
+product revenue in BlackBerry Spark and a decrease of $3 million in SAF revenue, partially offset by an increase of $6 million 
+relating to product revenue in Secusmart and an increase of $5 million in BlackBerry QNX development seat revenue.
+
+Other Regions Revenue
+
+The  increase  in  Other  regions  revenue  of  $13  million  was  primarily  due  to  an  increase  of  $8  million  in  BlackBerry  QNX 
+development seat revenue and an increase of $6 million in BlackBerry QNX royalty revenue, partially offset by a decrease of 
+$2 million in SAF revenue.
+
+42
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gross Margin
+
+Consolidated Gross Margin 
+
+Consolidated gross margin decreased by $48 million to approximately $419 million in fiscal 2023 (fiscal 2022 - $467 million). 
+The decrease was primarily due to a decrease in revenue from BlackBerry Spark and Licensing and Other, partially offset by an 
+increase  in  revenue  from  BlackBerry  QNX  and  Secusmart  due  to  the  reasons  discussed  above  in  “Revenue  by  Segment”,  as 
+much of the Company’s cost of sales does not significantly fluctuate based on business volume.
+
+Consolidated Gross Margin Percentage
+
+Consolidated  gross  margin  percentage  decreased  by  1.1%,  to  approximately  63.9%  of  consolidated  revenue  in  fiscal  2023 
+(fiscal 2022 - 65.0%). The decrease was primarily due to lower gross margin percentage in Spark and Licensing and Other due 
+to the reasons discussed above in “Revenue by Segment” as the cost of sales for these units is relatively fixed, partially offset 
+by a change in mix, specifically higher contribution from BlackBerry QNX and Secusmart due to the reasons discussed above 
+in “Revenue by Segment”.
+
+Gross Margin by Segment
+
+See “Business Overview” and “Fiscal 2023 Summary Results of Operations” for information about the Company’s operating 
+segments and the basis of operating segment results.
+
+For the Years Ended
+
+(in millions)
+
+Cybersecurity
+
+IoT
+
+Licensing and Other
+
+Segment Totals
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+Segment revenue
+
+$ 418 
+
+$ 477 
+
+$ (59)  $ 206  $ 178  $  28  $  32  $  63  $ (31)  $ 656  $ 718  $ (62) 
+
+Segment cost of sales
+  185 
+Segment gross margin $ 233 
+Segment gross margin 
+%
+
+ 56% 
+
+Cybersecurity
+
+  194 
+
+(9) 
+
+37 
+
+30 
+
+7 
+
+12 
+
+23 
+
+  (11) 
+
+  234 
+
+  247 
+
+  (13) 
+
+$ 283 
+
+$ (50)  $ 169  $ 148  $  21  $  20  $  40  $ (20)  $ 422  $ 471  $ (49) 
+
+ 59% 
+
+ (3%) 
+
+ 82% 
+
+ 83% 
+
+ (1%) 
+
+ 63% 
+
+ 63% 
+
+ —% 
+
+ 64% 
+
+ 66% 
+
+ (2%) 
+
+The decrease in Cybersecurity gross margin of $50 million was primarily due to the reasons discussed above in “Revenue by 
+Segment”, as the cost of sales for most Cybersecurity products does not significantly fluctuate based on business volume, and to 
+an increase in infrastructure costs allocated due to the Company no longer supporting or maintaining legacy device operating 
+systems that previously were included under Licensing and Other for SAF.
+
+The decrease in Cybersecurity gross margin percentage of 3% was primarily due to an increase in infrastructure costs allocated, 
+partially offset by a higher gross margin percentage on professional services revenue in Secusmart.
+
+IoT 
+
+The increase in IoT gross margin of $21 million was primarily due to the reasons discussed above in “Revenue by Segment”, 
+partially offset by an increase in salaries expense.
+
+The decrease in IoT gross margin percentage of 1% was primarily due to an increase in salaries expense within cost of goods 
+sold.
+
+Licensing and Other
+
+The decrease in Licensing and Other gross margin of $20 million was primarily due to the reasons discussed above in “Revenue 
+by  Segment”,  partially  offset  by  a  decrease  in  infrastructure  costs  due  to  the  Company  no  longer  supporting  or  maintaining  
+legacy device operating systems.
+
+Licensing and Other gross margin percentage was consistent with fiscal 2023.
+
+43
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operating Expenses 
+
+The table below presents a comparison of research and development, selling, marketing and administration, and amortization 
+expense  for  fiscal  2023  compared  to  fiscal  2022  and  fiscal  2022  compared  to  fiscal  2021.  The  Company  believes  it  is 
+meaningful to provide a sequential comparison between fiscal 2023 and fiscal 2022.
+
+Revenue
+
+Operating expenses
+
+Research and development
+
+Selling, marketing and administration
+Amortization
+
+Impairment of goodwill
+
+Impairment of long-lived assets
+
+Gain on sale of property, plant and 
+equipment, net
+
+Debentures fair value adjustment
+Litigation settlement
+Total
+
+Operating Expense as % of Revenue
+
+Research and development
+
+Selling, marketing and administration
+Amortization
+
+Impairment of goodwill
+
+Impairment of long-lived assets
+
+Gain on sale of property, plant and 
+equipment, net
+
+Debentures fair value adjustment
+Litigation settlement
+Total
+
+For the Fiscal Years Ended
+(in millions)
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+February 28, 2021
+
+Change
+
+$ 
+
+656 
+
+$ 
+
+718 
+
+$ 
+
+(62)  $ 
+
+893 
+
+$ 
+
+(175) 
+
+207 
+
+340 
+
+96 
+
+245 
+
+235 
+
+(6) 
+
+(138) 
+
+165 
+
+$ 
+
+1,144 
+
+$ 
+
+ 31.6% 
+
+ 51.8% 
+
+ 14.6% 
+
+ 37.3% 
+
+ 35.8% 
+
+ (0.9%) 
+
+ (21.0%) 
+
+ 25.2% 
+
+ 174.4% 
+
+219 
+
+297 
+
+165 
+
+— 
+
+— 
+
+— 
+
+(212) 
+
+— 
+
+469 
+
+ 30.5% 
+
+ 41.4% 
+
+ 23.0% 
+
+ —% 
+
+ —% 
+
+ —% 
+
+ (29.5%) 
+
+ —% 
+
+ 65.3% 
+
+(12)   
+
+43 
+
+(69)   
+
+245 
+
+235 
+
+(6)   
+
+74 
+
+165 
+
+215 
+
+344 
+
+182 
+
+594 
+
+43 
+
+— 
+
+372 
+
+— 
+
+4 
+
+(47) 
+
+(17) 
+
+(594) 
+
+(43) 
+
+— 
+
+(584) 
+
+— 
+
+$ 
+
+675  $ 
+
+1,750 
+
+$ 
+
+(1,281) 
+
+ 24.1% 
+
+ 38.5% 
+
+ 20.4% 
+
+ 66.5% 
+
+ 4.8% 
+
+ —% 
+
+ 41.7% 
+
+ —% 
+
+ 196.0% 
+
+See “Non-GAAP Financial Measures” for a reconciliation of selected U.S. GAAP-based measures to adjusted measures for the 
+years ended February 28, 2023, February 28, 2022 and February 28, 2021.
+
+44
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U.S. GAAP Operating Expenses
+
+Operating expenses increased by $675 million, or 143.9% in fiscal 2023 compared to fiscal 2022. The increase was primarily 
+due to the Fiscal 2023 Goodwill Impairment Charge of $245 million, the Fiscal 2023 LLA Impairment Charge of $235 million,  
+a  $165  million  litigation  settlement,  the  difference  between  the  Fiscal  2023  Debentures  Fair  Value  Adjustment  and  the  fair 
+value  adjustment  related  to  the  Debentures  incurred  in  fiscal  2022  of  $74  million,  a  decrease  in  benefits  of  $43  million  in 
+government subsidies resulting from claims filed for the Canada Emergency Wage Subsidy and Hardest-Hit Business Recovery 
+Program programs (“COVID-19 subsidies”) to support the business through the COVID-19 pandemic, and an increase of $11 
+million in restructuring costs, partially offset by a decrease of $69 million in amortization expense, a decrease of $21 million in 
+salaries and benefits expenses and a decrease of $7 million in sales incentive plan costs.
+
+Adjusted Operating Expenses
+
+Adjusted operating expenses decreased by $24 million, or 4.4%, to $516 million in fiscal 2023, compared to $540 million in 
+fiscal  2022.  The  decrease  was  primarily  attributable  to  a  decrease  of  $36  million  in  amortization  expense,  a  decrease  of  $21 
+million in salaries and benefits expenses, a decrease of $7 million in sales incentive plan costs and a $6 million gain on sale of 
+property, partially offset by a decrease in benefits of $43 million in COVID-19 subsidies and an increase of $5 million in bad 
+debt expense.
+
+Research and Development Expenses 
+
+Research  and  development  expenses  consist  primarily  of  salaries  and  benefits  for  technical  personnel,  new  product 
+development costs, travel, office and building costs, infrastructure costs and other employee costs.
+
+Research and development expenses decreased by $12 million, or 5.5% in fiscal 2023 compared to fiscal 2022. The decrease 
+was  primarily  attributable  to  a  decrease  of  $8  million  in  salaries  and  benefits  expenses  and  a  decrease  of  $5  million  in 
+consulting costs, partially offset by a decrease in benefits of $2 million in claims filed with the Ministry of Innovation, Science 
+and  Economic  Development  Canada  relating  to  its  Strategic  Innovation  Fund  program’s  investment  in  BlackBerry  QNX 
+(“SIF”).
+
+Adjusted research and development expenses decreased by $13 million, or 6.2% to $198 million in fiscal 2023 (fiscal 2022 - 
+$211 million). The decrease was primarily due to the same reasons described above on a U.S. GAAP basis.
+
+Selling, Marketing and Administration Expenses 
+
+Selling, marketing and administration expenses consist primarily of marketing, advertising and promotion, salaries and benefits, 
+external advisory fees, information technology costs, office and related staffing infrastructure costs and travel expenses.
+
+Selling, marketing and administration expenses increased by $43 million, or 14.5% in fiscal 2023 compared to fiscal 2022. The 
+increase  was  primarily  due  to  a  decrease  in  benefits  of  $43  million  in  COVID-19  subsidies,  an  increase  of  $11  million  in 
+restructuring  costs,  an  increase  of  $5  million  in  bad  debt  expense  and  an  increase  of  $3  million  in  travel  expenses,  partially 
+offset by a decrease of $13 million in salaries and benefits expenses and a decrease of $8 million in sales incentive plan costs.
+
+Adjusted  selling,  marketing  and  administration  expenses  increased  by  $31  million,  or  11.1%,  to  $310  million  in  fiscal  2023 
+compared to $279 million in fiscal 2022. The increase was primarily due to the same reasons above, excluding the increase in 
+restructuring costs.
+
+45
+
+Amortization Expense 
+
+The table below presents a comparison of amortization expense relating to property, plant and equipment and intangible assets 
+recorded  as  amortization  or  cost  of  sales  for  fiscal  2023  compared  to  fiscal  2022  and  fiscal  2022  compared  to  fiscal  2021. 
+Intangible assets are comprised of patents, licenses and acquired technology.
+
+For the Fiscal Years Ended
+(in millions)
+
+Included in Operating Expense
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+February 28, 2021
+
+Change
+
+Property, plant and equipment
+
+Intangible assets
+Total
+
+$ 
+
+$ 
+
+9  $ 
+
+87 
+
+96  $ 
+
+12  $ 
+
+153 
+
+165  $ 
+
+(3)  $ 
+
+(66)   
+
+(69)  $ 
+
+17  $ 
+
+165 
+
+182  $ 
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+February 28, 2021
+
+Change
+
+Included in Cost of Sales
+
+Property, plant and equipment
+
+Intangible assets
+
+Total
+
+$ 
+
+$ 
+
+3  $ 
+
+6 
+
+9  $ 
+
+3  $ 
+
+8 
+
+11  $ 
+
+—  $ 
+
+(2)   
+
+(2)  $ 
+
+4  $ 
+
+12 
+
+16  $ 
+
+(5) 
+
+(12) 
+
+(17) 
+
+(1) 
+
+(4) 
+
+(5) 
+
+Amortization included in Operating Expense
+
+The  decrease  in  amortization  expense  included  in  operating  expense  of  $69  million  was  due  to  a  decrease  in  intellectual 
+property held and used related to the previously pending Catapult Sale Transaction and due to the lower cost base of assets.
+
+Adjusted amortization expense decreased by $36 million to $14 million in fiscal 2023 compared to $50 million in fiscal 2022 
+due to the reasons described above on a U.S. GAAP basis.
+
+Amortization included in Cost of Sales
+
+The decrease in amortization expense relating to certain property, plant and equipment and certain intangible assets employed 
+in the Company’s service operations of $2 million was due to the lower cost base of assets.
+
+Investment Income, Net
+
+Investment  income,  net,  which  includes  the  interest  expense  from  the  Debentures,  decreased  by  $16  million  to  investment 
+income,  net  of  $5  million  in  fiscal  2023  compared  to  investment  income,  net  of  $21  million  in  fiscal  2022.  The  decrease  in 
+investment income, net was primarily due to gains recognized from a return of capital from a non-marketable equity investment 
+in fiscal 2022 and lower average cash and investment balances, partially offset by a higher yield on cash and investments in 
+fiscal 2023.
+
+Income Taxes
+
+For fiscal 2023, the Company’s net effective income tax expense rate was approximately 2% (fiscal 2022 - net effective income 
+tax expense of approximately 37%). The Company’s net effective income tax rate reflects the change in unrecognized income 
+tax benefits, if any, and the fact that the Company has a significant valuation allowance against its deferred tax assets, and in 
+particular, the change in fair value of the 1.75% Debentures, amongst other items, was offset by a corresponding adjustment of 
+the  valuation  allowance.  The  Company’s  net  effective  income  tax  rate  also  reflects  the  geographic  mix  of  earnings  in 
+jurisdictions with different income tax rates.
+
+Net Income (Loss) 
+
+The Company’s net loss for fiscal 2023 was $734 million, or $1.27 basic loss per share and $1.35 diluted loss per share on a 
+U.S. GAAP basis (fiscal 2022 - net income of $12 million, or $0.02 basic earnings per share and $0.31 diluted loss per share). 
+The  increase  in  net  loss  of  $746  million  was  primarily  due  to  an  increase  in  operating  expenses,  as  described  above  in 
+“Operating  Expenses”,  a  decrease  in  revenue  as  described  above  in  “Revenue  by  Segment”  and  a  decrease  in  gross  margin 
+percentage, as described above in “Consolidated Gross Margin Percentage”.
+
+Adjusted net loss for fiscal 2023 was $103 million (fiscal 2022 - adjusted net loss of $55 million).  The increase in adjusted net 
+loss of $48 million was primarily due to a decrease in revenue as described above in “Revenue by Segment” and a decrease in 
+gross  margin  percentage,  as  described  above  in  “Consolidated  Gross  Margin  Percentage”,  partially  offset  by  a  decrease  in 
+operating expenses as described above in “Operating Expenses”.
+
+46
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The weighted average number of shares outstanding was 579 million common shares for basic loss per share and 639 million 
+common shares for diluted loss per share for the fiscal year ended February 28, 2023. The weighted average number of shares 
+outstanding was 571 million common shares for basic earnings per share and 631 million common shares for diluted loss per 
+share for the fiscal year ended February 28, 2022. 
+
+Common Shares Outstanding
+
+On March 28, 2023, there were 582 million voting common shares, options to purchase 0.5 million voting common shares, 20 
+million  restricted  share  units  and  2  million  deferred  share  units  outstanding.  In  addition,  60.8  million  common  shares  are 
+issuable upon conversion in full of the 1.75% Debentures, as described in Note 6 to the Consolidated Financial Statements.
+
+The Company has not paid any cash dividends during the last three fiscal years. 
+
+Results of Operations - Three months ended February 28, 2023 compared to the three months ended February 28, 2022 
+
+The following section sets forth certain unaudited consolidated statements of operations data, which is expressed in millions of 
+dollars, except for share and per share amounts and as a percentage of revenue, for the three months ended February 28, 2023, 
+February 28, 2022 and February 28, 2021:
+
+Revenue 
+
+Gross margin 
+
+Operating expenses 
+
+Investment income (loss), net 
+
+Income (loss) before income taxes
+
+Provision for income taxes
+
+Net income (loss)
+
+Earnings (loss) per share - reported
+
+Basic
+Diluted (1)
+
+Weighted-average number of shares 
+outstanding (000’s)
+
+Basic
+Diluted (1)
+
+______________________________
+
+For the Three Months Ended
+(in millions, except for share and per share amounts)
+
+February 28, 2023
+
+February 28, 2022
+
+Change 
+
+February 28, 2021
+
+Change
+
+$ 
+
+151  $ 
+
+185  $ 
+
+100 
+
+599 
+
+6 
+
+(493)   
+
+2 
+
+124 
+
+(22)   
+
+(1)   
+
+145 
+
+1 
+
+(34)  $ 
+
+(24)   
+
+621 
+
+7 
+
+210  $ 
+
+152 
+
+465 
+
+— 
+
+(638)   
+
+(313)   
+
+1 
+
+2 
+
+$ 
+
+$ 
+
+$ 
+
+(495)  $ 
+
+144  $ 
+
+(639)  $ 
+
+(315)  $ 
+
+(0.85)  $ 
+
+(0.85)  $ 
+
+0.25  $ 
+
+(0.03)  $ 
+
+(1.10)  $ 
+
+(0.82)  $ 
+
+(0.56)  $ 
+
+(0.56)  $ 
+
+(25) 
+
+(28) 
+
+(487) 
+
+(1) 
+
+458 
+
+(1) 
+
+459 
+
+0.81 
+
+0.53 
+
+581,493 
+
+581,493 
+
+575,883 
+
+636,716 
+
+566,089 
+
+566,089 
+
+(1)
+
+Diluted loss per share on a U.S. GAAP basis in the fourth quarter of 2023 and 2021 do not include the dilutive effect 
+of the Debentures as to do so would be anti-dilutive. Diluted loss per share on a U.S. GAAP basis in the fourth quarter 
+of  2023,  2022  and  2021  do  not  include  the  dilutive  effect  of  stock-based  compensation  as  to  do  so  would  be  anti-
+dilutive.
+
+47
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Revenue
+
+Revenue by Segment
+
+Comparative breakdowns of revenue by product and service on a U.S. GAAP basis are set forth below.
+
+Revenue by Segment
+
+Cybersecurity
+IoT
+
+Licensing and Other
+
+% Revenue by Segment
+
+Cybersecurity
+IoT
+
+Licensing and Other
+
+Cybersecurity
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+February 28, 2021
+
+Change
+
+For the Three Months Ended
+(in millions)
+
+$ 
+
+$ 
+
+88 
+
+53 
+
+10 
+
+$ 
+
+122 
+
+$ 
+
+(34)  $ 
+
+122 
+
+$ 
+
+52 
+
+11 
+
+1 
+
+(1)   
+
+38 
+
+50 
+
+151 
+
+$ 
+
+185 
+
+$ 
+
+(34)  $ 
+
+210 
+
+$ 
+
+— 
+
+14 
+
+(39) 
+
+(25) 
+
+ 58.3 %
+
+ 35.1 %
+
+ 6.6 %
+
+ 65.9 %
+
+ 28.1 %
+
+ 6.0 %
+
+ 100.0 %
+
+ 100.0 %
+
+ 58.1 %
+
+ 18.1 %
+
+ 23.8 %
+
+ 100.0 %
+
+The  decrease  in  Cybersecurity  of  $34  million  was  primarily  due  to  a  decrease  of  $19  million  relating  to  product  revenue  in 
+Secusmart, a decrease of $13 million relating to product revenue in BlackBerry Spark and a decrease of $4 million relating to 
+professional services.
+
+IoT
+
+The increase in IoT revenue of $1 million was primarily due to an increase of $6 million in BlackBerry QNX royalty revenue 
+and an increase of $2 million in Blackberry QNX development seat revenue, partially offset by a decrease of $6 million relating 
+to professional services.
+
+Licensing and Other
+
+The decrease in Licensing and Other revenue of $1 million was primarily due to a decrease of $1 million in SAF revenue.
+
+U.S. GAAP Revenue by Geography  
+
+Comparative breakdowns of the geographic regions on a U.S. GAAP basis are set forth in the following table:
+
+Revenue by Geography
+North America
+
+Europe, Middle East and Africa
+
+Other regions
+
+% Revenue by Geography
+
+North America
+
+Europe, Middle East and Africa
+
+Other regions
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+February 28, 2021
+
+Change
+
+For the Three Months Ended
+(in millions)
+
+$ 
+
+$ 
+
+84 
+
+46 
+
+21 
+
+$ 
+
+100 
+
+$ 
+
+66 
+
+19 
+
+(16)  $ 
+
+(20)   
+
+2 
+
+141 
+
+$ 
+
+53 
+
+16 
+
+151 
+
+$ 
+
+185 
+
+$ 
+
+(34)  $ 
+
+210 
+
+$ 
+
+(41) 
+
+13 
+
+3 
+
+(25) 
+
+ 55.6 %
+
+ 30.5 %
+ 13.9 %
+
+ 54.0 %
+
+ 35.7 %
+ 10.3 %
+
+ 100.0 %
+
+ 100.0 %
+
+ 67.1 %
+
+ 25.2 %
+ 7.7 %
+
+ 100.0 %
+
+48
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+North America Revenue
+
+The decrease in North America revenue of $16 million was primarily due to a decrease of $8 million relating to professional 
+services and a decrease of $8 million in product revenue in BlackBerry Spark, partially offset by an increase of $2 million in 
+BlackBerry QNX development seats revenue.
+
+Europe, Middle East and Africa Revenue
+
+The decrease in Europe, Middle East and Africa revenue of $20 million was primarily due to a decrease of $17 million relating 
+to product revenue in Secusmart, a decrease of $4 million in product revenue in BlackBerry Spark and a decrease of $2 million 
+relating to professional services, partially offset by an increase of $1 million in BlackBerry QNX royalty revenue.
+
+Other Regions Revenue
+
+The  increase  in  Other  regions  revenue  of  $2  million  was  primarily  due  to  an  increase  of  $4  million  in  BlackBerry  QNX 
+development seat revenue, partially offset by a decrease of $1 million in product revenue in BlackBerry Spark.
+
+Gross Margin
+
+Consolidated Gross Margin 
+
+Consolidated gross margin decreased by $24 million to approximately $100 million in the fourth quarter of fiscal 2023 (fourth 
+quarter  of  fiscal  2022  -  $124  million).  The  decrease  was  primarily  due  to  a  decrease  in  revenue  from  BlackBerry  Spark  and 
+Secusmart  due  to  the  reasons  discussed  above  in  “Revenue  by  Segment”  as  much  of  the  Company’s  cost  of  sales  does  not 
+significantly fluctuate based on business volume.
+
+Consolidated Gross Margin Percentage 
+
+Consolidated gross margin percentage decreased by 0.8%, to approximately 66.2% of consolidated revenue in the fourth quarter 
+of fiscal 2023 (fourth quarter of fiscal 2022 - 67.0%). The decrease was primarily due to a lower gross margin percentage in IoT 
+and BlackBerry Spark due to the reasons discussed below in “Gross Margin by Segment”, partially offset by a change in mix, 
+specifically higher contribution from BlackBerry QNX.
+
+Gross Margin by Segment
+
+See “Business Overview - Segment Reporting” and “Fiscal 2023 Summary Results of Operations” for information about the 
+Company’s operating segments and the basis of operating segment results.
+
+Cybersecurity
+
+IoT
+
+Licensing and Other
+
+Segment Totals
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+February 28,
+
+2023
+
+2022
+
+Change
+
+Segment revenue
+
+$  88 
+
+$ 122 
+
+$ (34)  $  53  $  52  $  1  $  10  $  11  $  (1)  $ 151  $ 185  $ (34) 
+
+For the Three Months Ended
+(in millions)
+
+Segment cost of sales
+36 
+Segment gross margin $  52 
+Segment gross margin 
+%
+
+ 59% 
+
+Cybersecurity
+
+47 
+$  75 
+
+  (11) 
+$ (23)  $  43  $  44  $  (1)  $ 
+
+10 
+
+2 
+
+8 
+
+4 
+6  $ 
+
+(1) 
+
+5 
+  (10) 
+50 
+6  $  —  $ 101  $ 125  $ (24) 
+
+60 
+
+ 61% 
+
+ (2%) 
+
+ 81% 
+
+ 85% 
+
+ (4%) 
+
+ 60% 
+
+ 55% 
+
+ 5% 
+
+ 67% 
+
+ 68% 
+
+ (1%) 
+
+The decrease in Cybersecurity gross margin of $23 million was primarily due to the reasons discussed above in “Revenue by 
+Segment”, as the cost of sales for most Cybersecurity products does not significantly fluctuate based on business volume, and  
+an increase in infrastructure costs allocated due to the Company no longer supporting or maintaining legacy device operating 
+systems.
+
+The decrease in Cybersecurity gross margin percentage of 2% was primarily due to an increase in infrastructure costs allocated.
+
+IoT
+
+The decrease in IoT gross margin of $1 million was primarily due to the reasons discussed above in “Revenue by Segment”, 
+partially offset by an increase in variable incentive plan costs.
+
+The decrease in IoT gross margin percentage of 4% was primarily due to an increase in variable incentive plan costs.
+
+49
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Licensing and Other
+
+Licensing and Other gross margin of $6 million was consistent with the fourth quarter of fiscal 2022. The decrease in revenue 
+discussed  above  in  “Revenue  by  Segment”  was  offset  by  a  decrease  in  infrastructure  costs  due  to  the  Company  no  longer 
+supporting or maintaining legacy device operating systems.
+
+The increase in Licensing and Other gross margin percentage of 5% was primarily due to a decrease in infrastructure costs due 
+to the Company no longer supporting or maintaining legacy device operating systems.
+
+Operating Expenses
+
+The table below presents a comparison of research and development, selling, marketing and administration, and amortization 
+expenses for the quarter ended February 28, 2023, compared to the quarter ended November 30, 2022 and the quarter ended 
+February 28, 2022.
+
+Revenue
+
+Operating expenses
+Research and development
+
+Selling, marketing and administration
+
+Amortization
+
+Impairment of long-lived assets
+
+Impairment of goodwill
+
+Debentures fair value adjustment
+Total
+
+Operating Expense as % of Revenue
+
+Research and development
+
+Selling, marketing and administration
+
+Amortization
+
+Impairment of long-lived assets
+
+Impairment of goodwill
+
+Debentures fair value adjustment
+Total
+
+For the Three Months Ended
+(in millions)
+
+February 28, 2023 November 30, 2022
+
+February 28, 2022
+
+February 28, 2021
+
+$ 
+
+151 
+
+$ 
+
+169 
+
+$ 
+
+185 
+
+$ 
+
+210 
+
+48 
+
+83 
+
+18 
+
+231 
+
+245 
+
+(26) 
+
+599 
+
+$ 
+
+$ 
+
+ 31.8% 
+
+ 55.0% 
+
+ 11.9% 
+
+ 153.0% 
+
+ 162.3% 
+
+ (17.2%) 
+
+ 396.7% 
+
+52 
+
+89 
+
+26 
+
+— 
+
+— 
+
+(56) 
+
+111 
+
+ 30.8% 
+
+ 52.7% 
+
+ 15.4% 
+
+ —% 
+
+ —% 
+
+ (33.1%) 
+
+ 65.7% 
+
+47 
+
+64 
+
+32 
+
+— 
+
+— 
+
+(165) 
+
+$ 
+
+(22) 
+
+$ 
+
+ 25.4% 
+
+ 34.6% 
+
+ 17.3% 
+
+ —% 
+
+ —% 
+
+ (89.2%) 
+
+ (11.9%) 
+
+48 
+
+92 
+
+45 
+
+22 
+
+— 
+
+258 
+
+465 
+
+ 22.9% 
+
+ 43.8% 
+
+ 21.4% 
+
+ 10.5% 
+
+ —% 
+
+ 122.9% 
+
+ 221.4% 
+
+See “Non-GAAP Financial Measures” for a reconciliation of selected U.S. GAAP-based measures to adjusted measures for the 
+three months ended February 28, 2023, November 30, 2022, February 28, 2022 and February 28, 2021.
+
+U.S. GAAP Operating Expenses
+
+Operating expenses increased by $488 million, or 439.6% in the fourth quarter of fiscal 2023, compared to $111 million in the 
+third quarter of fiscal 2023 primarily due to the Fiscal 2023 Goodwill Impairment Charge of $245 million, impairment of long-
+lived assets of $231 million, the difference between the Q4 Fiscal 2023 Debentures Fair Value Adjustment and the fair value 
+adjustment  related  to  the  Debentures  incurred  in  the  third  quarter  of  fiscal  2023  of  $30  million,  an  increase  of  $7  million  in 
+restructuring costs and an increase of $3 million in marketing and advertising costs, partially offset by a decrease of $17 million 
+in  variable  incentive  plan  costs,  a  decrease  of  $8  million  in  amortization  expense  and  a  decrease  of  $2  million  in  patent 
+abandonment costs.
+
+Operating expenses increased by $621 million, or 2,822.73% in the fourth quarter of fiscal 2023, compared to $(22) million in 
+the  fourth  quarter  of  fiscal  2022.  The  increase  was  primarily  attributable  to  the  Fiscal  2023  Goodwill  Impairment  Charge  of 
+$245  million,  impairment  of  long-lived  assets  of  $231  million,  the  difference  between  the  Q4  Fiscal  2023  Debentures  Fair 
+Value Adjustment and the fair value adjustment related to the Debentures incurred in the fourth quarter of fiscal 2022 of $139 
+million, a decrease in benefits of $14 million in COVID-19 subsidies, an increase of $7 million in restructuring costs and an 
+increase of $5 million in stock compensation expense, partially offset by a decrease of $14 million in amortization expense and 
+a decrease of $4 million in variable incentive plan costs.
+
+50
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adjusted Operating Expenses
+
+Adjusted operating expenses decreased by $19 million, or 13.9%, to $118 million in the fourth quarter of fiscal 2023 compared 
+to $137 million in the third quarter of fiscal 2023. The decrease was primarily to a decrease of $17 million in variable incentive 
+plan costs and a decrease of $1 million in foreign exchange losses, partially offset by an increase of $3 million in marketing and 
+advertising costs.
+
+Adjusted operating expenses increased by $1 million, or 0.9%, to $118 million in the fourth quarter of fiscal 2023, compared to 
+$117 million in the fourth quarter of fiscal 2022. The increase was primarily attributable to a decrease in benefits of $14 million 
+in COVID-19 subsidies and an increase of $3 million in marketing and advertising costs, partially offset by a decrease of $7 
+million in amortization expense, a decrease of $4 million in variable incentive plan costs and a decrease of $3 million in salaries 
+and benefits expenses.
+
+Research and Development Expenses
+
+Research  and  development  expenses  consist  primarily  of  salaries  and  benefits  costs  for  technical  personnel,  new  product 
+development costs, travel expenses, office and building costs, infrastructure costs and other employee costs.
+
+Research  and  development  expenses  increased  by  $1  million,  or  2.1%,  to  $48  million  in  the  fourth  quarter  of  fiscal  2023 
+compared to $47 million in the fourth quarter of fiscal 2022, primarily due to an increase of $1 million in variable incentive 
+plan costs.
+
+Adjusted research and development expenses were $45 million in the fourth quarter of fiscal 2023, consistent with $45 million 
+in the fourth quarter of fiscal 2022.
+
+Selling, Marketing and Administration Expenses
+
+Selling, marketing and administration expenses consist primarily of marketing, advertising and promotion, salaries and benefits, 
+external advisory fees, information technology costs, office and related staffing infrastructure costs and travel expenses.
+
+Selling, marketing and administration expenses increased by $19 million, or 29.7%, to $83 million in the fourth quarter of fiscal 
+2023  compared  to  $64  million  in  the  fourth  quarter  of  fiscal  2022,  primarily  due  to  a  decrease  in  benefits  of  $14  million  in 
+COVID-19 subsidies, an increase of $7 million in restructuring costs and an increase of $4 million stock compensation costs, 
+partially offset by a decrease of $5 million in variable incentive plan costs.
+
+Adjusted selling, marketing and administration expenses increased by $8 million, or 12.9%, to $70 million in the fourth quarter 
+of fiscal 2023 compared to $62 million in the fourth quarter of fiscal 2022. The increase was primarily due to a decrease in 
+benefits of $14 million in COVID-19 subsidies, an increase of $3 million in marketing and advertising costs, partially offset by 
+a decrease of $5 million in variable incentive plan costs and a decrease of $2 million in sales incentive plan costs.
+
+51
+
+Amortization Expense
+
+The table below presents a comparison of amortization expense relating to property, plant and equipment and intangible assets 
+recorded as amortization or cost of sales for the quarter ended February 28, 2023 compared to the quarter ended February 28, 
+2022  and  for  the  quarter  ended  February  28,  2022  compared  to  the  quarter  ended  February  28,  2021.  Intangible  assets  are 
+comprised of patents, licenses and acquired technology. 
+
+For the Three Months Ended
+(in millions)
+
+Included in Operating Expense
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+February 28, 2021
+
+Change
+
+Property, plant and equipment
+
+Intangible assets
+
+Total
+
+$ 
+
+$ 
+
+2  $ 
+
+16 
+
+18  $ 
+
+2  $ 
+
+30 
+
+32  $ 
+
+—  $ 
+
+(14)   
+
+(14)  $ 
+
+4  $ 
+
+41 
+
+45  $ 
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+February 28, 2021
+
+Change
+
+Included in Cost of Sales
+
+Property, plant and equipment
+
+Intangible assets
+
+Total
+
+$ 
+
+$ 
+
+1  $ 
+
+1 
+
+2  $ 
+
+1  $ 
+
+1 
+
+2  $ 
+
+—  $ 
+
+— 
+
+—  $ 
+
+1  $ 
+
+3 
+
+4  $ 
+
+(2) 
+
+(11) 
+
+(13) 
+
+— 
+
+(2) 
+
+(2) 
+
+Amortization included in Operating Expense
+
+The  decrease  in  amortization  expense  included  in  operating  expense  of  $14  million  was  due  to  a  decrease  in  intellectual 
+property held and used related to the previously pending Catapult Sale Transaction and due to the lower cost base of assets.
+
+Adjusted  amortization  expense  decreased  by  $7  million  to  $3  million  in  the  fourth  quarter  of  fiscal  2023  compared  to  $10 
+million in the fourth quarter of fiscal 2022 due to the reasons described above on a U.S. GAAP basis. 
+
+Amortization included in Cost of Sales
+
+Amortization  expense  relating  to  certain  property,  plant  and  equipment  and  intangible  assets  employed  in  the  Company’s 
+service operations of $2 million was consistent with the fourth quarter of fiscal 2023.
+
+Investment Income (Loss), Net 
+
+Investment income, net, which includes the interest expense from the 1.75% Debentures, increased by $7 million to investment 
+income, net of $6 million in the fourth quarter of fiscal 2023 compared to investment loss, net of $1 million in the fourth quarter 
+of fiscal 2022. The increase in investment income, net is primarily due to observable price changes on non-marketable equity 
+investments without readily determinable fair value and a higher yield on cash and investments, partially offset by lower cash 
+and investment balances.
+
+Income Taxes
+
+For  the  fourth  quarter  of  fiscal  2023,  the  Company’s  net  effective  income  tax  expense  rate  was  approximately  0%  (fourth 
+quarter of fiscal 2022 - net effective income tax expense rate of approximately 1%). The Company’s net effective income tax 
+rate reflects the change in unrecognized income tax benefits, if any, and the fact that the Company has a significant valuation 
+allowance against its deferred tax assets, and in particular, the change in fair value of the Debentures, amongst other items, was 
+offset by a corresponding adjustment of the valuation allowance. The Company’s net effective income tax rate also reflects the 
+geographic mix of earnings in jurisdictions with different income tax rates.
+
+Net Income (Loss)
+
+The Company’s net loss for the fourth quarter of fiscal 2023 was $495 million, or $0.85 basic and diluted loss per share on a 
+U.S.  GAAP  basis  (fourth  quarter  of  fiscal  2022  -  net  income  of  $144  million,  or  $0.25  basic  earnings  per  share  and  $0.03 
+diluted loss per share). The decrease in net income of $639 million was primarily due to an increase in operating expenses, as 
+described above in “Operating Expenses”, a decrease in revenue as described above in “Revenue by Segment” and a decrease in 
+gross margin percentage as described above in “Consolidated Gross Margin Percentage”.
+
+Adjusted net loss was $13 million in the fourth quarter of fiscal 2023 (fourth quarter of fiscal 2022 - adjusted net income of $6 
+million).  The decrease in adjusted net income of $19 million was primarily due to a decrease in revenue as described above in 
+“Revenue by Segment”, a decrease in gross margin percentage, as described above in “Consolidated Gross Margin Percentage” 
+and an increase in operating expenses, as described above in “Operating Expenses”.
+
+52
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The weighted average number of shares outstanding was 581 million common shares for basic and diluted loss per share for the 
+fourth quarter of fiscal 2023. The weighted average number of shares outstanding was 576 million common shares for basic 
+earnings per share and 637 million common shares for diluted loss per share for the fourth quarter of fiscal 2022.
+
+Financial Condition
+
+Liquidity and Capital Resources 
+
+Cash, cash equivalents, and investments decreased by $283 million to $487 million as at February 28, 2023 from $770 million 
+as at February 28, 2022, primarily as a result of the U.S. securities class actions settlement discussed in “Business Overview - 
+Pearlstein Settlement” and changes in working capital, excluding the amounts payable in respect of the 1.75% Debentures. The 
+majority of the Company’s cash, cash equivalents, and investments are denominated in U.S. dollars as at February 28, 2023.
+
+A comparative summary of cash, cash equivalents, and investments is set out below:
+
+As at
+(in millions)
+
+Cash and cash equivalents
+
+$ 
+
+295  $ 
+
+378  $ 
+
+(83)  $ 
+
+214  $ 
+
+164 
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+February 28, 2021
+
+Change
+
+Restricted cash equivalents and restricted 
+short-term investments
+Short-term investments
+
+Long-term investments
+
+27 
+
+131 
+
+34 
+
+28 
+
+334 
+
+30 
+
+(1)   
+
+(203)   
+
+4 
+
+28 
+
+525 
+
+37 
+
+Cash, cash equivalents, and investments
+
+$ 
+
+487  $ 
+
+770  $ 
+
+(283)  $ 
+
+804  $ 
+
+— 
+
+(191) 
+
+(7) 
+
+(34) 
+
+The table below summarizes the current assets, current liabilities, and working capital of the Company:
+
+Current assets
+
+Current liabilities
+
+Working capital
+
+Current Assets 
+
+As at
+(in millions)
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+February 28, 2021
+
+Change
+
+$ 
+
+$ 
+
+743  $ 
+
+1,043  $ 
+
+(300)  $ 
+
+1,006  $ 
+
+729 
+
+14  $ 
+
+397 
+
+646  $ 
+
+332 
+
+(632)  $ 
+
+429 
+
+577  $ 
+
+37 
+
+(32) 
+
+69 
+
+The  decrease  in  current  assets  of  $300  million  at  the  end  of  fiscal  2023  from  the  end  of  fiscal  2022  was  primarily  due  to 
+decreases  in  short  term  investments  of  $203  million,  a  decrease  in  cash  and  cash  equivalents  of  $83  million,  a  decrease  in 
+accounts receivable, net of allowance of $18 million, a decrease of $13 million in other receivables and a decrease income taxes 
+receivable of $6 million, partially offset by an increase in other current assets of $23 million.
+
+At February 28, 2023, accounts receivable, net of allowance was $120 million, a decrease of  $18 million from February 28, 
+2022. The decrease was primarily due to lower revenue recognized over the three months ended February 28, 2023 compared to 
+the three months ended February 28, 2022, offset by an increase in days sales outstanding to 75 days at the end of the fourth 
+quarter of fiscal 2023 from 67 days at the end of the fourth quarter of fiscal 2022.
+
+At February 28, 2023, other receivables was $12 million, a decrease of $13 million from February 28, 2022. The decrease was 
+primarily due to a decrease of $8 million relating to COVID-19 subsidies and a decrease of $6 million in in intellectual property 
+licensing receivable.
+
+At February 28, 2023, income taxes receivable was $3 million, a decrease of $6 million from February 28, 2022. The decrease 
+was primarily due to tax refunds received.
+
+At February 28, 2023, other current assets was $182 million, an increase of $23 million from February 28, 2022. The increase is 
+primarily due to maintenance payments on intellectual property relating to the previously pending Catapult Sale Transaction of 
+$23 million.
+
+Current Liabilities
+
+The increase in current liabilities of $332 million at the end of fiscal 2023 from the end of fiscal 2022 was primarily due to an 
+increase in the amounts payable in respect of the 1.75% Debentures of $367 million, an increase in income taxes payable of $9 
+
+53
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+million  and  an  increase  in  accounts  payable  of  $2  million,  partially  offset  by  a  decrease  in  deferred  revenue,  current  of  $32 
+million and a decrease in accrued liabilities of $14 million. 
+
+Accrued liabilities was $143 million, reflecting a decrease of $14 million compared to February 28, 2022, which was primarily 
+attributable  to  a  decrease  of  $4  million  in  operating  lease  liability,  current,  a  decrease  of  $3  million  in  audit  fee  accrual,  a 
+decrease of $3 million in the Company’s deferred share unit liability and a decrease of $2 million in the liability associated with 
+the CEO contingent cash award.
+
+Deferred revenue, current was $175 million, which reflects a decrease of $32 million compared to February 28, 2022 that was 
+attributable to a $34 million decrease in deferred revenue, current related to BlackBerry Spark, partially offset by a $5 million 
+increase in deferred revenue, current related to BlackBerry QNX.
+
+Income  taxes  payable  was  $20  million,  reflecting  an  increase  of  $9  million  compared  to  February  28,  2022,  which  was 
+primarily due to income earned in taxable jurisdictions.
+
+As at February 28, 2023, accounts payable were $24 million, reflecting an increase of $2 million from February 28, 2022, 
+which was primarily due to timing of payments of accounts payable.
+
+Cash flows for the fiscal year ended February 28, 2023 compared to the fiscal year ended February 28, 2022 were as follows:
+
+February 28, 2023
+
+February 28, 2022
+
+Change
+
+February 28, 2021
+
+Change
+
+For the Fiscal Years Ended
+(in millions)
+
+$ 
+
+(263)  $ 
+
+(28)  $ 
+
+(235)  $ 
+
+176 
+
+6 
+
+207 
+
+10 
+
+(3)   
+
+(1)   
+
+(31)   
+
+(4)   
+
+(2)   
+
+82  $ 
+
+(65)   
+
+(227)   
+
+2 
+
+(110) 
+
+272 
+
+237 
+
+(3) 
+
+$ 
+
+(84)  $ 
+
+188  $ 
+
+(272)  $ 
+
+(208)  $ 
+
+396 
+
+Net cash flows provided by (used in):
+
+Operating activities
+
+Investing activities
+
+Financing activities
+
+Effect of foreign exchange gain (loss) on 
+cash and cash equivalents
+Net increase (decrease) in cash and cash 
+equivalents
+
+Operating Activities
+
+The increase in net cash flows used in operating activities of $235 million primarily reflects the net changes in working capital 
+and includes the payment of the $165 million U.S. securities class actions settlement.
+
+Investing Activities
+
+During  the  fiscal  year  ended  February  28,  2023,  cash  flows  provided  by  investing  activities  were  $176  million  and  included 
+cash provided by transactions involving the acquisitions of restricted short-term, short-term and long-term investments, net of 
+the proceeds on sale or maturity in the amount of $200 million and proceeds on sale of property, plant and equipment of $17 
+million,  partially  offset  by  intangible  asset  additions  of  $34  million,  and  acquisitions  of  property,  plant  and  equipment  of  $7 
+million.  During  fiscal  2022,  cash  flows  provided  by  investing  activities  were  $207  million  and  included  cash  flows  used  in 
+transactions involving the acquisitions of short-term and long-term investments, net of the proceeds on sale or maturity in the 
+amount of $211 million and a distribution from a non-marketable equity investment without readily determinable fair value in 
+the amount of $35 million, partially offset by intangible asset additions of $31 million, and acquisitions of property, plant and 
+equipment of $8 million.
+
+Financing Activities
+
+The decrease in cash flows provided by financing activities was $4 million for fiscal 2023 due to a decrease in common shares 
+issued upon the exercise of stock options.
+
+Debenture Financing and Other Funding Sources
+
+See Note 6 to the Consolidated Financial Statements for a description of the Debentures.
+
+The Company has $25 million in collateralized outstanding letters of credit in support of certain leasing arrangements entered 
+into in the ordinary course of business. See Note 3 to the Consolidated Financial Statements for further information concerning 
+the Company’s restricted cash and restricted short-term investments.
+
+54
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash,  cash  equivalents,  and  investments  were  approximately  $487  million  as  at  February  28,  2023.  The  Company’s 
+management  remains  focused  on  maintaining  appropriate  cash  balances,  efficiently  managing  working  capital  balances  and 
+managing the liquidity needs of the business. The Company has experienced recent operating losses and the 1.75% Debentures 
+will mature on November 13, 2023 as described in Note 6, but the Company maintains positive working capital, has the ability 
+and intent to access other potential financing arrangements on commercially reasonable terms, and has entered into the patent 
+sale  transaction.  Taking  these  factors  into  account  and  based  on  its  current  financial  projections,  the  Company  believes  its 
+financial resources, together with expected future operating cash generating and operating expense reduction activities, should 
+be  sufficient  to  meet  funding  requirements  for  current  financial  commitments  and  future  operating  expenditures  not  yet 
+committed, and should provide the necessary financial capacity for the foreseeable future.
+
+Contractual and Other Obligations
+
+The following table sets out aggregate information about the Company’s contractual and other obligations and the periods in 
+which payments are due as at February 28, 2023:
+
+Operating lease obligations
+
+Purchase obligations and commitments
+
+Debt interest and principal payments
+
+Total
+
+(in millions)
+
+Total
+
+Short-term 
+(next 12 months)
+
+Long-term 
+(>12 months)
+
+$ 
+
+$ 
+
+82  $ 
+
+26  $ 
+
+103 
+
+371 
+
+103 
+
+371 
+
+556  $ 
+
+500  $ 
+
+56 
+
+— 
+
+— 
+
+56 
+
+Contractual and other obligations amounted to approximately $556 million as at February 28, 2023, including future principal 
+and interest payments of $371 million on the 1.75% Debentures and operating lease obligations of $82 million. The remaining 
+balance  consists  of  purchase  orders  for  goods  and  services  utilized  in  the  operations  of  the  Company.  Total  aggregate 
+contractual obligations as at February 28, 2023 decreased by approximately $47 million as compared to the February 28, 2022 
+balance of approximately $603 million, which was attributable to decreases in purchase obligations and commitments and in 
+operating lease obligations.
+
+The Company does not have any off-balance sheet arrangements as defined in Item 303(a)(4)(ii) of Regulation S-K under the 
+Securities Exchange Act of 1934, as amended (the “Exchange Act”), or under applicable Canadian securities laws.
+
+Accounting Policies and Critical Accounting Estimates 
+
+Accounting Policies 
+
+See Note 1 to the Consolidated Financial Statements for a description of the Company’s significant accounting policies.
+
+See Note 2 to the Consolidated Financial Statements for a description of accounting policies adopted by the Company in fiscal 
+2023.
+
+Critical Accounting Estimates 
+
+The preparation of the consolidated financial statements requires management to make estimates and assumptions with respect 
+to  the  reported  amounts  of  assets,  liabilities,  revenue  and  expenses  and  the  disclosure  of  contingent  assets  and  liabilities. 
+Significant  areas  requiring  the  use  of  management  estimates  relate  to  revenue-related  estimates  including  variable 
+consideration,  standalone  selling  price  (“SSP”),  estimated  customer  life,  if  control  of  licenses  to  intellectual  property  has 
+transferred, right of return and customer incentive commitments, fair value of reporting units in relation to actual or potential 
+goodwill impairment, fair value of the Debentures, fair value of share-based liability awards, fair value of long-lived assets in 
+relation to actual or potential impairment, the Company’s long-lived asset groupings, estimated useful lives of property, plant 
+and equipment and intangible assets, provision (or recovery) of income taxes, realization of deferred income tax assets and the 
+related  components  of  the  valuation  allowance,  allowance  for  credit  losses,  incremental  borrowing  rates  in  determining  the 
+present value of lease liabilities and the determination of reserves for various litigation claims. Actual results could differ from 
+these  estimates,  which  were  based  upon  circumstances  that  existed  as  of  the  date  of  the  consolidated  financial  statements, 
+February 28, 2023.
+
+The  Company’s  critical  accounting  estimates  have  been  reviewed  and  discussed  with  the  Company’s  Audit  &  Risk 
+Management  Committee  and  are  set  out  below.  Except  as  noted,  there  have  not  been  any  changes  to  the  critical  accounting 
+estimates made by the Company, during the past three fiscal years.
+
+55
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Valuation of Long-Lived Assets 
+
+The LLA impairment test prescribed by U.S. GAAP requires the Company to identify its asset groups and test impairment of 
+each asset group separately. To conduct the LLA impairment test, the asset group is tested for recoverability using undiscounted 
+cash flows over the remaining useful life of the primary asset. If forecasted net cash flows are less than the carrying value of the 
+asset group, an impairment charge is measured by comparing the fair value of the asset group to its carrying value. Determining 
+the  Company’s  asset  groups  and  related  primary  assets  requires  significant  judgment  by  management.  Different  judgments 
+could yield different results.
+
+The Company’s determination of its asset groups, its primary asset and its remaining useful life, and estimated cash flows are 
+significant  factors  in  assessing  the  recoverability  of  the  Company’s  assets  for  the  purposes  of  LLA  impairment  testing.  The 
+Company’s share price can be affected by, among other things, changes in industry or market conditions, including the effect of 
+competition,  changes  in  the  Company’s  results  of  operations,  changes  in  the  Company’s  forecasts  or  market  expectations 
+relating to future results, and the Company’s strategic initiatives and the market’s assessment of any such factors. See Part 1, 
+Item  1A  “Risk  Factors  -  The  market  price  of  the  Company’s  common  shares  is  volatile”.  The  current  macroeconomic 
+environment  and  competitive  dynamics  continue  to  be  challenging  to  the  Company’s  business  and  the  Company  cannot  be 
+certain of the duration of these conditions and their potential impact on the Company’s future financial results and cash flows. 
+A  decline  in  the  Company’s  performance,  the  Company’s  market  capitalization  and  future  changes  to  the  Company’s 
+assumptions and estimates used in the LLA impairment test, particularly the expected future cash flows, remaining useful life of 
+the primary asset and terminal value of the asset group, may result in further impairment charges in future periods of some or 
+all of the assets on the Company’s balance sheet. Although it does not affect the Company’s cash flow, an impairment charge to 
+earnings  has  the  effect  of  decreasing  the  Company’s  earnings  or  increasing  the  Company’s  losses,  as  the  case  may  be.  The 
+Company’s share price could also be adversely affected by the Company’s recorded LLA impairment charges.
+
+The Company used the discounted cash flow analysis and market approach to determine the fair values of its assets to measure 
+and allocate impairment. 
+
+Valuation of Goodwill Reporting Units
+
+Goodwill represents the excess of the acquisition price in a business combination over the fair value of identifiable net assets 
+acquired. Goodwill is allocated at the date of the business combination. Goodwill is not amortized but is tested for impairment 
+annually on December 31 or more frequently if events or changes in circumstances indicate the asset may be impaired. These 
+events and circumstances may include a significant change in legal factors or in the business climate, a significant decline in the 
+Company’s  share  price,  an  adverse  action  or  assessment  by  a  regulator,  unanticipated  competition,  a  loss  of  key  personnel, 
+significant disposal activity and the testing of recoverability for a significant asset group. 
+
+In the annual impairment test, the carrying value of the reporting unit, including goodwill, was compared with its fair value. 
+The estimated fair value was determined utilizing multiple approaches based on the nature of the reporting units being valued. 
+In its analysis, the Company utilized multiple valuation techniques, including the income approach using a discounted future 
+cash flow model, market-based approaches, and the asset value approach. The analysis requires significant judgment, including 
+estimation of future cash flows, which is dependent on internal forecasts, estimation of the long-term rates of revenue growth 
+for  the  Company’s  reporting  units,  estimation  of  the  useful  life  over  which  cash  flows  will  occur,  terminal  growth  rates, 
+profitability  measures,  and  determination  of  the  discount  rates  for  the  reporting  units.  The  carrying  value  of  the  Company’s 
+assets was assigned to reporting units using reasonable methodologies based on the asset type. When the carrying value of a 
+reporting  unit  exceeds  its  fair  value,  goodwill  of  the  reporting  unit  is  considered  to  be  impaired  and  written  down  to  its  fair 
+value. Different judgments could yield different results.
+
+Valuation Allowance Against Deferred Tax Assets
+
+The  Company  regularly  assesses  the  need  for  a  valuation  allowance  against  its  deferred  tax  assets.  A  valuation  allowance  is 
+required for deferred tax assets if it is more likely than not that all or some portion of the asset will not be realized. All available 
+evidence, both positive and negative, that may affect the realization of deferred tax assets must be identified and considered in 
+determining the appropriate amount of the valuation allowance. Additionally, for interim periods, the estimated annual effective 
+tax rate should include the valuation allowance for current year changes in temporary differences and losses or income arising 
+during the year. For interim periods, the Company needs to consider the valuation allowance that it expects to recognize at the 
+end of the fiscal year as part of the estimated annual effective tax rate. During interim quarters, the Company uses estimates 
+including pre-tax results and ending position of temporary differences as at the end of the fiscal year to estimate the valuation 
+allowance that it expects to recognize at the end of the fiscal year. This accounting treatment has no effect on the Company’s 
+actual  ability  to  utilize  deferred  tax  assets  to  reduce  future  cash  tax  payments.  Different  judgments  could  yield  different 
+results. See “Results of Operations - Fiscal year ended February 28, 2023 compared to fiscal year ended February 28, 2022 - 
+Income Taxes” and “Results of Operations - Three months ended February 28, 2023 compared to three months ended February 
+28, 2022 - Income Taxes”. 
+
+56
+
+Revenue Recognition
+
+The  Company’s  contracts  with  customers  often  include  promises  to  transfer  multiple  products  and  services  to  a  customer. 
+Determining  whether  products  and  services  are  considered  distinct  performance  obligations  that  should  be  accounted  for 
+separately versus together may require significant judgment.  
+
+Variable consideration is included in the transaction price if, in the Company’s judgment, it is probable that a significant future 
+reversal  of  cumulative  revenue  recognized  under  the  contract  will  not  occur.  Any  estimates,  including  any  constraints  on 
+variable consideration, are evaluated at each reporting period. 
+
+Judgment  is  required  to  determine  the  SSP  for  each  distinct  performance  obligation.  The  Company’s  products  and  services 
+often  have  observable  SSP  when  the  Company  sells  a  promised  product  or  service  separately  to  similar  customers.  A 
+contractually stated price or list price for a good or service may be the SSP of that good or service. However, in instances where 
+SSP  is  not  directly  observable,  the  Company  determines  the  SSP  by  maximizing  observable  inputs  and  using  an  adjusted 
+market  assessment  approach  using  information  that  may  include  market  conditions  and  other  observable  inputs  from  the 
+Company’s pricing team, including historical SSP.
+
+Judgment  is  required  to  determine  in  certain  agreements  if  the  Company  is  the  principal  or  agent  in  the  arrangement.  The 
+Company considers factors such as, but not limited to, which party can direct the usage of the product or service, which party 
+obtains substantially all the remaining benefits and which party has the ability to establish the selling price. 
+
+Significant judgment is required to determine the estimated customer life used in perpetual license contracts that require access 
+to the Company’s proprietary secure network infrastructure to function. The Company uses historical experience regarding the 
+length of the technology upgrade cycle and the expected life of the product to draw this conclusion.  
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Company is engaged in operating and financing activities that generate risk in three primary areas:
+
+Foreign Exchange
+
+The Company is exposed to foreign exchange risk as a result of transactions in currencies other than its functional currency, the 
+U.S. dollar. The majority of the Company’s revenue in fiscal 2023 was transacted in U.S. dollars. Portions of the revenue were 
+denominated in Canadian dollars, euros and British pounds. Expenses, consisting mainly of salaries and certain other operating 
+costs, were incurred primarily in Canadian dollars, but were also incurred in U.S. dollars, euros and British pounds. At February 
+28, 2023, approximately 19% of cash and cash equivalents, 24% of accounts receivables and 36% of accounts payable were 
+denominated in foreign currencies (February 28, 2022 – 37%, 23% and 30%, respectively). These foreign currencies primarily 
+include  the  Canadian  dollar,  euro  and  British  pound.  As  part  of  its  risk  management  strategy,  the  Company  maintains  net 
+monetary  asset  and/or  liability  balances  in  foreign  currencies  and  engages  in  foreign  currency  hedging  activities  using 
+derivative  financial  instruments,  including  currency  forward  contracts  and  currency  options.  The  Company  does  not  use 
+derivative  instruments  for  speculative  purposes.  If  overall  foreign  currency  exchanges  rates  to  the  U.S.  dollar  uniformly 
+weakened  or  strengthened  by  10%  related  to  the  Company’s  net  monetary  asset  or  liability  balances  in  foreign  currencies  at 
+February 28, 2023 or February 28, 2022 (after hedging activities), the impact to the Company would be immaterial.
+
+The Company regularly reviews its currency forward and option positions, both on a stand-alone basis and in conjunction with 
+its underlying foreign currency exposures. Given the effective horizons of the Company’s risk management activities and the 
+anticipatory nature of the exposures, there can be no assurance these positions will offset more than a portion of the financial 
+impact resulting from movements in currency exchange rates. Further, the recognition of the gains and losses related to these 
+instruments may not coincide with the timing of gains and losses related to the underlying economic exposures and, therefore, 
+may adversely affect the Company’s financial condition and operating results.
+
+Interest Rate
+
+Cash  and  cash  equivalents  and  investments  are  invested  in  certain  instruments  of  varying  maturities.  Consequently,  the 
+Company is exposed to interest rate risk as a result of holding investments of varying maturities. The fair value of investments, 
+as well as the investment income derived from the investment portfolio, will fluctuate with changes in prevailing interest rates. 
+The Company has also issued 1.75% Debentures with a fixed interest rate as described in Note 6 to the Consolidated Financial 
+Statements. The fair value of the 1.75% Debentures will fluctuate with changes in prevailing interest rates. Consequently, the 
+Company is exposed to interest rate risk as a result of the 1.75% Debentures. The Company does not currently utilize interest 
+rate derivative instruments to hedge its investment portfolio or changes in the market value of the 1.75% Debentures. 
+
+Credit and Customer Concentration 
+
+The Company, in the normal course of business, monitors the financial condition of its customers and reviews the credit history 
+of each new customer. The Company establishes an allowance for credit losses (“ACL”) that corresponds to the specific credit 
+risk of its customers, historical trends and economic circumstances. The ACL as at February 28, 2023 was $1 million (February 
+
+57

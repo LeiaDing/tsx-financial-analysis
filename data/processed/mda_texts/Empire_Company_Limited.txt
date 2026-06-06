@@ -1,0 +1,5478 @@
+# Empire Company Limited
+# 来源：Annual MD&A - English.pdf (3de7802beed5cce1)
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS 
+FOR THE FOURTH QUARTER AND FISCAL YEAR ENDED MAY 6, 2023 
+
+Forward-Looking Information ..................................................................................................................................... 1 
+Overview of the Business ........................................................................................................................................... 3 
+Project Horizon ........................................................................................................................................................... 3 
+Company Priorities ..................................................................................................................................................... 3 
+Business Updates ...................................................................................................................................................... 4 
+Outlook ......................................................................................................................................................................... 7 
+Summary Results – Fourth Quarter ........................................................................................................................... 8 
+Sales .......................................................................................................................................................................... 9 
+Gross Profit ................................................................................................................................................................ 9 
+Operating Income ....................................................................................................................................................... 9 
+EBITDA .................................................................................................................................................................... 10 
+Finance Costs .......................................................................................................................................................... 10 
+Income Taxes ........................................................................................................................................................... 10 
+Net Earnings ............................................................................................................................................................. 10 
+Operating Results – Full Year ................................................................................................................................... 11 
+Sales ........................................................................................................................................................................ 12 
+Gross Profit .............................................................................................................................................................. 12 
+Operating Income ..................................................................................................................................................... 12 
+EBITDA .................................................................................................................................................................... 13 
+Finance Costs .......................................................................................................................................................... 13 
+Income Taxes ........................................................................................................................................................... 13 
+Net Earnings ............................................................................................................................................................. 13 
+Financial Performance by Segment ......................................................................................................................... 14 
+Food Retailing .......................................................................................................................................................... 14 
+Investments and Other Operations ........................................................................................................................... 14 
+Quarterly Results of Operations ............................................................................................................................... 15 
+Liquidity and Capital Resources .............................................................................................................................. 16 
+Operating Activities .................................................................................................................................................. 16 
+Investing Activities .................................................................................................................................................... 16 
+Capital Expenditures ................................................................................................................................................ 17 
+Store Network Activity and Square Footage ............................................................................................................. 17 
+Financing Activities ................................................................................................................................................... 18 
+Free Cash Flow ........................................................................................................................................................ 18 
+Employee Future Benefit Obligations ....................................................................................................................... 18 
+Guarantees and Commitments ................................................................................................................................. 18 
+Consolidated Financial Condition ............................................................................................................................ 19 
+Key Financial Condition Measures ........................................................................................................................... 19 
+Shareholders’ Equity ................................................................................................................................................ 20 
+Normal Course Issuer Bid ........................................................................................................................................ 21 
+Accounting Standards and Policies ......................................................................................................................... 22 
+Changes to Accounting Standards Adopted During Fiscal 2023 .............................................................................. 22 
+Standards, Amendments and Interpretations Issued but not yet Adopted ................................................................ 22 
+Critical Accounting Estimates ................................................................................................................................... 23 
+Disclosure Controls and Procedures ............................................................................................................. ………25 
+Internal Control Over Financial Reporting ................................................................................................................ 25 
+Related Party Transactions ....................................................................................................................................... 26 
+Key Management Personnel Compensation ............................................................................................................ 27 
+Indemnities ............................................................................................................................................................... 27 
+Contingencies ............................................................................................................................................................ 27 
+Risk Management ...................................................................................................................................................... 28 
+Designation for Eligible Dividends ........................................................................................................................... 35 
+Non-GAAP Financial Measures & Financial Metrics ............................................................................................... 36 
+Financial Measures .................................................................................................................................................. 36 
+Food Retailing Segment Reconciliation .................................................................................................................... 38 
+Financial Metrics ...................................................................................................................................................... 39
+
+ 
+ 
+ 
+MANAGEMENT’S DISCUSSION AND ANALYSIS 
+
+The  following  is  Management’s  Discussion  and  Analysis  (“MD&A”)  of  the  consolidated  financial  results  of 
+Empire Company Limited (“Empire” or the “Company”) (TSX: EMP.A) and its subsidiaries, including wholly-
+owned Sobeys Inc. (“Sobeys”) for the fourth quarter and fiscal year ended May 6, 2023 compared to the fourth 
+quarter and fiscal year ended  May 7, 2022. The MD&A should be read in conjunction with the Company’s 
+audited consolidated financial statements and notes thereto for the fiscal year ended May 6, 2023, and the 
+fiscal year ended May 7, 2022. Additional information about the Company, including the Company’s Annual 
+Information  Form,  can  be  found  on  SEDAR  at  www.sedar.com  or  on  the  Company’s  website  at 
+www.empireco.ca. 
+
+The audited consolidated financial statements and the accompanying notes are prepared in accordance with 
+International  Financial  Reporting  Standards  (“IFRS”)  as  issued  by  the  International  Accounting  Standards 
+Board (“IASB”) and are reported in Canadian dollars (“CAD”). These consolidated financial statements include 
+the  accounts  of  Empire  and  its  subsidiaries  and  structured  entities  which  the  Company  is  required  to 
+consolidate. The information contained in this MD&A is current to June 21, 2023, unless otherwise noted.  
+
+FORWARD-LOOKING INFORMATION 
+
+This  document  contains  forward-looking  statements  which  are  presented  for  the  purpose  of  assisting  the 
+reader  to  contextualize  the  Company’s  financial  position  and  understand  management’s  expectations 
+regarding the Company’s strategic priorities, objectives and plans. These forward-looking statements may not 
+be  appropriate  for  other  purposes.  Forward-looking statements  are  identified by words or phrases such  as 
+“anticipates”, “expects”, “believes”, “estimates”, “intends”, “could”, “may”, “plans”, “predicts”, “projects”, “will”, 
+“would”, “foresees” and other similar expressions or the negative of these terms.   
+
+These forward-looking statements include, but are not limited to, the following items: 
+
+•  Management’s expectations regarding the scope and impact of the Cybersecurity Event (as defined 
+under the heading “Business Update – Cybersecurity Event”), and the estimate of the impact on its 
+financial  results  in  2024.  These  statements  and  expectations  may  be  impacted  by  several  factors 
+including the nature, amount and timing of the insurance outcome; 
+
+•  The  Company’s  aim  to  increase  total  adjusted  earnings  per  share  (“EPS”)  through  net  earnings, 
+growth,  and  share  repurchases,  as  well  as  its  intention  to  continue  improving  sales,  gross  margin 
+(excluding  fuel)  and  adjusted  earnings  before  interest,  taxes,  depreciation,  and  amortization 
+(“EBITDA”)  margin,  all  of  which  could  be  impacted  by  several  factors  including  a  prolonged 
+unfavourable  macro-economic  environment  and  unforeseen  business  challenges,  as  well  as  the 
+factors identified in the “Risk Management” section of this MD&A; 
+
+•  The Company’s plan to invest capital in its store network including store expansions and renovations 
+and  renovate  approximately  20%  to  25%  of  the  network  over  the  next  three  years  which  could  be 
+impacted by cost of materials, availability of contractors, operating results, and other macro-economic 
+impacts; 
+
+•  The Company’s expectation that it will continue its e-commerce expansion with Voilà, which may be 
+impacted  by  future  operating  and  capital  costs,  customer  response  and  the  performance  of  its 
+technology provider, Ocado Group plc (“Ocado”); 
+
+•  The Company’s plan to integrate Voilà and Grocery Gateway may be impacted by pre-existing supplier 
+
+relationships; 
+
+•  The Company’s expectation that it will continue to focus on driving efficiency and cost effectiveness 
+initiatives  which  could  be  impacted  by  supplier  relationships,  labour  relations,  and  other  macro-
+economic impacts; 
+
+1 
+
+ 
+•  The  FreshCo  expansion  in  Western  Canada  and  Farm  Boy  expansion  in  Ontario,  including  the 
+Company’s expectations regarding future operating results and profitability, the amount and timing of 
+expenses,  the  projected  number  of  store  openings,  and  the  location,  feasibility  and  timing  of 
+construction,  all  of  which  may  be  impacted  by  construction  schedules  and  permits,  the  macro-
+economic environment and labour relations; 
+
+•  The Company’s plans to further grow and enhance the Own Brand portfolio, which may be impacted 
+
+by future operating costs and customer response; 
+
+•  The Company’s expectation of the impacts of cost inflationary pressures, which may be impacted by 
+
+supplier relationships and negotiations and the macro-economic environment; 
+
+•  The Company’s expectations regarding the amount and timing of expenses relating to the completion 
+of any future Customer Fulfilment Centres (“CFC”), which may be impacted by supply of materials and 
+equipment, construction schedules and capacity of construction contractors; 
+
+•  The Company’s expectations on the timing of the disposition of 56 retail fuel sites in Western Canada, 
+
+which may be impacted by regulatory approval and closing conditions; 
+
+•  The Company’s expected contributions to its registered defined benefit plans, which could be impacted 
+
+by fluctuations in capital markets; 
+
+•  The  Company’s  expectation  that  its  cash  and  cash  equivalents  on  hand,  together  with  unutilized 
+aggregate credit facilities and cash generated from operating activities will enable the Company to 
+fund  future  capital  investments,  pension  plan  contributions,  working  capital,  current  funded  debt 
+obligations and ongoing business requirements, and its belief that it has sufficient funding in place to 
+meet these requirements and other short and long-term obligations, all of which could be impacted by 
+changes in the macro-economic environment, operating results; and 
+
+•  The Company’s plans to purchase for cancellation Class A shares under the normal course issuer bid, 
+which may be impacted by market and macro-economic conditions, availability of sellers, changes in 
+laws and regulations, and the results of operations. 
+
+By  its  nature,  forward-looking  information  requires  the  Company  to  make  assumptions  and  is  subject  to 
+inherent risks, uncertainties and other factors which may cause actual results to differ materially from forward-
+looking statements made. For more information on risks, uncertainties and assumptions that may impact the 
+Company’s  forward-looking  statements,  please  refer  to  the  Company’s  materials  filed  with  the  Canadian 
+securities regulatory authorities, including the “Risk Management” section of this MD&A. 
+
+Although the Company believes the predictions, forecasts, expectations or conclusions reflected in the forward-
+looking information are reasonable, it can provide no assurance that such matters will prove correct. Readers 
+are  urged  to  consider  the  risks,  uncertainties  and  assumptions  carefully  in  evaluating  the  forward-looking 
+information and are cautioned not to place undue reliance on such forward-looking information. The forward-
+looking information in this document reflects the Company’s current expectations and is subject to change. 
+The Company does not undertake to update any forward-looking statements that may be made by or on behalf 
+of the Company other than as required by applicable securities laws. 
+
+2 
+
+ 
+OVERVIEW OF THE BUSINESS 
+
+Empire’s key businesses and financial results are segmented into two reportable segments: (i) Food retailing; 
+and (ii) Investments and other operations. With approximately $30.5 billion in annual sales and $16.5 billion in 
+assets, Empire and its subsidiaries, franchisees and affiliates employ approximately 131,000 people. 
+
+Empire’s Food retailing segment is carried out through Sobeys, a wholly-owned subsidiary. Proudly Canadian, 
+with headquarters in Stellarton, Nova Scotia, Sobeys has been serving the food shopping needs of Canadians 
+since  1907.  Sobeys  owns,  affiliates  or  franchises  more  than  1,600  stores  in  all  10  provinces  under  retail 
+banners  that  include  Sobeys,  Safeway,  IGA,  Foodland,  FreshCo,  Thrifty  Foods,  Farm  Boy,  Longo’s  and 
+Lawtons  Drugs,  operates  grocery  e-commerce  under  the  banners  Voilà,  Grocery  Gateway,  IGA.net  and 
+ThriftyFoods.com, and operates more than 350 retail fuel locations. 
+
+Project Horizon 
+
+The Company successfully completed its three-year growth strategy, Project Horizon, at the end of fiscal 2023. 
+As part of this strategy, the Company realized significant benefits from the store renovation program, new store 
+expansion  (including  FreshCo  conversions  and  Farm  Boy  expansion),  promotional  optimization  and  data 
+analytics, Scene+ (a new loyalty program), personalization of customer offers, growing and enhancing the Own 
+Brand portfolio, and generating strategic sourcing  cost efficiencies. The Company achieved management’s 
+target of an incremental $500 million in annualized EBITDA.  
+
+Project  Horizon  initiatives  will  continue  to  provide  benefits  in  fiscal  2024  and  beyond,  including  Scene+, 
+personalization and a continued emphasis on developing the store network through renovations and new store 
+expansion. 
+
+Over  Project  Horizon’s  three-year  timeframe,  the  Company  achieved  a  compound  annual  growth  rate 
+(“CAGR”) in EPS of approximately 13% and an increase in EBITDA margin(1) of approximately 60 basis points, 
+consistent with management’s updated expectations provided in the third quarter of fiscal 2023. Differences 
+compared to the original Project Horizon targets of improving EBITDA margin by 100 basis points, which was 
+expected to generate an EPS CAGR of at least 15% was largely due to delays in delivering some key initiatives 
+as a result of the novel coronavirus (“COVID-19” or “pandemic”) and the Cybersecurity Event (as defined under 
+the heading “Business Update – Cybersecurity Event”), higher depreciation than originally anticipated resulting 
+from higher capital spend, and the impact of significant and unexpected inflation. 
+
+The Company’s calculation of the EPS CAGR and the EBITDA margin increase excludes the full impacts of 
+the Cybersecurity Event (due to its unusual nature and the expectation that the timing of certain insurance 
+recoveries will occur after the fiscal year end) and the one-time costs associated with the Grocery Gateway 
+integration.  See  “Business  Updates  –  Cybersecurity  Event”  and  “Business  Updates  –  Voilà”  for  more 
+information on these adjustments. 
+
+Company Priorities 
+
+Over  the  last  six  years,  the  Company  has  successfully  completed  two  transformation  strategies,  Project 
+Sunrise and Project Horizon. These strategies have comprehensively reset Empire’s foundation, enhanced 
+the Company’s data capabilities, deepened the understanding of customers, and prepared the business to 
+effectively  capture  emerging  trends.  With  these  transformation  strategies  now  accomplished  and  the 
+turnaround complete, the Company aims to grow total adjusted EPS over the long-term through net earnings 
+growth and share repurchases. The Company intends to continue improving sales, gross margin (excluding 
+fuel) and adjusted EBITDA margin by focusing on priorities such as: 
+
+(1)  See “Non-GAAP Financial Measures & Financial Metrics” section of this MD&A. 
+
+3 
+
+ 
+ 
+Continued Focus on Store: 
+
+Over recent years, the Company has accelerated investments in renovations, conversions, and new stores 
+along with store processes, communications, training, technology and tools. Beyond fiscal 2023, investing in 
+the store network will remain a priority, demonstrated by a sustained emphasis on renovations and continued 
+store expansion in Discount. The Own Brands program enhancement will remain a priority through increased 
+distribution, shelf placement and product innovation. 
+
+The Company intends to invest capital in its store network and is planning to renovate approximately 20% to 
+25%  of  the  network  over  the  next  three  years.  This  capital  investment  includes  important  sustainability 
+initiatives such as refrigeration  system upgrades, heating, ventilation and air conditioning (“HVAC”) system 
+upgrades and other energy efficiency initiatives. 
+
+Enhanced Focus on Digital and Data: 
+
+The focus on digital and data will include continued e-commerce expansion with Voilà, loyalty, through Scene+ 
+(see “Business Updates – Voilà” and “Business Updates – Scene+” for more information), personalization, 
+improved space productivity and the continued improvement of promotional optimization. Space productivity 
+will  further  enhance  the  customer  experience  by  improving  store  layouts,  optimizing  category  and  product 
+adjacencies and tailoring product assortment for each store. The advanced analytics tools built for promotional 
+optimization  will  continue  to  be  refined  through  the  partnership  between  the  advanced  analytics  team  and 
+category merchants.  
+
+Efficiency and Cost Control: 
+
+The Company has significantly improved its efficiency and cost effectiveness through sourcing efficiencies, 
+optimizing supply chain productivity and improving systems and processes. Beyond fiscal 2023, the Company 
+will continue to focus on driving efficiency and cost effectiveness through initiatives related to strategic sourcing 
+and supply chain productivity.  
+
+Business Updates 
+
+Cybersecurity Event 
+
+On  November  4,  2022,  Empire  experienced  IT  system  issues  related  to  a  cybersecurity  event  (the 
+“Cybersecurity Event” or “Event”). Upon discovery, the Company immediately activated its incident response 
+and  business  continuity  plans,  including  the  engagement  of  world-class  experts,  isolated  the  source  and 
+implemented measures to prevent further spread.  
+
+This  Cybersecurity  Event  and  the  precautionary  response  caused  some  temporary  challenges  in  the  third 
+quarter. For example, availability of some products was temporarily impacted, pharmacy services were shut 
+down for four days while some in-store services, such as self-checkouts, gift cards and redemption of Scene+ 
+points were impacted for approximately one week. Other than this, customers would have noticed very few 
+changes to their normal shopping experience.  
+
+Empire’s  security  teams,  supplemented  by  leading  cyber  defense  firms,  worked  to  remediate  this  incident, 
+implemented preventative measures, including proactively shutting down certain systems out of an abundance 
+of  caution,  and  took  steps  to  supplement  existing  security  monitoring,  scanning  and  protective  measures. 
+During  restoration  efforts,  the  Company  established  certain  workaround  processes  to  ensure  continuity  of 
+supply  chain,  product  availability,  costing  and  retail  pricing.  Empire  completed  its  controlled  and  phased 
+approach  to  systematically  bringing  information  and  administrative  systems  back  online  early  in  the  fourth 
+quarter of fiscal 2023.  
+
+The Company regards the protection of personal information as critically important and has taken all required 
+steps with privacy regulators and potentially impacted individuals.  
+
+The  Company  has  a  multi-layered  security  approach  involving  cyber  software  tools,  controls,  policies, 
+standards  and  procedures  pertaining  to  security  access,  system  development,  change  management  and 
+problem and incident management. This Cybersecurity Event has reinforced the importance of the investments 
+already  made  in  the  cybersecurity  area,  as  well  as  upcoming  investments  in  the  IT  systems  and  people. 
+Continuous enhancement of the Company’s IT infrastructure will strengthen its defense against future such 
+incidents.  
+
+4 
+
+ 
+The Company maintains a variety of insurance coverages, including cyber insurance. Empire is in the process 
+of working with its insurance providers to make claims under its policies. Due to the complexity of the cyber 
+insurance  coverage  and  related  claims,  there  is  a  time  lag  between  the  initial  incurrence  of  costs  and  the 
+recognition  of  anticipated  insurance  proceeds.  While  the  operational  impact  of  the  Cybersecurity  Event  is 
+behind the Company, management expects that there will be additional insurance recoveries in fiscal 2024.  
+
+The  Cybersecurity  Event  is  considered  an  unusual  item  and  has  been  excluded  from  the  Company’s 
+assessment  of  Project  Horizon.  For  comparative  purposes,  the  Company  is  presenting  adjusted  operating 
+income(1),  adjusted  EBITDA(1),  adjusted  net  earnings(1)  and  adjusted  EPS(1)  (collectively,  the  “Adjusted 
+Metrics”) to exclude certain impacts of the Cybersecurity Event. The net financial impact of incremental direct 
+costs, inventory shrink and insurance recoveries on net earnings in the fourth quarter and fiscal year ended 
+May 6, 2023 were $5.0 million and ($34.1) million, respectively. Please refer to the “Summary Results – Fourth 
+Quarter”  and  “Operating  Results  –  Full  Year”  sections  of  this  document  for  a  more  detailed  discussion, 
+including a reconciliation of these non generally accepted accounting principles (“GAAP”) financial measures. 
+
+In addition, certain financial impacts are not reflected in the Adjusted Metrics described above, as they relate 
+to sales declines which management considers are attributable to the Cybersecurity Event and the associated 
+temporary decline in operational effectiveness during the Cybersecurity Event. Management estimates that 
+the impact on net earnings in the fourth quarter was insignificant and the impact on the fiscal year ended May 
+6, 2023, was at least ($15) million, from impacts such as the temporary loss of advanced planning, promotion, 
+and fresh item management tools, temporary closures of pharmacies and customers’ inability to redeem gift 
+cards and loyalty points.  
+
+Empire estimates, based on available information, that the final impact on net earnings over fiscal 2023 and 
+fiscal 2024 will be approximately ($32.0) million, net of estimated insurance recoveries. 
+
+Scene+ 
+
+In June 2022, the Company launched a new loyalty strategy through Scene+, one of Canada’s leading loyalty 
+programs. Along with Scotiabank and Cineplex, the Company is now a co-owner of Scene+. The new loyalty 
+program  was  successfully  launched  in  Atlantic  Canada  in  August  2022,  followed  by  Western  Canada  in 
+September 2022, Ontario in November 2022 and Quebec & Thrifty Foods in March 2023.  
+
+As part of the Scene+ rollout, the Company launched its next generation recommendation engine for one-to-
+one, machine learning powered personalization at scale. The recommendation engine is focused on improving 
+customer engagement and offer relevancy. The target algorithms will continue to improve over time, driving 
+progressively better performance and results. 
+
+Farm Boy 
+
+The  acquisition  of  Farm  Boy  on  December  10,  2018  added  26  locations  to  the  Company’s  Ontario  store 
+network. The Company expects to open an additional 22 stores in the five years following the acquisition date, 
+mainly in the Greater Toronto Area (“GTA”). For the fiscal year, the Company opened a total of three  new 
+stores. As at June 21, 2023, Farm Boy has 47 stores operating in Ontario. In fiscal 2024, the Company expects 
+to open two additional Farm Boy stores in Ontario. 
+
+FreshCo 
+
+In fiscal 2018, the Company announced plans to expand its FreshCo discount format to Western Canada with 
+expectations of converting up to 25% of the 255 Safeway and Sobeys full-service format stores in Western 
+Canada to the FreshCo banner. 
+
+Through the FreshCo expansion program, the discount business in Western Canada has been on a sharp 
+growth  trajectory,  driven  by  store  conversions  and  regional  expansion.  The  value  proposition,  strong 
+multicultural assortment along with the addition of the Scene+ loyalty program has supported the growth and 
+expansion of the discount format.   
+
+As at June 21, 2023, FreshCo has 44 stores operating in Western Canada including four stores opened during 
+fiscal 2023, in line with management’s expectations. In fiscal 2024, the Company expects to open an additional 
+three FreshCo stores in Western Canada. 
+
+(1)  See “Non-GAAP Financial Measures & Financial Metrics” section of this MD&A. 
+
+5 
+
+ 
+Voilà 
+
+In  fiscal  2021,  the  Company  introduced  its  new  e-commerce  platform,  Voilà,  which  is  the  future  of  online 
+grocery home delivery in Canada. Voilà is powered by industry-leading technology provided by Ocado through 
+its  automated  CFCs.  The  Company  will  operate  four  CFCs  across  Canada  with  supporting  spokes  and 
+curbside pickup. The Company will be able to serve approximately 75% of Canadian households representing 
+approximately 90% of Canadians’ projected e-commerce spend.  
+
+The  first  CFC  in  Toronto  began  deliveries  in  June  2020.  The  second  CFC  in  Montreal  began  deliveries  in 
+March 2022. The third CFC in Calgary which services the majority of Alberta, began deliveries on June 20, 
+2023. The fourth CFC in Vancouver will service customers in B.C. starting in calendar 2025. In fiscal 2021, the 
+Company launched Voilà curbside pickup, which currently services 98 stores in locations across Canada and 
+is also powered by Ocado technology. 
+
+Longo’s e-commerce business, Grocery Gateway, will be merged into Voilà in July 2023 thereby capturing 
+logistics and delivery synergies. Operating as a ‘shop in shop’ will increase the reach of Longo’s within Ontario 
+and increase Voilà’s product count by approximately 2,000 Longo’s products. The costs of the integration were 
+charged to earnings in the fourth quarter of fiscal 2023 and were approximately $7.0 million, net of tax and 
+non-controlling interest.  
+
+Voilà’s  future  earnings  will  primarily  be  impacted  by  the  rate  of  sales  growth,  with  operational  efficiencies, 
+margins, and cost discipline serving as important drivers to manage financial performance. 
+
+In  the  fourth  quarter  of  fiscal  2023,  the  Company’s  four  e-commerce  platforms  (Voilà,  Grocery  Gateway, 
+IGA.net and ThriftyFoods.com) experienced a combined sales decline of 13.5% compared to the same quarter 
+in the prior year (excluding the additional week of operations in the prior year). The decrease is primarily driven 
+by higher online sales in the fourth quarter of fiscal 2022 as a result of the pandemic, which had an outsized 
+impact  on  the  Company’s  non-Voilà  e-commerce  businesses.  According  to  third-party  market  data,  Voilà 
+continues to outperform the market over the last fiscal year. 
+
+Longo’s 
+
+On  May  10,  2021,  the  Company,  through  a  wholly-owned  subsidiary,  acquired  51%  of  Longo’s,  a  long-
+standing, family-built network of specialty grocery stores in the GTA, and its Grocery Gateway e-commerce 
+business.  The  purchase  price  of  the  transaction  was  $660.6  million.  The  Company  acquired  the  business 
+through the issuance of 3,187,348 Non-Voting Class A shares with a transaction date price of $129.6 million, 
+cash of $196.6 million and a contingent note payable of $10.7 million.  
+
+After the fifth anniversary of the transaction, the Longo’s 49% non-controlling shareholders have an option to 
+sell  up  to  a  12.25%  interest  in  Longo’s  to  Sobeys  per  annum,  at  a  multiple  applied  to  the  last  12  months 
+EBITDA.  The  multiple  will  vary  depending  on  achievement  of  certain  business  results.  If  Longo’s  non-
+controlling shareholders exercise an option to sell, Sobeys will have a corresponding call option for the same 
+percentage in the following year. After the tenth anniversary of the transaction, both Sobeys and Longo’s have 
+mutual put and call options for any remaining minority shares outstanding. A financial liability of $239.7 million 
+was recognized at the date of acquisition which is remeasured at the end of each quarter. 
+
+6 
+
+ 
+Sustainable Business Reporting 
+
+Environmental, Social and Governance (“ESG”) has deep roots in the Company’s history, and the principles 
+of ESG have been a part of the organization since the Company started over 115 years ago.  
+
+The Company published its 2022 Sustainable Business Report in July 2022 which set bold, science-based 
+emissions reduction targets in support of Canada’s transition to a low-carbon economy. This is a significant 
+step forward in the Company’s plan to help combat climate change and is the latest step in the journey to 
+commit  and  invest  in  sustainability.  As  part  of  the  Company’s  sustainability  commitments  and  corporate 
+governance  practices,  the  Company  launched  a  newly  established  Sustainable  Business  Council  (the 
+“Council”) in fiscal 2023. In conjunction with the Company’s science-based targets (which are being validated 
+by the Science-Based Targets initiative), the Council will ensure accurate reporting of carbon emissions for 
+internal monitoring and external reporting.  
+
+The Company is focused on several initiatives as part of a continuing ESG journey such as working to remove 
+plastics  from  the  business,  focusing  on  reducing  or  eliminating  avoidable  and  hard-to-recycle  plastics, 
+expanding the Company’s efforts to cultivate a fair, equitable and inclusive environment for all and embedding 
+sustainable business mandates within the Company’s performance management goals. 
+
+OUTLOOK 
+
+With the Company’s turnaround complete, management aims to grow total adjusted EPS over the long-term 
+through net earnings growth and share repurchases. The Company intends to continue improving sales, gross 
+margin (excluding fuel) and adjusted EBITDA margin by focusing on priorities such as: a continued focus on 
+stores (investing in renovations, Discount expansion, and Own Brands program enhancement), an expanded 
+focus  on  digital  and  data  (through  key  strategic  initiatives  including  Voilà,  Scene+,  personalization,  space 
+productivity  and  promotional  optimization),  and  driving  efficiency  and  cost  effectiveness  through  initiatives 
+related to strategic sourcing and supply chain. 
+
+For fiscal 2024, capital spend  is expected to be approximately $775 million, with approximately half of this 
+investment allocated to renovations and new store expansion, and approximately $50 million allocated toward 
+sustainability  initiatives  such  as  refrigeration  system  upgrades,  HVAC  system  upgrades  and  other  energy 
+efficiency initiatives. The Company is planning to renovate approximately 20% to 25% of the network over the 
+next three years. 
+
+During fiscal 2024, the Company intends to purchase approximately $400 million in Class A shares under an 
+NCIB. The Company has declared a quarterly dividend which reflects an increase in the annualized dividend 
+rate of 10.6%, marking the 28th consecutive year of dividend increases. 
+
+The  Company  continues  to  be  well  positioned  to  pursue  growth  despite  the  impacts  of  global  economic 
+uncertainties  such  as  higher  than  normal  inflation  and  supply  chain  challenges.  The  industry  continues  to 
+experience  heightened  levels  of  inflationary  pressures,  particularly  related  to  cost  of  goods  sold  and  fuel. 
+Although  it  is  difficult  to  estimate  how  long  these  pressures  will  last,  the  Company  is  focused  on  supplier 
+relationships  and  negotiations  to  ensure  competitive  pricing  for  customers  whose  shopping  behaviours 
+become more price sensitive in a heightened inflationary environment.  
+
+On December 13, 2022, the Company signed a definitive agreement between a wholly-owned subsidiary of 
+Sobeys and Canadian Mobility Services Limited, a wholly-owned subsidiary of Shell Canada, to sell all 56 retail 
+fuel  sites  in  Western  Canada  for  approximately  $100.0  million.  Closing  of  the  transaction  is  subject  to 
+customary conditions, including regulatory approvals. The Company expects the transaction to close in the 
+first half of fiscal 2024. 
+
+7 
+
+ 
+SUMMARY RESULTS – FOURTH QUARTER 
+
+The Company's fourth quarter ends on the first Saturday in May. As a result, the fourth quarter is usually 13 
+weeks but includes results for 14 weeks every five to six years. The quarters ended May 6, 2023 and May 7, 
+2022  were  13  and  14  weeks,  respectively.  The  53rd  week  of  operations  in  fiscal  2022  accounted  for 
+approximately $551.0 million in sales and generated earnings per share of approximately $0.07. 
+
+On November 4, 2022, Empire experienced IT system issues related to a Cybersecurity Event. The Company 
+has included in its Adjusted Metrics an adjustment for direct costs such as inventory shrink, hardware  and 
+software restoration costs, legal and professional fees, and labour costs, net of insurance recoveries to date. 
+The adjustment to net earnings for the quarter ended May 6, 2023 was a recovery of $5.0 million. Empire is in 
+the process of working with its insurance providers to make claims under its policies. Due to the complexity of 
+the cyber insurance coverage and related claims, there is a time lag between the initial incurrence of costs and 
+the recognition of anticipated insurance proceeds. 
+
+Longo’s e-commerce business, Grocery Gateway, will be merged into Voilà in July 2023. The Company has 
+included in its Adjusted Metrics an adjustment for the costs of the integration charged to earnings in the fourth 
+quarter of fiscal 2023 which were approximately $7.0 million, net of tax and non-controlling interest. 
+
+($ in millions, except per share amounts)  
+Sales 
+Gross profit(1) 
+Operating income 
+Adjusted operating income(1) 
+EBITDA(1) 
+Adjusted EBITDA(1) 
+Finance costs, net 
+Income tax expense 
+Non-controlling interest 
+Net earnings(2) 
+Adjusted net earnings(1)(2) 
+
+Basic earnings per share  
+Net earnings(2) 
+Adjusted net earnings(1)(2) 
+Basic weighted average number of shares   
+
+outstanding (in millions) 
+
+Diluted earnings per share  
+Net earnings(2) 
+Adjusted net earnings(1)(2) 
+Diluted weighted average number of shares  
+
+outstanding (in millions)  
+
+Dividend per share 
+
+$ 
+
+$ 
+$ 
+
+$ 
+$ 
+
+$ 
+
+Gross margin(1) 
+EBITDA margin(1) 
+Adjusted EBITDA margin(1) 
+Same-store sales(1) growth (decline) 
+Same-store sales growth (decline), excluding fuel 
+Effective income tax rate 
+
+$   
+Change   
+(432.4) 
+(45.0) 
+(12.0) 
+(5.5) 
+6.1 
+12.6 
+(11.8) 
+5.3 
+(9.9) 
+4.4 
+6.4 
+
+%   
+Change   
+(5.5)%  
+(2.2)%  
+(3.6)%  
+(1.6)%  
+1.0%  
+2.1%  
+(14.4)%  
+9.1%  
+(66.4)%  
+2.5%  
+3.6%  
+
+13 Weeks Ended  
+May 6, 2023   
+
+14 Weeks Ended   
+May 7, 2022    
+
+7,408.4  $ 
+1,959.0 
+321.6 
+328.1 
+592.3 
+598.8 
+70.2 
+63.5 
+5.0 
+182.9 
+184.9 
+
+0.72  $ 
+0.73  $ 
+
+254.9 
+
+0.72  $ 
+0.72  $ 
+
+255.4 
+0.165  $ 
+
+7,840.8  $ 
+2,004.0 
+333.6 
+333.6 
+586.2 
+586.2 
+82.0 
+58.2 
+14.9 
+178.5 
+178.5 
+
+0.68 
+0.68 
+
+263.0 
+
+0.68 
+0.68 
+
+264.0 
+0.150 
+
+13 Weeks Ended   
+May 6, 2023   
+26.4%  
+8.0%  
+8.1%  
+1.6%  
+2.6%  
+25.3%  
+
+14 Weeks Ended   
+May 7, 2022   
+25.6%  
+7.5%  
+7.5%  
+(0.1)%  
+(2.5)%  
+23.1%  
+
+8 
+
+(1)  See “Non-GAAP Financial Measures & Financial Metrics” section of this MD&A. 
+(2)  Attributable to owners of the Company. 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+   
+ 
+ 
+  
+ 
+  
+ 
+   
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+  
+ 
+   
+ 
+ 
+  
+ 
+  
+ 
+   
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Empire Company Limited Consolidated Operating Results 
+
+Sales 
+
+Sales for the quarter ended May 6, 2023 decreased by 5.5% mainly due to the additional week of operations 
+in fiscal 2022 and lower fuel sales, offset by benefits from Project Horizon initiatives and continued strength in 
+the Company’s discount banners. 
+
+Gross Profit 
+
+Gross profit for the quarter ended May 6, 2023 decreased by 2.2% mainly as a result of the additional week of 
+operations  in  fiscal  2022,  partially  offset  by  benefits  from  Project  Horizon  initiatives,  such  as  promotional 
+optimization and the expansion of FreshCo. 
+
+Gross  margin  for  the  quarter  ended  May  6,  2023  increased  to  26.4%  from  25.6%  in  the  prior  year.  Gross 
+margin increased primarily as a result of benefits from Project Horizon initiatives, lower supply chain costs and 
+the mix impact of lower fuel sales. Gross margin, excluding the mix impact of fuel, increased by 58 basis points. 
+
+Operating Income 
+
+($ in millions) 
+Food retailing 
+
+Investments and other operations: 
+
+Crombie REIT 
+Genstar 
+Other operations, net of corporate 
+
+expenses 
+
+Operating income 
+Adjustments: 
+
+Cybersecurity Event(1) 
+Grocery Gateway Integration(1) 
+
+Adjusted operating income(2) 
+
+13 Weeks Ended  
+May 6, 2023   
+
+14 Weeks Ended   
+May 7, 2022   
+
+$ 
+
+304.5  $ 
+
+321.2  $ 
+
+$  
+Change  
+(16.7) 
+
+10.9 
+6.5 
+
+(0.3) 
+17.1 
+
+10.7 
+3.3 
+
+(1.6) 
+12.4 
+
+$ 
+
+$ 
+
+$ 
+
+321.6  $ 
+
+333.6  $ 
+
+(6.8)   $ 
+13.3 
+
+328.1  $ 
+
+-    $ 
+- 
+333.6  $ 
+
+0.2 
+3.2 
+
+1.3 
+4.7 
+(12.0) 
+
+(6.8) 
+13.3 
+(5.5) 
+
+(1)  See “Non-GAAP Financial Measures & Financial Metrics” section of this MD&A for a description of the types of costs included. 
+(2)  See “Non-GAAP Financial Measures & Financial Metrics” section of this MD&A. 
+
+For the quarter ended May 6, 2023, operating income from the Food retailing segment decreased mainly due 
+to higher sales and gross profit in the prior year partially offset by lower selling and administrative expenses in 
+the current year, both resulting from the additional week of operations in the quarter ended May 7, 2022. Selling 
+and administrative expenses decreased primarily due to one less week of operations, resulting in a reduction 
+of retail labour costs and other variable operating expenses, as well as lower annual incentives compared to 
+the prior year. The decrease in selling and administrative expenses was partially offset by planned investments 
+in Project Horizon initiatives (including the expansion of Farm Boy, Voilà and FreshCo) and higher depreciation.  
+
+For the quarter ended May 6, 2023, operating income from the Investments and other operations segment 
+increased primarily as a result of higher equity earnings from Genstar, mainly due to higher property sales 
+compared to prior year. 
+
+9 
+
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+EBITDA 
+
+($ in millions) 
+EBITDA 
+Adjustments: 
+
+Cybersecurity Event(1) 
+Grocery Gateway Integration(1) 
+
+Adjusted EBITDA(2) 
+
+13 Weeks Ended   
+May 6, 2023   
+
+14 Weeks Ended   
+May 7, 2022   
+
+$ 
+
+$ 
+
+592.3  $ 
+
+(6.8) 
+13.3 
+
+598.8  $ 
+
+586.2  $ 
+
+- 
+- 
+586.2  $ 
+
+$   
+Change   
+
+6.1 
+
+(6.8) 
+13.3 
+12.6 
+
+(1)  See “Non-GAAP Financial Measures & Financial Metrics” section of this MD&A for a description of the types of costs included. 
+(2)  See “Non-GAAP Financial Measures & Financial Metrics” section of this MD&A. 
+
+For the quarter ended May 6, 2023, EBITDA increased to $592.3 million from $586.2 million in the prior year 
+mainly as a result of the same factors affecting operating income (which excludes the increase in depreciation 
+and amortization). EBITDA margin increased to 8.0% from 7.5% in the prior year. Adjusted EBITDA margin 
+increased to 8.1% from 7.5% in the prior year. 
+
+Finance Costs 
+
+For the quarter ended May 6, 2023, net finance costs decreased primarily due to the early redemption premium 
+of $9.2 million which occurred in the prior year related to the $500 million Series 2013-2 Notes. 
+
+Income Taxes 
+
+The effective income tax rate for the quarter ended May 6, 2023 was 25.3% compared to 23.1% last year. The 
+effective tax rate was lower than the statutory rate primarily due to the revaluation of tax estimates, not all of 
+which  are  recurring.  The  effective  tax  rate  in  the  same  quarter  last  year  was  lower  than  the  statutory  rate 
+primarily due to benefits related to investment tax credits and capital items taxed at lower rates. 
+
+Net Earnings 
+
+($ in millions, except per share amounts) 
+Net earnings(1) 
+EPS (fully diluted) 
+Adjustment (net of income taxes of $4.5): 
+
+Cybersecurity Event(2) 
+Grocery Gateway Integration(2) 
+
+Adjusted net earnings(1)(3) 
+Adjusted EPS (fully diluted)(3) 
+Diluted weighted average number of 
+shares outstanding (in millions) 
+
+13 Weeks Ended  
+May 6, 2023   
+
+14 Weeks Ended    
+May 7, 2022   
+
+$ 
+$ 
+
+$ 
+$ 
+
+182.9  $ 
+0.72  $ 
+
+(5.0) 
+7.0 
+184.9  $ 
+0.72  $ 
+
+178.5  $ 
+
+0.68 
+
+- 
+- 
+178.5  $ 
+
+0.68 
+
+$   
+Change   
+
+4.4 
+
+(5.0) 
+7.0 
+6.4 
+
+255.4 
+
+264.0 
+
+(8.6) 
+
+(1)  Attributable to owners of the Company.  
+(2)  See “Non-GAAP Financial Measures & Financial Metrics” section of this MD&A for a description of the types of costs included. 
+(3)  See “Non-GAAP Financial Measures & Financial Metrics” section of this MD&A. 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPERATING RESULTS – FULL YEAR 
+The Company's fiscal year ends on the first Saturday in May. As a result, the fiscal year is usually 52 weeks but includes 
+results  for  53  weeks  every  five  to  six  years.  The  years  ended  May  6,  2023  and  May  7,  2022  were  52  and  53  weeks, 
+respectively. The 53rd week of operations in fiscal 2022 accounted for approximately $551.0 million in sales and generated 
+earnings per share of $0.07. 
+
+On November 4, 2022, Empire experienced IT system issues related to a Cybersecurity Event. The Company has included 
+in its Adjusted Metrics an adjustment for direct costs such as inventory shrink, legal and professional fees, hardware and 
+software restoration costs and labour costs, net of insurance recoveries to date. The adjustment to net earnings was ($34.1) 
+million.  
+
+In addition, the Cybersecurity Event required certain operational systems to be shut down for several weeks. The inability 
+to utilize these systems had a temporary negative impact on Empire’s sales and operational effectiveness, further impacting 
+third quarter and Fiscal 2023 net earnings by at least ($15.0) million (($0.06) per share). There was no incremental impact 
+in the fourth quarter. 
+
+Empire is in the process of working with its insurance providers to make claims under its policies. Due to the complexity of 
+the  cyber  insurance  coverage  and  related  claims,  there  is  a  time  lag  between  the  initial  incurrence  of  costs  and  the 
+recognition of anticipated insurance proceeds. 
+
+Longo’s e-commerce business, Grocery Gateway, will be merged into Voilà in July 2023. The Company has included in its 
+Adjusted Metrics an adjustment for the costs of the integration charged to earnings in the fourth quarter of fiscal 2023 which 
+were approximately $7.0 million, net of tax and non-controlling interest. 
+
+52 Weeks Ended   53 Weeks Ended   52 Weeks Ended   2023 Compared to 2022 
+
+May 6, 2023   
+
+  May 7, 2022    
+
+May 1, 2021   
+
+($ in millions, except per share amounts)  
+Sales 
+Gross profit 
+Operating income 
+Adjusted operating income(1) 
+EBITDA(1) 
+Adjusted EBITDA(1) 
+Finance costs, net 
+Income tax expense 
+Non-controlling interest 
+Net earnings(2) 
+Adjusted net earnings(1)(2) 
+
+Basic earnings per share  
+Net earnings(2) 
+Adjusted net earnings(2) 
+Basic weighted average number of shares   
+
+outstanding (in millions) 
+
+Diluted earnings per share  
+Net earnings(2) 
+Adjusted net earnings(1)(2) 
+Diluted weighted average number of shares    
+
+outstanding (in millions)  
+
+Dividend per share 
+
+$ 
+
+$ 
+$ 
+
+$ 
+$ 
+
+$ 
+
+Gross margin(1) 
+EBITDA margin(1) 
+Adjusted EBITDA margin(1) 
+Same-store sales(1) growth 
+Same-store sales growth (decline), excluding fuel 
+Effective income tax rate 
+
+28,268.3  $ 
+7,199.3 
+1,299.5 
+1,299.5 
+2,143.8 
+2,143.8 
+269.4 
+265.9 
+62.7 
+701.5 
+701.5 
+
+  $ Change    % Change   
+1.0%   
+1.7%   
+(9.6)%   
+(5.3)%   
+(2.9)%   
+(0.4)%   
+(5.4)%   
+(12.1)%   
+(36.3)%   
+(8.0)%   
+(2.5)%   
+
+315.7 
+133.0 
+(131.3) 
+(72.2) 
+(67.8) 
+(8.7) 
+(15.1) 
+(32.6) 
+(23.8) 
+(59.8) 
+(18.7) 
+
+30,478.1  $ 
+7,792.7 
+1,232.4 
+1,291.5 
+2,263.0 
+2,322.1 
+267.0 
+237.7 
+41.7 
+686.0 
+727.1 
+
+30,162.4  $ 
+7,659.7 
+1,363.7 
+1,363.7 
+2,330.8 
+2,330.8 
+282.1 
+270.3 
+65.5 
+745.8 
+745.8 
+
+2.65  $ 
+2.81  $ 
+
+2.81  $ 
+2.81  $ 
+
+258.8 
+
+265.2 
+
+2.64  $ 
+2.80  $ 
+
+259.4 
+
+0.66  $ 
+
+2.80  $ 
+2.80  $ 
+
+266.2 
+
+0.60  $ 
+
+2.61 
+2.61 
+
+268.3 
+
+2.60 
+2.60 
+
+269.3 
+0.52 
+
+52 Weeks Ended   
+May 6, 2023   
+25.6%  
+7.4%  
+7.6%  
+2.3%  
+1.5%  
+24.6%  
+
+53 Weeks Ended   
+May 7, 2022   
+25.4%  
+7.7%  
+7.7%  
+0.0%  
+(2.1)%  
+25.0%  
+
+52 Weeks Ended   
+May 1, 2021   
+25.5%  
+7.6%  
+7.6%  
+4.7%  
+5.6%  
+25.8%  
+
+(1)  See  “Non-GAAP  Financial  Measures  &  Financial  Metrics”  section  of  this  MD&A  for  a  description  of  the  types  of  costs  included. 
+Additionally, certain estimated financial impacts associated with the Cybersecurity Event are not reflected in the Adjusted Metrics 
+above as they relate to sales declines which management considers are attributable to the Event, as well as operational effectiveness 
+which temporarily declined during the Event. Management estimates that the impact of these non-adjusted items on operating income 
+and EBITDA to be at least ($20.0) million and the net earnings impact to be at least ($15.0) million. 
+
+(2)  Attributable to owners of the Company 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+Empire Company Limited Consolidated Operating Results 
+
+Sales 
+
+Sales  for  the  fiscal  year  ended  May  6,  2023  increased  1.0%,  primarily  driven  by  increased  fuel  sales  and 
+benefits from Project Horizon initiatives, including the expansion of FreshCo in Western Canada. This increase 
+was partially offset by the additional week of operations in the prior year, the impact of the pandemic restrictions 
+in place during various stages of the prior year, changing consumer purchasing behaviours as a result of higher 
+food inflation, and the impact of the Cybersecurity Event in the current year. 
+
+Gross Profit 
+
+Gross profit for the fiscal year ended May 6, 2023 increased by 1.7% primarily as a result of benefits from 
+Project  Horizon  initiatives,  such  as  the  expansion  of  FreshCo,  Voilà  and  Farm  Boy,  partially  offset  by  the 
+additional week of operations in fiscal 2022, the Cybersecurity Event and the change in customer purchasing 
+behaviours. 
+
+Gross margin for the fiscal year ended May 6, 2023 increased to 25.6% from 25.4% in the prior year. Gross 
+margin was positively impacted by benefits from Project Horizon initiatives offset by the mix impact of lower 
+fuel sales and the Cybersecurity Event. Gross margin, excluding the mix impact of fuel, increased by 43 basis 
+points. 
+
+Operating Income  
+
+($ in millions) 
+Food retailing 
+
+Investments and other operations: 
+
+Crombie REIT 
+Genstar 
+Other operations, net of corporate expenses 
+
+Operating income 
+Adjustments: 
+
+Cybersecurity Event(1) 
+Grocery Gateway Integration(1) 
+
+Adjusted operating income(1) 
+
+52 Weeks Ended  
+May 6, 2023   
+
+53 Weeks Ended   
+May 7, 2022   
+
+$ 
+
+1,140.1  $ 
+
+1,277.0  $ 
+
+$  
+Change  
+(136.9) 
+
+77.3 
+16.5 
+(1.5) 
+92.3 
+1,232.4  $ 
+
+45.8  $ 
+13.3 
+59.1 
+1,291.5  $ 
+
+61.0 
+32.4 
+(6.7) 
+86.7 
+1,363.7  $ 
+
+-  $ 
+- 
+- 
+
+1,363.7  $ 
+
+16.3 
+(15.9) 
+5.2 
+5.6 
+(131.3) 
+
+45.8  
+13.3  
+59.1 
+(72.2) 
+
+$ 
+
+$ 
+
+$ 
+
+(1)  See  “Non-GAAP  Financial  Measures  &  Financial  Metrics”  section  of  this  MD&A  for  a  description  of  the  types  of  costs  included. 
+Additionally,  certain  estimated  financial  impacts  associated  with  the  Cybersecurity  Event  are  not  reflected  in  the  adjusted  metric 
+above as it relates to sales declines which management considers are attributable to the Event, as well as operational effectiveness 
+which temporarily declined during the Event. Management estimates that the impact of this non-adjusted item on operating income 
+to be at least ($20.0) million. 
+
+For the fiscal year ended May 6, 2023, operating income from the Food retailing segment decreased mainly 
+due to higher selling and administrative expense and a decrease in other income (driven by $47.0 million of 
+lease terminations in the prior year), partially offset by higher sales and gross profit. Selling and administrative 
+expenses increased primarily as a result of investments in Project Horizon initiatives (including the expansion 
+of Voilà, Farm Boy and FreshCo) as well as higher depreciation, the Cybersecurity Event and increased project 
+costs, partially offset by one less week of operations in the current year, resulting in a reduction of retail labour 
+costs and other variable operating expenses. 
+
+For the fiscal year ended May 6, 2023, operating income from the Investments and other operations segment 
+increased primarily as a result of higher equity earnings from Crombie Real Estate Investment Trust (“Crombie 
+REIT”), mainly due to increased sales of properties, partially offset by lower equity earnings from Genstar as 
+a result of higher property sales in the prior year. 
+
+12 
+
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+EBITDA 
+
+($ in millions) 
+EBITDA 
+Adjustments: 
+
+Cybersecurity Event(1) 
+Grocery Gateway Integration(1) 
+
+Adjusted EBITDA(1) 
+
+52 Weeks Ended  
+May 6, 2023   
+
+53 Weeks Ended   
+May 7, 2022   
+
+2,263.0  $ 
+
+2,330.8  $ 
+
+$   
+Change   
+(67.8) 
+
+45.8   
+13.3   
+59.1   
+2,322.1  $ 
+
+-   
+-   
+-   
+
+2,330.8  $ 
+
+45.8 
+13.3 
+59.1 
+(8.7) 
+
+$ 
+
+$ 
+
+(1)  See  “Non-GAAP  Financial  Measures  &  Financial  Metrics”  section  of  this  MD&A  for  a  description  of  the  types  of  costs  included. 
+Additionally,  certain  estimated  financial  impacts  associated  with  the  Cybersecurity  Event  are  not  reflected  in  the  adjusted  metric 
+above as it relates to sales declines which management considers are attributable to the Event, as well as operational effectiveness 
+which temporarily declined during the Event. Management estimates that the impact of this non-adjusted item on EBITDA to be at 
+least ($20.0) million. 
+
+For the fiscal year ended May 6, 2023, EBITDA decreased to $2,263.0 million from $2,330.8 million in the prior 
+year mainly as a result of the same factors affecting operating income. EBITDA margin decreased to 7.4% 
+from 7.7% in the prior year. Adjusted EBITDA margin decreased to 7.6% from 7.7% in the prior year. 
+
+Finance Costs 
+
+For  the  fiscal  year  ended  May  6,  2023,  net  finance  costs  decreased  primarily  due  to  the  early  redemption 
+premium of $9.2 million which occurred in the prior year related to the $500 million Series 2013-2 Notes. 
+
+Income Taxes 
+
+The effective income tax rate for the fiscal year ended May 6, 2023 was 24.6% compared to 25.0% last year. 
+The current year effective tax rate was lower than the statutory rate primarily due to the revaluation of tax 
+estimates, not all of which were recurring, the benefit of consolidated structured entities and capital items that 
+are taxed at lower rates. The effective tax rate in the prior year was lower than the statutory rate primarily due 
+to consolidated structured entities and capital items, both of which are taxed at lower rates, and benefits related 
+to investment tax credits.   
+
+Net Earnings 
+
+($ in millions, except per share amounts) 
+Net earnings(1) 
+EPS (fully diluted) 
+Adjustments (net of income taxes of $18.0): 
+
+Cybersecurity Event(2) 
+Grocery Gateway Integration(2) 
+
+Adjusted net earnings(1)(2) 
+Adjusted EPS (fully diluted)(2) 
+Diluted weighted average number of shares outstanding (in millions) 
+
+52 Weeks Ended   
+May 6, 2023   
+
+53 Weeks Ended   
+May 7, 2022   
+
+686.0  $ 
+2.64  $ 
+
+34.1 
+7.0 
+727.1  $ 
+2.80  $ 
+
+259.4 
+
+745.8  $ 
+
+2.80 
+
+- 
+- 
+745.8  $ 
+
+2.80 
+
+266.2 
+
+$ 
+$ 
+
+$ 
+$ 
+
+$   
+Change   
+(59.8) 
+
+34.1 
+7.0 
+(18.7) 
+
+(1)  Attributable to owners of the Company. 
+(2)  See  “Non-GAAP  Financial  Measures  &  Financial  Metrics”  section  of  this  MD&A  for  a  description  of  the  types  of  costs  included. 
+Additionally, certain estimated financial impacts associated with the Cybersecurity Event are not reflected in the Adjusted Metrics 
+above as they relate to sales declines which management considers are attributable to the Event, as well as operational effectiveness 
+which temporarily declined during the Event. Management estimates that the impact of this non-adjusted item on net earnings to be 
+at least ($15.0) million. 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FINANCIAL PERFORMANCE BY SEGMENT 
+
+Food Retailing  
+
+The  following  is  a  review  of  Empire’s  Food  retailing  segment’s  financial  performance,  comprising  the 
+consolidated results of Sobeys for the fiscal years ended May 6, 2023, May 7, 2022 and May 1, 2021.  
+
+The following financial information is Sobeys’ contribution to Empire as the amounts are net of consolidation 
+adjustments. For further analysis of these adjustments, see the “Operating Results – Full Year” section.  
+
+$ 
+
+($ in millions) 
+Sales 
+Gross profit 
+Operating income 
+Adjusted operating income(1) 
+EBITDA 
+Adjusted EBITDA(1) 
+Net earnings(2) 
+Adjusted net earnings(1)(2) 
+
+52 Weeks Ended  
+May 6, 2023   
+
+53 Weeks Ended  
+May 7, 2022   
+
+52 Weeks Ended  
+May 1, 2021  
+
+30,478.1  $ 
+7,792.7 
+1,140.1 
+1,199.2 
+2,170.6 
+2,229.7 
+610.1 
+651.2 
+
+30,162.4  $ 
+7,659.7 
+1,277.0 
+1,277.0 
+2,243.9 
+2,243.9 
+677.9 
+677.9 
+
+28,268.3  $ 
+7,199.3   
+1,251.3   
+1,251.3   
+2,094.7   
+2,094.7   
+673.9   
+673.9   
+
+2023 Compared to 2022 
+
+$ Change    % Change   
+1.0%   
+1.7%   
+(10.7)%   
+(6.1)%   
+(3.3)%   
+(0.6)%   
+(10.0)%   
+(3.9)%   
+
+315.7 
+133.0 
+(136.9) 
+(77.8) 
+(73.3) 
+(14.2) 
+(67.8) 
+(26.7) 
+
+(1)  See  “Non-GAAP  Financial  Measures  &  Financial  Metrics”  section  of  this  MD&A  for  a  description  of  the  types  of  costs  included. 
+Additionally, certain estimated financial impacts associated with the Cybersecurity Event are not reflected in the Adjusted Metrics 
+above as they relate to sales declines which management considers are attributable to the Event, as well as operational effectiveness 
+which temporarily declined during the Event. Management estimates that the impact of this non-adjusted item on net earnings to be 
+at least ($15.0) million. 
+
+(2)  Attributable to owners of the Company. 
+
+To assess its financial performance and condition, Sobeys’ management monitors a set of financial measures 
+which evaluate sales growth, profitability and financial condition, which are set out below. 
+
+($ in millions) 
+Sales growth 
+Same-store sales growth 
+Same-store sales growth (decline), excluding fuel 
+Return on equity(1) 
+Adjusted return on equity 
+Funded debt to total capital(1) 
+Funded debt to adjusted EBITDA(1) 
+Acquisitions of property, equipment, investment 
+
+property and intangibles 
+
+  52 Weeks Ended   
+May 6, 2023   
+1.0%   
+2.3%   
+1.5%   
+14.7%   
+15.7%   
+63.3%   
+3.2x   
+
+  53 Weeks Ended   
+May 7, 2022   
+6.7%   
+0.0%   
+(2.1)%   
+17.7%   
+17.7%   
+65.1%   
+3.3x   
+
+  52 Weeks Ended   
+May 1, 2021   
+6.3%   
+4.7%   
+5.6%   
+20.8%   
+20.8%   
+66.6%   
+3.3x   
+
+$ 
+
+755.4    $ 
+
+817.2    $ 
+
+659.1   
+
+(1)  See “Non-GAAP Financial Measures & Financial Metrics” section of this MD&A. 
+
+Investments and Other Operations 
+
+($ in millions) 
+Crombie REIT 
+Genstar 
+Other operations, net of corporate expenses 
+
+52 Weeks Ended   
+
+May 6, 2023     
+77.3  $ 
+16.5 
+(1.5) 
+92.3  $ 
+
+$ 
+
+$ 
+
+53 Weeks Ended  
+May 7, 2022  
+
+61.0  $ 
+32.4 
+(6.7) 
+86.7  $ 
+
+$   
+Change   
+
+16.3 
+(15.9) 
+5.2 
+5.6 
+
+For the fiscal year ended May 6, 2023, operating income from the Investments and other operations segment 
+increased primarily as a result of higher equity earnings from Crombie REIT, mainly due to increased sales of 
+properties, partially offset by lower equity earnings from Genstar as a result of higher property sales in the prior 
+year. 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUARTERLY RESULTS OF OPERATIONS 
+
+Fiscal 2023 
+
+Fiscal 2022 
+
+($ in millions, except 
+  per share amounts) 
+Sales 
+Operating income 
+Adjusted Operating income(2) 
+EBITDA(3) 
+Adjusted EBITDA(2)(3) 
+Net earnings(4) 
+Adjusted net earnings(2)(4) 
+
+Per share information, basic 
+Net earnings(4) 
+Adjusted net earnings(2)(4) 
+Basic weighted average number 
+  of shares outstanding (in millions) 
+
+Per share information, diluted 
+Net earnings(4) 
+Adjusted net earnings(2)(4) 
+Diluted weighted average number 
+  of shares outstanding (in millions)  
+
+$ 
+
+$ 
+$ 
+
+$ 
+$ 
+
+Q3(1)   
+(13 Weeks)   
+
+Q4   
+(14 Weeks)   
+
+Q2   
+(13 Weeks)   
+
+Q1   
+(13 Weeks)   
+
+ Q1   
+Q4  
+(13 Weeks)   
+(13 Weeks)  
+May 6, 2023    Feb. 4, 2023    Nov. 5, 2022    Aug. 6, 2022    May 7, 2022    Jan. 29, 2022    Oct. 30, 2021    Jul. 31, 2021   
+7,626.0   
+  $ 
+347.4   
+347.4   
+581.9   
+581.9   
+188.5   
+188.5   
+
+7,377.3    $ 
+354.8   
+354.8   
+597.5   
+597.5   
+203.4   
+203.4   
+
+7,840.8    $ 
+333.6   
+333.6   
+586.2   
+586.2   
+178.5   
+178.5   
+
+7,318.3    $ 
+327.9   
+327.9   
+565.2   
+565.2   
+175.4   
+175.4   
+
+7,408.4  $ 
+321.6 
+328.1 
+592.3 
+598.8 
+182.9 
+184.9 
+
+7,937.6 
+344.1 
+344.1 
+594.0 
+594.0 
+187.5 
+187.5 
+
+7,489.3 
+232.8 
+285.4 
+492.5 
+545.1 
+125.7 
+164.8 
+
+7,642.8 
+333.9 
+333.9 
+584.2 
+584.2 
+189.9 
+189.9 
+
+Q3   
+(13 Weeks)   
+
+Q2   
+(13 Weeks)   
+
+  $ 
+
+  $ 
+
+0.72  $ 
+0.73  $ 
+
+0.49 
+0.64 
+
+  $ 
+  $ 
+
+0.73 
+0.73 
+
+  $ 
+  $ 
+
+0.72 
+0.72 
+
+  $ 
+  $ 
+
+0.68    $ 
+0.68    $ 
+
+0.77    $ 
+0.77    $ 
+
+0.66    $ 
+0.66    $ 
+
+0.71   
+0.71   
+
+254.9 
+
+257.9 
+
+260.1 
+
+262.2 
+
+263.0   
+
+264.1   
+
+265.4   
+
+267.0   
+
+0.72  $ 
+0.72  $ 
+
+0.49 
+0.64 
+
+  $ 
+  $ 
+
+0.73 
+0.73 
+
+  $ 
+  $ 
+
+0.71 
+0.71 
+
+  $ 
+  $ 
+
+0.68    $ 
+0.68    $ 
+
+0.77    $ 
+0.77    $ 
+
+0.66    $ 
+0.66    $ 
+
+0.70   
+0.70   
+
+255.4 
+
+258.4 
+
+260.6   
+
+263.0   
+
+264.0   
+
+264.9   
+
+266.3   
+
+268.1   
+
+(1)  See “Non-GAAP Financial Measures and Financial Metrics” section of the third quarter fiscal 2023 MD&A for a reconciliation of the 
+
+adjusted metrics presented in the table.  
+
+(2)  See  “Non-GAAP  Financial  Measures  &  Financial  Metrics”  section  of  this  MD&A  for  a  description  of  the  types  of  costs  included. 
+Additionally, certain estimated financial impacts associated with the Cybersecurity Event are not reflected in the Adjusted Metrics 
+above as they relate to sales declines which management considers are attributable to the Event, as well as operational effectiveness 
+which temporarily declined during the Event. Management estimates that the impact of these non-adjusted items on operating income 
+and EBITDA to be at least ($20.0) million, and the net earnings impact to be at least ($15.0) million. 
+
+(3)  EBITDA  is  reconciled  to  net  earnings  for  the  current  and  comparable  period  in  the  “Non-GAAP  Financial  Measures  &  Financial 
+
+Metrics” section of this MD&A. 
+
+(4)  Attributable to owners of the Company. 
+
+For the last eight quarters reflected in the table above, results have fluctuated due to the impacts of COVID-
+19 and the related shift in consumer shopping behaviour which led to fluctuations in sales during fiscal 2021 
+and fiscal 2022. With the easing of restrictions, sales began to stabilize by fiscal 2022 but continued to trend 
+high and compare favourably to pre-pandemic levels. Results in the fourth quarter of fiscal 2022 were impacted 
+by an additional week of operations. Beginning on May 10, 2021, the Company’s results incorporate the results 
+of Longo’s. 
+
+Sales  are  affected  by  fluctuations  in  inflation.  Results  are  affected  by  seasonality,  in  particular  during  the 
+summer  months  and  over  the  holidays  when  retail  sales  trend  higher  and  can  result  in  stronger  operating 
+results.  Sales,  operating  income,  EBITDA  and  net  earnings  have  all  been  influenced  by  the  Company’s 
+strategic  investment  activities,  the  competitive  environment,  cost  management  initiatives,  food  prices  and 
+general industry trends, adjusted  items, as well as other risk factors as outlined in the “Risk Management” 
+section. 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+  
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+   
+ 
+  
+ 
+   
+ 
+  
+ 
+   
+ 
+ 
+LIQUIDITY AND CAPITAL RESOURCES  
+
+The  table  below  highlights  significant  cash  flow  components  for  the  relevant  periods.  For  additional  detail, 
+please  refer  to  the  consolidated  statements  of  cash  flows  in  the  Company’s  audited  consolidated  financial 
+statements for the fiscal year ended May 6, 2023. 
+
+($ in millions) 
+Cash flows from operating activities 
+Cash flows used in investing activities 
+Cash flows used in financing activities 
+Increase (decrease) in cash and cash 
+
+equivalents 
+
+Operating Activities  
+
+$ 
+
+$ 
+
+13 Weeks Ended  
+May 6, 2023   
+
+14 Weeks Ended    
+May 7, 2022   
+
+52 Weeks Ended  
+May 6, 2023   
+
+504.6  $ 
+(148.7)  
+(345.2)  
+
+469.5 
+  $ 
+(227.0)     
+(295.8)     
+
+1,605.3  $ 
+(684.7)  
+(1,511.6)  
+
+53 Weeks Ended  
+May 7, 2022  
+2,107.1 
+(891.4) 
+(1,293.9) 
+
+10.7  $ 
+
+(53.3)    $ 
+
+(591.0)  $ 
+
+(78.2) 
+
+Cash flows from operating activities for the fourth quarter of fiscal 2023 increased versus prior year primarily 
+as a result of favourable working capital changes, partially offset by lower net earnings due to the additional 
+week of operations in the prior year and higher taxes paid in the current year. 
+
+Cash flows from operating activities for the fiscal year ended May 6, 2023 decreased versus prior year primarily 
+as a result of unfavourable working capital changes driven by higher inventory, higher income taxes paid and 
+lower net earnings due to the additional week of operations in the prior year. 
+
+Investing Activities 
+
+The table below outlines details of investing activities for the relevant periods: 
+
+($ in millions) 
+Increase in equity investments 
+Acquisitions of property, equipment, 
+
+investment property and intangibles 
+Proceeds on disposal of assets(1) and 
+
+lease terminations 
+
+Leases and other receivables, net 
+Other assets and other long-term liabilities 
+Business acquisitions 
+Payments received for finance subleases 
+Interest received 
+Cash flows used in investing activities 
+
+13 Weeks Ended  
+May 6, 2023   
+
+14 Weeks Ended     
+May 7, 2022   
+
+52 Weeks Ended  
+May 6, 2023   
+
+$ 
+
+(1.0)  $ 
+
+(83.0)    $ 
+
+(3.4)  $ 
+
+53 Weeks Ended  
+May 7, 2022  
+(124.5) 
+
+(158.2) 
+
+(205.9)     
+
+(757.7)   
+
+29.4   
+(35.5)  
+(3.4)  
+(2.4)  
+21.9   
+0.5   
+(148.7)  $ 
+
+25.5 
+15.7 
+(2.1)     
+(6.0)     
+27.3 
+1.5 
+(227.0)    $ 
+
+48.9   
+(34.8)  
+(6.7)  
+(18.7)  
+84.8   
+2.9   
+(684.7)  $ 
+
+(780.3) 
+
+175.6 
+25.4 
+(28.9) 
+(242.0) 
+79.4 
+3.9 
+(891.4) 
+
+$ 
+
+(1)  Proceeds on disposal of assets include property, equipment and investment property. 
+
+Cash used in investing activities for the fourth quarter of fiscal 2023 decreased versus prior year primarily due 
+to the prior year purchase of $83.0 million of Crombie REIT Class B Limited Partnership units (“Class B LP 
+units”). The decrease is partially offset by higher leases and other receivables. 
+
+Cash used in investing activities for the fiscal year ended May 6, 2023 decreased versus prior year as a result 
+of the prior year business acquisition of Longo’s and the prior year purchase of $124.5 million of Crombie REIT 
+Class  B  LP  units.  The  decrease  is  partially  offset  by  lower  proceeds  on  disposal  of  assets  and  lease 
+terminations compared to the prior year. 
+
+16 
+
+ 
+ 
+ 
+ 
+   
+  
+   
+ 
+   
+  
+ 
+   
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+    
+ 
+  
+ 
+  
+ 
+   
+ 
+   
+ 
+ 
+ 
+   
+ 
+   
+Capital Expenditures 
+The Company invested $243.1 million and $796.7 million in capital expenditures(1) for the quarter and fiscal 
+year ended May 6, 2023, respectively (2022 – $273.4 million and $767.2 million) including renovations and 
+construction  of  new  stores,  investments  in  advanced  analytics  technology  and  other  technology  systems, 
+FreshCo stores in Western Canada and Voilà CFCs. 
+
+For fiscal 2024, capital spend  is expected to be approximately $775 million, with approximately half of this 
+investment allocated to renovations and new store expansion, and approximately $50 million allocated toward 
+sustainability  initiatives  such  as  refrigeration  system  upgrades,  HVAC  system  upgrades  and  other  energy 
+efficiency initiatives. The Company is planning to renovate approximately 20% to 25% of the network over the 
+next three years. 
+
+(1)  Capital expenditures are calculated on an accrual basis and includes acquisitions of property, equipment and investment properties, 
+
+and additions to intangibles. 
+
+Store Network Activity and Square Footage 
+
+The table below outlines details of investments by Sobeys in its store network during the quarter and fiscal 
+year ended May 6, 2023 compared to the prior year. 
+
+# of stores 
+Opened/relocated/acquired (1)(2) 
+Expanded 
+Rebannered/redeveloped 
+Closed - pending conversion  
+Closed(1) 
+
+Opened - FreshCo(3) 
+Closed - pending conversion to FreshCo(3) 
+
+Opened - Farm Boy 
+
+13 Weeks Ended  
+May 6, 2023   
+
+14 Weeks Ended  
+May 7, 2022   
+
+52 Weeks Ended  
+May 6, 2023   
+
+53 Weeks Ended  
+May 7, 2022   
+
+1 
+- 
+1 
+- 
+9 
+
+1 
+- 
+
+1 
+
+4 
+1 
+1 
+- 
+12 
+
+3 
+- 
+
+2 
+
+8 
+1 
+3 
+- 
+21 
+
+4 
+- 
+
+3 
+
+56 
+2 
+8 
+1 
+40 
+
+12 
+15 
+
+8 
+
+(1)  Total impact excluding the expansion of Farm Boy and FreshCo. 
+(2) 
+(3)  Specific to converted Western Canada FreshCo stores. 
+
+Includes 36 Longo’s stores that were acquired in the first quarter of fiscal 2022. 
+
+The following table shows Sobeys’ square footage changes for the 13 weeks ended May 6, 2023: 
+
+Square feet (in thousands) 
+Opened 
+Rebannered/redeveloped 
+Expanded 
+Closed 
+Net change before the impact of the expansion of Farm Boy and FreshCo 
+
+Opened - FreshCo(1) 
+
+Opened - Farm Boy 
+Net change 
+
+13 Weeks Ended    14 Weeks Ended   
+May 7, 2022   
+
+May 6, 2023   
+
+1 
+- 
+- 
+(33) 
+(32) 
+
+50 
+
+30 
+48 
+
+51 
+(15) 
+7 
+(48) 
+(5) 
+
+131 
+
+55 
+181 
+
+(1)  Specific to converted Western Canada FreshCo stores, net of Safeway and Sobeys closures. 
+
+At May 6, 2023, Sobeys’ retail space totalled 41.9 million square feet, a 0.7% increase compared to 41.6 million 
+square feet at May 7, 2022. 
+
+17 
+
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+Financing Activities 
+
+Cash used in financing activities for the quarter ended May 6, 2023 increased versus prior year due to higher 
+volume of repurchases of Non-Voting Class A shares offset by decreased payments of lease liabilities. 
+
+Cash used in financing activities for the fiscal year ended May 6, 2023 increased versus prior year due to the 
+repayment of the $500.0 million Series 2013-2 Notes, partially offset by advances on credit facilities. 
+
+Free Cash Flow 
+
+Management uses free cash flow as a measure to assess the amount of cash available for debt repayment, 
+dividend payments and other investing and financing activities.  
+
+($ in millions) 
+Cash flows from operating activities 
+Add:  proceeds on disposal of assets(1) 
+and lease terminations 
+
+Less:  interest paid  
+
+payments of lease liabilities, net of  
+
+$ 
+
+13 Weeks    
+Ended    
+
+14 Weeks     
+Ended    
+
+52 Weeks    
+Ended   
+
+53 Weeks      
+Ended    
+
+$   
+May 6, 2023    May 7, 2022   Change    May 6, 2023    May 7, 2022    Change   
+2,107.1  $  (501.8) 
+
+469.5  $  35.1  $ 
+
+1,605.3  $ 
+
+504.6  $ 
+
+$    
+
+29.4 
+(3.4) 
+
+25.5 
+
+3.9 
+(22.0)      18.6 
+
+48.9 
+(52.0) 
+
+175.6 
+(56.2) 
+
+  (126.7) 
+4.2 
+
+payments received for finance subleases 
+
+(163.2) 
+
+(218.2) 
+
+  55.0 
+
+(653.0) 
+
+(635.0) 
+
+(18.0) 
+
+acquisitions of property, equipment,  
+
+investment property and intangibles 
+
+Free cash flow(2) 
+
+(158.2) 
+209.2  $ 
+
+(205.9) 
+
+  47.7 
+
+48.9  $  160.3  $ 
+
+(757.7) 
+191.5  $ 
+
+(780.3) 
+22.6 
+811.2  $  (619.7) 
+
+$ 
+
+(1)  Proceeds on disposal of assets include property, equipment and investment property. 
+(2)  See “Non-GAAP Financial Measures & Financial Metrics” section of this MD&A. 
+
+Free cash flow for the quarter ended May 6, 2023 increased versus prior year primarily as a result of a decrease 
+in payments of lease liabilities, net of payments received for finance subleases, a decrease in acquisitions of 
+property,  equipment,  investment  property  and  intangibles  and  an  increase  in  cash  flows  from  operating 
+activities.  The increase in cashflow from operating activities is driven by favourable working capital changes, 
+partially offset by lower net earnings and higher income taxes paid.   
+
+Free cash flow for the fiscal year ended May 6, 2023 decreased versus prior year primarily as a result of a 
+decrease  in  cash  flows  from  operating  activities  and  lower  proceeds  on  disposal  of  assets  and  lease 
+terminations. The decrease in cash flows from operating activities is driven by unfavourable working capital 
+changes, higher income taxes paid and lower net earnings. 
+
+Employee Future Benefit Obligations 
+
+For the fiscal year ended May 6, 2023, the Company contributed $11.0 million (2022 - $20.1 million) to its 
+registered  defined  benefit  plans.  The  Company  expects  to  contribute  approximately  $17.1  million  to  these 
+plans in fiscal 2024. 
+
+Guarantees and Commitments 
+
+The following table presents the Company’s commitments and other obligations that will come due over the 
+next five fiscal years as at May 6, 2023: 
+
+($ in millions) 
+Commitments 
+Long-term debt(1) 
+Third party finance leases, as lessee 
+Related party finance leases, as lessee 
+Non-controlling interest liabilities  
+Capital commitments 
+Contractual obligations 
+Third party finance subleases, as lessor 
+Owned properties operating leases, as lessor 
+Subleased properties operating leases, as lessor 
+Contractual obligations, net 
+
+$ 
+
+$ 
+
+(1)  Principal debt repayments. 
+
+2024   
+
+2025   
+
+2026   
+
+2027     
+
+2028   
+
+  Thereafter     
+
+Total   
+
+101.0  $ 
+578.8 
+176.7 
+73.0 
+39.2 
+968.7 
+(87.9)  
+(6.2)  
+(57.7)  
+816.9  $ 
+
+8.9  $ 
+
+7.1  $ 
+
+568.2 
+177.5 
+- 
+68.4 
+823.0 
+(83.2)  
+(5.5)  
+(51.2)  
+683.1  $ 
+
+  533.7 
+  178.7 
+1.9 
+- 
+  721.4 
+
+(76.3)  
+(5.0)  
+(45.0)  
+595.1  $ 
+
+6.3  $ 
+
+490.2 
+176.9 
+12.5 
+- 
+685.9 
+(69.7)  
+(4.0)  
+(38.1)  
+574.1  $ 
+
+323.7  $ 
+439.7 
+171.9 
+7.4 
+- 
+942.7 
+(62.7)  
+(2.2)  
+(31.9)  
+845.9  $ 
+
+3,027.8 
+1,476.2 
+240.2 
+- 
+5,311.4 
+
+567.2  $  1,014.2 
+  5,638.4 
+  2,357.9 
+335.0 
+107.6 
+  9,453.1 
+(690.4) 
+(35.5) 
+(346.9) 
+4,865.2  $  8,380.3 
+
+(310.6)  
+(12.6)  
+(123.0)  
+
+18 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+    
+    
+    
+    
+    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+    
+    
+    
+    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+    
+    
+    
+    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+    
+  
+ 
+    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For further information on guarantees and commitments, please see Notes 9 and 15 of the Company’s audited 
+consolidated financial statements for the fiscal year ended May 6, 2023. 
+
+CONSOLIDATED FINANCIAL CONDITION 
+
+Key Financial Condition Measures 
+
+($ in millions, except per share and ratio calculations) 
+Shareholders’ equity, net of non-controlling interest 
+Book value per common share(1) 
+Long-term debt, including current portion 
+Long-term lease liabilities, including current portion 
+Funded debt to total capital(1) 
+Funded debt to adjusted EBITDA(1) 
+Adjusted EBITDA to interest expense(1) 
+Current assets to current liabilities  
+Total assets 
+Total non-current financial liabilities 
+
+May 6, 2023 
+
+May 7, 2022 
+
+$ 
+$ 
+$ 
+$ 
+
+$ 
+$ 
+
+5,200.4  $ 
+20.09  $ 
+1,012.3  $ 
+6,184.6  $ 
+58.1% 
+3.1x 
+8.8x 
+0.8x 
+16,483.7  $ 
+7,289.5  $ 
+
+4,991.5  $ 
+18.82  $ 
+1,176.7  $ 
+6,285.4  $ 
+59.9% 
+3.2x 
+8.3x 
+0.8x 
+16,593.6  $ 
+7,220.0  $ 
+
+May 1, 2021  
+4,372.7 
+16.30 
+1,225.3 
+5,908.1 
+62.0%  
+3.3x  
+8.0x  
+0.9x  
+15,173.9 
+7,187.7 
+
+(1)  See “Non-GAAP Financial Measures & Financial Metrics” section of this MD&A. 
+
+During fiscal 2023, DBRS Morningstar (“DBRS”) upgraded Sobeys’ credit rating from BBB (low) to BBB and 
+changed the trend from positive to stable while S&P Global (“S&P”) remained unchanged from the prior year. 
+The following table shows Sobeys’ credit ratings as at May 6, 2023:  
+
+Rating Agency 
+DBRS 
+S&P 
+
+Credit Rating (Issuer rating) 
+BBB 
+BBB- 
+
+Trend/Outlook 
+Stable 
+Stable 
+
+Pursuant  to  an  agreement  dated  November  3,  2022,  Empire  amended  and  restated  its  senior,  unsecured 
+revolving term credit agreement extending the maturity date to November 4, 2027. The principal amount was 
+reduced from $250.0 million to $150.0 million. As of May 6, 2023, the outstanding amount of this facility was 
+$48.8 million (2022 – $47.3 million). Interest payable on this facility fluctuates with changes in the Canadian 
+prime rate or bankers’ acceptance rates.  
+
+Pursuant to an agreement dated November 3, 2022, Sobeys amended and restated its $650.0 million senior, 
+unsecured revolving term credit agreement extending the maturity date to November 4, 2027. As of May 6, 
+2023, the outstanding amount of this facility was $306.9 million (2022 – $ nil) and Sobeys has issued $70.4 
+million in letters of credit against the facility (2022 – $75.1 million). Interest payable on this facility fluctuates 
+with changes in the Canadian prime rate or bankers’ acceptance rates.  
+
+The redemption of the 4.70% Series 2013-2 Notes due August 8, 2023, which was announced in the fourth 
+quarter of fiscal 2022, was completed on June 2, 2022. The total redemption payment of $516.5 million included 
+the  remaining  aggregate  principal  balance  of  $500.0  million  and  $16.5  million  in  accrued  interest  and 
+prepayment costs.  
+
+Through the acquisition of Longo’s on May 10, 2021, Sobeys acquired  their existing $75.0 million demand 
+operating line of credit. As of May 6, 2023, the outstanding amount of the facility was $44.5 million (2022 – 
+$15.1 million). Interest payable on this facility fluctuates with changes in the Canadian prime rate.  
+
+The Company believes its cash and cash equivalents on hand as of May 6, 2023, together with approximately 
+$404.4 million in unutilized, aggregate credit facilities and cash generated from operating activities will enable 
+the Company to fund future capital investments, pension plan contributions, working capital, current funded 
+debt obligations and ongoing business requirements. The Company also believes it has sufficient funding in 
+place to meet these requirements and other short and long-term financial obligations. The Company mitigates 
+potential liquidity risk by ensuring its sources of funds are diversified by term to maturity and source of credit. 
+
+For additional information on Empire’s long-term debt, see note 15 of the Company’s audited consolidated 
+financial statements for the fiscal year ended May 6, 2023. 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shareholders’ Equity  
+
+The Company’s share capital was comprised of the following on May 6, 2023: 
+
+Authorized 
+2002 Preferred shares, par value of $25 each, issuable in series 
+Non-Voting Class A shares, without par value 
+Class B common shares, without par value, voting 
+
+Issued and outstanding ($ in millions) 
+Non-Voting Class A shares 
+Class B common shares 
+Shares held in trust 
+Total 
+
+Number of Shares 
+155,164,908   
+98,138,079   
+(24,034)  
+
+Number of Shares 
+
+May 6, 2023   
+991,980,000   
+745,160,121   
+122,400,000   
+
+May 6, 2023   
+
+$ 
+
+$ 
+
+1,908.2  $ 
+7.3 
+(0.8) 
+1,914.7  $ 
+
+May 7, 2022   
+991,980,000 
+754,605,023 
+122,400,000 
+
+May 7, 2022  
+2,019.6 
+7.3 
+(0.8) 
+2,026.1 
+
+The Company’s share capital on May 6, 2023 compared to the same period in the last fiscal year is shown in 
+the table below: 
+
+(Number of shares) 
+Non-Voting Class A shares 
+Issued and outstanding, beginning of year 
+
+Issued during year 
+Purchased for cancellation 
+
+Issued and outstanding, end of year 
+Shares held in trust, beginning of year 
+
+Issued for future settlement of equity settled plans 
+Purchased for future settlement of equity settled plans 
+
+Shares held in trust, end of year 
+Issued and outstanding, net of shares held in trust, end of year 
+
+Class B common shares 
+Issued and outstanding, beginning and end of year 
+
+52 Weeks Ended  
+        May 6, 2023   
+
+53 Weeks Ended  
+        May 7, 2022         
+
+164,563,680 
+46,130 
+(9,444,902) 
+155,164,908 
+(39,027) 
+45,396 
+(30,403) 
+(24,034) 
+155,140,874 
+
+167,323,301 
+3,619,362 
+(6,378,983) 
+164,563,680 
+(46,512) 
+7,790 
+(305) 
+(39,027) 
+164,524,653 
+
+98,138,079 
+
+98,138,079 
+
+The  outstanding  options  at  May  6,  2023  were  granted  at  prices  between  $18.70  and  $42.60  and  expire 
+between June 2023 and June 2030 with a weighted average remaining contractual life of 4.67 years. Stock 
+option transactions during fiscal 2023 and 2022 were as follows: 
+
+Balance, beginning of year 
+Granted 
+Exercised 
+Expired 
+Forfeited 
+Balance, end of year 
+Stock options exercisable, end of year 
+
+Fiscal 2023 
+
+Fiscal 2022 
+
+Weighted    
+Average    
+Exercise    
+Price    
+31.33   
+40.39 
+26.82 
+34.58 
+31.56 
+32.44 
+
+Number of   
+Options   
+4,007,326  $ 
+471,847 
+(161,334) 
+(6,046) 
+(88,961) 
+4,222,832  $ 
+1,731,502 
+
+Weighted  
+Average  
+Exercise   
+Price   
+27.96 
+42.05 
+22.55 
+26.39 
+37.69 
+31.33 
+
+Number of   
+Options   
+4,361,032  $ 
+610,692 
+(936,807) 
+(9,582) 
+(18,009) 
+4,007,326  $ 
+1,212,083 
+
+For the fiscal year ended May 6, 2023, the Company paid common dividends of $170.2 million (2022 – $156.8 
+million)  to  its  common  shareholders,  representing  $0.67  per  share  (2022  –  $0.60  per  share)  for  common 
+shareholders.  
+
+As  at  June  19,  2023,  the  Company  had  Non-Voting  Class  A  and  Class  B  common  shares  outstanding  of 
+154,091,171  and  98,138,079,  respectively.  Options  to  acquire  4,339,061  Non-Voting  Class  A  shares  were 
+outstanding as of May 6, 2023 (May 7, 2022 – 4,007,326). As at June 19, 2023, options to acquire 4,324,496 
+Non-Voting Class A shares were outstanding (June 21, 2022 – 3,998,354). 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+The Company established a trust fund to facilitate the purchase of Non-Voting Class A shares for the future 
+settlement of vested units under the Company’s equity settled stock-based compensation plans. Contributions 
+to the trust fund and the Non-Voting Class A shares purchased are held by TSX Trust Company as trustee. 
+The trust fund is a structured entity and as such the accounts of the trust fund are included on the consolidated 
+financial statements of the Company. The following represents the activity of shares held in trust, recorded at 
+cost: 
+
+Shares held in trust 
+Balance, beginning of year 
+Purchased 
+Issued 
+Balance, end of year 
+
+Normal Course Issuer Bid (“NCIB”) 
+
+Number of Shares 
+
+May 6, 2023   
+
+May 7, 2022   
+
+39,027 
+30,403   
+(45,396)  
+24,034   
+
+  $ 
+
+$ 
+
+0.8  $ 
+1.1 
+(1.1) 
+0.8  $ 
+
+0.9 
+- 
+(0.1) 
+0.8 
+
+On  June  21,  2023,  the  Company  renewed  its  NCIB  by  filing  a  notice  of  intention  with  the  Toronto  Stock 
+Exchange (“TSX”) to purchase for cancellation up to 12,600,000 Non-Voting Class A shares (“Class A shares”) 
+representing approximately 9.0% of the public float of 139,497,542 Class A shares as of June 19, 2023, subject 
+to regulatory approval. As of June 19, 2023, there were 152,926,775 Class A shares issued and outstanding.  
+
+The  Company  intends  to  repurchase  approximately  $400.0  million  of  Class  A  shares  in  fiscal  2024.  The 
+purchases will be made through the facilities of the TSX and/or any alternative Canadian trading systems to 
+the extent they are eligible. The price that Empire will pay for any shares will be the market price at the time of 
+acquisition. The Company believes that repurchasing shares at the prevailing market prices from time to time 
+is a worthwhile use of funds and in the best interests of Empire and its shareholders. Purchases under the 
+renewed NCIB may commence on July 2, 2023 and shall terminate no later than July 1, 2024.  
+
+Based  on  the  average  daily  trading  volume  (“ADTV”)  of  337,583  shares  over  the  last  six  months,  daily 
+purchases will be limited to 84,395 Class A shares (25% of the ADTV of the Class A shares), other than block 
+purchase exemptions.  
+
+The Company has also renewed its automatic share purchase plan with its designated broker allowing the 
+purchase  of  Class  A  shares  for  cancellation  under  its  NCIB  during  trading  black-out  periods,  subject  to 
+regulatory approval. 
+
+Under  the  Company’s  current  NCIB,  that  commenced  on  July  2,  2022  and  expires  on  July  1,  2023,  the 
+Company  received  approval  from  the  TSX  to  purchase  up  to  10,500,000  Class  A  shares  representing 
+approximately 7.0% of the public float of Class A shares outstanding as of June 17, 2022. As of June 19, 2023, 
+the Company has purchased 10,464,644 shares through the facilities of the TSX at a weighted average price 
+of $36.18 for a total consideration of $378.6 million under the NCIB that commenced July 2, 2022 and expires 
+on July 1, 2023. 
+
+Shares purchased during the quarter and year-to-date ended May 6, 2023 compared to the same periods of 
+the previous fiscal year are shown in the table below: 
+
+($ in millions, except per share amounts) 
+Number of shares 
+Weighted average price per share 
+Cash consideration paid 
+
+May 6, 2023  
+3,110,280   
+
+13 Weeks Ended   14 Weeks Ended   52 Weeks Ended   53 Weeks Ended  
+May 7, 2022  
+6,378,983 
+39.02 
+248.9 
+
+May 7, 2022   
+413,100     
+
+May 6, 2023  
+9,444,902   
+
+39.83    $ 
+16.5    $ 
+
+37.06  $ 
+350.0  $ 
+
+35.91  $ 
+111.7  $ 
+
+$ 
+$ 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACCOUNTING STANDARDS AND POLICIES  
+
+Changes to Accounting Standards Adopted During Fiscal 2023 
+
+In May 2020, the IASB issued a package of narrow-scope amendments to three standards (IFRS 3, “Business 
+Combinations”; IAS 16, “Property, Plant and Equipment”; and IAS 37, “Provisions, Contingent Liabilities and 
+Contingent  Assets”)  as  well  as  the  IASB’s  Annual  Improvements  to  IFRS  Standards  2018  -  2020.  These 
+amendments to existing IFRS standards are to clarify guidance and wording, or to correct for relatively minor 
+unintended consequences, conflicts or oversights. These amendments became effective for annual periods 
+beginning on or after January 1, 2022. There was no impact on the Company’s financial statements. 
+
+Standards, Amendments and Interpretations Issued but not yet Adopted 
+
+In October 2022, the IASB issued Non-current Liabilities with Covenants (Amendments to IAS 1, “Presentation 
+of Financial Statements”) to clarify that covenants to be complied with after the reporting date for an entity’s 
+right to defer settlement of a liability does not affect the classification of the liability as current or non-current 
+at the reporting date. These narrow-scope amendments aim to improve information an entity provides with 
+regards to the covenants through additional disclosures. These amendments are effective for annual reporting 
+periods beginning on or after January 1, 2024, with early adoption permitted. The Company is assessing the 
+potential impact of these narrow-scope amendments. 
+
+In September 2022, the IASB issued narrow-scope amendments to IFRS 16, “Leases”. These amendments 
+clarify how a seller-lessee subsequently measures the lease liability that arises from a sale and leaseback 
+transaction, the seller-lessee determines “lease payments” and “revised lease payments” in a way that does 
+not result in the seller-lessee recognizing any amount of the gain or loss that relates to the right of use it retains. 
+These  amendments  only  apply  to  sale  and  leaseback  transactions  for  which  the  lease  payments  include 
+variable lease payments that do not depend  on an index or a rate. The amendment is effective for annual 
+reporting periods beginning on or after January 1, 2024 with early adoption permitted. The Company expects 
+no impact from these amendments.  
+
+In May 2021, the IASB issued narrow-scope amendments to IAS 12, “Income Taxes”. The amendments require 
+deferred tax assets and liabilities to be recognized for transactions that result in both deductible and taxable 
+temporary differences of the same amount at initial recognition. These amendments are effective for annual 
+reporting periods beginning on or after January 1, 2023, with early adoption permitted. There will be no impact 
+on the Company’s financial statements from these amendments. 
+
+In January 2020, the IASB issued Classification of Liabilities as Current or Non-Current (Amendments to IAS 
+1,  “Presentation  of  Financial  Statements”).  The  narrow-scope  amendment  affects  only  the  presentation  of 
+liabilities  in  the  statement  of  financial  position  and  not  the  amount  or  timing  of  recognition.  Specifically,  it 
+clarifies: 
+
+• 
+
+• 
+
+classification  is  unaffected  by  expectations  about  whether  an  entity  will  exercise  its  right  to  defer 
+settlement of a liability; and 
+that “settlement” refers to the transfer to the counterparty of cash, equity instruments, other assets or 
+services. 
+
+These amendments are effective for annual periods beginning on or after January 1, 2024, with early adoption 
+permitted. The Company is assessing the potential impact of this narrow-scope amendment. 
+
+22 
+
+ 
+ 
+Critical Accounting Estimates 
+
+The  preparation  of  consolidated  financial  statements,  in  conformity  with  generally  accepted  accounting 
+principles  (“GAAP”),  requires  management  to  make  estimates,  judgments  and  assumptions  that  affect  the 
+amounts reported in the consolidated financial statements and accompanying notes. Certain of these estimates 
+require subjective or complex judgments by management that may be uncertain. Some of these items include 
+the  valuation  of  inventories,  goodwill,  employee  future  benefits,  stock-based  compensation,  estimates  of 
+provisions, impairments, customer loyalty programs, useful lives of property, equipment, investment property 
+and intangibles for purposes of depreciation and amortization, and income taxes. Changes to these estimates 
+could materially impact the financial statements. These estimates are based on management's best knowledge 
+of current events and actions the Company may undertake in the future. Management regularly evaluates the 
+estimates and assumptions it uses. Actual results could differ from these estimates. 
+
+Leases 
+
+Estimates and judgments are used in the measurement of lease liabilities and right-of-use assets, with key 
+assumptions related to the determination of discount rates and lease term expectations.  
+
+Non-Controlling Interest Put and Call Options 
+
+The  Company  has  applied  estimates  and  judgment  to  the  non-controlling  interest  put  and  call  options  the 
+Company entered into as part of business acquisitions. The calculation is an earnings multiple that has various 
+components including estimates of cash flows and discount rates. 
+
+Valuation of Inventories 
+
+Inventories  are  valued  at  the  lower  of  cost  and  estimated  net  realizable  value.  Significant  estimation  and 
+judgment is required in the determination of (i) estimated inventory provisions due to spoilage and shrinkage 
+occurring between the last physical inventory count and the balance sheet dates; and (ii) inventories valued at 
+retail  and  adjusted  to  cost.  Changes  or  differences  in  any  of  these  estimates  may  result  in  changes  to 
+inventories on the consolidated balance sheets and a charge or credit to operating income in the consolidated 
+statements of earnings.  
+
+Impairments of Non-Financial Assets 
+
+Management  assesses  impairment  of  non-financial  assets  such  as  investments  in  associates  and  joint 
+ventures, goodwill, intangible assets, property and equipment, right-of-use assets and investment property. In 
+assessing impairment, management estimates the recoverable amount of each asset or cash generating unit 
+(“CGU”)  based  on  expected  future  cash  flows.  When  measuring  expected  future  cash  flows,  management 
+makes  assumptions  about  future  growth  of  profits  which  relate  to  future  events  and  circumstances.  Actual 
+results could vary from these estimated future cash flows. Estimation uncertainty relates to assumptions about 
+future operating results and the application of an appropriate discount rate.  
+
+Goodwill is subject to impairment testing on an annual basis. The Company performed its annual assessment 
+of goodwill impairment during its third quarter. However, if indicators of impairment are present, the Company 
+will  review  goodwill  for  impairment  when  such  indicators  arise.  In  addition,  at  each  reporting  period,  the 
+Company reviews whether there are indicators that the recoverable amount of long-lived assets may be less 
+than their carrying amount.  
+
+Goodwill and long-lived assets were reviewed for impairment by determining the recoverable amount of each 
+CGU  or  groups  of  CGUs  to  which  the  goodwill  or  long-lived  assets  relate.  Management  estimated  the 
+recoverable  amount  of  the  CGUs  based  on  the  higher  of  value-in-use  (“VIU”)  and  fair  value  less  costs  of 
+disposal. The VIU calculations are based on expected future cash flows. When measuring expected future 
+cash flows, management makes key assumptions about future growth of profits which relate to future events 
+and  circumstances.  Estimation  uncertainty  relates  to  assumptions  about  future  operating  results  and  the 
+application of an appropriate discount rate. Actual results could vary from these estimates which may cause 
+significant adjustments to the Company’s goodwill or long-lived assets in subsequent reporting periods. 
+
+23 
+
+ 
+Pension Benefit Plans and Other Benefit Plans 
+
+The cost of the Company’s pension benefits for defined contribution plans are expensed at the time active 
+employees are compensated. The cost of defined benefit pension plans and other benefit plans is accrued 
+based on actuarial valuations, which are determined using the projected unit credit method pro-rated on service 
+and management’s best estimate of salary escalation, retirement ages, and expected growth rate of health 
+care costs.  
+
+Current market values are used to value benefit plan assets. The obligation related to employee future benefits 
+is measured using current market interest rates, assuming a portfolio of Corporate AA bonds with terms to 
+maturity that, on average, match the terms of the obligation. 
+
+To the extent that plan amendments increase the obligation related to past service, the Company will recognize 
+a past service cost immediately as an expense. 
+
+In  measuring  its  defined  benefit  liability,  the  Company  will  recognize  all  of  its  actuarial  gains  and  losses 
+immediately  into  other  comprehensive  income.  The  key  assumptions  are  disclosed  in  Note  18  of  the 
+Company’s audited consolidated financial statements for the year ended May 6, 2023. 
+
+Income Taxes  
+
+Deferred income tax assets and liabilities are recognized for the future income tax consequences attributable 
+to  temporary  differences  between  the  financial  statement  carrying  values  of  assets  and  liabilities  and  their 
+respective  income  tax  bases.  Deferred  income  tax  assets  or  liabilities  are  measured  using  enacted  or 
+substantively  enacted  income  tax  rates  expected  to  apply  to  taxable  income  in  the  years  in  which  those 
+temporary differences are expected to be recovered or settled. The calculation of current and deferred income 
+taxes requires management to make estimates and assumptions and to exercise a certain amount of judgment. 
+The financial statement carrying values of assets and liabilities are subject to accounting estimates inherent in 
+those balances. The income tax bases of assets and liabilities are based upon the interpretation of income tax 
+legislation  across  various  jurisdictions.  The  current  and  deferred  income  tax  assets  and  liabilities  are  also 
+impacted by expectations about future operating results and the timing of reversal of temporary differences as 
+well as possible audits of tax filings by the regulatory authorities.  
+
+Changes or differences in these estimates or assumptions may result in changes to the current or deferred 
+income tax balances on the consolidated balance sheets. 
+
+Business Acquisitions 
+
+For business acquisitions, the Company applies judgment on the recognition and measurement of assets and 
+liabilities assumed and estimates are utilized to calculate and measure such adjustments. In measuring the 
+fair  value  of  an  acquiree’s  assets  and  liabilities,  management  uses  estimates  about  future  cash  flows  and 
+discount rates. Any measurement changes after initial recognition would affect the measurement of goodwill, 
+except for deferred taxes.  
+
+Provisions  
+
+Provisions are recognized when there is a present legal or constructive obligation as a result of a past event, 
+for which it is probable that a transfer of economic benefits will be required to settle the obligation, and where 
+a reliable estimate can be made of the amount of the obligation. Provisions are discounted using a pre-tax 
+discount rate that reflects the current market assessments of the time value of money and the risks specific to 
+the liability, if material.  
+
+Vendor Allowances 
+
+The Company has supply agreements with varying terms for purchase of goods for resale, some of which 
+include  volume  related  allowances,  purchase  discounts,  listing  fees  and  other  discounts  and  allowances. 
+Estimates and judgment are required when the receipt of allowances is conditional on the Company achieving 
+specified performance conditions associated with the purchase of product and determining if these have been 
+met.  These  include  estimates  of  achieving  agreed  volume  targets  based  on  historical  and  forecast 
+performance. 
+
+24 
+
+ 
+Disclosure Controls and Procedures 
+
+Management of the Company, which includes the President & Chief Executive Officer (“CEO”) and Executive 
+Vice President & Chief Financial Officer (“CFO”), is responsible for establishing and maintaining Disclosure 
+Controls and Procedures (“DC&P”) to provide reasonable assurance that material information relating to the 
+Company is made known to management by others, particularly during the period in which the annual filings 
+are being prepared, and that information required to be disclosed by the Company and its annual filings, interim 
+filings and other reports filed or submitted by it under securities legislation is recorded, processed, summarized 
+and reported within the time periods specified in securities legislation. The CEO and CFO have evaluated the 
+effectiveness of the Company’s DC&P and, based on that evaluation, the CEO and CFO have concluded that 
+the Company’s DC&P was effective as at May 6, 2023 and that there were no material weaknesses relating to 
+the design or operation of the DC&P. 
+
+Internal Control Over Financial Reporting  
+
+Management  of  the  Company,  which  includes  the  CEO  and  CFO,  is  responsible  for  establishing  and 
+maintaining Internal Control over Financial Reporting (“ICFR”), as that term is defined in National Instrument 
+52-109, “Certification of Disclosure in Issuers’ Annual and Interim Filings”. The control framework management 
+used  to  design  and  assess  the  effectiveness  of  ICFR  is  “Internal  Control  Integrated  Framework  (2013)” 
+published by the Committee of Sponsoring Organizations of the Treadway Commission. The CEO and CFO 
+have evaluated the effectiveness of the Company’s ICFR and, based on that evaluation, the CEO and CFO 
+have concluded that the Company’s ICFR was effective as at May 6, 2023 and that there were no material 
+weaknesses relating to the design or operation of the ICFR. 
+
+There have been no changes in the Company’s ICFR during the period beginning February 5, 2023 and ended 
+May 6, 2023 that have materially affected, or are reasonably likely to materially affect, the Company’s ICFR. 
+
+25 
+
+ 
+RELATED PARTY TRANSACTIONS 
+
+The  Company  enters  into  related  party  transactions  with  Crombie  REIT  and  key  management  personnel, 
+including ongoing leases and property management agreements. As at May 6, 2023, the Company holds a 
+41.5% (2022 – 41.5%) ownership interest in Crombie REIT and accounts for its investment using the equity 
+method. 
+
+Crombie  REIT  has  instituted  a  distribution  reinvestment  plan  (“DRIP”)  whereby  Canadian  resident  REIT 
+unitholders  may  elect  to  automatically  have  their  distributions  reinvested  in  additional  REIT  units.  The 
+Company has enrolled in the DRIP to maintain its economic and voting interest in Crombie REIT.  
+
+The  Company  leased  certain  real  property  from  Crombie  REIT  during  the  year  at  amounts  which  in 
+management’s  opinion  approximate  fair  market  value  that  would  be  incurred  if  leased  from  a  third  party. 
+Management  has  determined  these  amounts  to  be  fair  value  based  on  the  significant  number  of  leases 
+negotiated  with  third  parties  in  each  market  it  operates.  The  aggregate  net  payments  under  these  leases 
+totalled approximately $261.3 million (2022 – $213.5 million). 
+
+Crombie REIT provides administrative and property management services to the Company on a fee for service 
+basis pursuant to a Management Agreement. 
+
+Sobeys, through wholly-owned subsidiaries, engages in property sales and sale leaseback transactions with 
+Crombie REIT, based on fair market values. These transactions consist of the following: 
+
+($ in millions) 
+Properties sold and leased back(1)   
+Properties sold 
+Lease modification terminations 
+Total 
+
+52 Weeks Ended 
+May 6, 2023 
+
+53 Weeks Ended 
+May 7, 2022 
+
+Number of 
+properties 
+
+Cash 
+ consideration 
+
+Pre-tax   
+gains   
+
+  Number of   
+properties   
+
+Cash 
+  consideration 
+
+2   $ 
+1  
+-  
+3   $ 
+
+17.4  $ 
+2.1 
+- 
+19.5  $ 
+
+- 
+0.2 
+- 
+0.2 
+
+10   $ 
+1  
+3  
+14   $ 
+
+95.6  $ 
+2.6 
+10.0 
+108.2  $ 
+
+Pre-tax   
+gains   
+7.1 
+- 
+22.8 
+29.9 
+
+(1)  May 7, 2022, includes 50% sale leaseback of a distribution centre in which Crombie REIT now owns 100% of the property. 
+
+During the fiscal year ended May 6, 2023, Crombie REIT disposed of two properties to third parties (2022 - 
+two properties). These transactions resulted in the reversal of previously deferred pre-tax gains of $6.1 million 
+(2022 - $1.7 million) which has been recognized in other income on the consolidated statements of earnings. 
+
+During the fiscal year ended May 6, 2023, Sobeys, through a wholly-owned subsidiary, received $16.5 million 
+(2022 - $19.5 million) for reimbursements of lessor improvements from Crombie REIT. These payments are 
+related to modernization and efficiency improvements of existing properties, and construction allowances.   
+
+On January 31, 2022, Crombie REIT announced it had closed a bought-deal public offering of units at a price 
+of $17.45 per unit for aggregate proceeds of $200.0 million. Concurrent with the public offering, a wholly-owned 
+subsidiary  of  the  Company  purchased,  on  a  private  placement  basis,  $83.0  million  of  Class  B  LP  units  to 
+maintain a 41.5% ownership interest in Crombie REIT. 
+
+On May 19, 2021, Crombie REIT announced it had closed a bought-deal public offering of units at a price of 
+$16.60 per unit for aggregate proceeds of $100.0 million. Concurrent with the public offering, a wholly-owned 
+subsidiary  of  the  Company  purchased,  on  a  private  placement  basis,  $41.5  million  of  Class  B  LP  units  to 
+maintain a 41.5% ownership interest in Crombie REIT. 
+
+26 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key Management Personnel Compensation 
+
+Key management personnel include the Board of Directors and members of the Company’s executive team 
+that have authority and responsibility for planning, directing and controlling the activities of the Company. 
+
+Key management personnel compensation is comprised of: 
+
+($ in millions) 
+Salaries, bonus and other short-term employment benefits 
+Post-employment benefits 
+Share-based payments 
+Total 
+
+Indemnities 
+
+52 Weeks Ended  
+May 6, 2023  
+
+$ 
+
+$ 
+
+14.0   $ 
+1.5   
+14.6   
+30.1   $ 
+
+53 Weeks Ended  
+May 7, 2022  
+19.5  
+2.6  
+13.2  
+35.3  
+
+The Company has agreed to indemnify its directors, officers and particular employees in accordance with the 
+Company’s policies. The Company maintains insurance policies that provide coverage against certain claims. 
+
+CONTINGENCIES  
+
+The Company has submitted insurance claims in connection with losses incurred related to the Cybersecurity 
+Event which occurred on November 4, 2022. The amount and timing of receipt for the insurance recoveries 
+are  uncertain  and  subject  to  approval  by  the  insurance  companies.  As  a  result,  recoveries  will  only  be 
+recognized on the consolidated statements of earnings when the amount and timing are virtually certain. 
+
+The Company is subject to claims and litigation arising out of the ordinary course of business operations. The 
+Company’s management does not consider the exposure to such litigation to be material. 
+
+In  the  ordinary  course  of  business,  the Company  is subject  to  ongoing  audits by  tax authorities.  While  the 
+Company believes that its tax filing positions are appropriate and supportable, from time to time certain matters 
+are reviewed and challenged by the tax authorities. 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+RISK MANAGEMENT  
+
+Through its operating companies and its equity-accounted investments, Empire is exposed to a number of 
+risks  in  the  normal  course  of  business  that  have  the  potential  to  affect  operating  performance.  In  order  to 
+achieve and sustain superior business performance an Enterprise Risk Management (“ERM”) program has 
+been established within the Company.  
+
+As  part  of  the  ERM  process,  the  Company  identifies,  assesses,  manages  and  reports  on  key  risks  to  the 
+organization  and  its  objectives.  Risks  are  ranked  and  executive  ownership  is  established  in  each  case.  In 
+addition,  processes  have  been  put  in  place  to  facilitate  effective  oversight  by  establishing  risk  appetite 
+statements, key risk indicators, treatment action plans and dashboards for key risks identified. Key risks have 
+been, and continue to be, embedded in the business and strategy discussions at the Board and/or Committee 
+meetings. Annually, the senior leadership of the Company conducts a regular assessment of the Company’s 
+effectiveness  in  managing  existing/known  risks  along  with  an  identification  and  discussion  of  new  and 
+emerging risks. 
+
+Competition 
+
+Empire’s Food retailing business, Sobeys, operates in a dynamic and competitive market. Other national and 
+regional  food  distribution  companies,  along  with  non-traditional  competitors,  such  as  mass  merchandisers, 
+warehouse clubs, and online retailers, represent a competitive risk to Sobeys’ ability to attract customers and 
+operate profitably in its markets. 
+
+Sobeys  maintains  a  strong  national  presence  in  the  Canadian  retail  food  and  food  distribution  industry, 
+operating in over 900 communities in Canada. A significant risk to Sobeys is the potential for reduced revenues 
+and  profit  margins  as  a  result  of  increased  competition.  A  failure  to  maintain  geographic  diversification  to 
+reduce the effects of localized competition could have an adverse impact on Sobeys’ operating margins and 
+results of operations. To successfully compete, Sobeys must be customer and market-driven, be focused on 
+superior execution and have efficient, cost-effective operations. It also must invest in its existing store and e-
+commerce network as well as its merchandising, marketing and operational execution to evolve its strategic 
+platform to better meet the needs of consumers looking for food options. Sobeys updates branding strategies 
+to remain relevant to customers. Failure to implement a marketing and branding strategy, including evaluating 
+the strategic objectives and having people, processes and systems in place to execute the strategy, could 
+adversely affect Sobeys. The consolidation of industry competitors may also lead to increased competition and 
+loss of market share. The Company further believes it must invest in merchandising initiatives to better forecast 
+and respond to changing consumer trends. Any failure to successfully execute in these areas could have a 
+material adverse impact on Sobeys’ financial results. 
+
+Empire’s  real  estate  operations,  through  its  investment  in  Crombie  REIT,  compete  with  numerous  other 
+managers and owners of real estate properties in seeking tenants and new properties to acquire. The existence 
+of competing managers and owners could affect their ability to: (i) acquire property in compliance with their 
+investment  criteria;  (ii) lease  space  in  their  properties;  and  (iii) maximize  rents  charged  and  minimize 
+concessions granted. Commercial property revenue is also dependent on the renewal of lease arrangements 
+by key tenants. These factors could adversely affect the Empire’s financial results and cash flows. A failure by 
+Crombie REIT to maintain strategic relationships with developers to ensure an adequate supply of prospective 
+attractive properties or to maintain strategic relationships with existing and potential tenants to help achieve 
+high occupancy levels at each of its properties could adversely affect Empire. 
+
+Business Continuity 
+
+The Company may be subject to unexpected or critical events and natural hazards, including severe weather 
+events, interruption of utilities and infrastructure or occurrence of pandemics, which could cause sudden or 
+complete cessation of its day to day operations. The Company leverages an integrated business continuity 
+management  framework,  including  a  comprehensive  crisis  management  plan.  However,  no  such  plan  can 
+eliminate the risks associated with events of this magnitude. Any failure to respond effectively or appropriately 
+to such events could adversely affect the Company’s operations, reputation and financial results. 
+
+28 
+
+ 
+Cybersecurity 
+
+IT systems are an integral part of the Company’s business and are relied on to complete daily and strategic 
+operations. The Company uses various technologies, some of which are managed by third parties, to process, 
+transmit and store electronic information. In addition, the Company facilitates a variety of business processes 
+and activities, including reporting on business and interacting with customers, vendors and employees. These 
+IT  systems  are  subject  to  an  increasing  number  of  complex  cyber  threats,  including  cyberattacks,  data 
+breaches,  employee  error  or  malfeasance,  power  outages,  telecommunication  or  utility  failures,  systems 
+failures, service provider failures, natural disasters or other catastrophic events. As the cyber threats evolve 
+and become more sophisticated and complex, the more difficult it is to detect and successfully defend against 
+them.  For  example,  see  the  discussion  of  the  Cybersecurity  Event  in  the  “Business  Updates”  section.  In 
+addition,  cyber-security-related  vulnerabilities  by  their  very  nature  may  remain  undetected  for  an  extended 
+period of time.  
+
+The Company actively monitors, manages, and continues to enhance the ability to mitigate cyber risk through 
+a multi-layered security approach. However, there is no assurance that these measures will be successful. If 
+the Company does not effectively manage a reliable IT infrastructure or fails to timely identify or appropriately 
+respond to cybersecurity incidents, then the Company’s IT systems could be interrupted, destroyed or shut 
+down  completely,  which  in  turn  could  result  in  operational  disruptions  (which  may  be  similar  to  those 
+experienced in connection with the Cybersecurity Event) or the misappropriation of sensitive data. Depending 
+on the nature and scope of a cybersecurity incident, it could lead to the compromise of confidential information, 
+improper  access  to  Company  systems  and  networks,  manipulation  or  destruction  of  data,  operational 
+disruptions and exposure to liability.  
+
+The Company has implemented security measures with respect to systems protection, employee training, and 
+business continuity and contingency planning. A disruption to the Company’s systems or a breach of sensitive 
+information may negatively impact the Company’s operations and financial position, damage its reputation, 
+reduce its competitive advantage and reduce the ability to achieve its strategic objectives and/or the trading 
+price of the Non-Voting Class A shares. 
+
+Data Protection and Information Management 
+
+The integrity, reliability and security of information in all its forms is critical to the Company’s daily and strategic 
+operations. Inaccurate, incomplete or unavailable information, external intrusions on information systems or 
+inappropriate  access  to  information  could  lead  to  incorrect  financial  and/or  operational  reporting,  poor 
+decisions, privacy breaches or inappropriate disclosure, leaks of sensitive information or system disruptions. 
+Gathering and analyzing information regarding customers’ purchasing preferences is an important part of the 
+Company’s  strategy  to  attract  and  retain  customers  and  effectively  compete.  In  addition,  personal  health 
+information is collected in order to provide pharmacy, benefits administration and home health care services 
+to  customers.  Any  failure  to  maintain  privacy  of  customer  and/or  Company  information  or  to  comply  with 
+applicable privacy laws or regulations could adversely affect the Company’s reputation, competitive position 
+and results of operations. 
+
+The  Company  recognizes  that  information  is  a  critical  enterprise  asset.  Currently,  data  and  information 
+management  risk  is  managed  through  a  multi  layered  security  approach  involving  software  tools  based 
+controls,  policies,  standards  and  procedures  pertaining  to  security  access,  system  development,  change 
+management and problem and incident management. 
+
+Product Safety and Security 
+
+Sobeys is subject to potential liabilities connected with its business operations, including potential liabilities 
+and expenses associated with product defects, food safety and product handling, and provision of pharmacy 
+products  and  related  services.  Such  liabilities  may  arise  in  relation  to  the  storage,  distribution,  display  and 
+dispensing  of  products  and,  with  respect  to  Sobeys’  private  label  products,  in  relation  to  the  production, 
+packaging and design of products. 
+
+29 
+
+ 
+A large majority of Sobeys’ sales are generated from food and a smaller portion from pharmaceutical products. 
+Sobeys could  be  vulnerable  in  the  event  of  a  significant  outbreak  of  food-borne illness  or  increased  public 
+health concerns in connection with certain food or pharmaceutical products. Such an event could materially 
+affect  Sobeys’  financial  performance.  Procedures  are  in  place  to  manage  food  and  pharmaceutical  crises, 
+should they occur. These procedures are intended to identify risks, provide clear communication to teammates 
+and consumers and ensure that potentially harmful products are removed from sale immediately. 
+
+Sobeys  has  food  safety  procedures  and  programs  which  address  safe  food  handling  and  preparation 
+standards. Similarly, provincial pharmacy standards and regulations are strictly followed, supported by robust 
+internal  policies  and  procedures  to  help  mitigate  risk  along  with  a  comprehensive  reporting  and  follow  up 
+system to quickly manage and contain any incidents. On a monthly basis the Executive team is updated on 
+food safety and pharmacy risks. However, there can be no assurance that such measures will prevent the 
+occurrence of any such product contamination or safety incident. 
+
+Supply Chain Disruptions Including Impacts of Climate Change 
+
+The  Company  is  exposed  to  potential  supply  chain  disruptions  and  errors  that  could  result  in  obsolete 
+merchandise or an excess or shortage of merchandise in its retail store network. The Company’s distribution 
+and supply chain could be negatively impacted by over reliance on key vendors, consolidation  of facilities, 
+disruptions  due  to  severe  weather  conditions,  natural  disasters,  climate  change  driven  disruptions  or  other 
+catastrophic events, failure to manage costs and inventories, and geopolitical disruptions. A failure to develop 
+competitive  new  products,  deliver  high-quality  products  and  implement  and  maintain  effective  supplier 
+selection  and  procurement  practices  could  adversely  affect  Sobeys’  ability  to  deliver  desired  products  to 
+customers and adversely affect the Company’s ability to attract and retain customers, decreasing competitive 
+advantage. A failure to maintain an efficient supply and logistics chain may adversely affect Sobeys’ ability to 
+sustain and meet growth objectives and maintain margins. 
+
+Product Costs 
+
+Sobeys is a significant purchaser of food product which is at risk of cost inflation given rising commodity prices 
+and other costs of production to food manufacturers. Should rising costs of product materialize in excess of 
+the Company’s expectations and should the Company not be able to offset such cost inflation through higher 
+retail prices or other cost savings, there could be a negative impact on sales and margin performance. 
+
+Technology 
+
+The Company operates extensive and complex information technology systems that are vital to the successful 
+operation  of  its  business  and  marketing  strategies.  Any  interruption  to  these  systems  or  the  information 
+collected by them would have a significant adverse impact on the Company, its operations and its financial 
+results.  The  Company  is  committed  to  improving  its  operating  systems,  tools  and  procedures  in  order  to 
+become more efficient and effective.  
+
+The implementation of major information technology projects carries with it various risks, including the risk of 
+realization of functionality, the capacity and capability of key resources to both execute and deliver key strategic 
+initiatives while also sustaining and supporting the on-going business operations. 
+
+Environmental 
+
+The Company operates its business locations across the country, including retail stores, distribution centres 
+and fuel sites, and is subject to environmental risks associated with the contamination of such properties and 
+facilities.  Sobeys’  retail  fuel  locations  operate  underground  storage  tanks.  Environmental  contamination 
+resulting  from  leaks  or  damages  to  these  tanks  is  possible.  To  mitigate  this  environmental  risk,  Sobeys 
+engages  in  several  monitoring  procedures,  as  well  as  risk  assessment  activities,  to  minimize  potential 
+environmental  hazards.  The  Company  also  operates  refrigeration  equipment  in  its  stores  and  distribution 
+centres. These systems contain refrigerant gases which could be released if equipment fails or leaks. 
+
+30 
+
+ 
+When  environmental  issues  are  identified,  any  required  environmental  site  remediation  is  completed  using 
+appropriate,  qualified  internal  and  external  resources.  The  Company  may  be  required  to  absorb  all  costs 
+associated  with  such  remediation,  which  may  be  substantial.  Failure  to  properly  manage  any  of  these 
+environmental risks could adversely affect the reputation, operations or financial performance of the Company.  
+
+The Company is subject to legislation that imposes liabilities on retailers for costs associated with recycling 
+and disposal of consumer goods packaging and printed materials distributed to consumers. There is a risk that 
+the Company will be subject to increased costs associated with these laws. 
+
+Environmental Regulation 
+
+Environmental legislation has evolved in a manner that has resulted in stricter standards and enforcement, 
+larger  fines  and  liability and  increased capital expenditures  and  operating  costs.  The environmental  issues 
+affecting  the  Company’s  operations  include  extended  producer  responsibility  on  plastics  and  packaging, 
+electricity consumption, fossil fuel use in the transport of goods, air pollution laws and regulations, regulations 
+relating to climate change, hazardous waste regulation, and restrictions against greenhouse gas emissions. 
+The discharge of pollutants into the air, soil or water may give rise to liabilities to governments and third parties 
+and  may  require  the  Company  to  incur  costs  to  remedy  such  discharge.  No  assurance  can  be  given  that 
+environmental laws will not result in a curtailment of production or a material increase in the costs of production 
+activities that could adversely affect the Company’s financial condition, results of operations or prospects. The 
+Company may also be subject under such regulations to clean-up costs and liability for toxic or hazardous 
+substances that may exist on or under or near any of its properties or that may be produced as a result of its 
+operations. Changes in legislation, including carbon taxes and the implementation of other greenhouse gas 
+reduction initiatives and regulations related to transitioning to a low-carbon and more climate resilient future, 
+could result in additional costs which could have a negative impact on the Company's financial performance if 
+the Company is not able to identify offsetting cost reductions and efficiencies. 
+
+Talent, Attraction and Retention 
+
+Effective leadership is important to the growth and continued success of the Company. The inability of the 
+Company to properly attract, build talent and retain its teammates with the appropriate skill set and failure to 
+manage  and  monitor  teammates’  performance  may  affect  teammate  morale,  overall  reputation  and  the 
+Company’s future performance. The Company develops and delivers training programs at all levels across its 
+various operating regions to improve teammate knowledge and to better serve its customers. The Company 
+also monitors engagement of teammates on a regular basis, and creates plans to address gaps. 
+
+There is always a risk associated with the loss of key personnel. Succession plans have been identified for 
+key roles including the depth of management talent throughout the Company and its subsidiaries; these plans 
+are overseen by the Human Resources Committee and reviewed at least annually by the Board of Directors. 
+
+Franchisee and Affiliates Relationships 
+
+The success of Empire is closely tied to the performance of Sobeys’ network of retail stores. Franchisees and 
+affiliates operate approximately 51% of Sobeys’ retail stores. Sobeys relies on its franchisees, affiliates and 
+corporate store management to successfully execute retail strategies and programs. 
+
+To maintain controls over Sobeys’ brands and the quality and range of products and services offered at its 
+stores, franchisees and affiliates agree to purchase merchandise from Sobeys. In addition, each store agrees 
+to comply with the policies, marketing plans and operating standards prescribed by Sobeys. These obligations 
+are specified under franchise and operating agreements which expire at various times for individual franchisees 
+and affiliates. Despite these franchise and operating agreements, Sobeys may have limited ability to control a 
+franchisees’  and  affiliates’  business  operations.  A  breach  of  these  franchise  and  operating  agreements  or 
+operational  failures  by  a  significant  number  of  franchisees  and  affiliates  may  adversely  affect  Sobeys’ 
+reputation and financial performance. 
+
+31 
+
+ 
+Labour Union Relationships 
+
+A  significant  percentage  of  the  Company’s  store  and  distribution  centre  workforce,  particularly  in  Western 
+Canada,  is  unionized. While  overall  the  Company  has  and  works  to  maintain  good  relationships  with  its 
+teammates  and  unions,  the  renegotiation  of  collective  agreements  always  presents  the  risk  of  labour 
+disruption. The  Company  has  consistently  stated  it  will  accept  the  short-term  costs  of  labour  disruption  to 
+support a commitment to building and sustaining a competitive cost structure for the long term. Any prolonged 
+or  widespread  work  stoppages  or  other  labour  disputes  could  have  an  adverse  impact  on  the  Company’s 
+financial results. 
+
+Drug Regulation, Legislation and Health Care Reform 
+
+The Company currently operates more than 400 in-store and freestanding pharmacies which are subject to 
+federal, provincial, territorial and local legislation as well as regulations governing the sale of prescription drugs. 
+Changes to reimbursement models used to fund prescription drugs, including the potential implementation of 
+a  national  pharmacare  model,  or  failure  to  comply  with  these  laws  and  regulations  could  have  a  negative 
+impact on financial performance, operations and reputation. 
+
+These laws and regulations typically regulate prescription drug coverage for public plans including patient and 
+product  eligibility  as  well  as  elements  of  drug  pricing  and  reimbursements  including  product  cost,  markup, 
+dispensing fee, distribution allowances and in some provinces the ability to negotiate manufacturer allowances. 
+In some provinces, legislation requires the selling price for prescription drugs to third-party insurance plans 
+and  cash  customers  to  not  be  higher  than  the  price  established  for  the  provincial  drug  plan.  In  addition  to 
+reimbursement, these laws and regulations govern drug approval and distribution, allowable packaging and 
+labelling, marketing, handling, storage and disposal. 
+
+Provincial governments and private plans continue to implement measures to manage the cost of their drug 
+plans, the impact of which varies by province and by plan. The Council of the Federation, a joint collaboration 
+created by the provincial premiers, continues to work on cost reduction initiatives within the pharmaceutical 
+sector, many of which are extended to the private sector.  
+
+The  Patented  Medicines  Prices  Review  Board  (“PMPRB”)  protects  and  informs  Canadian  consumers  by 
+regulating the prices of patented medicines sold in Canada and by reporting on pharmaceutical trends. PMPRB 
+is a quasi-judicial body that is part of the Health Portfolio and operates at arm’s length from the Minister of 
+Health. Implementation of amendments to the Patented Medicines Regulations originally proposed in 2019, 
+the first substantive updates to the regulations in over 30 years, were delayed due to COVID-19. Since this 
+time there have continued to be more revisions and delays in making changes to the regulations and potential 
+timelines and scale of any impacts are unknown. 
+
+While  timing  and  impact  are  uncertain  at  this  time,  pharmaceutical  price  compression  will  put  pressure  on 
+pharmacy funding and pharmacy operating models, and it is anticipated that healthcare reform and regulation 
+will  continue  to  put  pressure  on  pharmacy  reimbursement  through  changes  to  patient  and  drug  eligibility, 
+prescription drug pricing including cost, dispensing fee, allowable markup, manufacturer allowance funding, 
+distribution  as  well  as  potential  restriction  around  customer  inducements  and  expanded  use  of  preferred 
+providers. The Company has and will continue to identify opportunities to mitigate the negative impact these 
+changes have on financial performance. 
+
+Ethical Business Conduct 
+
+Any failure of the Company to adhere to its policies, the law, or ethical business practices could significantly 
+affect its reputation and brands and could therefore negatively impact the Company’s financial performance. 
+The Company’s framework for managing ethical business conduct includes the adoption of a Code of Business 
+Conduct and Ethics which directors and teammates of the Company are required to acknowledge and agree 
+to on a regular basis and the Company maintains an anonymous, confidential whistle blowing hotline. There 
+can be no assurance that these measures will be effective to prevent violations of law or unethical business 
+practices. 
+
+32 
+
+ 
+Social 
+
+Social reform movements bring public awareness to issues through protests and/or media campaigns. Issues 
+that relate to the Company’s business include, but are not limited to, diversity, animal welfare, local and ethical 
+sourcing,  nutritional  labelling  and  human  rights.  Oversight  of  the  Company’s  social  strategies  and  issues 
+management is through the Executive Committee and the Board of Directors. Ineffective action or inaction on 
+social reform matters could adversely affect the Company’s reputation or financial performance. 
+
+Occupational Health and Safety 
+
+The  Company  has  developed  programs  to  promote  a  healthy  and  safe  workplace,  as  well  as  progressive 
+employment  policies  focused  on  the  well-being  of  the  thousands  of  teammates  who  work  in  its  stores, 
+distribution centres and offices. These policies and programs are reviewed regularly by the Human Resources 
+Committee of the Board of Directors. Failure to comply with these policies and programs could adversely affect 
+the Company’s reputation or financial performance. 
+
+Real Estate 
+
+The Company utilizes a capital allocation process which is focused on obtaining the most attractive real estate 
+locations for its retail stores, as well as for its commercial property and residential development operations, 
+with direct or indirect Company ownership being an important, but not overriding, consideration. The Company 
+develops certain retail store locations on owned sites; however, the majority of its store development is done 
+in  conjunction  with  external  developers.  The  availability  of  high-potential  new  store  sites  and  the  ability  to 
+expand  existing  stores  are  therefore  in  large  part  contingent  upon  the  successful  negotiation  of  operating 
+leases with these developers and the Company’s ability to purchase high-potential sites. 
+
+Loyalty Program 
+
+The Company recently became a co-owner of Scene+ and completed a national rollout, in order to provide 
+added  value  to  customers.  The  decisions  made  by  the  partners  can  adversely  affect  the  reputation  and 
+financial  operations  of  the  Company.  Promotional  and  other  activities  related  to  the  operation  of  the  new 
+program must be effectively managed and coordinated to ensure a positive customer perception. Delays in 
+making capital investments necessary to achieve target state will negatively impact the business case. Failure 
+to effectively manage, communicate and promote the loyalty program may negatively impact the Company’s 
+reputation.   
+
+Economic Environment 
+
+Management  continues  to  closely  monitor  economic  conditions,  including  inflation,  foreign  exchange  rates, 
+interest rates, employment rates and capital markets. Uncertainty in the economic environment could adversely 
+impact  demand  for  the  Company’s  products  and  services  which  in  turn  could  adversely  affect  financial 
+performance. Management believes that although a volatile economy has an impact on all businesses and 
+industries, the Company has an operational and capital structure that is sufficient to meet its ongoing business 
+requirements. 
+
+Interest Rate Fluctuation 
+
+The  Company’s  long-term  debt  objective  is  to  maintain  the  majority  of  its  debt  at  fixed  interest  rates.  Any 
+increase in the applicable interest rates could increase interest expense and have a material adverse effect on 
+the Company’s cash flow and results of operations. The Company monitors the respective mix of fixed and 
+variable  interest  rates  to  maintain  an  appropriate  level  considering  economic  conditions.  There  can  be  no 
+assurance that risk management strategies, if any, undertaken by the Company will be effective. 
+
+Utility and Fuel Prices 
+
+The Company is a significant consumer of electricity, other utilities and fuel. The costs of these items have 
+been subject to significant volatility. Unanticipated cost increases in these items could negatively affect the 
+Company’s  financial  performance.  A  failure  to  maintain  effective  consumption  and  procurement  programs 
+could adversely affect the Company’s financial results. In addition, Sobeys operates a large number of fuel 
+stations. Significant increases in wholesale prices or availability could adversely affect operations and financial 
+results of the fuel retailing business. 
+
+33 
+
+ 
+Free Trade 
+
+The Company is susceptible to risks associated with trade relationships between Canada and other countries 
+including the United States. Changes to trade agreements and tariffs between Canada and other countries 
+could  increase  the  costs  of  certain  products  and  some  items  could  become  unavailable  thereby  having  a 
+negative  impact  on  customer  experience.  While  the  Company  can  mitigate  these  risks  to  a  certain  extent 
+through the use of alternative suppliers, international trade by its nature can be unpredictable and the Company 
+may not be able to fully mitigate the negative impact of changes in trade agreements and tariffs. 
+
+Liquidity Risk 
+
+The Company’s business is dependent in part on having access to sufficient capital and financial resources to 
+fund its growth activities and investment in operations. Any failure to maintain adequate financial resources 
+could alter the Company’s growth or ability to satisfy financial obligations as they come due. The Company 
+actively maintains committed credit facilities to ensure that it has sufficient available funds to meet current and 
+foreseeable future financial requirements. The Company monitors capital markets and the related economic 
+conditions and maintains access to debt capital markets for long-term debt issuances as deemed prudent in 
+order  to  minimize  risk  and  optimize  pricing.  However,  there  can  be  no  assurance  that  adequate  capital 
+resources will be available in the future on acceptable terms or at all. 
+
+Legal, Taxation and Accounting 
+
+Changes to any of the various federal and provincial laws, rules and regulations related to the Company’s 
+business could have a material impact on its financial results. Compliance with any proposed changes could 
+also result in significant cost to the Company. Failure to fully comply with various laws and rules and regulations 
+may expose the Company to proceedings which may materially affect its performance. 
+
+Similarly, income tax regulations and/or accounting pronouncements may be changed in ways which could 
+negatively affect the Company. The Company mitigates the risk of non-compliance with the various laws and 
+rules and regulations by monitoring for newly adopted activities, improving technology systems and controls, 
+improving  internal  controls  to  detect  and  prevent  errors  and  overall  application  of  more  scrutiny  to  ensure 
+compliance. In the ordinary course of business, the Company is subject to ongoing audits by tax authorities. 
+While the Company believes that its tax filing positions are appropriate and supportable, from time to time 
+certain matters are reviewed and challenged by the tax authorities. 
+
+Credit Rating 
+
+There can be no assurance that the credit ratings assigned to the various debt instruments issued by Sobeys 
+will remain in effect for any given period of time or that the rating will not be lowered, withdrawn or revised by 
+DBRS or S&P at any time. Real or anticipated changes in credit ratings can affect the cost at which Sobeys 
+can access the capital markets. The likelihood that Sobeys’ creditors will receive payments owing to them will 
+depend on Sobeys’ financial health and creditworthiness. Credit ratings assigned by a ratings agency provide 
+an  opinion  of  that  ratings  agency  on  the  risk  that  an  issuer  will  fail  to  satisfy  its  financial  obligations  in 
+accordance with the terms under which an obligation has been issued. Receipt of a credit rating provides no 
+guarantee of Sobeys’ future creditworthiness. 
+
+Capital Allocation 
+
+It is important that capital allocation decisions result in an appropriate return on capital. The Company has a 
+number  of  strong  mitigation  strategies  in  place  regarding  the  allocation  of  capital,  including  the  Board  of 
+Directors’ review of significant capital allocation decisions. Failure to appropriately allocate capital could alter 
+the Company’s growth and adversely affect the financial performance of the Company. 
+
+Foreign Currency 
+
+The Company conducts the majority of its operating business in CAD and its foreign exchange risk is mainly 
+limited to currency fluctuations between the CAD, the Euro, the Great British pound (“GBP”) and the United 
+States  dollar  (“USD”).  USD  purchases  of  products  represent  approximately  3.84%  of  Sobeys’  total  annual 
+purchases.  Euro  and  GBP  purchases  are  primarily  limited  to  specific  contracts  for  capital  expenditures.  A 
+failure to adequately manage the risk of exchange rate changes could adversely affect the Company’s financial 
+results. 
+
+34 
+
+ 
+Pension Plans 
+
+The  Company  has  certain  retirement  benefit  obligations  under  its  registered  defined  benefit  plans.  New 
+regulations and market-driven changes may result in the Company being required to make contributions that 
+differ from estimates, which could have an adverse effect on the financial performance of the Company. 
+
+The Company participates in various multi-employer pension plans, providing pension benefits to unionized 
+teammates pursuant to provisions in collective bargaining agreements. Approximately 11% of the teammates 
+of  Sobeys  and  its  franchisees  and  affiliates  participate  in  these  plans.  The  responsibility  of  Sobeys,  its 
+franchisees, and affiliates to make contributions to these plans is limited to the amounts established in the 
+collective bargaining agreements and other associated agreements, however, poor performance of these plans 
+could  have  a  negative  effect  on  the  participating  teammates  or  could  result  in  changes  to  the  terms  and 
+conditions of participation in these plans, which in turn could negatively affect the financial performance of the 
+Company. 
+
+Leverage Risk 
+
+The Company’s degree of leverage could have adverse consequences for the Company. These include limiting 
+the  Company’s  ability  to  obtain  additional  financing  for  working  capital  and  activities  such  as  capital 
+expenditures, product development, debt service requirements and acquisitions. Higher leveraging restricts 
+the Company’s flexibility and discretion to operate its business by limiting the Company’s ability to declare 
+dividends due to having to dedicate a portion of the Company’s cash flows from operations to the payment of 
+interest on its existing indebtedness. Utilizing cash flows for interest payments also limits capital available for 
+other purposes including operations, capital expenditures and future business opportunities. Increased levels 
+of debt expose the Company to increased interest expense on borrowings at variable rates thereby limiting the 
+Company’s ability to adjust to changing market conditions. This could place the Company at a competitive 
+disadvantage  compared  to  its  competitors  that  have  less  debt,  by  making  the  Company  vulnerable  during 
+downturns in general economic conditions and limiting the Company’s ability to make capital expenditures that 
+are important to its growth and strategies. 
+
+Insurance 
+
+The Company and its subsidiaries are self-insured on a limited basis with respect to certain operational risks 
+and  purchase  insurance  coverage  from  financially  stable  third-party  insurance  companies.  In  addition  to 
+maintaining  comprehensive  loss  prevention  programs,  the  Company  maintains  management  programs  to 
+mitigate the financial impact of operational risks. Such programs may not be effective to limit the Company’s 
+exposure  to  these  risks,  and  to  the  extent  that  the  Company  is  self-insured  or  liability  exceeds  applicable 
+insurance limits, the Company’s financial position could be adversely affected. 
+
+DESIGNATION FOR ELIGIBLE DIVIDENDS 
+
+“Eligible  dividends”  receive  favourable  treatment  for  income  tax  purposes.  To  be  considered  an  eligible 
+dividend, a dividend must be designated as such at the time of payment. 
+
+Empire has, in accordance with the administrative position of CRA, included the appropriate language on its 
+website to designate the dividends paid by Empire as eligible dividends unless otherwise designated. 
+
+35 
+
+ 
+NON-GAAP FINANCIAL MEASURES & FINANCIAL METRICS 
+
+There are measures and metrics included in this MD&A that do not have a standardized meaning under GAAP 
+and  therefore  may  not  be  comparable  to  similarly  titled  measures  and  metrics  presented  by  other  publicly 
+traded companies. Management believes that certain of these measures and metrics, including gross profit 
+and EBITDA, are important indicators of the Company’s ability to generate liquidity through operating cash 
+flow to fund future working capital requirements, service outstanding debt and fund future capital expenditures 
+and uses these metrics for these purposes.  
+
+In addition, management adjusts measures and metrics, including operating income, EBITDA and net earnings 
+in an effort to provide investors and analysts with a more comparable year-over-year performance metric than 
+the basic measure by excluding certain items. These items may impact the analysis of trends in performance 
+and affect the comparability of the Company’s core financial results. By excluding these items, management 
+is not implying they are non-recurring. 
+
+Financial Measures 
+
+The intent of non-GAAP financial measures is to provide additional useful information to investors and analysts. 
+Non-GAAP financial measures should not be considered in isolation or used as a substitute for measures of 
+performance prepared in accordance with GAAP. The Company’s definitions of the non-GAAP terms included 
+in this MD&A are as follows:  
+
+•  The Cybersecurity Event adjustment includes the impact of incremental direct costs such as inventory 
+shrink,  hardware  and  software  restoration  costs,  legal  and  professional  fees,  labour  costs  and 
+insurance  recoveries.  Management  believes  that  the  Cybersecurity  Event  adjustment  results  in  a 
+useful economic representation of the underlying business on a comparative basis. The adjustment 
+does not include management’s estimate of the full financial impact of the Cybersecurity Event, as it 
+excludes  the  net  earnings  impacts  related  to  the  estimated  decline  in  sales  and  operational 
+effectiveness from impacts such as the temporary loss of advanced  planning, promotion and fresh 
+item management tools, the temporary closure of pharmacies, and customers’ temporary inability to 
+redeem gift cards and loyalty points. 
+
+•  The Grocery Gateway Integration adjustment includes the impact of the asset write-off related to the 
+
+grocery gateway name and facility assets, severance, IT project costs and other costs. 
+
+•  Gross profit is calculated as sales less cost of sales. Management believes cost of sales is a useful 
+metric to monitor profitability on a product-level basis. Gross profit represents a supplementary metric 
+to assess underlying operating performance and profitability. 
+
+•  Adjusted  operating  income  is  operating  income  excluding  certain  items  to  better  analyze  trends  in 
+performance. These items are excluded to allow for better period over period comparison of ongoing 
+operating  results.  Adjusted  operating  income  is  reconciled  to  operating  income  in  its  respective 
+subsection of the “Summary Results – Fourth Quarter” and “Operating Results – Full Year” sections.  
+
+•  EBITDA  is  calculated  as  net  earnings  before  finance  costs  (net  of  finance  income),  income  tax 
+expense, depreciation and amortization of intangibles. Management believes EBITDA represents a 
+supplementary metric to assess profitability and measure the Company’s underlying ability to generate 
+liquidity through operating cash flows. 
+
+36 
+
+ 
+The following table reconciles net earnings to EBITDA: 
+
+($ in millions) 
+Net earnings 
+Income tax expense 
+Finance costs, net 
+Operating income 
+Depreciation  
+Amortization of intangibles 
+EBITDA 
+
+($ in millions) 
+Net earnings 
+Income tax expense 
+Finance costs, net 
+Operating income 
+Depreciation  
+Amortization of intangibles 
+EBITDA 
+
+13 Weeks Ended  
+May 6, 2023   
+
+14 Weeks Ended    
+May 7, 2022     
+
+13 Weeks Ended  
+May 1, 2021   
+
+187.9  $ 
+
+63.5 
+70.2 
+321.6 
+237.0 
+33.7 
+
+592.3  $ 
+
+193.4 
+58.2 
+82.0 
+333.6 
+227.8 
+24.8 
+586.2 
+
+  $ 
+
+  $ 
+
+183.3 
+45.0 
+66.7 
+295.0 
+200.2 
+19.2 
+514.4 
+
+52 Weeks Ended  
+May 6, 2023   
+
+53 Weeks Ended    
+May 7, 2022     
+
+52 Weeks Ended  
+May 1, 2021   
+
+727.7  $ 
+237.7 
+267.0 
+1,232.4 
+916.0 
+114.6 
+2,263.0  $ 
+
+811.3 
+270.3 
+282.1 
+1,363.7 
+872.3 
+94.8 
+2,330.8 
+
+  $ 
+
+  $ 
+
+764.2 
+265.9 
+269.4 
+1,299.5 
+768.7 
+75.6 
+2,143.8 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+•  Adjusted EBITDA is EBITDA excluding certain items to better analyze trends in performance. These 
+items  are  excluded  to  allow  for  better  period  over  period  comparison  of  ongoing  operating  results. 
+Adjusted  EBITDA  is  reconciled  to  EBITDA  in  its  respective  subsection  of  the  “Summary  Results  – 
+Fourth Quarter” and “Operating Results – Full Year” sections. 
+
+•  Management  calculates  interest  expense  as  interest  expense  on  financial  liabilities  measured  at 
+amortized cost and interest expense on lease liabilities. Management believes that interest expense 
+represents  a  true  measure  of  the  Company’s  debt  service  expense,  without  the  offsetting  finance 
+income. 
+
+The following tables reconciles finance costs, net to interest expense: 
+
+($ in millions) 
+Finance costs, net 
+Plus:  finance income, excluding interest 
+
+ income on lease receivables 
+
+Less:  pension finance costs, net 
+Less:  accretion expense on provisions 
+Interest expense 
+
+($ in millions) 
+Finance costs, net 
+Plus:  finance income, excluding interest 
+
+ income on lease receivables 
+
+Less:  pension finance costs, net 
+Less:  accretion expense on provisions 
+Interest expense 
+
+13 Weeks Ended  
+May 6, 2023   
+
+14 Weeks Ended    
+May 7, 2022   
+
+13 Weeks Ended   
+May 1, 2021   
+
+70.2  $ 
+
+1.7 
+(2.7) 
+(0.3) 
+68.9  $ 
+
+82.0 
+
+  $ 
+
+2.3 
+(2.0)   
+(0.1)   
+82.2 
+
+  $ 
+
+66.7 
+
+1.7 
+(2.1) 
+(0.5) 
+65.8 
+
+52 Weeks Ended  
+May 6, 2023   
+
+53 Weeks Ended    
+May 7, 2022    
+
+52 Weeks Ended  
+May 1, 2021   
+
+267.0  $ 
+
+5.3 
+(7.8) 
+(1.4) 
+263.1  $ 
+
+282.1 
+
+  $ 
+
+7.3 
+(7.8)   
+(1.9)   
+
+279.7 
+
+  $ 
+
+269.4 
+
+9.8 
+(8.1) 
+(2.3) 
+268.8 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+•  Adjusted net earnings is net earnings, net of non-controlling interest, excluding certain items to better 
+analyze  trends  in  performance.  These  items  are  excluded  to  allow  for  better  period  over  period 
+comparison  of  ongoing  operating  results.  Adjusted  net  earnings  is  reconciled  in  its  respective 
+subsection of the “Summary Results – Fourth Quarter” and “Operating Results – Full Year” sections. 
+
+•  Adjusted EPS (fully diluted) is calculated as adjusted net earnings divided by diluted weighted average 
+
+number of shares outstanding. 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+    
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+    
+ 
+ 
+ 
+ 
+ 
+  
+ 
+    
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•  Free  cash  flow  is  calculated  as  cash  flows  from  operating  activities,  plus  proceeds  on  disposal  of 
+property,  equipment  and  investment  property  and  lease  terminations,  less  acquisitions  of  property, 
+equipment, investment property and intangibles, interest paid and payments of lease liabilities, net of 
+payments received from finance subleases. Management uses free cash flow as a measure to assess 
+the amount of cash available for debt repayment, dividend payments and other investing and financing 
+activities. Free cash flow is reconciled to GAAP measures as reported on the consolidated statements 
+of cash flows, and is presented in the “Free Cash Flow” section of this MD&A. 
+
+•  Funded debt is all interest-bearing debt, which includes bank loans, bankers’ acceptances, long-term 
+debt  and  long-term  lease  liabilities.  Management  believes  that  funded  debt  represents  the  most 
+relevant indicator of the Company’s total financial obligations on which interest payments are made. 
+
+•  Total capital is calculated as funded debt plus shareholders’ equity, net of non-controlling interest. 
+
+The following table reconciles the Company’s funded debt and total capital to GAAP measures as reported on 
+the balance sheets as at May 6, 2023, May 7, 2022 and May 1, 2021, respectively: 
+
+($ in millions) 
+Long-term debt due within one year 
+Long-term debt 
+Lease liabilities due within one year 
+Long-term lease liabilities 
+Funded debt 
+Total shareholders’ equity, net of non-controlling interest 
+Total capital 
+
+$ 
+
+$ 
+
+May 6, 2023   
+
+May 7, 2022   
+
+101.0  $ 
+911.3 
+563.7 
+5,620.9 
+7,196.9 
+5,200.4 
+
+12,397.3  $ 
+
+581.0  $ 
+595.7 
+509.5 
+5,775.9 
+7,462.1 
+4,991.5 
+
+12,453.6  $ 
+
+May 1, 2021  
+46.5 
+1,178.8 
+490.5 
+5,417.6 
+7,133.4 
+4,372.7 
+11,506.1 
+
+Food Retailing Segment Reconciliation 
+
+The following tables adjust Empire’s Food retailing operating income, EBITDA, and net earnings, net of non-
+controlling  interest,  for  certain  items  to  better  analyze  trends  in  performance.  These  items  are  excluded  to 
+allow for better period over period comparison of ongoing operating results. 
+
+($ in millions) 
+Operating income 
+Adjustments: 
+   Cybersecurity Event 
+   Grocery Gateway Integration 
+Adjusted operating income 
+
+($ in millions) 
+EBITDA 
+Adjustments: 
+   Cybersecurity Event 
+   Grocery Gateway Integration 
+Adjusted EBITDA 
+
+($ in millions) 
+Net earnings 
+Adjustments: 
+   Cybersecurity Event 
+   Grocery Gateway Integration 
+Adjusted net earnings 
+
+ 52 Weeks Ended 
+   May 6, 2023 
+          1,140.1 
+
+$ 
+
+ 53 Weeks Ended 
+  May 7, 2022 
+          1,277.0 
+
+$ 
+
+ 52 Weeks Ended 
+  May 1, 2021 
+          1,251.3 
+
+$ 
+
+       2023 Compared to 2022 
+                       $ Change 
+                           (136.9) 
+
+$ 
+
+               45.8 
+               13.3 
+          1,199.2 
+
+$ 
+
+                    - 
+                    - 
+         1,277.0 
+
+$ 
+
+                    - 
+                    - 
+          1,251.3 
+
+$ 
+
+                               45.8 
+                               13.3 
+                             (77.8) 
+
+$ 
+
+ 52 Weeks Ended 
+   May 6, 2023 
+          2,170.6 
+
+$ 
+
+ 53 Weeks Ended 
+  May 7, 2022 
+          2,243.9 
+
+$ 
+
+ 52 Weeks Ended 
+  May 1, 2021 
+          2,094.7 
+
+$ 
+
+       2023 Compared to 2022 
+                       $ Change 
+                             (73.3) 
+
+$ 
+
+               45.8 
+               13.3 
+          2,229.7 
+
+$ 
+
+                    - 
+                    - 
+           2,243.9 
+
+$ 
+
+                    - 
+                    - 
+          2,094.7 
+
+$ 
+
+                              45.8 
+                              13.3 
+                             (14.2) 
+
+$ 
+
+ 52 Weeks Ended 
+   May 6, 2023 
+              610.1 
+
+$ 
+
+ 53 Weeks Ended 
+  May 7, 2022 
+             677.9 
+
+$ 
+
+ 52 Weeks Ended 
+  May 1, 2021 
+             673.9 
+
+$ 
+
+       2023 Compared to 2022 
+                       $ Change 
+                             (67.8) 
+
+$ 
+
+                34.1 
+                  7.0 
+              651.2 
+
+$ 
+
+                    - 
+                    - 
+             677.9 
+
+$ 
+
+                    - 
+                    - 
+             673.9 
+
+$ 
+
+                              34.1 
+                                7.0 
+                             (26.7) 
+
+$ 
+
+38 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Metrics  
+
+The intent of the following non-GAAP financial metrics is to provide additional useful information to investors 
+and  analysts.  Management  uses  financial  metrics  for  decision-making,  internal  reporting,  budgeting  and 
+forecasting. The Company’s definitions of the metrics included in this MD&A are as follows: 
+
+•  Same-store sales are sales from stores in the same location in both reporting periods. Management 
+believes same-store sales represents a supplementary metric to assess sales trends as it removes 
+the effect of the opening and closure of stores. 
+
+•  Same-store sales, excluding fuel are sales from stores in the same location in both reporting periods 
+excluding  the  fuel  sales  from  stores  in  the  same  location  in  both  reporting  periods.  Management 
+believes same-store sales, excluding fuel represents a supplementary metric to assess sales trends 
+as it removes the effect of the opening and closure of stores and the volatility of fuel prices. 
+
+•  Gross margin is gross profit divided by sales. Management believes that gross margin is an important 
+indicator  of  profitability  and  can  help  management,  analysts  and  investors  assess  the  competitive 
+landscape and promotional environment of the industry in which the Company operates. An increasing 
+percentage indicates lower cost of sales as a percentage of sales. 
+
+•  EBITDA margin is EBITDA divided by sales. Management believes that EBITDA margin is an important 
+indicator of performance and can help management, analysts and investors assess the competitive 
+landscape, promotional environment and cost structure of the industry in which the Company operates. 
+An increasing percentage indicates higher EBITDA as a percentage of sales. 
+
+•  Adjusted EBITDA margin is adjusted EBITDA divided by sales. Management believes that adjusted 
+EBITDA  margin  is  an  important  indicator  of  performance  and  can  help  management,  analysts  and 
+investors  assess  the  competitive  landscape,  promotional  environment  and  cost  structure  of  the 
+industry in which the Company operates. An increasing percentage indicates higher adjusted EBITDA 
+as a percentage of sales. 
+
+•  Funded debt to total capital ratio is funded debt divided by total capital. Management believes that the 
+funded debt to total capital ratio represents a measure upon which the Company’s changing capital 
+structure can be analyzed over time. An increasing ratio would indicate that the Company is using an 
+increasing amount of debt in its capital structure. 
+
+•  Funded  debt  to  EBITDA  ratio  is  funded  debt  divided  by  trailing  four-quarter  EBITDA.  Management 
+uses this ratio to partially assess the financial condition of the Company. An increasing ratio would 
+indicate that the Company is utilizing more debt per dollar of EBITDA generated. 
+
+•  EBITDA to interest expense ratio is trailing four-quarter EBITDA divided by trailing four-quarter interest 
+expense.  Management  uses  this  ratio  to  partially  assess  the  coverage  of  its  interest  expense  on 
+financial obligations. An increasing ratio would indicate that the Company is generating more EBITDA 
+per dollar of interest expense, resulting in greater interest coverage. 
+
+•  Book value per common share is shareholders’ equity, net of non-controlling interest, divided by total 
+
+common shares outstanding. 
+
+•  Return on equity is net earnings for the year attributable to owners of the parent, divided by average 
+shareholders’ equity. Management believes return on equity represents a supplementary measure to 
+assess the Company’s profitability. 
+
+39 
+
+ 
+ 
+The following table shows the calculation of Empire’s book value per common share as at May 6, 2023, May 
+7, 2022 and May 1, 2021: 
+
+($ in millions, except per share information) 
+Shareholders’ equity, net of non-controlling interest 
+Shares outstanding (basic) 
+Book value per common share 
+
+May 6, 2023   
+
+May 7, 2022   
+
+$ 
+
+$ 
+
+5,200.4  $ 
+258.8 
+20.09  $ 
+
+4,991.5  $ 
+265.2 
+18.82  $ 
+
+May 1, 2021  
+4,372.7 
+268.3 
+16.30 
+
+Additional financial information relating to Empire, including the Company’s Annual Information Form, can be 
+found on the Company’s website www.empireco.ca or on the SEDAR website for Canadian regulatory filings 
+at www.sedar.com. 
+
+Approved by Board of Directors: June 21, 2023 
+Stellarton, Nova Scotia, Canada 
+
+40

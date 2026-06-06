@@ -1,0 +1,5356 @@
+# Open Text Corporation
+# 来源：Annual MD&A - English.pdf
+
+Table of Contents
+
+Item 7.  Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+This  Annual  Report  on  Form  10-K,  including  this  Management’s  Discussion  and  Analysis  of  Financial  Condition  and 
+Results  of  Operations  (MD&A),  contains  forward-looking  statements  within  the  meaning  of  the  Private  Securities  Litigation 
+Reform Act of 1995, Section 21E of the U.S. Securities Exchange Act of 1934, as amended (the Exchange Act), and Section 27A 
+of the U.S. Securities Act of 1933, as amended (the Securities Act), and is subject to the safe harbors created by those sections. 
+All statements other than statements of historical facts are statements that could be deemed forward-looking statements.
+
+When used in this report, the words “anticipates”, “expects”, “intends”, “plans”, “believes”, “seeks”, “estimates”, 
+“may”, “could”, “would”, “might”, “will” and other similar language, as they relate to Open Text Corporation (OpenText or 
+the Company), are intended to identify forward-looking statements under applicable securities laws. Specific forward-looking 
+statements in this report include, but are not limited to, statements regarding: (i) our focus in the fiscal years beginning July 1, 
+2023 and ending June 30, 2024 (Fiscal 2024) and July 1, 2024 and ending June 30, 2025 (Fiscal 2025) on growth in earnings 
+and cash flows; (ii) creating value through investments in broader Information Management capabilities; (iii) our future 
+business plans and operations, and business planning process; (iv) business trends; (v) distribution; (vi) the Company’s 
+presence in the cloud and in growth markets; (vii) product and solution developments, enhancements and releases, the timing 
+thereof and the customers targeted; (viii) the Company’s financial condition, results of operations and earnings; (ix) the basis 
+for any future growth and for our financial performance; (x) declaration of quarterly dividends; (xi) future tax rates; (xii) the 
+changing regulatory environment; (xiii) annual recurring revenues; (xiv) research and development and related expenditures; 
+(xv) our building, development and consolidation of our network infrastructure; (xvi) competition and changes in the 
+competitive landscape; (xvii) our management and protection of intellectual property and other proprietary rights; (xviii) 
+existing and foreign sales and exchange rate fluctuations; (xix) cyclical or seasonal aspects of our business; (xx) capital 
+expenditures; (xxi) potential legal and/or regulatory proceedings; (xxii) acquisitions and their expected impact, including our 
+ability to realize the benefits expected from the acquisitions and to successfully integrate the assets we acquire or utilize such 
+assets to their full capacity, including in connection with the acquisition of Zix Corporation (Zix) and Micro Focus 
+International Limited, formerly Micro Focus International plc, and its subsidiaries (Micro Focus) (see Note 19 “Acquisitions” 
+to our Consolidated Financial Statements for more details); (xxiii) tax audits; (xxiv) the expected impact of our decision to 
+cease all direct business in Russia and Belarus and with known Russian-owned companies;(xxv) expected costs of the 
+restructuring plans; (xxvi) targets regarding greenhouse gas emissions, waste diversion, energy consumption and Equity, 
+Diversity and Inclusion (ED&I) initiatives; (xvii) integration of Micro Focus, resulting synergies and timing thereof; and 
+(xxviii) other matters.
+
+In addition, any statements or information that refer to expectations, beliefs, plans, projections, objectives, performance 
+or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking, and 
+based on our current expectations, forecasts and projections about the operating environment, economies and markets in which 
+we operate. Forward-looking statements reflect our current estimates, beliefs and assumptions, which are based on 
+management’s perception of historic trends, current conditions and expected future developments, as well as other factors it 
+believes are appropriate in the circumstances. The forward-looking statements contained in this report are based on certain 
+assumptions including the following: (i) countries continuing to implement and enforce existing and additional customs and 
+security regulations relating to the provision of electronic information for imports and exports; (ii) our continued operation of 
+a secure and reliable business network; (iii) the stability of general political, economic and market conditions; (iv) our ability 
+to manage inflation, including increased labour costs associated with attracting and retaining employees, and rising interest 
+rates; (v) our continued ability to manage certain foreign currency risk through hedging; (vi) equity and debt markets 
+continuing to provide us with access to capital; (vii) our continued ability to identify, source and finance attractive and 
+executable business combination opportunities; (viii) our continued ability to avoid infringing third party intellectual property 
+rights; and (ix) our ability to successfully implement our restructuring plans. Management’s estimates, beliefs and assumptions 
+are inherently subject to significant business, economic, competitive and other uncertainties and contingencies regarding future 
+events and, as such, are subject to change. We can give no assurance that such estimates, beliefs and assumptions will prove to 
+be correct. 
+
+Forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause our actual 
+results, performance or achievements to differ materially from the anticipated results, performance or achievements expressed 
+or implied by such forward-looking statements. The risks and uncertainties that may affect forward-looking statements include, 
+but are not limited to: (i) our inability to realize successfully any anticipated synergy benefits from the acquisition of Micro 
+Focus (Micro Focus Acquisition); (ii) the actual and potential impacts of the use of cash and incurrence of indebtedness, 
+including the granting of security interests related to such debt; (iii) the change in scope and size of our operations as a result 
+of the Micro Focus Acquisition; (iv) the uncertainty around expectations related to Micro Focus’ business prospects; (v) 
+integration of acquisitions and related restructuring efforts, including the quantum of restructuring charges and the timing 
+thereof; (vi) the possibility that we may be unable to successfully integrate the assets we acquire or fail to utilize such assets to 
+their full capacity and not realize the benefits we expect from our acquired portfolios and businesses, including the acquisition 
+of Zix and Micro Focus, (vii) the potential for the incurrence of or assumption of debt in connection with acquisitions, its 
+
+48
+
+Table of Contents
+
+impact on future operations and on the ratings or outlooks of rating agencies on our outstanding debt securities, and the 
+possibility of not being able to generate sufficient cash to service all indebtedness; (viii) the possibility that the Company may 
+be unable to meet its future reporting requirements under the Exchange Act, and the rules promulgated thereunder, or 
+applicable Canadian securities regulation; (ix) the risks associated with bringing new products and services to market; (x) 
+fluctuations in currency exchange rates (including as a result of the impact of any policy changes resulting from trade and tariff 
+disputes) and the impact of mark-to-market valuation relating to associated derivatives; (xi) delays in the purchasing decisions 
+of the Company’s customers; (xii) competition the Company faces in its industry and/or marketplace; (xiii) the final 
+determination of litigation, tax audits (including tax examinations in Canada, the United States or elsewhere) and other legal 
+proceedings; (xiv) potential exposure to greater than anticipated tax liabilities or expenses, including with respect to changes 
+in Canadian, United States or international tax regimes; (xv) the possibility of technical, logistical or planning issues in 
+connection with the deployment of the Company’s products or services; (xvi) the continuous commitment of the Company’s 
+customers; (xvii) demand for the Company’s products and services; (xviii) increase in exposure to international business risks 
+including the impact of geopolitical instability, political unrest, war and other global conflicts, as we continue to increase our 
+international operations; (xix) adverse macroeconomic conditions, including inflation, disruptions in global supply chains and 
+increased labour costs; (xx) inability to raise capital at all or on not unfavorable terms in the future; (xxi) downward pressure 
+on our share price and dilutive effect of future sales or issuances of equity securities (including in connection with future 
+acquisitions); and (xxii) potential changes in ratings or outlooks of rating agencies on our outstanding debt securities. Other 
+factors that may affect forward-looking statements include, but are not limited to: (i) the future performance, financial and 
+otherwise, of the Company; (ii) the ability of the Company to bring new products and services to market and to increase sales; 
+(iii) the strength of the Company’s product development pipeline; (iv) failure to secure and protect patents, trademarks and 
+other proprietary rights; (v) infringement of third-party proprietary rights triggering indemnification obligations and resulting 
+in significant expenses or restrictions on our ability to provide our products or services; (vi) failure to comply with privacy 
+laws and regulations that are extensive, open to various interpretations and complex to implement; (vii) the Company’s growth 
+and other profitability prospects; (viii) the estimated size and growth prospects of the Information Management market; (ix) the 
+Company’s competitive position in the Information Management market and its ability to take advantage of future opportunities 
+in this market; (x) the benefits of the Company’s products and services to be realized by customers; (xi) the demand for the 
+Company’s products and services and the extent of deployment of the Company’s products and services in the Information 
+Management marketplace; (xii) the Company’s financial condition and capital requirements; (xiii) system or network failures 
+or information security, cybersecurity or other data breaches in connection with the Company’s offerings or the information 
+technology systems used by the Company generally, the risk of which may be increased during times of natural disaster or 
+pandemic due to remote working arrangements; (xiv) failure to achieve our environmental goals on energy consumption, waste 
+diversion and greenhouse gas emissions or our targets relating to ED&I initiatives; (xv) failure to attract and retain key 
+personnel to develop and effectively manage the Company’s business; and (xvi) the ability of the Company’s subsidiaries to 
+make distributions to the Company.
+
+Readers should carefully review Part I, Item 1A “Risk Factors” and other documents we file from time to time with the 
+
+Securities and Exchange Commission (SEC) and other securities regulators. A number of factors may materially affect our 
+business, financial condition, operating results and prospects. These factors include but are not limited to those set forth in Part 
+I, Item 1A “Risk Factors” and elsewhere in this Annual Report on Form 10-K. Any one of these factors, and other factors that 
+we are unaware of, or currently deem immaterial, may cause our actual results to differ materially from recent results or from 
+our anticipated future results. Readers are cautioned not to place undue reliance upon any such forward-looking statements, 
+which speak only as of the date made. Unless otherwise required by applicable securities laws, the Company disclaims any 
+intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future 
+events or otherwise.
+
+The following MD&A is intended to help readers understand our results of operations and financial condition, and is 
+
+provided as a supplement to, and should be read in conjunction with, our Consolidated Financial Statements and the 
+accompanying Notes to our Consolidated Financial Statements under Part II, Item 8 of this Annual Report on Form 10-K.
+
+All dollar and percentage comparisons made herein refer to the year ended June 30, 2023 compared with the year ended 
+June 30, 2022, unless otherwise noted. Please refer to Part II, Item 7 of our Annual Report on Form 10-K for Fiscal 2022 for a 
+comparative discussion of our Fiscal 2022 financial results as compared to Fiscal 2021.
+
+Where we say “we”, “us”, “our”, “OpenText” or “the Company”, we mean Open Text Corporation or Open Text 
+
+Corporation and its subsidiaries, as applicable.
+
+49
+
+Table of Contents
+
+EXECUTIVE OVERVIEW
+
+At OpenText, we believe information and knowledge make business and people better. We are an Information 
+Management company that provides software and services that empower digital businesses of all sizes to become more 
+intelligent, connected, secure and responsible. Our innovations maximize the strategic benefits of data and content for our 
+customers, strengthening their productivity, growth and competitive advantage.
+
+Our comprehensive Information Management platform and services provide secure and scalable solutions for global 
+companies, small and medium-sized businesses (SMBs), governments and consumers around the world. We have a complete 
+and integrated portfolio of Information Management solutions delivered at scale in the OpenText Cloud, helping organizations 
+master modern work, automate application delivery and modernization, and optimize their digital supply chains. To do this, we 
+bring together our Content Cloud, Cybersecurity Cloud, Business Network Cloud, IT Operations Management Cloud, 
+Application Automation Cloud and Analytics & AI Cloud. We also accelerate information modernization with intelligent tools 
+and services for moving off paper, automating classification and building clean data lakes for Artificial Intelligence (AI), 
+analytics and automation.
+
+We are fundamentally integrated into the parts of our customers’ businesses that matter, so they can securely manage the 
+complexity of information flow end to end. Through automation and AI, we connect, synthesize and deliver information where 
+it is needed to drive new efficiencies, experiences and insights. We make information more valuable by connecting it to digital 
+business processes, enriching it with analytics, protecting and securing it throughout its entire lifecycle, and leveraging it to 
+create engaging experiences for employees, suppliers, developers, partners, and customers. Our solutions range from 
+connecting large digital supply chains to managing HR processes to driving better IT service management in manufacturing, 
+retail and financial services. 
+
+Our solutions also enable organizations and consumers to secure their information so that they can collaborate with 
+
+confidence, stay ahead of the regulatory technology curve, identify threats on any endpoint or across their networks, enable 
+privacy, leverage eDiscovery and digital forensics to defensibly investigate and collect evidence, and ensure business continuity 
+in the event of a security incident.
+
+Our initial public offering was on the NASDAQ in 1996 and we were subsequently listed on the Toronto Stock Exchange 
+
+(TSX) in 1998. Our ticker symbol on both the NASDAQ and the TSX is “OTEX.”
+
+As of June 30, 2023, we employed a total of approximately 24,100 individuals, of which approximately 9,700 joined our 
+
+workforce as part of the Micro Focus Acquisition. Of the total 24,100 individuals we employed as of June 30, 2023, 9,050 or 
+38% are in the Americas, 5,750 or 24% are in EMEA and 9,300 or 38% are in Asia Pacific. Currently, we have employees in 45 
+countries enabling strong access to multiple talent pools while ensuring reach and proximity to our customers. Please see 
+“Results of Operations” below for our definitions of geographic regions.
+
+Period-over-period comparisons presented here are significantly impacted by our Micro Focus Acquisition.
+
+Fiscal 2023 Summary:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+•
+
+Total revenue was $4,485.0 million, up 28.4% compared to the prior fiscal year; up 32.2% after factoring in the 
+unfavorable impact of $132.4 million of foreign exchange rate changes. The Micro Focus Acquisition contributed  
+$976.5 million of revenues. 
+
+Total annual recurring revenue, which we define as the sum of cloud services and subscriptions revenue and 
+customer support revenue, was $3,615.5 million, up 26.2% compared to the prior fiscal year; up 29.7% after 
+factoring in the unfavorable impact of $102.4 million of foreign exchange rate changes. 
+
+Cloud services and subscriptions revenue was $1,700.4 million, up 10.8% compared to the prior fiscal year; up 
+13.3% after factoring in the unfavorable impact of $38.6 million of foreign exchange rate changes. 
+
+GAAP-based gross margin was 70.6% compared to 69.6% in the prior fiscal year.
+
+Non-GAAP-based gross margin was 76.1% compared to 75.6% in the prior fiscal year.
+
+GAAP-based net income attributable to OpenText was $150.4 million compared to $397.1 million in the prior fiscal 
+year. The Micro Focus Acquisition contributed $94.7 million of GAAP-based net losses.
+
+Non-GAAP-based net income attributable to OpenText was $890.7 million compared to $876.2 million in the prior 
+fiscal year.
+GAAP-based earnings per share (EPS), diluted, was $0.56 compared to $1.46 in the prior fiscal year.
+Non-GAAP-based EPS, diluted, was $3.29 compared to $3.22 in the prior fiscal year.
+Adjusted EBITDA, a non-GAAP measure, was $1,472.9 million compared to $1,265.0 million in the prior fiscal 
+year.
+
+50
+
+Table of Contents
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Operating cash flow was $779.2 million for the year ended June 30, 2023, compared to $981.8 million in the prior 
+fiscal year, down 20.6%.
+
+Cash and cash equivalents were $1,231.6 million as of June 30, 2023, compared to $1,693.7 million as of June 30, 
+2022. 
+
+Acquired Micro Focus for total consideration of $6.2 billion, inclusive of Micro Focus’ cash, subject to final 
+adjustments. 
+
+In connection with the financing of the Micro Focus Acquisition, we drew down the entire $3.585 billion of the 
+Acquisition Term Loan (as defined below), issued $1 billion of Senior Secured Notes 2027 (as defined below) and 
+drew down $450 million under the Revolver (as defined below). Subsequent to the closing of the Micro Focus 
+Acquisition we repaid $175 million of the outstanding balance on the Revolver during the year ended June 30, 2023 
+and subsequently repaid $175 million on July 5, 2023.
+
+Enterprise cloud bookings were $527.7 million for the year ended June 30, 2023, compared to $482.0 million for the 
+year ended June 30, 2022. We define Enterprise cloud bookings as the total value from cloud services and 
+subscription contracts entered into in the fiscal year that are new, committed and incremental to our existing 
+contracts, entered into with our enterprise-based customers.
+
+See “Use of Non-GAAP Financial Measures” below for definitions and reconciliations of GAAP-based measures to Non-
+
+GAAP-based measures. See “Acquisitions” below for the impact of acquisitions on the period-to-period comparability of 
+results.
+
+Acquisitions
+
+As a result of the continually changing marketplace in which we operate, we regularly evaluate acquisition opportunities 
+
+within our market and at any time may be in various stages of discussions with respect to such opportunities. 
+
+Acquisition of Micro Focus
+
+On January 31, 2023, we acquired all of the issued and to be issued share capital of Micro Focus for a total purchase price 
+
+of $6.2 billion, inclusive of Micro Focus’ cash and repayment of Micro Focus’ outstanding indebtedness, subject to final 
+adjustments. 
+
+In connection with the financing of the Micro Focus Acquisition, concurrent with the announcement of the acquisition on 
+August 25, 2022, the Company entered into the Acquisition Term Loan and Bridge Loan (as defined below) as well as certain 
+derivative transactions. On December 1, 2022, the Company issued and sold $1 billion in aggregate principal amount of 6.90% 
+Senior Secured Notes due 2027 (Senior Secured Notes 2027), amended the Acquisition Term Loan and terminated the Bridge 
+Loan. On January 31, 2023, we drew down the entire aggregate principal amount of $3.585 billion of the Acquisition Term 
+Loan, net of original issuance discount and other fees, and drew down $450 million under the Revolver. We used these 
+proceeds and cash on hand to fund the purchase price consideration and repayment of Micro Focus’ outstanding indebtedness. 
+In conjunction with the closing of the Micro Focus Acquisition, the deal-contingent forward contracts and non-contingent 
+forward contract, as described in Note 17 “Derivative Instruments and Hedging Activities” to our Consolidated Financial 
+Statements were settled. See Note 19 “Acquisitions” to our Consolidated Financial Statements for more details. The Micro 
+Focus Acquisition has contributed to the growth in our revenues and significantly impacts period-over-period comparability.
+
+Impacts of Russia-Ukraine Conflict
+
+We have ceased all direct business in Russia and Belarus and with known Russian-owned companies. To support certain 
+
+of our cloud customers headquartered in the United States or allied countries that rely on our network to manage their global 
+business (including their business in Russia), we have nonetheless allowed these customers to continue to use our services to 
+the extent that it can be done in strict compliance with all applicable sanctions and export controls. However, we may adjust our 
+business practices as required by applicable rules and regulations. While we do not expect our decision to cease all direct 
+business in Russia and Belarus and with known Russian-owned companies to have a material adverse effect on our overall 
+business, results of operations or financial condition, it is not possible to predict the broader consequences of this conflict, 
+including adverse effects on the global economy, on our business and operations as well as those of our customers, partners and 
+third party service providers. For more information, please see Part I, Item 1A “Risk Factors” included in this Annual Report on 
+Form 10-K.
+
+Outlook for Fiscal 2024
+
+As an organization, we are committed to “Total Growth”, meaning we strive towards delivering value through organic 
+initiatives, innovations and acquisitions. With an emphasis on increasing recurring revenues and expanding profitability, we 
+
+51
+
+Table of Contents
+
+believe our Total Growth strategy will ultimately drive cash flow growth, thus helping to fuel our innovation, broaden our go-
+to-market distribution and identify and execute strategic acquisitions. With strategic acquisitions, we are well positioned to 
+expand our product portfolio and improve our ability to innovate and grow organically, which helps us to meet our long-term 
+growth targets. Our Total Growth strategy is a durable model, that we believe will create both near and long-term shareholder 
+value through organic and acquired growth, capital efficiency and profitability.
+
+We are committed to continuous innovation. Our investments in research and development (R&D) push product 
+innovation, increasing the value of our offerings to our existing customer base and new customers, which includes Global 
+10,000 companies (G10K), SMBs and consumers. The G10K are the world’s largest companies, ranked by estimated total 
+revenues, as well as the world's largest governments and global organizations. More valuable products, coupled with our 
+established global partner program, lead to greater distribution and cross-selling opportunities which further help us to achieve 
+organic growth. Over the last three fiscal years, we have invested a cumulative total of $1.54 billion in R&D or 13.6% of 
+cumulative revenue for that three-year period. On an annual basis, we continue to target to spend 14% to 16% of revenues on 
+R&D expense. With our innovation roadmap delivered, we believe we have fortified our support for customer choice: private 
+cloud, public cloud, off-cloud, and API cloud.
+
+Looking ahead, the destination for innovation is cloud. Businesses of all sizes rely on a combination of public and private 
+
+clouds, managed services and off-cloud solutions. As a result, we are committed to continue to modernize our technology 
+infrastructure and leverage our existing investments in the OpenText Cloud and programs to help customers off-cloud. The 
+combination of OpenText cloud-native applications and managed services, together with the scalability and performance of our 
+partner public cloud providers, offer more secure, reliable and compliant solutions to customers wanting to deploy cloud-based 
+Information Management applications. The OpenText Cloud is designed to build additional flexibility and scalability for our 
+customers: becoming cloud-native, connecting anything, and extending capabilities with multi-tenant SaaS applications and 
+services.
+
+The completion of the Micro Focus Acquisition during Fiscal 2023 has substantially expanded our scope and size by 
+adding substantial assets and operations to our existing business. During Fiscal 2023, we incurred significant transaction costs 
+in connection with the Micro Focus Acquisition. We have incurred and will continue to incur additional integration costs. As 
+part of the Micro Focus Acquisition, the Company made a strategic decision to implement a restructuring plan that impacted its 
+global workforce and further reduce its real estate footprint around the world in an effort to further streamline our operations, 
+consistent with previously announced cost synergies of $400 million (Micro Focus Acquisition Restructuring Plan). The total 
+size of the plan is expected to result in a reduction in the combined workforce of approximately 8%, or 2,000 employees, with 
+an estimated cost of $135.0 million to $150.0 million, of which we incurred $72.3 million during Fiscal 2023. We expect the 
+Micro Focus Acquisition Restructuring Plan to be completed by the end of Fiscal 2024. See also Part I, Item 1A, “Risk Factors” 
+included within this Annual Report on Form 10-K. The Micro Focus Acquisition has a significant impact on period-over-period 
+comparability as more fully discussed below.
+
+We will continue to closely monitor the potential impacts of inflation with respect to wages, services and goods, concerns 
+
+regarding any potential recession, rising interest rates, financial market volatility, and the Russia-Ukraine conflict on our 
+business. See Part I, Item 1A, “Risk Factors” included within this Annual Report on Form 10-K.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+The preparation of financial statements in conformity with U.S. GAAP requires us to make estimates, judgments and 
+
+assumptions that affect the amounts reported in the Consolidated Financial Statements. These estimates, judgments and 
+assumptions are evaluated on an ongoing basis. We base our estimates on historical experience and on various other 
+assumptions that we believe are reasonable at that time. Actual results may differ materially from those estimates. The policies 
+listed below are areas that may contain key components of our results of operations and are based on complex rules requiring us 
+to make judgments and estimates and consequently, we consider these to be our critical accounting policies. Some of these 
+accounting policies involve complex situations and require a higher degree of judgment, either in the application and 
+interpretation of existing accounting literature or in the development of estimates that affect our financial statements. The 
+critical accounting policies which we believe are the most important to aid in fully understanding and evaluating our reported 
+financial results include the following:
+
+(i)
+
+(ii)
+(iii)
+(iv)
+
+Revenue recognition, 
+
+Goodwill, 
+Acquired intangibles and
+Income taxes.
+
+For a full discussion of all our accounting policies, please see Note 2 “Accounting Policies and Recent Accounting 
+
+Pronouncements” to the Consolidated Financial Statements included in this Annual Report on Form 10-K.
+
+52
+
+Table of Contents
+
+Revenue recognition
+
+In accordance with Accounting Standards Codification (ASC) Topic 606 “Revenue from Contracts with 
+
+Customers” (Topic 606), we account for a customer contract when we obtain written approval, the contract is committed, the 
+rights of the parties, including the payment terms, are identified, the contract has commercial substance and consideration is 
+probable of collection. Revenue is recognized when, or as, control of a promised product or service is transferred to our 
+customers in an amount that reflects the consideration we expect to be entitled to in exchange for our products and services (at 
+its transaction price). Estimates of variable consideration and the determination of whether to include estimated amounts in the 
+transaction price are based on readily available information, which may include historical, current and forecasted information, 
+taking into consideration the type of customer, the type of transaction and specific facts and circumstances of each arrangement. 
+We report revenue net of any revenue-based taxes assessed by governmental authorities that are imposed on and concurrent 
+with specific revenue producing transactions.
+
+We have four revenue streams: cloud services and subscriptions, customer support, license and professional service and 
+
+other.
+
+Cloud services and subscriptions revenue
+
+Cloud services and subscriptions revenue are from hosting arrangements where, in connection with the licensing of 
+software, the end user does not take possession of the software, as well as from end-to-end fully outsourced business-to-
+business (B2B) integration solutions to our customers (collectively referred to as cloud arrangements). The software application 
+resides on our hardware or that of a third party, and the customer accesses and uses the software on an as-needed basis. Our 
+cloud arrangements can be broadly categorized as “platform as a service” (PaaS), “software as a service” (SaaS), cloud 
+subscriptions and managed services.
+
+PaaS/ SaaS/ Cloud Subscriptions (collectively referred to here as cloud-based solutions): We offer cloud-based 
+solutions that provide customers the right to access our software through the internet. Our cloud-based solutions represent 
+a series of distinct services that are substantially the same and have the same pattern of transfer to the customer. These 
+services are made available to the customer continuously throughout the contractual period. However, the extent to which 
+the customer uses the services may vary at the customer’s discretion. The payment for cloud-based solutions may be 
+received either at inception of the arrangement, or over the term of the arrangement.
+
+These cloud-based solutions are considered to have a single performance obligation where the customer simultaneously 
+receives and consumes the benefit, and as such we recognize revenue for these cloud-based solutions ratably over the term 
+of the contractual agreement. For example, revenue related to cloud-based solutions that are provided on a usage basis, 
+such as the number of users, is recognized based on a customer’s utilization of the services in a given period.
+
+Additionally, a software license is present in a cloud-based solutions arrangement if all of the following criteria are met:
+
+(i)
+
+The customer has the contractual right to take possession of the software at any time without significant penalty; 
+and
+
+(ii)
+
+It is feasible for the customer to host the software independent of us.
+
+In these cases where a software license is present in a cloud-based solutions arrangement it is assessed to determine if it is 
+distinct from the cloud-based solutions arrangement. The revenue allocated to the distinct software license would be 
+recognized at the point in time the software license is transferred to the customer, whereas the revenue allocated to the 
+hosting performance obligation would be recognized ratably on a monthly basis over the contractual term unless evidence 
+suggests that revenue is earned, or obligations are fulfilled in a different pattern over the contractual term of the 
+arrangement.
+
+Managed services: We provide comprehensive B2B process outsourcing services for all day-to-day operations of a 
+customers’ B2B integration program. Customers using these managed services are not permitted to take possession of our 
+software and the contract is for a defined period, where customers pay a monthly or quarterly fee. Our performance 
+obligation is satisfied as we provide services of operating and managing a customer’s electronic data interchange (EDI) 
+environment. Revenue relating to these services is recognized using an output method based on the expected level of 
+service we will provide over the term of the contract.
+
+In connection with cloud subscription and managed service contracts, we often agree to perform a variety of services 
+before the customer goes live, such as, converting and migrating customer data, building interfaces and providing training. 
+These services are considered an outsourced suite of professional services which can involve certain project-based activities. 
+These services can be provided at the initiation of a contract, during the implementation or on an ongoing basis as part of the 
+customer life cycle. These services can be charged separately on a fixed fee, a time and materials basis, or the costs associated 
+may be recovered as part of the ongoing cloud subscription or managed services fee. These outsourced professional services are 
+considered distinct from the ongoing hosting services and represent a separate performance obligation within our cloud 
+subscription or managed services arrangements. The obligation to provide outsourced professional services is satisfied over 
+
+53
+
+Table of Contents
+
+time, with the customer simultaneously receiving and consuming the benefits as we satisfy our performance obligations. For 
+outsourced professional services, we recognize revenue by measuring progress toward the satisfaction of our performance 
+obligation. Progress for services that are contracted for a fixed price is generally measured based on hours incurred as a portion 
+of total estimated hours. As a practical expedient, when we invoice a customer at an amount that corresponds directly with the 
+value to the customer of our performance to date, we recognize revenue at that amount.
+
+Customer support revenue
+
+Customer support revenue is associated with perpetual, term license and off-cloud subscription arrangements. As 
+
+customer support is not critical to the customers’ ability to derive benefit from their right to use our software, customer support 
+is considered a distinct performance obligation when sold together in a bundled arrangement along with the software.
+
+ Customer support consists primarily of technical support and the provision of unspecified updates and upgrades on a 
+when-and-if-available basis. Customer support for perpetual licenses is renewable, generally on an annual basis, at the option of 
+the customer. Customer support for term and subscription licenses is renewable concurrently with such licenses for the same 
+duration of time. Payments for customer support are generally made at the inception of the contract term or in installments over 
+the term of the maintenance period. Our customer support team is ready to provide these maintenance services, as needed, to the 
+customer during the contract term. As the elements of customer support are delivered concurrently and have the same pattern of 
+transfer, customer support is accounted for as a single performance obligation. The customer benefits evenly throughout the 
+contract period from the guarantee that the customer support resources and personnel will be available to them, and that any 
+unspecified upgrades or unspecified future products developed by us will be made available. Revenue for customer support is 
+recognized ratably over the contract period based on the start and end dates of the maintenance term, in line with how we 
+believe services are provided.
+
+License revenue
+
+Our license revenue can be broadly categorized as perpetual licenses, term licenses and subscription licenses, all of which 
+
+are deployed on the customer’s premises (off-cloud).
+
+Perpetual licenses: We sell perpetual licenses which provide customers the right to use software for an indefinite period 
+of time in exchange for a one-time license fee, which is generally paid at contract inception. Our perpetual licenses 
+provide a right to use intellectual property (IP) that is functional in nature and have significant stand-alone functionality. 
+Accordingly, for perpetual licenses of functional IP, revenue is recognized at the point-in-time when control has been 
+transferred to the customer, which normally occurs once software activation keys have been made available for download.
+
+Term licenses and Subscription licenses: We sell both term and subscription licenses which provide customers the right 
+to use software for a specified period in exchange for a fee, which may be paid at contract inception or paid in 
+installments over the period of the contract. Like perpetual licenses, both our term licenses and subscription licenses are 
+functional IP that have significant stand-alone functionality. Accordingly, for both term and subscription licenses, revenue 
+is recognized at the point-in-time when the customer is able to use and benefit from the software, which is normally once 
+software activation keys have been made available for download at the commencement of the term.
+
+Professional service and other revenue
+
+Our professional services, when offered along with software licenses, consist primarily of technical and training services. 
+
+Technical services may include installation, customization, implementation or consulting services. Training services may 
+include access to online modules, or the delivery of a training package customized to the customer’s needs. At the customer’s 
+discretion, we may offer one, all, or a mix of these services. Payment for professional services is generally a fixed fee or a fee 
+based on time and materials. Professional services can be arranged in the same contract as the software license or in a separate 
+contract.
+
+As our professional services do not significantly change the functionality of the license and our customers can benefit 
+from our professional services on their own or together with other readily available resources, we consider professional services 
+distinct within the context of the contract.
+
+Professional service revenue is recognized over time as long as: (i) the customer simultaneously receives and consumes 
+
+the benefits as we perform them, (ii) our performance creates or enhances an asset the customer controls as we perform and (iii) 
+our performance does not create an asset with an alternative use, and we have the enforceable right to payment.
+
+If all the above criteria are met, we use an input-based measure of progress for recognizing professional service revenue. 
+
+For example, we may consider total labour hours incurred compared to total expected labour hours. As a practical expedient, 
+when we invoice a customer at an amount that corresponds directly with the value to the customer of our performance to date, 
+we will recognize revenue at that amount.
+
+54
+
+Table of Contents
+
+Material rights
+
+To the extent that we grant our customer an option to acquire additional products or services in one of our arrangements, 
+we will account for the option as a distinct performance obligation in the contract only if the option provides a material right to 
+the customer that the customer would not receive without entering into the contract. For example, if we give the customer an 
+option to acquire additional goods or services in the future at a price that is significantly lower than the current price, this would 
+be a material right as it allows the customer to, in effect, pay in advance for the option to purchase future products or services. If 
+a material right exists in one of our contracts, then revenue allocated to the option is deferred and we would recognize that 
+deferred revenue only when those future products or services are transferred or when the option expires.
+
+Based on history, our contracts do not typically contain material rights and when they do, the material right is not 
+
+significant to our Consolidated Financial Statements.
+
+Arrangements with multiple performance obligations
+
+Our contracts generally contain more than one of the products and services listed above. Determining whether goods and 
+
+services are considered distinct performance obligations that should be accounted for separately or as a single performance 
+obligation may require judgment, specifically when assessing whether both of the following two criteria are met:
+
+•
+
+•
+
+the customer can benefit from the product or service either on its own or together with other resources that are 
+readily available to the customer; and
+
+our promise to transfer the product or service to the customer is separately identifiable from other promises in the 
+contract.
+
+If these criteria are not met, we determine an appropriate measure of progress based on the nature of our overall promise 
+
+for the single performance obligation.
+
+If these criteria are met, each product or service is separately accounted for as a distinct performance obligation and the 
+
+total transaction price is allocated to each performance obligation on a relative standalone selling price (SSP) basis.
+
+Standalone selling price
+
+The SSP reflects the price we would charge for a specific product or service if it were sold separately in similar 
+
+circumstances and to similar customers. In most cases we are able to establish the SSP based on observable data. We typically 
+establish a narrow SSP range for our products and services and assess this range on a periodic basis or when material changes in 
+facts and circumstances warrant a review.
+
+If the SSP is not directly observable, then we estimate the amount using either the expected cost plus a margin or residual 
+
+approach. Estimating SSP requires judgment that could impact the amount and timing of revenue recognized. SSP is a formal 
+process whereby management considers multiple factors including, but not limited to, geographic or region-specific factors, 
+competitive positioning, internal costs, profit objectives and pricing practices.
+
+Transaction Price Allocation
+
+In bundled arrangements, where we have more than one distinct performance obligation, we must allocate the transaction 
+
+price to each performance obligation based on its relative SSP. However, in certain bundled arrangements, the SSP may not 
+always be directly observable. For instance, in bundled arrangements with license and customer support, we allocate the 
+transaction price between the license and customer support performance obligations using the residual approach because we 
+have determined that the SSP for licenses in these arrangements are highly variable. We use the residual approach only for our 
+license arrangements. When the SSP is observable but contractual pricing does not fall within our established SSP range, then 
+an adjustment is required, and we will allocate the transaction price between license and customer support based on the relative 
+SSP established for the respective performance obligations.
+
+When two or more contracts are entered into at or near the same time with the same customer, we evaluate the facts and 
+
+circumstances associated with the negotiation of those contracts. Where the contracts are negotiated as a package, we will 
+account for them as a single arrangement and allocate the consideration for the combined contracts among the performance 
+obligations accordingly.
+
+We believe there are significant assumptions, judgments and estimates involved in the accounting for revenue recognition 
+as discussed above and these assumptions, judgments and estimates could impact the timing of when revenue is recognized and 
+could have a material impact on our Consolidated Financial Statements.
+
+55
+
+Table of Contents
+
+Goodwill
+
+Goodwill represents the excess of the purchase price in a business combination over the fair value of net tangible and 
+
+intangible assets acquired. The carrying amount of goodwill is periodically reviewed for impairment (at a minimum annually) 
+and whenever events or changes in circumstances indicate that the carrying value of this asset may not be recoverable.
+
+Our operations are analyzed by management and our chief operating decision maker (CODM) as being part of a single 
+industry segment: the design, development, marketing and sales of Information Management software and solutions. Therefore, 
+our goodwill impairment assessment is based on the allocation of goodwill to a single reporting unit.
+
+We perform a qualitative assessment to test our reporting unit’s goodwill for impairment. Based on our qualitative 
+assessment, if we determine that the fair value of our reporting unit is more likely than not (i.e., a likelihood of more than 50 
+percent) to be less than its carrying amount, the quantitative assessment of the impairment test is performed. In the quantitative 
+assessment, we compare the fair value of our reporting unit to its carrying value. If the fair value of the reporting unit exceeds 
+its carrying value, goodwill is not considered impaired, and we are not required to perform further testing. If the carrying value 
+of the net assets of our reporting unit exceeds its fair value, then an impairment loss equal to the difference, but not exceeding 
+the total carrying value of goodwill allocated to the reporting unit, would be recorded.
+
+Our annual impairment analysis of goodwill was performed as of April 1, 2023. Our qualitative assessment indicated that 
+
+there were no indications of impairment and therefore there was no impairment of goodwill required to be recorded for Fiscal 
+2023 (no impairments were recorded for Fiscal 2022 and Fiscal 2021, respectively).
+
+Acquired intangibles
+
+In accordance with business combinations accounting, we allocate the purchase price of acquired companies to the 
+tangible and intangible assets acquired and the liabilities assumed based on their estimated fair values. Such valuations may 
+require management to make significant estimates and assumptions, especially with respect to intangible assets. Acquired 
+intangible assets typically consist of acquired technology and customer relationships.
+
+In valuing our acquired intangible assets, we may make assumptions and estimates based in part on information obtained 
+
+from the management of the acquired company, which may make our assumptions and estimates inherently uncertain. 
+Examples of critical estimates we may make in valuing certain of the intangible assets that we acquire include, but are not 
+limited to:
+
+•
+
+•
+
+•
+
+•
+
+future expected cash flows of our individual revenue streams;
+
+historical and expected customer attrition rates and anticipated growth in revenue from acquired customers;
+
+the expected use of the acquired assets; and
+
+discount rates.
+
+As a result of the judgments that need to be made, we obtain the assistance of independent valuation firms. We complete 
+these assessments as soon as practical after the closing dates. Any excess of the purchase price over the estimated fair values of 
+the identifiable net assets acquired is recorded as goodwill.
+
+Although we believe the assumptions and estimates of fair value we have made in the past have been reasonable and 
+appropriate, they are based in part on historical experience and information obtained from the management of the acquired 
+companies and are inherently uncertain and subject to refinement. Unanticipated events and circumstances may occur that may 
+affect the accuracy or validity of such assumptions, estimates or actual results. As a result, during the measurement period, 
+which may be up to one year from the acquisition date, we record adjustments to the assets acquired and liabilities assumed 
+with the corresponding offset to goodwill, if the changes are related to conditions that existed at the time of the acquisition. 
+Upon the conclusion of the measurement period or final determination of the values of assets acquired or liabilities assumed, 
+whichever comes first, any subsequent adjustments, based on events that occurred subsequent to the acquisition date, are 
+recorded in our Consolidated Statements of Income.
+
+Income taxes
+
+We account for income taxes in accordance with ASC Topic 740, “Income Taxes” (Topic 740).
+
+We account for our uncertain tax provisions by using a two-step approach. The first step is to evaluate the tax position for 
+
+recognition by determining if the weight of the available evidence indicates it is more likely than not, based solely on the 
+technical merits, that the position will be sustained on audit, including the resolution of related appeals or litigation processes, if 
+any. The second step is to measure the appropriate amount of the benefit to recognize. The amount of benefit to recognize is 
+measured as the maximum amount which is more likely than not to be realized. The tax position is derecognized when it is no 
+longer more likely than not that the position will be sustained on audit. On subsequent recognition and measurement, the 
+maximum amount which is more likely than not to be recognized at each reporting date will represent the Company’s best 
+
+56
+
+Table of Contents
+
+estimate, given the information available at the reporting date, although the outcome of the tax position is not absolute or final. 
+We recognize both accrued interest and penalties related to liabilities for income taxes within the “Provision for (recovery of) 
+income taxes” line of our Consolidated Statements of Income.
+
+Deferred tax assets and liabilities arise from temporary differences between the tax bases of assets and liabilities and their 
+
+reported amounts in the Consolidated Financial Statements that will result in taxable or deductible amounts in future years. 
+These temporary differences are measured using enacted tax rates. A valuation allowance is recorded to reduce deferred tax 
+assets to the extent that we consider it is more likely than not that a deferred tax asset will not be realized. In determining the 
+valuation allowance, we consider factors such as the reversal of deferred income tax liabilities, projected taxable income and 
+the character of income tax assets and tax planning strategies. A change to these factors could impact the estimated valuation 
+allowance and income tax expense.
+
+The Company’s tax positions are subject to audit by local taxing authorities across multiple global subsidiaries and the 
+
+resolution of such audits may span multiple years. Since tax law is complex and often subject to varied interpretations, it is 
+uncertain whether some of the Company’s tax positions will be sustained upon audit. Our assumptions, judgments and 
+estimates relative to the current provision for income taxes considers current tax laws, our interpretations of current tax laws 
+and possible outcomes of current and future audits conducted by domestic and foreign tax authorities. While we believe the 
+assumptions and estimates that we have made are reasonable, such assumptions and estimates could have a material impact to 
+our Consolidated Financial Statements upon ultimate resolution of the tax positions.
+
+For additional details, please see Note 15 “Income Taxes” to the Consolidated Financial Statements included in this 
+
+Annual Report on Form 10-K.
+
+RESULTS OF OPERATIONS
+
+The following tables provide a detailed analysis of our results of operations and financial condition. For each of the 
+periods indicated below, we present our revenues by product type, revenues by major geography, cost of revenues by product 
+type, total gross margin, total operating margin, gross margin by product type and their corresponding percentage of total 
+revenue. 
+
+In addition, we provide Non-GAAP measures for the periods discussed in order to provide additional information to 
+
+investors that we believe will be useful as this presentation is in line with how our management assesses our Company’s 
+performance. See “Use of Non-GAAP Financial Measures” below for a reconciliation of GAAP-based measures to Non-
+GAAP-based measures.
+
+The comparability of our operating results for the year ended June 30, 2023 as compared to the year ended June 30, 2022 
+was impacted by the recent Micro Focus Acquisition. Our total revenues increased by $991.1 million across all of our product 
+types in the year ended June 30, 2023, relative to the year ended June 30, 2022, primarily due to revenue contributions from the 
+Micro Focus Acquisition, offset by unfavorable impact of $132.4 million of foreign exchange rate changes. The Micro Focus 
+Acquisition contributed $976.5 million to our total revenues during the year ended June 30, 2023, of which $629.1 million 
+related to customer support revenues and $219.6 million related to license revenues.
+
+Total cost of revenues increased by $254.4 million in the year ended June 30, 2023, relative to the year ended June 30, 
+
+2022, primarily from additional cost of revenues of $279.3 million as a result of the Micro Focus Acquisition.
+
+Total operating expenses increased by $865.2 million in the year ended June 30, 2023, relative to the year ended June 30, 
+
+2022, primarily from additional operating expenses of $761.5 million as a result of the Micro Focus Acquisition, of which 
+$550.4 million was related to research and development, sales and marketing, and general and administrative expenses.
+
+57
+
+Table of Contents
+
+Summary of Results of Operations
+
+(In thousands)
+
+Total Revenues by Product Type:
+
+Cloud services and subscriptions
+
+Customer support
+
+License
+
+Professional service and other
+
+Total revenues
+
+Total Cost of Revenues
+
+Total GAAP-based Gross Profit
+
+Total GAAP-based Gross Margin %
+
+Total GAAP-based Operating Expenses
+
+Year Ended June 30,
+
+2023
+
+Change 
+increase 
+(decrease)
+
+2022
+
+Change 
+increase 
+(decrease)
+
+2021
+
+$  1,700,433 
+
+$ 
+
+165,416  $  1,535,017 
+
+$ 
+
+127,572  $  1,407,445 
+
+1,915,020 
+
+539,026 
+
+330,501 
+
+4,484,980 
+
+1,316,587 
+
+3,168,393 
+
+584,055 
+
+180,675 
+
+60,990 
+
+991,136 
+
+254,386 
+
+736,750 
+
+1,330,965 
+
+358,351 
+
+269,511 
+
+3,493,844 
+
+1,062,201 
+
+2,431,643 
+
+ 70.6 %
+
+ 69.6 %
+
+(3,097) 
+
+1,334,062 
+
+(26,360) 
+
+9,614 
+
+107,729 
+
+27,735 
+
+79,994 
+
+384,711 
+
+259,897 
+
+3,386,115 
+
+1,034,466 
+
+2,351,649 
+
+ 69.4 %
+
+2,652,101 
+
+865,231 
+
+1,786,870 
+
+176,124 
+
+1,610,746 
+
+Total GAAP-based Income from Operations
+
+$ 
+
+516,292 
+
+$ 
+
+(128,481)  $ 
+
+644,773 
+
+$ 
+
+(96,130)  $ 
+
+740,903 
+
+% Revenues by Product Type:
+
+Cloud services and subscriptions
+
+Customer support
+License
+
+Professional service and other
+
+Total Cost of Revenues by Product Type:
+
+Cloud services and subscriptions
+
+Customer support
+
+License
+
+Professional service and other
+
+Amortization of acquired technology-based intangible assets
+
+ 37.9 %
+
+ 42.7 %
+ 12.0 %
+
+ 7.4 %
+
+ 43.9 %
+
+ 38.1 %
+ 10.3 %
+
+ 7.7 %
+
+ 41.6 %
+
+ 39.4 %
+ 11.3 %
+
+ 7.7 %
+
+$ 
+
+590,165 
+
+$ 
+
+78,452  $ 
+
+511,713 
+
+$ 
+
+29,895  $ 
+
+481,818 
+
+209,705 
+
+16,645 
+
+276,888 
+
+223,184 
+
+88,220 
+
+3,144 
+
+59,993 
+
+24,577 
+
+121,485 
+
+13,501 
+
+216,895 
+
+198,607 
+
+(1,268) 
+
+(415) 
+
+19,712 
+
+(20,189) 
+
+122,753 
+
+13,916 
+
+197,183 
+
+218,796 
+
+Total cost of revenues
+
+$  1,316,587 
+
+$ 
+
+254,386  $  1,062,201 
+
+$ 
+
+27,735  $  1,034,466 
+
+% GAAP-based Gross Margin by Product Type:
+
+Cloud services and subscriptions
+
+Customer support
+
+License
+
+Professional service and other
+
+Total Revenues by Geography: (1)
+Americas (2)
+EMEA (3)
+Asia Pacific (4)
+Total revenues
+
+% Revenues by Geography:
+Americas (2)
+EMEA (3)
+Asia Pacific (4)
+
+Other Metrics:
+
+GAAP-based gross margin
+Non-GAAP-based gross margin (5)
+Net income, attributable to OpenText
+
+GAAP-based EPS, diluted
+Non-GAAP-based EPS, diluted (5)
+Adjusted EBITDA (5)
+_______________________________
+
+ 65.3 %
+
+ 89.0 %
+
+ 96.9 %
+
+ 16.2 %
+
+ 66.7 %
+
+ 90.9 %
+
+ 96.2 %
+
+ 19.5 %
+
+ 65.8 %
+
+ 90.8 %
+
+ 96.4 %
+
+ 24.1 %
+
+$  2,785,003 
+
+$ 
+
+597,374  $  2,187,629 
+
+$ 
+
+118,546  $  2,069,083 
+
+1,310,016 
+
+389,961 
+
+283,815 
+
+109,947 
+
+1,026,201 
+
+280,014 
+
+(5,406) 
+
+(5,411) 
+
+1,031,607 
+
+285,425 
+
+$  4,484,980 
+
+$ 
+
+991,136  $  3,493,844 
+
+$ 
+
+107,729  $  3,386,115 
+
+ 62.1 %
+
+ 29.2 %
+
+ 8.7 %
+
+ 70.6 %
+
+ 76.1 %
+
+$ 
+
+$ 
+
+150,379 
+
+0.56 
+
+$ 
+3.29 
+$  1,472,917 
+
+ 62.6 %
+
+ 29.4 %
+
+ 8.0 %
+
+ 69.6 %
+
+ 75.6 %
+
+$ 
+
+$ 
+
+397,090 
+
+1.46 
+
+$ 
+3.22 
+$  1,264,986 
+
+ 61.1 %
+
+ 30.5 %
+
+ 8.4 %
+
+ 69.4 %
+
+ 76.1 %
+
+$ 
+
+$ 
+
+310,672 
+
+1.14 
+
+$ 
+3.39 
+$  1,315,033 
+
+(1) Total revenues by geography are determined based on the location of our direct end customer.
+(2) Americas consists of countries in North, Central and South America.
+(3) EMEA primarily consists of countries in Europe, the Middle East and Africa.
+(4) Asia Pacific primarily consists of Japan, Australia, China, Korea, Philippines, Singapore, India and New Zealand.
+(5) See “Use of Non-GAAP Financial Measures” (discussed later in this MD&A) for definitions and reconciliations of GAAP-based measures to Non-
+
+GAAP-based measures.
+
+58
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+Revenues, Cost of Revenues and Gross Margin by Product Type
+
+1)  Cloud Services and Subscriptions:
+
+Cloud services and subscriptions revenues are from hosting arrangements where in connection with the licensing of 
+
+software, the end user does not take possession of the software, as well as from end-to-end fully outsourced B2B integration 
+solutions to our customers (collectively referred to as cloud arrangements). The software application resides on our hardware or 
+that of a third party, and the customer accesses and uses the software on an as-needed basis via an identified line. Our cloud 
+arrangements can be broadly categorized as PaaS, SaaS, cloud subscriptions and managed services. For the year ended June 30, 
+2023, our cloud renewal rate, excluding the impact of Carbonite, Zix and Micro Focus was approximately 94%, consistent with 
+the year ended June 30, 2022.
+
+Cost of Cloud services and subscriptions revenues is comprised primarily of third-party network usage fees, maintenance 
+
+of in-house data hardware centers, technical support personnel-related costs and some third party royalty costs.
+
+(In thousands)
+
+Cloud Services and Subscriptions:
+
+Americas
+EMEA
+
+Asia Pacific
+
+Total Cloud Services and Subscriptions Revenues
+
+Cost of Cloud Services and Subscriptions Revenues
+
+Year Ended June 30,
+
+2023
+
+Change 
+increase 
+(decrease)
+
+2022
+
+Change 
+increase 
+(decrease)
+
+2021
+
+$  1,287,731 
+305,293 
+
+$ 
+
+131,813  $  1,155,918 
+274,824 
+30,469 
+
+$ 
+
+107,474  $  1,048,444 
+256,199 
+18,625 
+
+107,409 
+
+1,700,433 
+
+590,165 
+
+3,134 
+
+165,416 
+
+78,452 
+
+104,275 
+
+1,535,017 
+
+511,713 
+
+1,473 
+
+127,572 
+
+29,895 
+
+102,802 
+
+1,407,445 
+
+481,818 
+
+GAAP-based Cloud Services and Subscriptions Gross Profit
+
+$  1,110,268 
+
+$ 
+
+86,964  $  1,023,304 
+
+$ 
+
+97,677  $ 
+
+925,627 
+
+GAAP-based Cloud Services and Subscriptions Gross Margin %
+
+ 65.3 %
+
+% Cloud Services and Subscriptions Revenues by Geography:
+
+Americas
+
+EMEA
+
+Asia Pacific
+
+ 75.7 %
+
+ 18.0 %
+
+ 6.3 %
+
+ 66.7 %
+
+ 75.3 %
+
+ 17.9 %
+
+ 6.8 %
+
+ 65.8 %
+
+ 74.5 %
+
+ 18.2 %
+
+ 7.3 %
+
+Cloud services and subscriptions revenues increased by $165.4 million or 10.8% during the year ended June 30, 2023 as 
+compared to the prior fiscal year; up 13.3% after factoring in the unfavorable impact of $38.6 million of foreign exchange rate 
+changes. The increase was primarily driven by organic revenue growth, as well as partially driven by incremental revenues 
+from the Micro Focus Acquisition over the comparative period. Geographically, the overall change was attributable to an 
+increase in Americas of $131.8 million, an increase in EMEA of $30.5 million and an increase in Asia Pacific of $3.1 million.
+
+There were 89 cloud services contracts greater than $1.0 million that closed during Fiscal 2023, compared to 98 contracts 
+
+during Fiscal 2022.
+
+Cost of Cloud services and subscriptions revenues increased by $78.5 million during the year ended June 30, 2023 as 
+compared to the prior fiscal year. This was primarily due to an increase in labour-related costs of $40.0 million and an increase 
+in third-party network usage fees of $37.8 million partially driven by incremental Cloud services and subscriptions cost of 
+revenues from the Micro Focus Acquisition over the comparative period. Overall, the gross margin percentage on Cloud 
+services and subscriptions revenues decreased to 65% from 67%.
+
+2)  Customer Support:
+
+Customer support revenues consist of revenues from our customer support and maintenance agreements. These 
+agreements allow our customers to receive technical support, enhancements and upgrades to new versions of our software 
+products when available. Customer support revenues are generated from support and maintenance relating to current year sales 
+of software products and from the renewal of existing maintenance agreements for software licenses sold in prior periods. 
+Therefore, changes in Customer support revenues do not always correlate directly to the changes in license revenues from 
+period to period. The terms of support and maintenance agreements are typically twelve months, and are renewable, generally 
+on an annual basis, at the option of the customer. Our management reviews our Customer support renewal rates on a quarterly 
+basis, and we use these rates as a method of monitoring our customer service performance. For the year ended June 30, 2023, 
+our Customer support renewal rate was approximately 95%, compared to approximately 94% for the year ended June 30, 2022, 
+excluding the impact of Carbonite, Zix and Micro Focus.
+
+59
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+Cost of Customer support revenues is comprised primarily of technical support personnel and related costs, as well as 
+
+third party royalty costs.
+
+(In thousands)
+
+Customer Support Revenues:
+
+Americas
+
+EMEA
+
+Asia Pacific
+
+Total Customer Support Revenues
+
+Cost of Customer Support Revenues
+
+Year Ended June 30,
+
+2023
+
+Change 
+increase 
+(decrease)
+
+2022
+
+Change 
+increase 
+(decrease)
+
+2021
+
+$  1,081,192 
+
+$ 
+
+337,718  $ 
+
+743,474 
+
+$ 
+
+(250)  $ 
+
+743,724 
+
+662,601 
+
+171,227 
+
+1,915,020 
+
+209,705 
+
+186,915 
+
+59,422 
+
+475,686 
+
+111,805 
+
+584,055 
+
+1,330,965 
+
+88,220 
+
+121,485 
+
+(5,872) 
+
+3,025 
+
+(3,097) 
+
+(1,268) 
+
+481,558 
+
+108,780 
+
+1,334,062 
+
+122,753 
+
+GAAP-based Customer Support Gross Profit
+
+$  1,705,315 
+
+$ 
+
+495,835  $  1,209,480 
+
+$ 
+
+(1,829)  $  1,211,309 
+
+GAAP-based Customer Support Gross Margin %
+
+% Customer Support Revenues by Geography:
+
+Americas
+
+EMEA
+
+Asia Pacific
+
+ 89.0 %
+
+ 56.5 %
+
+ 34.6 %
+
+ 8.9 %
+
+ 90.9 %
+
+ 55.9 %
+
+ 35.7 %
+
+ 8.4 %
+
+ 90.8 %
+
+ 55.7 %
+
+ 36.1 %
+
+ 8.2 %
+
+Customer support revenues increased by $584.1 million or 43.9% during the year ended June 30, 2023 as compared to the 
+
+prior fiscal year; up 48.7% after factoring in the unfavorable impact of $63.8 million of foreign exchange rate changes. The 
+increase was primarily driven by incremental Customer support revenues from the Micro Focus Acquisition over the 
+comparative period. Geographically, the overall change was attributable to an increase in Americas of $337.7 million, an 
+increase in EMEA of $186.9 million and an increase in Asia Pacific of $59.4 million.
+
+Cost of Customer support revenues increased by $88.2 million during the year ended June 30, 2023 as compared to the 
+prior fiscal year. This was primarily due to an increase in labour-related costs of $82.2 million and an increase in third-party 
+network usage fees of $5.5 million driven by incremental Customer support cost of revenues from the Micro Focus Acquisition 
+over the comparative period. Overall, the gross margin percentage on Customer support revenues decreased to 89% from 91%.
+
+3)  License:
+
+Our License revenue can be broadly categorized as perpetual licenses, term licenses and subscription licenses. Our 
+License revenues are impacted by the strength of general economic and industry conditions, the competitive strength of our 
+software products and our acquisitions. Cost of License revenues consists primarily of royalties payable to third parties.
+
+(In thousands)
+
+License Revenues:
+
+Americas
+
+EMEA
+Asia Pacific
+
+Total License Revenues
+
+Cost of License Revenues
+
+GAAP-based License Gross Profit
+
+GAAP-based License Gross Margin %
+
+% License Revenues by Geography:
+
+Americas
+
+EMEA
+
+Asia Pacific
+
+Year Ended June 30,
+
+2023
+
+Change 
+increase 
+(decrease)
+
+2022
+
+Change 
+increase 
+(decrease)
+
+2021
+
+$ 
+
+270,809 
+
+$ 
+
+107,090  $ 
+
+163,719 
+
+$ 
+
+4,189  $ 
+
+159,530 
+
+199,627 
+68,590 
+
+539,026 
+
+16,645 
+
+37,892 
+35,693 
+
+180,675 
+
+3,144 
+
+161,735 
+32,897 
+
+358,351 
+
+13,501 
+
+(16,768) 
+(13,781) 
+
+(26,360) 
+
+(415) 
+
+178,503 
+46,678 
+
+384,711 
+
+13,916 
+
+$ 
+
+522,381 
+
+$ 
+
+177,531  $ 
+
+344,850 
+
+$ 
+
+(25,945)  $ 
+
+370,795 
+
+ 96.9 %
+
+ 50.2 %
+
+ 37.0 %
+
+ 12.8 %
+
+ 96.2 %
+
+ 45.7 %
+
+ 45.1 %
+
+ 9.2 %
+
+ 96.4 %
+
+ 41.5 %
+
+ 46.4 %
+
+ 12.1 %
+
+License revenues increased by $180.7 million or 50.4% during the year ended June 30, 2023 as compared to the prior 
+fiscal year; up 55.0% after factoring in the unfavorable impact of $16.4 million of foreign exchange rate changes. The increase 
+was primarily driven by incremental License revenues from the Micro Focus Acquisition over the comparative period. 
+Geographically, the overall change was attributable to an increase in Americas of $107.1 million, an increase in EMEA of $37.9 
+million and an increase in Asia Pacific of $35.7 million.
+
+60
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+During Fiscal 2023, we closed 163 license contracts greater than $0.5 million, of which 71 contracts were greater than 
+$1.0 million, contributing $211.3 million of License revenues. This was compared to 122 license contracts greater than $0.5 
+million during Fiscal 2022, of which 46 contracts were greater than $1.0 million, contributing $131.7 million of License 
+revenues.
+
+Cost of License revenues increased by $3.1 million during the year ended June 30, 2023 as compared to the prior fiscal 
+
+year as a result of higher third-party technology costs primarily driven by incremental cost of License revenues from the Micro 
+Focus Acquisition over the comparative period. Overall, the gross margin percentage on License revenues increased to 97% 
+from 96%.
+
+4)  Professional Service and Other:
+
+Professional service and other revenues consist of revenues from consulting contracts and contracts to provide 
+
+implementation, training and integration services (professional services). Other revenues consist of hardware revenues, which 
+are included within the “Professional service and other” category because they are relatively immaterial to our service revenues. 
+Professional services are typically performed after the purchase of new software licenses. Professional service and other 
+revenues can vary from period to period based on the type of engagements as well as those implementations that are assumed 
+by our partner network. 
+
+Cost of Professional service and other revenues consists primarily of the costs of providing integration, configuration and 
+
+training with respect to our various software products. The most significant components of these costs are personnel-related 
+expenses, travel costs and third-party subcontracting. 
+
+(In thousands)
+
+Professional Service and Other Revenues:
+
+Americas
+
+EMEA
+
+Asia Pacific
+
+Total Professional Service and Other Revenues
+
+Cost of Professional Service and Other Revenues
+
+Year Ended June 30,
+
+2023
+
+Change 
+increase 
+(decrease)
+
+2022
+
+Change 
+increase 
+(decrease)
+
+2021
+
+$ 
+
+145,271 
+
+$ 
+
+20,753  $ 
+
+124,518 
+
+$ 
+
+7,133  $ 
+
+117,385 
+
+142,495 
+
+42,735 
+
+330,501 
+
+276,888 
+
+28,539 
+
+11,698 
+
+60,990 
+
+59,993 
+
+113,956 
+
+31,037 
+
+269,511 
+
+216,895 
+
+(1,391) 
+
+3,872 
+
+9,614 
+
+19,712 
+
+115,347 
+
+27,165 
+
+259,897 
+
+197,183 
+
+GAAP-based Professional Service and Other Gross Profit
+
+$ 
+
+53,613 
+
+$ 
+
+997  $ 
+
+52,616 
+
+$ 
+
+(10,098)  $ 
+
+62,714 
+
+GAAP-based Professional Service and Other Gross Margin %
+
+ 16.2 %
+
+% Professional Service and Other Revenues by Geography:
+
+Americas
+
+EMEA
+
+Asia Pacific
+
+ 44.0 %
+
+ 43.1 %
+
+ 12.9 %
+
+ 19.5 %
+
+ 46.2 %
+
+ 42.3 %
+
+ 11.5 %
+
+ 24.1 %
+
+ 45.2 %
+
+ 44.4 %
+
+ 10.4 %
+
+Professional service and other revenues increased by $61.0 million or 22.6% during the year ended June 30, 2023 as 
+compared to the prior fiscal year; up 27.7% after factoring in the unfavorable impact of $13.6 million of foreign exchange rate 
+changes. The increase was primarily driven by incremental Professional service and other revenues from the Micro Focus 
+Acquisition over the comparative period. Geographically, the overall change was attributable to an increase in EMEA of $28.5 
+million, an increase in Americas of $20.8 million and an increase in Asia Pacific of $11.7 million.
+
+Cost of Professional service and other revenues increased by $60.0 million during the year ended June 30, 2023 as 
+compared to the prior fiscal year. This was primarily due to an increase in labour-related costs of $58.1 million primarily driven 
+by the incremental Professional service and other cost of revenues from the Micro Focus Acquisition over the comparative 
+period. Overall, the gross margin percentage on Professional service and other revenues decreased to 16% from 20%.
+
+61
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+Amortization of Acquired Technology-based Intangible Assets
+
+(In thousands)
+
+Year Ended June 30,
+
+2023
+
+Change 
+increase 
+(decrease)
+
+2022
+
+Change 
+increase 
+(decrease)
+
+2021
+
+Amortization of acquired technology-based intangible assets 
+
+$ 
+
+223,184  $ 
+
+24,577  $ 
+
+198,607  $ 
+
+(20,189)  $ 
+
+218,796 
+
+Amortization of acquired technology-based intangible assets increased during the year ended June 30, 2023 by $24.6 
+million as compared to the prior fiscal year. This was due to an increase of $91.2 million relating to amortization of newly 
+acquired technology-based intangible assets from the Micro Focus Acquisition, partly offset by a reduction of $68.8 million 
+related to technology-based intangible assets from previous acquisitions becoming fully amortized.
+
+Operating Expenses
+
+(In thousands)
+
+Research and development
+
+Sales and marketing
+General and administrative
+
+Depreciation
+
+Amortization of acquired customer-based intangible assets
+
+Special charges (recoveries)
+
+Total operating expenses
+
+% of Total Revenues:
+
+Research and development
+
+Sales and marketing
+
+General and administrative
+
+Depreciation
+
+Amortization of acquired customer-based intangible assets
+
+Special charges (recoveries)
+
+Year Ended June 30,
+
+2023
+
+Change 
+increase 
+(decrease)
+
+2022
+
+Change 
+increase 
+(decrease)
+
+2021
+
+$ 
+
+680,587 
+
+$ 
+
+240,139  $ 
+
+440,448 
+
+$ 
+
+19,001  $ 
+
+421,447 
+
+948,598 
+419,590 
+
+107,761 
+
+326,406 
+
+169,159 
+
+271,480 
+102,505 
+
+19,520 
+
+109,301 
+
+122,286 
+
+677,118 
+317,085 
+
+88,241 
+
+217,105 
+
+46,873 
+
+54,897 
+53,564 
+
+2,976 
+
+561 
+
+45,125 
+
+622,221 
+263,521 
+
+85,265 
+
+216,544 
+
+1,748 
+
+$  2,652,101 
+
+$ 
+
+865,231  $  1,786,870 
+
+$ 
+
+176,124  $  1,610,746 
+
+ 15.2 %
+
+ 21.2 %
+
+ 9.4 %
+
+ 2.4 %
+
+ 7.3 %
+
+ 3.8 %
+
+ 12.6 %
+
+ 19.4 %
+
+ 9.1 %
+
+ 2.5 %
+
+ 6.2 %
+
+ 1.3 %
+
+ 12.4 %
+
+ 18.4 %
+
+ 7.8 %
+
+ 2.5 %
+
+ 6.4 %
+
+ 0.1 %
+
+Research and development expenses consist primarily of payroll and payroll-related benefits expenses, contracted 
+research and development expenses and facility costs. Research and development enables organic growth and improves product 
+stability and functionality, and accordingly, we dedicate extensive efforts to update and upgrade our product offerings. The 
+primary drivers are typically software upgrades and development.
+
+ (In thousands)
+
+Payroll and payroll-related benefits
+
+Contract labour and consulting
+
+Share-based compensation
+
+Travel and communication
+
+Facilities
+
+Other miscellaneous
+
+Total change in research and development expenses
+
+Change between Fiscal Years
+increase (decrease)
+
+2023 and 2022
+
+2022 and 2021
+
+$ 
+
+$ 
+
+152,915  $ 
+
+14,660 
+
+21,964 
+
+1,363 
+
+45,791 
+
+3,446 
+
+240,139  $ 
+
+17,070 
+
+2,576 
+
+7,263 
+
+294 
+
+(9,053) 
+
+851 
+
+19,001 
+
+Research and development expenses increased by $240.1 million during the year ended June 30, 2023 as compared to the 
+prior fiscal year, primarily as a result of the Micro Focus Acquisition. Payroll and payroll-related benefits, which is comprised 
+of salaries, benefits and variable short-term incentives, increased by $152.9 million, facility-related expenses increased by $45.8 
+million, share-based compensation expense increased by $22.0 million and contract labour and consulting increased by $14.7 
+million. Overall, our research and development expenses, as a percentage of total revenues, increased to 15% compared to the 
+prior fiscal year at 13%.
+
+Our research and development labour resources increased by 3,953 employees, from 4,326 employees at June 30, 2022 to 
+
+8,279 employees at June 30, 2023.
+
+62
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+Sales and marketing expenses consist primarily of personnel expenses and costs associated with advertising, marketing 
+
+events and trade shows. 
+
+(In thousands)
+
+Payroll and payroll-related benefits
+
+Commissions
+
+Contract labour and consulting
+
+Share-based compensation
+
+Travel and communication
+
+Marketing expenses
+
+Facilities
+
+Credit loss expense (recovery)
+
+Other miscellaneous
+
+Total change in sales and marketing expenses
+
+Change between Fiscal Years
+increase (decrease)
+
+2023 and 2022
+
+2022 and 2021
+
+$ 
+
+$ 
+
+136,300  $ 
+
+38,142 
+
+7,670 
+
+19,081 
+
+13,347 
+
+29,076 
+
+23,168 
+
+(94) 
+
+4,790 
+
+271,480  $ 
+
+38,613 
+
+6,993 
+
+2 
+
+4,316 
+
+3,806 
+
+9,579 
+
+(3,991) 
+
+(9,045) 
+
+4,624 
+
+54,897 
+
+Sales and marketing expenses increased by $271.5 million during the year ended June 30, 2023 as compared to the prior 
+
+fiscal year, primarily as a result of the Micro Focus Acquisition. Payroll and payroll-related benefits, which is comprised of 
+salaries, benefits and variable short-term incentives, increased by $136.3 million, commissions increased by $38.1 million, 
+marketing expenses increased by $29.1 million, facility-related expenses increased by $23.2 million,  share-based compensation 
+expense increased by $19.1 million and travel and communication expenses increased by $13.3 million. Overall, our sales and 
+marketing expenses, as a percentage of total revenues, increased to 21% compared to the prior fiscal year at 19%. 
+
+Our sales and marketing labour resources increased by 2,105 employees, from 2,710 employees at June 30, 2022 to 4,815 
+
+employees at June 30, 2023.
+
+General and administrative expenses consist primarily of payroll and payroll related benefits expenses, related overhead, 
+
+audit fees, other professional fees, contract labour and consulting expenses and public company costs. 
+
+(In thousands)
+
+Payroll and payroll-related benefits
+
+Contract labour and consulting
+
+Share-based compensation
+
+Travel and communication
+
+Facilities
+
+Other miscellaneous
+
+Change between Fiscal Years
+increase (decrease)
+
+2023 and 2022
+
+2022 and 2021
+
+50,695  $ 
+
+15,827 
+
+9,856 
+
+9,106 
+
+3,393 
+
+13,628 
+
+Total change in general and administrative expenses
+
+$ 
+
+102,505  $ 
+
+47,831 
+
+5,294 
+
+2,478 
+
+5,827 
+
+322 
+
+(8,188) 
+
+53,564 
+
+General and administrative expenses increased by $102.5 million during the year ended June 30, 2023 as compared to the 
+prior fiscal year, primarily as a result of the Micro Focus Acquisition. Payroll and payroll-related benefits, which is comprised 
+of salaries, benefits and variable short-term incentives, increased by $50.7 million, contract labour and consulting increased by 
+$15.8 million, other miscellaneous costs, which include professional fees such as legal, audit, and tax related expenses 
+increased by $13.6 million, share-based compensation expense increased by $9.9 million and travel and communication 
+expenses increased by $9.1 million. Overall, general and administrative expenses, as a percentage of total revenues, remained 
+stable at 9% in both fiscal years.
+
+ Our general and administrative labour resources increased by 1,425 employees, from 1,971 employees at June 30, 2022 
+
+to 3,396 employees at June 30, 2023, primarily as a result of the Micro Focus Acquisition.
+
+63
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+Depreciation expenses:
+
+(In thousands)
+
+Depreciation
+
+Year Ended June 30,
+
+2023
+
+Change 
+increase 
+(decrease)
+
+2022
+
+Change 
+increase 
+(decrease)
+
+2021
+
+$ 
+
+107,761  $ 
+
+19,520  $ 
+
+88,241  $ 
+
+2,976  $ 
+
+85,265 
+
+Depreciation expenses increased during the year ended June 30, 2023 by $19.5 million compared to the prior fiscal year, 
+
+primarily as a result of the Micro Focus Acquisition. 
+
+Depreciation expenses as a percentage of total revenue remained stable for the year ended June 30, 2023 at 2% compared 
+
+to the prior fiscal year.
+
+Amortization of acquired customer-based intangible assets:
+
+(In thousands)
+
+Year Ended June 30,
+
+2023
+
+Change 
+increase 
+(decrease)
+
+2022
+
+Change 
+increase 
+(decrease)
+
+2021
+
+Amortization of acquired customer-based intangible assets
+
+$ 
+
+326,406  $ 
+
+109,301  $ 
+
+217,105  $ 
+
+561  $ 
+
+216,544 
+
+Amortization of acquired customer-based intangible assets increased during the year ended June 30, 2023 by $109.3 
+
+million as compared to the prior fiscal year. This was due to an increase of $111.2 million relating to amortization of newly 
+acquired customer-based intangible assets from the Micro Focus Acquisition, partly offset by a reduction of $9.8 million related 
+to customer-based intangible assets from previous acquisitions becoming fully amortized.
+
+Special charges (recoveries):
+
+Special charges (recoveries) typically relate to amounts that we expect to pay in connection with restructuring plans, 
+
+acquisition-related costs and other similar charges and recoveries. Generally, we implement such plans in the context of 
+integrating acquired entities with existing OpenText operations and most recently in response to our return to office planning. 
+Actions related to such restructuring plans are typically completed within a period of one year. In certain limited situations, if 
+the planned activity does not need to be implemented, or an expense lower than anticipated is paid out, we record a recovery of 
+the originally recorded expense to Special charges (recoveries).
+
+(In thousands)
+
+Special charges (recoveries)
+
+Year Ended June 30,
+
+2023
+
+Change 
+increase 
+(decrease)
+
+2022
+
+Change 
+increase 
+(decrease)
+
+2021
+
+$ 
+
+169,159  $ 
+
+122,286  $ 
+
+46,873  $ 
+
+45,125  $ 
+
+1,748 
+
+Special charges (recoveries) increased by $122.3 million during the year ended June 30, 2023 as compared to the prior 
+fiscal year. Restructuring activities increased by $55.5 million driven by the Micro Focus Restructuring Plan, acquisition related 
+costs increased by $42.1 million primarily due to the Micro Focus Acquisition and other miscellaneous charges increased by 
+$24.7 million, primarily driven by severance charges related to the Micro Focus Acquisition.
+
+For more details on Special charges (recoveries), see Note 18 “Special Charges (Recoveries)” to our Consolidated 
+
+Financial Statements.
+
+64
+
+Table of Contents
+
+Other Income (Expense), Net
+
+The components of other income (expense), net were as follows:
+
+(In thousands)
+Foreign exchange gains (losses) (1)
+Unrealized losses on derivatives not designated as hedges (2)
+Realized gains on derivatives not designated as hedges (3)
+OpenText share in net income (loss) of equity investees (4)
+Loss on debt extinguishment (5)(6)
+
+Other miscellaneous income (expense)
+
+Total other income (expense), net
+__________________________
+
+Year Ended June 30,
+
+2023
+
+Change 
+increase 
+(decrease)
+
+2022
+
+Change 
+increase 
+(decrease)
+
+2021
+
+$ 
+
+56,599  $ 
+
+59,269  $ 
+
+(2,670)  $ 
+
+(1,397)  $ 
+
+(1,273) 
+
+(128,841) 
+
+137,471 
+
+(23,077) 
+
+(8,152) 
+
+469 
+
+(128,841) 
+
+137,471 
+
+(81,779) 
+
+19,261 
+
+(30) 
+
+— 
+
+— 
+
+58,702 
+
+(27,413) 
+
+499 
+
+— 
+
+— 
+
+(4,195) 
+
+(27,413) 
+
+689 
+
+— 
+
+— 
+
+62,897 
+
+— 
+
+(190) 
+
+$ 
+
+34,469  $ 
+
+5,351  $ 
+
+29,118  $ 
+
+(32,316)  $ 
+
+61,434 
+
+(1) The year ended June 30, 2023 includes a foreign exchange gain of $36.6 million resulting from the delayed payment of a portion of the purchase 
+consideration, settled on February 9, 2023, related to the Micro Focus Acquisition (see Note 19 “Acquisitions” to our Consolidated Financial 
+Statements for more details).
+
+(2) Represents the unrealized losses on our derivatives not designated as hedges related to the financing of the Micro Focus Acquisition (see Note 17 
+
+“Derivative Instruments and Hedging Activities” to our Consolidated Financial Statements for more details). 
+
+(3) Represents the realized gains on our derivatives not designated as hedges related to the financing of the Micro Focus Acquisition (see Note 17 
+
+“Derivative Instruments and Hedging Activities” to our Consolidated Financial Statements for more details). 
+
+(4) Represents our share in net income (loss) of equity investees, which approximates fair value and subject to volatility based on market trends and 
+business conditions, based on our interest in certain investment funds in which we are a limited partner. Our interests in each of these investees 
+range from 4% to below 20% and these investments are accounted for using the equity method (see Note 9 “Prepaid Expenses and Other Assets” to 
+our Consolidated Financial Statements for more details). 
+
+(5) On December 1, 2022, we amended the Acquisition Term Loan and Bridge Loan to reallocate commitments under the Bridge Loan to the 
+
+Acquisition Term Loan and terminated all remaining commitments under the Bridge Loan which resulted in a loss on debt extinguishment related to 
+unamortized debt issuance costs (see Note 11 “Long-Term Debt” to our Consolidated Financial Statements for more details).
+
+(6) On December 9, 2021, we redeemed the Senior Notes 2026 in full, which resulted in a loss on debt extinguishment of $27.4 million. Of this, $25.0 
+
+million related to the early termination call premium, $6.2 million related to unamortized debt issuance costs and ($3.8) million related to 
+unamortized premium (see Note 11 “Long-Term Debt” to our Consolidated Financial Statements for more details).
+
+Interest and Other Related Expense, Net 
+
+Interest and other related expense, net is primarily comprised of interest paid and accrued on our debt facilities, offset by 
+
+interest income earned on our cash and cash equivalents.
+
+(In thousands)
+Interest expense related to total outstanding debt (1)
+Interest income
+Other miscellaneous expense (2)
+Total interest and other related expense, net
+__________________________
+
+Year Ended June 30,
+
+2023
+
+Change 
+increase 
+(decrease)
+
+2022
+
+Change 
+increase 
+(decrease)
+
+$ 
+
+363,632  $ 
+(53,486) 
+
+19,282 
+
+212,063  $ 
+(48,849) 
+
+151,569  $ 
+(4,637) 
+
+8,334 
+
+10,948 
+
+5,923  $ 
+(781) 
+
+1,171 
+
+2021
+
+145,646 
+(3,856) 
+
+9,777 
+
+$ 
+
+329,428  $ 
+
+171,548  $ 
+
+157,880  $ 
+
+6,313  $ 
+
+151,567 
+
+(1) For more details see Note 11 “Long-Term Debt” to our Consolidated Financial Statements.
+(2) Other miscellaneous expense primarily consists of  the amortization of debt discount and the debt issuance costs. For more details see Note 11 
+
+“Long-Term Debt” to our Consolidated Financial Statements. 
+
+Provision for (recovery of) Income Taxes
+
+We operate in several tax jurisdictions and are exposed to various foreign tax rates.
+
+(In thousands)
+
+Year Ended June 30,
+
+2023
+
+Change 
+increase 
+(decrease)
+
+2022
+
+Change 
+increase 
+(decrease)
+
+2021
+
+Provision for (recovery of) income taxes
+
+$ 
+
+70,767  $ 
+
+(47,985)  $ 
+
+118,752  $ 
+
+(221,154)  $ 
+
+339,906 
+
+The effective tax rate increased to a provision of 32.0% for the year ended June 30, 2023, compared to a provision of 
+
+23.0% for the year ended June 30, 2022. Tax expense decreased from $118.8 million during the year ended June 30, 2022 to 
+$70.8 million during the year ended June 30, 2023. The increase in the effective tax rate was driven by increases in withholding 
+taxes, changes in valuation allowance, permanent differences related to foreign source income inclusions, and the impact of 
+
+65
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+internal reorganizations, partially offset by lower pretax income, tax credits and permanent adjustments related to the 
+preferential tax treatment of the mark-to-market gains on derivatives. The tax rate for the year ended June 30, 2022 varied from 
+the statutory rate due favorable permanent adjustments related to excess share-based compensation deductions, tax credits, and 
+the reduction in the accrual on unremitted foreign earnings, partially offset by the impact of internal reorganizations and an 
+increase in unrecognized tax benefits.
+
+Beginning July 1, 2022, as a result of the Tax Cuts and Jobs Act of 2017 (“Tax Act”), our research and development 
+expenditures are now being capitalized and amortized. For fiscal year 2023, the new regulations resulted in incremental cash tax 
+payments of approximately $68 million. The actual impact on future cash flows from operations will primarily depend on if or 
+when this legislation is deferred, modified, or repealed by the U.S. Congress and the amount of R&D expenditures paid or 
+incurred in those respective years. We estimate the largest potential impact will be related to Fiscal 2023 cash flows from 
+operations and that the impact in future years should gradually decrease over the respective amortization periods. 
+
+The Inflation Reduction Act and Creating Helpful Incentives to Produce Semiconductors (CHIPS) and Science Act (the 
+
+Inflation Reduction Act) were signed into law in August 2022. The Inflation Reduction Act introduced new provisions, 
+including a 15% corporate alternative minimum tax for certain large corporations that have at least an average of $1 billion of 
+adjusted financial statement income over a consecutive three-tax-year period. The corporate minimum tax will be effective for 
+Fiscal 2024. We are currently evaluating the applicability and the effect of the new law to our financial results.
+
+For information on certain potential tax contingencies, including the Canada Revenue Agency (CRA) matter, see Note 14 
+“Guarantees and Contingencies” and Note 15 “Income Taxes” to our Consolidated Financial Statements. Please also see Part I, 
+Item 1A, “Risk Factors” within this Annual Report on Form 10-K.
+
+66
+
+Table of Contents
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The following tables set forth changes in cash flows from operating, investing and financing activities for the periods 
+
+indicated: 
+
+(In thousands) 
+Cash and cash equivalents
+Restricted cash (1)
+Total cash, cash equivalents and restricted cash
+__________________________
+
+As of June 30, 
+2023
+
+Change 
+increase 
+(decrease)
+
+As of June 30, 
+2022
+
+Change 
+increase 
+(decrease)
+
+As of June 30, 
+2021
+
+$  1,231,625  $ 
+
+(462,116)  $  1,693,741  $ 
+
+2,327 
+
+157 
+
+2,170 
+
+$  1,233,952  $ 
+
+(461,959)  $  1,695,911  $ 
+
+86,435  $  1,607,306 
+2,494 
+86,111  $  1,609,800 
+
+(324)   
+
+(1) Restricted cash is classified under the Prepaid expenses and other current assets and Other assets line items on the Consolidated 
+Balance Sheets (see Note 9 “Prepaid Expenses and Other Assets” to our Consolidated Financial Statements for more details).
+
+(In thousands) 
+Cash provided by operating activities
+Cash used in investing activities
+Cash provided by (used in) financing activities
+
+2023
+779,205  $ 
+
+Change
+(202,605)  $ 
+$ 
+$  (5,651,420)  $  (4,680,461)  $ 
+$  4,403,053  $  4,264,597  $ 
+
+Change
+
+2022
+105,690  $ 
+981,810  $ 
+(970,959)  $ 
+(902,189)  $ 
+138,456  $  1,063,003  $ 
+
+2021
+876,120 
+(68,770) 
+(924,547) 
+
+Year Ended June 30,
+
+Cash and cash equivalents
+
+Cash and cash equivalents primarily consist of balances with banks as well as deposits with original maturities of 90 days 
+
+or less.
+
+We continue to anticipate that our cash and cash equivalents, as well as available credit facilities, will be sufficient to fund 
+
+our anticipated cash requirements for working capital, contractual commitments, capital expenditures, dividends and operating 
+needs for the next twelve months. Any further material or acquisition-related activities may require additional sources of 
+financing and would be subject to the financial covenants established under our credit facilities. For more details, see “Long-
+term Debt and Credit Facilities” below. 
+
+As of June 30, 2023, we have recognized a provision of $28.3 million (June 30, 2022—$15.1 million) in respect of 
+deferred income tax liabilities for temporary differences related to the undistributed earnings of certain non-United States 
+subsidiaries and planned periodic repatriations from certain German subsidiaries, that will be subject to withholding taxes upon 
+distribution.
+
+Cash flows provided by operating activities 
+
+Cash flows from operating activities decreased by $202.6 million during the year ended June 30, 2023, as compared to the 
+
+same period in the prior fiscal year due to a decrease in net changes from working capital of $255.8 million, partially offset by 
+an increase in net income after the impact of non-cash items of $53.2 million.
+
+During the fourth quarter of Fiscal 2023 we had a days sales outstanding (DSO) of 41 days, compared to our DSO of 43 
+
+days during the fourth quarter of Fiscal 2022. The per day impact of our DSO in the fourth quarter of Fiscal 2023 and Fiscal 
+2022 on our cash flows was $16.6 million and $10.0 million, respectively. In arriving at DSO, we exclude contract assets as 
+these assets do not provide an unconditional right to the related consideration from the customer.
+
+Cash flows used in investing activities
+
+Our cash flows used in investing activities is primarily on account of acquisitions and additions of property and 
+
+equipment. 
+
+Cash flows used in investing activities increased by $4.68 billion during the year ended June 30, 2023, as compared to the 
+same period in the prior fiscal year primarily due to consideration paid for acquisitions during Fiscal 2023, which includes cash 
+paid for the Micro Focus Acquisition of $5.658 billion, as compared to the cash paid during Fiscal 2022 for the acquisition of 
+Zix of $856.2 million and the acquisition of Bricata Inc. of $17.8 million.
+
+67
+
+ 
+ 
+ 
+ 
+Table of Contents
+
+Cash flows provided by (used in) financing activities 
+
+Our cash flows from financing activities generally consist of long-term debt financing and amounts received from stock 
+
+options exercised by our employees and Employee Stock Purchase Plan (ESPP) purchases by our employees. These inflows are 
+typically offset by scheduled and non-scheduled repayments of our long-term debt financing and, when applicable, the payment 
+of dividends and/or repurchases of our Common Shares. 
+
+Cash flows provided by financing activities increased by $4.265 billion during the year ended June 30, 2023 as compared 
+
+to the same period in the prior fiscal year. This is primarily due to the net impact of the following activities:
+
+(i) $3.427 billion increase in proceeds from the issuance of long-term debt and draw down on the Revolver;
+
+(ii) $657.1 million decrease in repayments of long-term debt and Revolver;
+
+(iii) $266.7 million related to less cash used in the repurchases of Common Shares and treasury stock; and
+
+(iv) $25.0 million relating to early call termination premium upon redemption of Senior Notes 2026 in Fiscal 2022 
+
+that did not occur in Fiscal 2023.
+
+The increases in cash flows provided by financing activities above were partially offset by the following decreases:
+
+(i) $60.7 million increase in debt issuance costs;
+
+(ii) $27.9 million related to lower proceeds from the issuance of Common Shares for the exercise of options and 
+
+the OpenText ESPP; and
+
+(iii) $21.9 million related to higher cash dividends paid to shareholders.
+
+Cash Dividends
+
+During the year ended June 30, 2023, we declared and paid cash dividends of $0.9720 per Common Share in the 
+aggregate amount of $259.5 million (year ended June 30, 2022 and 2021—$0.8836 and $0.7770 per Common Share, 
+respectively, in the aggregate amount of $237.7 million and $210.7 million, respectively).
+
+Future declarations of dividends and the establishment of future record and payment dates are subject to final 
+determination and discretion of the Board. See Item 5 “Dividend Policy” included in this Annual Report on Form 10-K for 
+more information.
+
+Long-term Debt and Credit Facilities
+
+Senior Unsecured Fixed Rate Notes
+
+Senior Notes 2031
+
+On November 24, 2021, OpenText Holdings, Inc. (OTHI), a wholly-owned indirect subsidiary of the Company, issued 
+
+$650 million in aggregate principal amount of 4.125% Senior Notes due 2031 guaranteed by the Company (Senior Notes 2031) 
+in an unregistered offering to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended 
+(Securities Act), and to certain non-U.S. persons in offshore transactions pursuant to Regulation S under the Securities Act. 
+Senior Notes 2031 bear interest at a rate of 4.125% per annum, payable semi-annually in arrears on June 1 and December 1, 
+commencing on June 1, 2022. Senior Notes 2031 will mature on December 1, 2031, unless earlier redeemed, in accordance 
+with their terms, or repurchased.
+
+OTHI may redeem all or a portion of the Senior Notes 2031 at any time prior to December 1, 2026 at a redemption price 
+equal to 100% of the principal amount of the Senior Notes 2031 plus an applicable premium, plus accrued and unpaid interest, 
+if any, to the redemption date. OTHI may also redeem up to 40% of the aggregate principal amount of the Senior Notes 2031, 
+on one or more occasions, prior to December 1, 2024, using the net proceeds from certain qualified equity offerings at a 
+redemption price of 104.125% of the principal amount, plus accrued and unpaid interest, if any, to the redemption date, subject 
+to compliance with certain conditions. OTHI may, on one or more occasions, redeem the Senior Notes 2031, in whole or in 
+part, at any time on and after December 1, 2026 at the applicable redemption prices set forth in the indenture governing the 
+Senior Notes 2031, dated as of November 24, 2021, among OTHI, the Company, the subsidiary guarantors party thereto, The 
+Bank of New York Mellon, as U.S. trustee, and BNY Trust Company of Canada, as Canadian trustee (the 2031 Indenture), plus 
+accrued and unpaid interest, if any, to the redemption date. 
+
+If we experience one of the kinds of change of control triggering events specified in the 2031 Indenture, OTHI will be 
+required to make an offer to repurchase the Senior Notes 2031 at a price equal to 101% of the principal amount of the Senior 
+Notes 2031, plus accrued and unpaid interest, if any, to the date of purchase.
+
+68
+
+Table of Contents
+
+The 2031 Indenture contains covenants that limit OTHI, the Company and certain of the Company’s subsidiaries’ ability 
+
+to, among other things: (i) create certain liens and enter into sale and lease-back transactions; (ii) in the case of our non-
+guarantor subsidiaries, create, assume, incur or guarantee additional indebtedness of OTHI, the Company or the guarantors 
+without such subsidiary becoming a subsidiary guarantor of Senior Notes 2031; and (iii) consolidate, amalgamate or merge 
+with, or convey, transfer, lease or otherwise dispose of its property and assets substantially as an entirety to, another person. 
+These covenants are subject to a number of important limitations and exceptions as set forth in the 2031 Indenture. The 2031 
+Indenture also provides for events of default, which, if any of them occurs, may permit or, in certain circumstances, require the 
+principal, premium, if any, interest and any other monetary obligations on all the then-outstanding Senior Notes 2031 to be due 
+and payable immediately.
+
+Senior Notes 2031 are guaranteed on a senior unsecured basis by the Company and the Company’s existing and future 
+
+wholly-owned subsidiaries (other than OTHI) that borrow or guarantee the obligations under our senior credit facilities. Senior 
+Notes 2031 and the guarantees rank equally in right of payment with all of the Company’s, OTHI’s and the guarantors’ existing 
+and future senior unsubordinated debt and will rank senior in right of payment to all of the Company’s, OTHI’s and the 
+guarantors’ future subordinated debt. Senior Notes 2031 and the guarantees will be effectively subordinated to all of the 
+Company’s, OTHI’s and the guarantors’ existing and future secured debt, including the obligations under the senior credit 
+facilities, to the extent of the value of the assets securing such secured debt.
+
+The foregoing description of the 2031 Indenture does not purport to be complete and is qualified in its entirety by 
+
+reference to the full text of the 2031 Indenture, which is filed as an exhibit to the Company’s Current Report on Form 8-K filed 
+with the SEC on November 24, 2021.
+
+For further details relating to our debt, please see Note 11 “Long-Term Debt” to our Consolidated Financial Statements.
+
+Senior Notes 2030
+
+On February 18, 2020 OTHI, a wholly-owned indirect subsidiary of the Company, issued $900 million in aggregate 
+
+principal amount of 4.125% Senior Notes due 2030 guaranteed by the Company (Senior Notes 2030) in an unregistered 
+offering to qualified institutional buyers pursuant to Rule 144A under the Securities Act, and to certain non-U.S. persons in 
+offshore transactions pursuant to Regulation S under the Securities Act. Senior Notes 2030 bear interest at a rate of 4.125% per 
+annum, payable semi-annually in arrears on February 15 and August 15, commencing on August 15, 2020. Senior Notes 2030 
+will mature on February 15, 2030, unless earlier redeemed, in accordance with their terms, or repurchased.
+
+OTHI may redeem all or a portion of the Senior Notes 2030 at any time prior to February 15, 2025 at a redemption price 
+equal to 100% of the principal amount of the Senior Notes 2030 plus an applicable premium, plus accrued and unpaid interest, 
+if any, to the redemption date. OTHI may also redeem up to 40% of the aggregate principal amount of the Senior Notes 2030, 
+on one or more occasions, prior to February 15, 2025, using the net proceeds from certain qualified equity offerings at a 
+redemption price of 104.125% of the principal amount, plus accrued and unpaid interest, if any, to the redemption date, subject 
+to compliance with certain conditions. OTHI may, on one or more occasions, redeem the Senior Notes 2030, in whole or in 
+part, at any time on and after February 15, 2025 at the applicable redemption prices set forth in the indenture governing the 
+Senior Notes 2030, dated as of February 18, 2020, among OTHI, the Company, the subsidiary guarantors party thereto, The 
+Bank of New York Mellon, as U.S. trustee, and BNY Trust Company of Canada, as Canadian trustee (the 2030 Indenture), plus 
+accrued and unpaid interest, if any, to the redemption date. 
+
+If we experience one of the kinds of change of control triggering events specified in the 2030 Indenture, OTHI will be 
+required to make an offer to repurchase the Senior Notes 2030 at a price equal to 101% of the principal amount of the Senior 
+Notes 2030, plus accrued and unpaid interest, if any, to the date of purchase.
+
+The 2030 Indenture contains covenants that limit the Company, OTHI and certain of the Company’s subsidiaries’ ability 
+
+to, among other things: (i) create certain liens and enter into sale and lease-back transactions; (ii) in the case of our non-
+guarantor subsidiaries, create, assume, incur or guarantee additional indebtedness of the Company, OTHI or the guarantors 
+without such subsidiary becoming a subsidiary guarantor of Senior Notes 2030; and (iii) consolidate, amalgamate or merge 
+with, or convey, transfer, lease or otherwise dispose of its property and assets substantially as an entirety to, another person. 
+These covenants are subject to a number of important limitations and exceptions as set forth in the 2030 Indenture. The 2030 
+Indenture also provides for events of default, which, if any of them occurs, may permit or, in certain circumstances, require the 
+principal, premium, if any, interest and any other monetary obligations on all the then-outstanding Senior Notes 2030 to be due 
+and payable immediately.
+
+Senior Notes 2030 are guaranteed on a senior unsecured basis by the Company and the Company’s existing and future 
+
+wholly-owned subsidiaries (other than OTHI) that borrow or guarantee the obligations under our senior credit facilities. Senior 
+Notes 2030 and the guarantees rank equally in right of payment with all of the Company, OTHI and the guarantors’ existing 
+and future senior unsubordinated debt and will rank senior in right of payment to all of the Company, OTHI and the guarantors’ 
+future subordinated debt. Senior Notes 2030 and the guarantees will be effectively subordinated to all of the Company, OTHI 
+
+69
+
+Table of Contents
+
+and the guarantors’ existing and future secured debt, including the obligations under the senior credit facilities, to the extent of 
+the value of the assets securing such secured debt.
+
+The foregoing description of the 2030 Indenture does not purport to be complete and is qualified in its entirety by 
+
+reference to the full text of the 2030 Indenture, which is filed as an exhibit to the Company’s Current Report on Form 8-K filed 
+with the SEC on February 18, 2020.
+
+For further details relating to our debt, please see Note 11 “Long-Term Debt” to our Consolidated Financial Statements.
+
+Senior Notes 2029
+
+On November 24, 2021, we issued $850 million in aggregate principal amount of 3.875% Senior Notes due 2029 (Senior 
+Notes 2029) in an unregistered offering to qualified institutional buyers pursuant to Rule 144A under the Securities Act and to 
+certain non-U.S. persons in offshore transactions pursuant to Regulation S under the Securities Act. Senior Notes 2029 bear 
+interest at a rate of 3.875% per annum, payable semi-annually in arrears on June 1 and December 1, commencing on June 1, 
+2022. Senior Notes 2029 will mature on December 1, 2029, unless earlier redeemed, in accordance with their terms, or 
+repurchased. 
+
+We may redeem all or a portion of the Senior Notes 2029 at any time prior to December 1, 2024 at a redemption price 
+
+equal to 100% of the principal amount of the Senior Notes 2029 plus an applicable premium, plus accrued and unpaid interest, 
+if any, to the redemption date. We may also redeem up to 40% of the aggregate principal amount of the Senior Notes 2029, on 
+one or more occasions, prior to December 1, 2024, using the net proceeds from certain qualified equity offerings at a 
+redemption price of 103.875% of the principal amount, plus accrued and unpaid interest, if any, to the redemption date, subject 
+to compliance with certain conditions. We may, on one or more occasions, redeem the Senior Notes 2029, in whole or in part, 
+at any time on and after December 1, 2024 at the applicable redemption prices set forth in the indenture governing the Senior 
+Notes 2029, dated as of November 24, 2021, among the Company, the subsidiary guarantors party thereto, The Bank of New 
+York Mellon, as U.S. trustee, and BNY Trust Company of Canada, as Canadian trustee (the 2029 Indenture), plus accrued and 
+unpaid interest, if any, to the redemption date. 
+
+If we experience one of the kinds of change of control triggering events specified in the 2029 Indenture, we will be 
+required to make an offer to repurchase the Senior Notes 2029 at a price equal to 101% of the principal amount of the Senior 
+Notes 2029, plus accrued and unpaid interest, if any, to the date of purchase.
+
+The 2029 Indenture contains covenants that limit our and certain of our subsidiaries’ ability to, among other things: (i) 
+create certain liens and enter into sale and lease-back transactions; (ii) in the case of our non-guarantor subsidiaries, create, 
+assume, incur or guarantee additional indebtedness of the Company or the guarantors without such subsidiary becoming a 
+subsidiary guarantor of Senior Notes 2029; and (iii) consolidate, amalgamate or merge with, or convey, transfer, lease or 
+otherwise dispose of its property and assets substantially as an entirety to, another person. These covenants are subject to a 
+number of important limitations and exceptions as set forth in the 2029 Indenture. The 2029 Indenture also provides for events 
+of default, which, if any of them occurs, may permit or, in certain circumstances, require the principal, premium, if any, interest 
+and any other monetary obligations on all the then-outstanding Senior Notes 2029 to be due and payable immediately.
+
+Senior Notes 2029 are guaranteed on a senior unsecured basis by our existing and future wholly-owned subsidiaries that 
+
+borrow or guarantee the obligations under our senior credit facilities. Senior Notes 2029 and the guarantees rank equally in right 
+of payment with all of our and our guarantors’ existing and future senior unsubordinated debt and will rank senior in right of 
+payment to all of our and our guarantors’ future subordinated debt. Senior Notes 2029 and the guarantees will be effectively 
+subordinated to all of our and our guarantors’ existing and future secured debt, including the obligations under the senior credit 
+facilities, to the extent of the value of the assets securing such secured debt. 
+
+The foregoing description of the 2029 Indenture does not purport to be complete and is qualified in its entirety by 
+
+reference to the full text of the 2029 Indenture, which is filed as an exhibit to the Company’s Current Report on Form 8-K filed 
+with the SEC on November 24, 2021.
+
+For further details relating to our debt, please see Note 11 “Long-Term Debt” to our Consolidated Financial Statements.
+
+70
+
+Table of Contents
+
+Senior Notes 2028
+
+On February 18, 2020 we issued $900 million in aggregate principal amount of 3.875% Senior Notes due 2028 (Senior 
+
+Notes 2028) in an unregistered offering to qualified institutional buyers pursuant to Rule 144A under the Securities Act and to 
+certain non-U.S. persons in offshore transactions pursuant to Regulation S under the Securities Act. Senior Notes 2028 bear 
+interest at a rate of 3.875% per annum, payable semi-annually in arrears on February 15 and August 15, commencing on August 
+15, 2020. Senior Notes 2028 will mature on February 15, 2028, unless earlier redeemed, in accordance with their terms, or 
+repurchased.
+
+We may redeem all or a portion of the Senior Notes 2028 at any time prior to February 15, 2023 at a redemption price 
+
+equal to 100% of the principal amount of the Senior Notes 2028 plus an applicable premium, plus accrued and unpaid interest, 
+if any, to the redemption date. We may also redeem up to 40% of the aggregate principal amount of the Senior Notes 2028, on 
+one or more occasions, prior to February 15, 2023, using the net proceeds from certain qualified equity offerings at a 
+redemption price of 103.875% of the principal amount, plus accrued and unpaid interest, if any, to the redemption date, subject 
+to compliance with certain conditions. We may, on one or more occasions, redeem the Senior Notes 2028, in whole or in part, 
+at any time on and after February 15, 2023 at the applicable redemption prices set forth in the indenture governing the Senior 
+Notes 2028, dated as of February 18, 2020, among the Company, the subsidiary guarantors party thereto, The Bank of New 
+York Mellon, as U.S. trustee, and BNY Trust Company of Canada, as Canadian trustee (the 2028 Indenture), plus accrued and 
+unpaid interest, if any, to the redemption date.
+
+If we experience one of the kinds of change of control triggering events specified in the 2028 Indenture, we will be 
+required to make an offer to repurchase the Senior Notes 2028 at a price equal to 101% of the principal amount of the Senior 
+Notes 2028, plus accrued and unpaid interest, if any, to the date of purchase.
+
+The 2028 Indenture contains covenants that limit our and certain of our subsidiaries’ ability to, among other things: (i) 
+create certain liens and enter into sale and lease-back transactions; (ii) in the case of our non-guarantor subsidiaries, create, 
+assume, incur or guarantee additional indebtedness of the Company or the guarantors without such subsidiary becoming a 
+subsidiary guarantor of Senior Notes 2028; and (iii) consolidate, amalgamate or merge with, or convey, transfer, lease or 
+otherwise dispose of its property and assets substantially as an entirety to, another person. These covenants are subject to a 
+number of important limitations and exceptions as set forth in the 2028 Indenture. The 2028 Indenture also provides for events 
+of default, which, if any of them occurs, may permit or, in certain circumstances, require the principal, premium, if any, interest 
+and any other monetary obligations on all the then-outstanding Senior Notes 2028 to be due and payable immediately.
+
+Senior Notes 2028 are guaranteed on a senior unsecured basis by our existing and future wholly-owned subsidiaries that 
+
+borrow or guarantee the obligations under our senior credit facilities. Senior Notes 2028 and the guarantees rank equally in right 
+of payment with all of our and our guarantors’ existing and future senior unsubordinated debt and will rank senior in right of 
+payment to all of our and our guarantors’ future subordinated debt. Senior Notes 2028 and the guarantees will be effectively 
+subordinated to all of our and our guarantors’ existing and future secured debt, including the obligations under the senior credit 
+facilities, to the extent of the value of the assets securing such secured debt.
+
+The foregoing description of the 2028 Indenture does not purport to be complete and is qualified in its entirety by 
+
+reference to the full text of the 2028 Indenture, which is filed as an exhibit to the Company’s Current Report on Form 8-K filed 
+with the SEC on February 18, 2020.
+
+For further details relating to our debt, please see Note 11 “Long-Term Debt” to our Consolidated Financial Statements.
+
+Senior Notes 2026
+
+On May 31, 2016 we issued $600 million in aggregate principal amount of 5.875% Senior Notes due 2026 (Senior Notes 
+2026) in an unregistered offering to qualified institutional buyers pursuant to Rule 144A under the Securities Act, and to certain 
+persons in offshore transactions pursuant to Regulation S under the Securities Act. Senior Notes 2026 had interest at a rate of 
+5.875% per annum, payable semi-annually in arrears on June 1 and December 1, commencing on December 1, 2016. Senior 
+Notes 2026 would have matured on June 1, 2026.
+
+On December 20, 2016, we issued an additional $250 million in aggregate principal amount by reopening our Senior 
+Notes 2026 at an issue price of 102.75%. The additional notes had identical terms, were fungible with and were a part of a 
+single series with the previously issued $600 million aggregate principal amount of Senior Notes 2026. The outstanding 
+aggregate principal amount of Senior Notes 2026, after taking into consideration the additional issuance, was $850 million as of 
+December 9, 2021.
+
+On December 9, 2021, we redeemed Senior Notes 2026 in full at a price equal to 102.9375% of the principal amount plus 
+
+accrued and unpaid interest to, but excluding, the redemption date. A portion of the net proceeds from the offerings of Senior 
+Notes 2029 and Senior Notes 2031 was used to redeem Senior Notes 2026. Upon redemption, Senior Notes 2026 were 
+cancelled, and any obligation thereunder was extinguished. The resulting loss of $27.4 million, consisting of $25.0 million 
+
+71
+
+Table of Contents
+
+relating to the early termination call premium, $6.2 million relating to unamortized debt issuance costs and $(3.8) million 
+relating to unamortized premium, has been recorded as a component of Other income (expense), net in our Consolidated 
+Statements of Income. See Note 23 “Other Income (Expense), Net” to our Consolidated Financial Statements.
+
+For further details relating to our debt, please see Note 11 “Long-Term Debt” to our Consolidated Financial Statements.
+
+Senior Secured Fixed Rate Notes
+
+Senior Secured Notes 2027
+
+On December 1, 2022, we issued $1 billion in aggregate principal amount of Senior Secured Notes 2027 in connection 
+
+with the financing of the Micro Focus Acquisition in an unregistered offering to qualified institutional buyers pursuant to Rule 
+144A under the Securities Act and to certain non-U.S. persons in offshore transactions pursuant to Regulation S under the 
+Securities Act. Senior Secured Notes 2027 bear interest at a rate of 6.90% per annum, payable semi-annually in arrears on June 
+1 and December 1, commencing on June 1, 2023. Senior Secured Notes 2027 will mature on December 1, 2027, unless earlier 
+redeemed, in accordance with their terms, or repurchased.
+
+We may redeem all or a portion of the Senior Secured Notes 2027 at any time prior to November 1, 2027 at a redemption 
+price equal to the greater of (a) 100% of the principal amount of the Senior Secured Notes 2027 to be redeemed and (b) the net 
+present value of the remaining scheduled payments of principal and interest thereon discounted to the Par Call Date less interest 
+accrued to the date of redemption, plus accrued and unpaid interest to, but excluding, the redemption date. On or after the Par 
+Call Date (as defined in the 2027 Indenture), the Company may redeem the Senior Secured Notes 2027, in whole or in part, at 
+any time and from time to time, at a redemption price equal to 100% of the principal amount of the Senior Secured Notes 2027 
+being redeemed plus accrued and unpaid interest thereon to the redemption date.
+
+If we experience one of the kinds of change of control triggering events specified in the indenture governing the Senior 
+
+Secured Notes 2027 dated as of December 1, 2022, among the Company, the subsidiary guarantors party thereto, The Bank of 
+New York Mellon, as U.S. trustee, and BNY Trust Company of Canada, as Canadian trustee (the 2027 Indenture), we will be 
+required to make an offer to repurchase the Senior Secured Notes 2027 at a price equal to 101% of the principal amount of the 
+Senior Secured Notes 2027, plus accrued and unpaid interest, if any, to the date of purchase.
+
+The 2027 Indenture contains covenants that limit our and certain of the Company’s subsidiaries’ ability to, among other 
+things: (i) create certain liens and enter into sale and lease-back transactions; (ii) create, assume, incur or guarantee additional 
+indebtedness of the Company or certain of the Company’s subsidiaries without such subsidiary becoming a subsidiary 
+guarantor of the Senior Secured Notes 2027; and (iii) consolidate, amalgamate or merge with, or convey, transfer, lease or 
+otherwise dispose of the Company’s property and assets substantially as an entirety to, another person. These covenants are 
+subject to a number of important limitations and exceptions as set forth in the 2027 Indenture. The 2027 Indenture also provides 
+for certain events of default, which, if any of them occurs, may permit or, in certain circumstances, require the principal, 
+premium, if any, interest and any other monetary obligations on all the then-outstanding Senior Secured Notes 2027 to be due 
+and payable immediately.
+
+The Senior Secured Notes 2027 are guaranteed on a senior secured basis by certain of the Company’s subsidiaries and are 
+
+secured with the same priority as the Company’s senior credit facilities. The Senior Secured Notes 2027 and the related 
+guarantees are effectively senior to all of the Company’s and the guarantors’ senior unsecured debt to the extent of the value of 
+the Collateral (as defined in the 2027 Indenture) and are structurally subordinated to all existing and future liabilities of each of 
+the Company’s existing and future subsidiaries that do not guarantee the Senior Secured Notes 2027.
+
+The foregoing description of the 2027 Indenture does not purport to be complete and is qualified in its entirety by 
+
+reference to the full text of the 2027 Indenture, which is filed as an exhibit to the Company’s Current Report on Form 8-K filed 
+with the SEC on December 1, 2022.
+
+For further details relating to our debt, please see Note 11 “Long-Term Debt” to our Consolidated Financial Statements.
+
+Term Loan B
+
+On May 30, 2018, we entered into a credit facility, which provides for a $1 billion term loan facility with certain lenders 
+named therein, Barclays Bank PLC (Barclays), as sole administrative agent and collateral agent, and as lead arranger and joint 
+bookrunner (Term Loan B) and borrowed the full amount on May 30, 2018 to, among other things, repay in full the loans under 
+our prior $800 million term loan credit facility originally entered into on January 16, 2014. Repayments made under Term Loan 
+B are equal to 0.25% of the principal amount in equal quarterly installments for the life of Term Loan B, with the remainder due 
+at maturity.
+
+Borrowings under Term Loan B are secured by a first charge over substantially all of our assets on a pari passu basis with 
+
+the Revolver, the Acquisition Term Loan and Senior Secured Notes 2027. Term Loan B has a seven-year term, maturing in 
+
+72
+
+Table of Contents
+
+May 2025. On June 6, 2023, we amended the Term Loan B to replace the LIBOR benchmark rate applicable to borrowings 
+under Term Loan B with a SOFR benchmark rate.
+
+Borrowings under Term Loan B bear interest at a rate per annum equal to an applicable margin plus, at the borrower’s 
+
+option, either (1) the SOFR benchmark rate for the interest period relevant to such borrowing or (2) an alternate base rate 
+(ABR). The applicable margin for borrowings under Term Loan B is 1.75%, with respect to SOFR advances and 0.75%, with 
+respect to ABR advances. The interest on the current outstanding balance for Term Loan B is equal to 1.75% plus SOFR 
+(subject to a 0.00% floor). As of June 30, 2023, the outstanding balance on the Term Loan B bears an interest rate of 6.90%.
+
+Term Loan B has incremental facility capacity of (i) $250 million plus (ii) additional amounts, subject to meeting a 
+
+“consolidated senior secured net leverage” ratio not exceeding 2.75:1.00, in each case subject to certain conditions. 
+Consolidated senior secured net leverage ratio is defined for this purpose as the proportion of our total debt reduced by 
+unrestricted cash, including guarantees and letters of credit, that is secured by our or any of our subsidiaries’ assets, over our 
+trailing twelve months net income before interest, taxes, depreciation, amortization, restructuring, share-based compensation 
+and other miscellaneous charges.
+
+Under Term Loan B, we must maintain a “consolidated net leverage” ratio of no more than 4.00:1.00 at the end of each 
+
+financial quarter. Consolidated net leverage ratio is defined for this purpose as the proportion of our total debt reduced by 
+unrestricted cash, including guarantees and letters of credit, over our trailing twelve months net income before interest, taxes, 
+depreciation, amortization, restructuring, share-based compensation and other miscellaneous charges. As of June 30, 2023, our 
+consolidated net leverage ratio, as calculated in accordance with the applicable agreement, was 3.49:1.00.
+
+For further details relating to our debt, please see Note 11 “Long-Term Debt” to our Consolidated Financial Statements.
+
+Revolver
+
+On October 31, 2019, we amended our committed revolving credit facility (the Revolver) to increase the total 
+commitments under the Revolver from $450 million to $750 million as well as to extend the maturity from May 5, 2022 to 
+October 31, 2024. Borrowings under the Revolver are secured by a first charge over substantially all of our assets, on a pari 
+passu basis with Term Loan B, the Acquisition Term Loan and Senior Secured Notes 2027. The Revolver has no fixed 
+repayment date prior to the end of the term. On June 6, 2023, we amended the Revolver to replace the LIBOR benchmark rate 
+applicable to borrowings with a SOFR benchmark rate. Borrowings under the Revolver currently bear interest per annum at a 
+floating rate of interest equal to Term SOFR plus the SOFR Adjustment (as defined in the Revolver) and a fixed margin 
+dependent on our consolidated net leverage ratio ranging from 1.25% to 1.75%.
+
+Under the Revolver, we must maintain a “consolidated net leverage” ratio of no more than 4.00:1.00 at the end of each 
+
+financial quarter. Consolidated net leverage ratio is defined for this purpose as the proportion of our total debt reduced by 
+unrestricted cash, including guarantees and letters of credit, over our trailing twelve months net income before interest, taxes, 
+depreciation, amortization, restructuring, share-based compensation and other miscellaneous charges.
+
+As of June 30, 2023, we had $275 million outstanding balance under the Revolver (June 30, 2022—nil). For the year 
+ended June 30, 2023, we recorded interest expense of $10.1 million relating to the Revolver (June 30, 2022—nil). In July 2023, 
+the Company subsequently repaid $175 million drawn under the Revolver.
+
+For further details relating to our debt, please see Note 11 “Long-Term Debt” to our Consolidated Financial Statements.
+
+Acquisition Term Loan
+
+On December 1, 2022, we amended our first lien term loan facility (the Acquisition Term Loan), dated as of August 25, 
+
+2022, to increase the aggregate commitments under the senior secured delayed-draw term loan facility from an aggregate 
+principal amount of $2.585 billion to an aggregate principal amount of $3.585 billion. During the third quarter of Fiscal 2023, 
+the Company drew down $3.585 billion, net of original issuance discount of 3% and other fees, of which the net proceeds were 
+used to fund the Micro Focus Acquisition (see Note 19 “Acquisitions” to our Consolidated Financial Statements for more 
+details).
+
+The Acquisition Term Loan has a seven-year term from the date of funding, and repayments under the Acquisition Term 
+Loan are equal to 0.25% of the principal amount in equal quarterly installments for the life of the Acquisition Term Loan, with 
+the remainder due at maturity. Borrowings under the Acquisition Term Loan currently bear a floating rate of interest equal to 
+Term SOFR plus the SOFR Adjustment (as defined in the Acquisition Term Loan) and applicable margin of 3.50%. As of 
+June 30, 2023, the outstanding balance on the Acquisition Term Loan bears an interest rate of 8.75%. As of June 30, 2023, the 
+Acquisition Term Loan bears an effective interest rate of 9.85%. The effective interest rate includes interest expense of $125.7 
+million and amortization of debt discount and issuance costs of $9.3 million.
+
+The Acquisition Term Loan has incremental facility capacity of (i) $250 million plus (ii) additional amounts, subject to 
+meeting a “consolidated senior secured net leverage” ratio not exceeding 2.75:1.00, in each case subject to certain conditions. 
+
+73
+
+Table of Contents
+
+Consolidated senior secured net leverage ratio is defined for this purpose as the proportion of the Company’s total debt reduced 
+by unrestricted cash, including guarantees and letters of credit, that is secured by the Company’s or any of the Company’s 
+subsidiaries’ assets, over the Company’s trailing four financial quarter net income before interest, taxes, depreciation, 
+amortization, restructuring, share-based compensation and other miscellaneous charges. Under the Acquisition Term Loan, we 
+must maintain a “consolidated net leverage” ratio of no more than 4.50:1.00 at the end of each financial quarter. Consolidated 
+net leverage ratio is defined for this purpose as the proportion of the Company’s total debt reduced by unrestricted cash, 
+including guarantees and letters of credit, over the Company’s trailing four financial quarter net income before interest, taxes, 
+depreciation, amortization, restructuring, share-based compensation and other miscellaneous charges as defined in the 
+Acquisition Term Loan. As of June 30, 2023, our consolidated net leverage ratio, as calculated in accordance with the 
+applicable agreement, was 3.49:1.
+
+The Acquisition Term Loan is unconditionally guaranteed by certain subsidiary guarantors, as defined in the Acquisition 
+Term Loan, and is secured by a first charge on substantially all of the assets of the Company and the subsidiary guarantors on a 
+pari passu basis with the Revolver, Term Loan B and the Senior Secured Notes 2027.
+
+For the year ended June 30, 2023, we recorded interest expense of $125.7 million, relating to the Acquisition Term Loan 
+
+(year ended June 30, 2022— nil).
+
+The foregoing description of the Acquisition Term Loan does not purport to be complete and is qualified in its entirety by 
+
+reference to the full text of the Acquisition Term Loan, which is filed as an exhibit to the Company’s Current Report on Form 
+8-K filed with the SEC on August 25, 2022.
+
+For further details relating to our debt, please see Note 11 “Long-Term Debt” to our Consolidated Financial Statements.
+
+Bridge Loan
+
+On August 25, 2022, we entered into a bridge loan agreement (Bridge Loan) which provided for commitments of up to 
+
+$2.0 billion to finance a portion of the repayment of Micro Focus’ existing debt. On December 1, 2022, we entered into an 
+amendment to the Bridge Loan that reallocated commitments under the Bridge Loan to the Acquisition Term Loan. In 
+connection with the amendment to the Bridge Loan and the receipt of proceeds from the issuance of the Senior Secured Notes 
+2027, all remaining commitments under the Bridge Loan were reduced to zero and the Bridge Loan was terminated, which 
+resulted in a loss on debt extinguishment of $8.2 million relating to unamortized debt issuance costs (see Note 22 “Other 
+Income (Expense), Net” to our Consolidated Financial Statements for more details).
+
+As of June 30, 2023, we had no borrowings under the Bridge Loan. For the year ended June 30, 2023, we did not record 
+
+any interest expense relating to the Bridge Loan. 
+
+The foregoing description of the Bridge Loan does not purport to be complete and is qualified in its entirety by reference 
+
+to the full text of the Bridge Loan, which is filed as an exhibit to the Company’s Current Report on Form 8-K filed with the 
+SEC on August 25, 2022.
+
+For further details relating to our debt, please see Note 11 “Long-Term Debt” to our Consolidated Financial Statements.
+
+Shelf Registration Statement 
+
+On December 6, 2021, we filed a universal shelf registration statement on Form S-3 with the SEC, which became 
+effective automatically (the Shelf Registration Statement). The Shelf Registration Statement allows for primary and secondary 
+offerings from time to time of equity, debt and other securities, including Common Shares, Preference Shares, debt securities, 
+depositary shares, warrants, purchase contracts, units and subscription receipts. A short-form base shelf prospectus qualifying 
+the distribution of such securities was concurrently filed with Canadian securities regulators on December 6, 2021. The type of 
+securities and the specific terms thereof will be determined at the time of any offering and will be described in the applicable 
+prospectus supplement to be filed separately with the SEC and Canadian securities regulators.
+
+Share Repurchase Plan / Normal Course Issuer Bid
+
+On November 5, 2020, the Board authorized a share repurchase plan (the Fiscal 2021 Repurchase Plan), pursuant to which 
+
+we were authorized to purchase in open market transactions, from time to time over the 12 month period commencing 
+November 12, 2020, up to an aggregate of $350 million of our Common Shares on the NASDAQ Global Select Market, the 
+TSX and/or other exchanges and alternative trading systems in Canada and/or the United States, if eligible, subject to applicable 
+law and stock exchange rules. The price that we were authorized to pay for Common Shares in open market transactions was 
+the market price at the time of purchase or such other price as was permitted by applicable law or stock exchange rules. 
+
+74
+
+Table of Contents
+
+The Fiscal 2021 Repurchase Plan was effected in accordance with Rule 10b-18. Purchases made under the Fiscal 2021 
+
+Repurchase Plan were subject to a limit of 13,618,774 shares (representing 5% of the Company’s issued and outstanding 
+Common Shares as of November 4, 2020). All Common Shares purchased by us pursuant to the Fiscal 2021 Repurchase Plan 
+were cancelled.
+
+On November 4, 2021, the Board authorized a share repurchase plan (the Fiscal 2022 Repurchase Plan), pursuant to which 
+
+we were authorized to purchase in open market transactions, from time to time over the 12 month period commencing 
+November 12, 2021, up to an aggregate of $350 million of our Common Shares on the NASDAQ Global Select Market, the 
+TSX (as part of a Fiscal 2022 Normal Course Issuer Bid (NCIB)) and/or other exchanges and alternative trading systems in 
+Canada and/or the United States, if eligible, subject to applicable law and stock exchange rules. The price that we paid for 
+Common Shares in open market transactions was the market price at the time of purchase or such other price as was permitted 
+by applicable law or stock exchange rules.
+
+The Fiscal 2022 Repurchase Plan was effected in accordance with Rule 10b-18. All Common Shares purchased by us 
+
+pursuant to the Fiscal 2022 Repurchase Plan were cancelled.
+
+During the year ended June 30, 2023, we did not repurchase and cancel any Common Shares (year ended June 30, 2022 
+
+and 2021— 3,809,559 and 2,500,000 Common Shares for $177.0 million and $119.1 million, respectively). 
+
+Normal Course Issuer Bid
+
+The Company established the Fiscal 2021 NCIB in order to provide it with a means to execute purchases over the TSX as 
+
+part of the overall Fiscal 2021 Repurchase Plan.
+
+The TSX approved the Company’s notice of intention to commence the Fiscal 2021 NCIB pursuant to which the 
+Company was authorized to purchase Common Shares over the TSX for the period commencing November 12, 2020 until 
+November 11, 2021 in accordance with the TSX’s normal course issuer bid rules, including that such purchases were to be 
+made at prevailing market prices or as otherwise permitted. Under the rules of the TSX, the maximum number of Common 
+Shares that could be purchased in this period was 13,618,774 (representing 5% of the Company’s issued and outstanding 
+Common Shares as of November 4, 2020), and the maximum number of Common Shares that could be purchased on a single 
+day was 143,424 Common Shares, which was 25% of 573,699 (the average daily trading volume for the Common Shares on the 
+TSX for the six months ended October 31, 2020), subject to certain exceptions for block purchases, subject in any case to the 
+volume and other limitations under Rule 10b-18.
+
+The Company renewed the NCIB in Fiscal 2022 in order to provide it with a means to execute purchases over the TSX as 
+
+part of the overall Fiscal 2022 Repurchase Plan.
+
+The TSX approved the Company’s notice of intention to commence the Fiscal 2022 NCIB pursuant to which the 
+Company was authorized to purchase Common Shares over the TSX for the period commencing November 12, 2021 until 
+November 11, 2022 in accordance with the TSX’s normal course issuer bid rules, including that such purchases were to be 
+made at prevailing market prices or as otherwise permitted. Under the rules of the TSX, the maximum number of Common 
+Shares that could be purchased in this period was 13,638,008 (representing 5% of the Company’s issued and outstanding 
+Common Shares as of October 31, 2021), and the maximum number of Common Shares that could be purchased on a single 
+day was 112,590 Common Shares, which is 25% of 450,361 (the average daily trading volume for the Common Shares on the 
+TSX for the six months ended October 31, 2021), subject to certain exceptions for block purchases, subject in any case to the 
+volume and other limitations under Rule 10b-18.
+
+75
+
+Table of Contents
+
+Pensions
+
+As of June 30, 2023, our total unfunded pension plan obligations were $130.82 million, of which $4.50 million is payable 
+within the next twelve months. We expect to be able to make the long-term and short-term payments related to these obligations 
+in the normal course of operations. 
+
+Anticipated pension payments under our defined benefit plans for the fiscal years indicated below are as follows:
+
+2024
+2025
+2026
+2027
+2028
+2029 to 2033
+
+Total
+
+Fiscal years ending June 30,
+
+13,115 
+13,221 
+14,258 
+16,146 
+17,745 
+102,196 
+
+176,681 
+
+$ 
+
+$ 
+
+For a detailed discussion on pensions, see Note 12 “Pension Plans and Other Post Retirement Benefits” to our 
+
+Consolidated Financial Statements.
+
+Commitments and Contractual Obligations 
+
+As of June 30, 2023, we have entered into the following contractual obligations with minimum payments for the indicated 
+
+fiscal periods as follows: 
+
+$ 
+
+Long-term debt obligations (1)
+Operating lease obligations (2)
+Finance lease obligations (3)
+Purchase obligations for 
+contracts not accounted for as 
+lease obligations 
+
+July 1, 2023 - June 
+30, 2024
+
+Payments due between
+
+July 1, 2024 - June 
+30, 2026
+
+July 1, 2026 - June 
+30, 2028
+
+648,414  $ 
+105,685 
+5,712 
+
+2,373,260  $ 
+144,062 
+5,311 
+
+2,948,038  $ 
+90,267 
+459 
+
+July 1, 2028 and 
+beyond
+6,454,574 
+71,380 
+— 
+
+Total
+12,424,286  $ 
+411,394 
+11,482 
+
+176,440 
+
+52,588 
+
+108,346 
+
+15,506 
+
+— 
+
+________________________________________
+
+$ 
+
+13,023,602  $ 
+
+812,399  $ 
+
+2,630,979  $ 
+
+3,054,270  $ 
+
+6,525,954 
+
+(1)
+
+Includes interest up to maturity and principal payments. Please see Note 11 “Long-Term Debt” to our Consolidated Financial 
+Statements for more details.
+
+(2) Represents the undiscounted future minimum lease payments under our operating leases liabilities and excludes sublease income 
+expected to be received under our various sublease agreements with third parties. Please see Note 6 “Leases” to our Consolidated 
+Financial Statements for more details.
+
+(3) Represents the undiscounted future minimum lease payments under our financing leases liabilities and excludes sublease income 
+expected to be received under our various sublease agreements with third parties. Please see Note 6 “Leases” to our Consolidated 
+Financial Statements for more details.
+
+Guarantees and Indemnifications
+
+We have entered into customer agreements which may include provisions to indemnify our customers against third party 
+claims that our software products or services infringe certain third-party intellectual property rights and for liabilities related to 
+a breach of our confidentiality obligations. We have not made any material payments in relation to such indemnification 
+provisions and have not accrued any liabilities related to these indemnification provisions in our Consolidated Financial 
+Statements. 
+
+Occasionally, we enter into financial guarantees with third parties in the ordinary course of our business, including, 
+among others, guarantees relating to taxes and letters of credit on behalf of parties with whom we conduct business. Such 
+agreements have not had a material effect on our results of operations, financial position or cash flows. 
+
+76
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+Litigation
+
+We are currently involved in various claims and legal proceedings.
+
+Quarterly, we review the status of each significant legal matter and evaluate such matters to determine how they should be 
+
+treated for accounting and disclosure purposes in accordance with the requirements of ASC Topic 450-20 “Loss 
+Contingencies” (Topic 450-20). Specifically, this evaluation process includes the centralized tracking and itemization of the 
+status of all our disputes and litigation items, discussing the nature of any litigation and claim, including any dispute or claim 
+that is reasonably likely to result in litigation, with relevant internal and external counsel, and assessing the progress of each 
+matter in light of its merits and our experience with similar proceedings under similar circumstances.
+
+If the potential loss from any claim or legal proceeding is considered probable and the amount can be reasonably 
+
+estimated, we accrue a liability for the estimated loss in accordance with Topic 450-20. As of the date of this Annual Report on 
+Form 10-K, the aggregate of such accrued liabilities was not material to our consolidated financial position or results of 
+operations and we do not believe as of the date of this filing that it is reasonably possible that a loss exceeding the amounts 
+already recognized will be incurred that would be material to our consolidated financial position or results of operations. As 
+described more fully below, we are unable at this time to estimate a possible loss or range of losses in respect of certain 
+disclosed matters.
+
+Contingencies
+
+CRA Matter
+
+As part of its ongoing audit of our Canadian tax returns, the CRA has disputed our transfer pricing methodology used for 
+
+certain intercompany transactions with our international subsidiaries and has issued notices of reassessment for Fiscal 2012, 
+Fiscal 2013, Fiscal 2014, Fiscal 2015 and Fiscal 2016. Assuming the utilization of available tax attributes (further described 
+below), we estimate our potential aggregate liability, as of June 30, 2023, in connection with the CRA’s reassessments for 
+Fiscal 2012, Fiscal 2013, Fiscal 2014, Fiscal 2015 and Fiscal 2016, to be limited to penalties, interest and provincial taxes that 
+may be due of approximately $76 million. As of June 30, 2023, we have provisionally paid approximately $33 million in order 
+to fully preserve our rights to object to the CRA’s audit positions, being the minimum payment required under Canadian 
+legislation while the matter is in dispute. This amount is recorded within “Long-term income taxes recoverable” on the 
+Consolidated Balance Sheets as of June 30, 2023.
+
+The notices of reassessment for Fiscal 2012, Fiscal 2013, Fiscal 2014, Fiscal 2015 and Fiscal 2016 would, as drafted, 
+increase our taxable income by approximately $90 million to $100 million for each of those years, as well as impose a 10% 
+penalty on the proposed adjustment to income. Audits by the CRA of our tax returns for fiscal years prior to Fiscal 2012 have 
+been completed with no reassessment of our income tax liability.
+
+We strongly disagree with the CRA’s positions and believe the reassessments of Fiscal 2012, Fiscal 2013, Fiscal 2014, 
+
+Fiscal 2015 and Fiscal 2016 (including any penalties) are without merit, and we are continuing to contest these reassessments. 
+On June 30, 2022, we filed a notice of appeal with the Tax Court of Canada seeking to reverse all such reassessments (including 
+penalties) in full and the customary court process is ongoing.
+
+Even if we are unsuccessful in challenging the CRA’s reassessments to increase our taxable income for Fiscal 2012, 
+
+Fiscal 2013, Fiscal 2014, Fiscal 2015 and Fiscal 2016, we have elective deductions available for those years (including carry-
+backs from later years) that would offset such increased amounts so that no additional cash tax would be payable, exclusive of 
+any assessed penalties and interest, as described above.
+
+The CRA has audited Fiscal 2017 and Fiscal 2018 on a basis that we strongly disagree with and are contesting. The focus 
+
+of the CRA audit has been the valuation of certain intellectual property and goodwill when one of our subsidiaries continued 
+into Canada from Luxembourg in July 2016. In accordance with applicable rules, these assets were recognized for tax purposes 
+at fair market value as of that time, which value was supported by an expert valuation prepared by an independent leading 
+accounting and advisory firm. CRA’s position for Fiscal 2017 and Fiscal 2018 relies in significant part on the application of its 
+positions regarding our transfer pricing methodology that are the basis for its reassessment of our fiscal years 2012 to 2016 
+described above, and that we believe are without merit. Other aspects of CRA’s position for Fiscal 2017 and Fiscal 2018 
+conflict with the expert valuation prepared by the independent leading accounting and advisory firm that was used to support 
+our original filing position. The CRA issued notices of reassessment in respect of Fiscal 2017 and Fiscal 2018 on a basis 
+consistent with its proposal to reduce the available depreciable basis of these assets in Canada. On April 19, 2022, we filed our 
+notice of objection regarding the reassessment in respect of Fiscal 2017 and on March 15, 2023, we filed our notice of objection 
+regarding the reassessment in respect of Fiscal 2018. If we are ultimately unsuccessful in defending our position, the estimated 
+impact of the proposed adjustment could result in us recording an income tax expense, with no immediate cash payment, to 
+reduce the stated value of our deferred tax assets of up to approximately $470 million. Any such income tax expense could also 
+have a corresponding cash tax impact that would primarily occur over a period of several future years based upon annual 
+
+77
+
+Table of Contents
+
+income realization in Canada. We strongly disagree with the CRA’s position for Fiscal 2017 and Fiscal 2018 and intend to 
+vigorously defend our original filing position. We are not required to provisionally pay any cash amounts to the CRA as a result 
+of the reassessment in respect of Fiscal 2017 and Fiscal 2018 due to the utilization of available tax attributes; however, to the 
+extent the CRA reassesses subsequent fiscal years on a similar basis, we expect to make certain minimum payments required 
+under Canadian legislation, which may need to be provisionally made starting in Fiscal 2024 while the matter is in dispute. 
+
+We will continue to vigorously contest the adjustments to our taxable income and any penalty and interest assessments, as 
+
+well as any reduction to the basis of our depreciable property. We are confident that our original tax filing positions were 
+appropriate. Accordingly, as of the date of this Annual Report on Form 10-K, we have not recorded any accruals in respect of 
+these reassessments or proposed reassessment in our Consolidated Financial Statements. The CRA is auditing Fiscal 2019, and 
+may reassess Fiscal 2019 on a similar basis as Fiscal 2017 and Fiscal 2018. The CRA is also in preliminary stages of auditing 
+Fiscal 2020.
+
+Carbonite Class Action Complaint
+
+On August 1, 2019, prior to our acquisition of Carbonite, a purported stockholder of Carbonite filed a putative class action 
+
+complaint against Carbonite, its former Chief Executive Officer, Mohamad S. Ali, and its former Chief Financial Officer, 
+Anthony Folger, in the United States District Court for the District of Massachusetts captioned Ruben A. Luna, Individually 
+and on Behalf of All Others Similarly Situated v. Carbonite, Inc., Mohamad S. Ali, and Anthony Folger (No. 1:19-cv-11662-
+LTS) (the Luna Complaint). The complaint alleges violations of the federal securities laws under Sections 10(b) and 20(a) of 
+the Securities Exchange Act of 1934, as amended, and Rule 10b-5 promulgated thereunder. The complaint generally alleges 
+that the defendants made materially false and misleading statements in connection with Carbonite’s Server Backup VM Edition, 
+and seeks, among other things, the designation of the action as a class action, an award of unspecified compensatory damages, 
+costs and expenses, including counsel fees and expert fees, and other relief as the court deems appropriate. On August 23, 2019, 
+a nearly identical complaint was filed in the same court captioned William Feng, Individually and on Behalf of All Others 
+Similarly Situated v. Carbonite, Inc., Mohamad S. Ali, and Anthony Folger (No. 1:19- cv-11808-LTS) (together with the Luna 
+Complaint, the Securities Actions). On November 21, 2019, the district court consolidated the Securities Actions, appointed a 
+lead plaintiff, and designated a lead counsel. On January 15, 2020, the lead plaintiff filed a consolidated amended complaint 
+generally making the same allegations and seeking the same relief as the complaint filed on August 1, 2019. The defendants 
+moved to dismiss the Securities Actions on March 10, 2020. On October 22, 2020, the district court granted with prejudice the 
+defendants’ motion to dismiss the Securities Actions. On November 20, 2020, the lead plaintiff filed a notice of appeal to the 
+United States Court of Appeals for the First Circuit. On December 21, 2021, the United States Court of Appeals for the First 
+Circuit issued a decision reversing and remanding the Securities Actions to the district court for further proceedings. The parties 
+have completed discovery and defendants have filed a motion for summary judgment. The defendants remain confident in their 
+position, believe the Securities Actions are without merit, and will continue to vigorously defend the matter.
+
+Carbonite vs Realtime Data
+
+On February 27, 2017, before our acquisition of Carbonite, a non-practicing entity named Realtime Data LLC (Realtime 
+
+Data) filed a lawsuit against Carbonite in the U.S. District Court for the Eastern District of Texas captioned Realtime Data LLC 
+v. Carbonite, Inc. et al (No 6:17-cv-00121-RWS-JDL). Therein, it alleged that certain of Carbonite’s cloud storage services 
+infringe upon certain patents held by Realtime Data. Realtime Data’s complaint against Carbonite sought damages in an 
+unspecified amount and injunctive relief. On December 19, 2017, the U.S. District Court for the Eastern District of Texas 
+transferred the case to the U.S. District Court for the District of Massachusetts (No. 1:17-cv-12499). Realtime Data has also 
+filed numerous other patent suits on the same asserted patents against other companies. After a stay pending appeal in one of 
+those suits, on January 21, 2021, the district court held a hearing to construe the claims of the asserted patents. As to the fourth 
+patent asserted against Carbonite, on September 24, 2019, the U.S. Patent & Trademark Office Patent Trial and Appeal Board 
+invalidated certain claims of that patent, including certain claims that had been asserted against Carbonite. The parties then 
+jointly stipulated to dismiss that patent from this action. On August 23, 2021, in one of the suits against other companies, the 
+District of Delaware (No. 1:17-cv-800), held all of the patents asserted against Carbonite to be invalid. Realtime Data has 
+appealed that decision to the U.S. Court of Appeals for the Federal Circuit. We continue to vigorously defend the matter, and 
+the U.S. District Court for the District of Massachusetts has issued a claim construction order. We have not accrued a loss 
+contingency related to this matter because litigation related to a non-practicing entity is inherently unpredictable. Although a 
+loss is reasonably possible, an unfavorable outcome is not considered by management to be probable at this time and we remain 
+unable to reasonably estimate a possible loss or range of loss associated with this litigation.
+
+Other Matters
+
+Please also see Part I, Item 1A, “Risk Factors” in this Annual Report on Form 10-K for Fiscal 2023, as well as Note 15 
+
+“Income Taxes” to the Consolidated Financial Statements included in this Annual Report on Form 10-K related to certain 
+historical matters arising prior to the Micro Focus Acquisition.
+
+78
+
+Table of Contents
+
+Off-Balance Sheet Arrangements 
+
+We do not enter into off-balance sheet financing as a matter of practice, except for guarantees relating to taxes and letters 
+
+of credit on behalf of parties with whom we conduct business.
+
+79
+
+Table of Contents
+
+Use of Non-GAAP Financial Measures
+
+In addition to reporting financial results in accordance with U.S. GAAP, the Company provides certain financial measures 
+that are not in accordance with U.S. GAAP (Non-GAAP). These Non-GAAP financial measures have certain limitations in that 
+they do not have a standardized meaning and thus the Company’s definition may be different from similar Non-GAAP financial 
+measures used by other companies and/or analysts and may differ from period to period. Thus, it may be more difficult to 
+compare the Company’s financial performance to that of other companies. However, the Company’s management compensates 
+for these limitations by providing the relevant disclosure of the items excluded in the calculation of these Non-GAAP financial 
+measures both in its reconciliation to the U.S. GAAP financial measures and its Consolidated Financial Statements, all of which 
+should be considered when evaluating the Company’s results. 
+
+The Company uses these Non-GAAP financial measures to supplement the information provided in its Consolidated 
+Financial Statements, which are presented in accordance with U.S. GAAP. The presentation of Non-GAAP financial measures 
+is not meant to be a substitute for financial measures presented in accordance with U.S. GAAP, but rather should be evaluated 
+in conjunction with and as a supplement to such U.S. GAAP measures. OpenText strongly encourages investors to review its 
+financial information in its entirety and not to rely on a single financial measure. The Company therefore believes that despite 
+these limitations, it is appropriate to supplement the disclosure of the U.S. GAAP measures with certain Non-GAAP measures 
+defined below.
+
+Non-GAAP-based net income and Non-GAAP-based EPS, attributable to OpenText, are consistently calculated as 
+GAAP-based net income or earnings (loss) per share, attributable to OpenText, on a diluted basis, excluding the effects of the 
+amortization of acquired intangible assets, other income (expense), share-based compensation, and special charges (recoveries), 
+all net of tax and any tax benefits/expense items unrelated to current period income, as further described in the tables below. 
+Non-GAAP-based gross profit is the arithmetical sum of GAAP-based gross profit and the amortization of acquired technology-
+based intangible assets and share-based compensation within cost of sales. Non-GAAP-based gross margin is calculated as 
+Non-GAAP-based gross profit expressed as a percentage of total revenue. Non-GAAP-based income from operations is 
+calculated as GAAP-based income from operations, excluding the amortization of acquired intangible assets, special charges 
+(recoveries), and share-based compensation expense. 
+
+Adjusted earnings before interest, taxes, depreciation and amortization (Adjusted EBITDA) is consistently calculated as 
+
+GAAP-based net income, attributable to OpenText, excluding interest income (expense), provision for (recovery of) income 
+taxes, depreciation and amortization of acquired intangible assets, other income (expense), share-based compensation and 
+special charges (recoveries).
+
+The Company’s management believes that the presentation of the above defined Non-GAAP financial measures provides 
+
+useful information to investors because they portray the financial results of the Company before the impact of certain non-
+operational charges. The use of the term “non-operational charge” is defined for this purpose as an expense that does not impact 
+the ongoing operating decisions taken by the Company’s management. These items are excluded based upon the way the 
+Company’s management evaluates the performance of the Company’s business for use in the Company’s internal reports and 
+are not excluded in the sense that they may be used under U.S. GAAP. 
+
+The Company does not acquire businesses on a predictable cycle, and therefore believes that the presentation of Non-
+GAAP measures, which in certain cases adjust for the impact of amortization of intangible assets and the related tax effects that 
+are primarily related to acquisitions, will provide readers of financial statements with a more consistent basis for comparison 
+across accounting periods and be more useful in helping readers understand the Company’s operating results and underlying 
+operational trends. Additionally, the Company has engaged in various restructuring activities over the past several years, 
+primarily due to acquisitions and most recently in response to our return to office planning, that have resulted in costs 
+associated with reductions in headcount, consolidation of leased facilities and related costs, all which are recorded under the 
+Company’s “Special charges (recoveries)” caption on the Consolidated Statements of Income. Each restructuring activity is a 
+discrete event based on a unique set of business objectives or circumstances, and each differs in terms of its operational 
+implementation, business impact and scope, and the size of each restructuring plan can vary significantly from period to period. 
+Therefore, the Company believes that the exclusion of these special charges (recoveries) will also better aid readers of financial 
+statements in the understanding and comparability of the Company’s operating results and underlying operational trends. 
+
+In summary, the Company believes the provision of supplemental Non-GAAP measures allow investors to evaluate the 
+operational and financial performance of the Company’s core business using the same evaluation measures that management 
+uses, and is therefore a useful indication of OpenText’s performance or expected performance of future operations and 
+facilitates period-to-period comparison of operating performance (although prior performance is not necessarily indicative of 
+future performance). As a result, the Company considers it appropriate and reasonable to provide, in addition to U.S. GAAP 
+measures, supplementary Non-GAAP financial measures that exclude certain items from the presentation of its financial results.
+
+The following charts provide unaudited reconciliations of U.S. GAAP-based financial measures to Non-GAAP-based 
+
+financial measures for the following periods presented. The Micro Focus Acquisition significantly impacts period-over-period 
+comparability.
+
+80
+
+Table of Contents
+
+Reconciliation of selected GAAP-based measures to Non-GAAP-based measures 
+for the year ended June 30, 2023 
+(In thousands, except for per share data)
+
+Cost of revenues
+
+Cloud services and subscriptions
+
+Customer support
+
+Professional service and other
+
+Amortization of acquired technology-based intangible assets
+
+GAAP-based gross profit and gross margin (%) / Non-GAAP-based gross 
+
+profit and gross margin (%)
+
+Operating expenses
+
+Research and development
+
+Sales and marketing
+
+General and administrative
+
+Amortization of acquired customer-based intangible assets
+Special charges (recoveries)
+
+GAAP-based income from operations / Non-GAAP-based income from 
+
+operations
+
+Other income (expense), net
+
+Provision for income taxes
+
+GAAP-based net income / Non-GAAP-based net income, attributable to 
+
+OpenText
+
+GAAP-based EPS / Non-GAAP-based EPS-diluted, attributable to 
+
+OpenText
+
+__________________________
+
+Year Ended June 30, 2023
+
+GAAP-
+based 
+Measures 
+% of Total 
+Revenue
+
+GAAP-based 
+Measures
+
+Non-GAAP-
+based 
+Measures
+
+Non-GAAP-
+based 
+Measures
+% of Total 
+Revenue
+
+Adjustments Note
+
+$ 
+
+590,165 
+
+$ 
+
+(10,664)  (1) $  579,501 
+
+209,705 
+
+276,888 
+
+223,184 
+
+(3,627)  (1)
+
+(6,998)  (1)
+
+(223,184)  (2)
+
+206,078 
+
+269,890 
+
+— 
+
+  3,168,393 
+
+70.6%
+
+244,473 
+
+(3)
+
+  3,412,866 
+
+76.1%
+
+680,587 
+
+948,598 
+
+419,590 
+
+326,406 
+169,159 
+
+516,292 
+
+34,469 
+
+70,767 
+
+150,379 
+
+(39,065)  (1)
+
+(41,710)  (1)
+
+(28,238)  (1)
+
+(326,406)  (2)
+(169,159)  (4)
+
+641,522 
+
+906,888 
+
+391,352 
+
+— 
+— 
+
+849,051 
+
+(5)
+
+  1,365,343 
+
+(34,469)  (6)
+
+— 
+
+74,261 
+
+(7)
+
+145,028 
+
+740,321 
+
+(8)
+
+890,700 
+
+$ 
+
+0.56 
+
+$ 
+
+2.73 
+
+(8) $ 
+
+3.29 
+
+(1) Adjustment relates to the exclusion of share-based compensation expense from our Non-GAAP-based operating expenses as this expense is 
+
+excluded from our internal analysis of operating results.
+
+(2) Adjustment relates to the exclusion of amortization expense from our Non-GAAP-based operating expenses as the timing and frequency of 
+
+amortization expense is dependent on our acquisitions and is hence excluded from our internal analysis of operating results.
+
+(3) GAAP-based and Non-GAAP-based gross profit stated in dollars and gross margin stated as a percentage of total revenue.
+(4) Adjustment relates to the exclusion of special charges (recoveries) from our Non-GAAP-based operating expenses as special charges (recoveries) 
+are generally incurred in the periods relevant to an acquisition and include certain charges or recoveries that are not indicative or related to 
+continuing operations and are therefore excluded from our internal analysis of operating results. See Note 18 “Special Charges (Recoveries)” to our 
+Consolidated Financial Statements for more details.
+
+(5) GAAP-based and Non-GAAP-based income from operations stated in dollars.
+(6) Adjustment relates to the exclusion of other income (expense) from our Non-GAAP-based operating expenses as other income (expense) generally 
+relates to the transactional impact of foreign exchange and is generally not indicative or related to continuing operations and is therefore excluded 
+from our internal analysis of operating results. Other income (expense) also includes our share of income (losses) from our holdings in investments 
+as a limited partner. We do not actively trade equity securities in these privately held companies nor do we plan our ongoing operations based 
+around any anticipated fundings or distributions from these investments. We exclude gains and losses on these investments as we do not believe they 
+are reflective of our ongoing business and operating results. Other income (expense) also includes unrealized and realized gains (losses) on our 
+derivatives which are not designated as hedges. We exclude gains and losses on these derivatives as we do not believe they are reflective of our 
+ongoing business and operating results.
+
+(7) Adjustment relates to differences between the GAAP-based tax provision rate of approximately 32% and a Non-GAAP-based tax rate of 
+
+approximately 14%; these rate differences are due to the income tax effects of items that are excluded for the purpose of calculating Non-GAAP-
+based net income. Such excluded items include amortization, share-based compensation, special charges (recoveries) and other income (expense), 
+net. Also excluded are tax benefits/expense items unrelated to current period income such as changes in reserves for tax uncertainties and valuation 
+allowance reserves and “book to return” adjustments for tax return filings and tax assessments. Included is the amount of net tax benefits arising 
+from the internal reorganization that occurred in Fiscal 2017 assumed to be allocable to the current period based on the forecasted utilization period. 
+In arriving at our Non-GAAP-based tax rate of approximately 14%, we analyzed the individual adjusted expenses and took into consideration the 
+impact of statutory tax rates from local jurisdictions incurring the expense.
+
+81
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+(8) Reconciliation of GAAP-based net income to Non-GAAP-based net income:
+
+Year Ended June 30, 2023
+
+Per share diluted
+
+GAAP-based net income, attributable to OpenText
+
+$ 
+
+150,379  $ 
+
+Add:
+
+Amortization
+
+Share-based compensation
+
+Special charges (recoveries)
+
+Other (income) expense, net
+
+GAAP-based provision for income taxes
+
+Non-GAAP-based recovery of income taxes
+
+Non-GAAP-based net income, attributable to OpenText
+
+$ 
+
+Reconciliation of Adjusted EBITDA
+
+GAAP-based net income, attributable to OpenText
+
+Add:
+
+Provision for income taxes
+Interest and other related expense, net
+
+Amortization of acquired technology-based intangible assets
+
+Amortization of acquired customer-based intangible assets
+
+Depreciation
+
+Share-based compensation
+
+Special charges (recoveries)
+
+Other (income) expense, net
+
+Adjusted EBITDA
+
+549,590 
+
+130,302 
+
+169,159 
+
+(34,469)   
+
+70,767 
+
+(145,028)   
+
+890,700  $ 
+
+$ 
+
+$ 
+
+0.56 
+
+2.03 
+
+0.48 
+
+0.63 
+
+(0.13) 
+
+0.26 
+
+(0.54) 
+
+3.29 
+
+Year Ended June 30, 2023
+
+150,379 
+
+70,767 
+329,428 
+
+223,184 
+
+326,406 
+
+107,761 
+
+130,302 
+
+169,159 
+
+(34,469) 
+
+1,472,917 
+
+82
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+Reconciliation of selected GAAP-based measures to Non-GAAP-based measures 
+for the year ended June 30, 2022 
+(In thousands, except for per share data)
+
+Cost of revenues
+
+Cloud services and subscriptions
+
+Customer support
+
+Professional service and other
+
+Amortization of acquired technology-based intangible assets
+
+GAAP-based gross profit and gross margin (%) / Non-GAAP-based gross 
+
+Year Ended June 30, 2022
+
+GAAP-based 
+Measures
+
+GAAP-based 
+Measures 
+% of Total 
+Revenue
+
+Adjustments Note
+
+Non-GAAP-
+based 
+Measures
+
+Non-GAAP-
+based 
+Measures
+% of Total 
+Revenue
+
+$ 
+
+511,713 
+
+$ 
+
+(5,285)  (1) $ 
+
+506,428 
+
+121,485 
+
+216,895 
+
+198,607 
+
+(2,399)  (1)
+
+(3,740)  (1)
+
+(198,607)  (2)
+
+119,086 
+
+213,155 
+
+— 
+
+profit and gross margin (%)
+
+  2,431,643 
+
+69.6%
+
+210,031 
+
+(3)
+
+  2,641,674 
+
+75.6%
+
+Operating expenses
+
+Research and development
+
+Sales and marketing
+
+General and administrative
+
+Amortization of acquired customer-based intangible assets
+
+Special charges (recoveries)
+
+GAAP-based income from operations / Non-GAAP-based income from 
+
+operations
+
+Other income (expense), net
+
+Provision for income taxes
+
+GAAP-based net income / Non-GAAP-based net income, attributable to 
+
+OpenText
+
+GAAP-based EPS / Non-GAAP-based EPS-diluted, attributable to 
+
+OpenText
+
+__________________________
+
+440,448 
+
+677,118 
+
+317,085 
+
+217,105 
+
+46,873 
+
+644,773 
+
+29,118 
+
+118,752 
+
+397,090 
+
+(17,122)  (1)
+
+(22,628)  (1)
+
+(18,382)  (1)
+
+(217,105)  (2)
+
+(46,873)  (4)
+
+423,326 
+
+654,490 
+
+298,703 
+
+— 
+
+— 
+
+532,141 
+
+(5)
+
+  1,176,914 
+
+(29,118)  (6)
+
+— 
+
+23,913 
+
+(7)
+
+142,665 
+
+479,110 
+
+(8)
+
+876,200 
+
+$ 
+
+1.46 
+
+$ 
+
+1.76 
+
+(8) $ 
+
+3.22 
+
+(1) Adjustment relates to the exclusion of share-based compensation expense from our Non-GAAP-based operating expenses as this expense is 
+
+excluded from our internal analysis of operating results.
+
+(2) Adjustment relates to the exclusion of amortization expense from our Non-GAAP-based operating expenses as the timing and frequency of 
+
+amortization expense is dependent on our acquisitions and is hence excluded from our internal analysis of operating results.
+
+(3) GAAP-based and Non-GAAP-based gross profit stated in dollars and gross margin stated as a percentage of total revenue.
+(4) Adjustment relates to the exclusion of special charges (recoveries) from our Non-GAAP-based operating expenses as special charges (recoveries) 
+are generally incurred in the periods relevant to an acquisition and include certain charges or recoveries that are not indicative or related to 
+continuing operations and are therefore excluded from our internal analysis of operating results. See Note 18 “Special Charges (Recoveries)” to our 
+Consolidated Financial Statements for more details.
+
+(5) GAAP-based and Non-GAAP-based income from operations stated in dollars.
+(6) Adjustment relates to the exclusion of other income (expense) from our Non-GAAP-based operating expenses as other income (expense) generally 
+relates to the transactional impact of foreign exchange and is generally not indicative or related to continuing operations and is therefore excluded 
+from our internal analysis of operating results. Other income (expense) also includes our share of income (losses) from our holdings in investments 
+as a limited partner. We do not actively trade equity securities in these privately held companies nor do we plan our ongoing operations based 
+around any anticipated fundings or distributions from these investments. We exclude gains and losses on these investments as we do not believe they 
+are reflective of our ongoing business and operating results. 
+
+(7) Adjustment relates to differences between the GAAP-based tax provision rate of approximately 23% and a Non-GAAP-based tax rate of 
+
+approximately 14%; these rate differences are due to the income tax effects of items that are excluded for the purpose of calculating Non-GAAP-
+based net income. Such excluded items include amortization, share-based compensation, special charges (recoveries) and other income (expense), 
+net. Also excluded are tax benefits/expense items unrelated to current period income such as changes in reserves for tax uncertainties and valuation 
+allowance reserves and “book to return” adjustments for tax return filings and tax assessments. Included is the amount of net tax benefits arising 
+from the internal reorganization that occurred in Fiscal 2017 assumed to be allocable to the current period based on the forecasted utilization period. 
+In arriving at our Non-GAAP-based tax rate of approximately 14%, we analyzed the individual adjusted expenses and took into consideration the 
+impact of statutory tax rates from local jurisdictions incurring the expense.
+
+83
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+(8) Reconciliation of GAAP-based net income to Non-GAAP-based net income:
+
+Year Ended June 30, 2022
+
+Per share diluted
+
+GAAP-based net income, attributable to OpenText
+
+$ 
+
+397,090  $ 
+
+Add:
+
+Amortization
+
+Share-based compensation
+
+Special charges (recoveries)
+
+Other (income) expense, net
+
+GAAP-based provision for income taxes
+
+Non-GAAP-based recovery of income taxes
+
+415,712 
+
+69,556 
+
+46,873 
+
+(29,118)   
+
+118,752 
+
+(142,665)   
+
+Non-GAAP-based net income, attributable to OpenText
+
+$ 
+
+876,200  $ 
+
+1.46 
+
+1.52 
+
+0.26 
+
+0.17 
+
+(0.11) 
+
+0.44 
+
+(0.52) 
+
+3.22 
+
+Year Ended June 30, 2022
+
+$ 
+
+$ 
+
+397,090 
+
+118,752 
+
+157,880 
+
+198,607 
+
+217,105 
+
+88,241 
+
+69,556 
+
+46,873 
+
+(29,118) 
+
+1,264,986 
+
+Reconciliation of Adjusted EBITDA
+
+GAAP-based net income, attributable to OpenText
+
+Add:
+
+Provision for income taxes
+
+Interest and other related expense, net
+
+Amortization of acquired technology-based intangible assets
+
+Amortization of acquired customer-based intangible assets
+
+Depreciation
+
+Share-based compensation
+
+Special charges (recoveries)
+
+Other (income) expense, net
+
+Adjusted EBITDA
+
+84
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+Reconciliation of selected GAAP-based measures to Non-GAAP-based measures 
+for the year ended June 30, 2021 
+(In thousands, except for per share data)
+
+Cost of revenues
+
+Cloud services and subscriptions
+
+Customer support
+
+Professional service and other
+
+Amortization of acquired technology-based intangible assets
+
+GAAP-based gross profit and gross margin (%) /
+Non-GAAP-based gross profit and gross margin (%)
+
+Operating expenses
+
+Research and development
+
+Sales and marketing
+
+General and administrative
+
+Amortization of acquired customer-based intangible assets
+
+Special charges (recoveries)
+
+GAAP-based income from operations / Non-GAAP-based income from 
+operations
+
+Other income (expense), net
+
+Provision for income taxes
+
+GAAP-based net income / Non-GAAP-based net income, attributable to 
+OpenText
+
+GAAP-based EPS/ Non-GAAP-based EPS-diluted, attributable to 
+OpenText
+__________________________
+
+Year Ended June 30, 2021
+
+GAAP-based 
+Measures
+
+GAAP-based 
+Measures 
+% of Total 
+Revenue
+
+Adjustments Note
+
+Non-GAAP-
+based 
+Measures
+
+Non-GAAP-
+based 
+Measures
+% of Total 
+Revenue
+
+$ 
+
+481,818 
+
+$ 
+
+(3,419)  (1) $ 
+
+478,399 
+
+122,753 
+
+197,183 
+
+218,796 
+
+(1,910)  (1)
+
+(2,565)  (1)
+
+(218,796)  (2)
+
+120,843 
+
+194,618 
+
+— 
+
+  2,351,649 
+
+69.4%
+
+226,690 
+
+(3)
+
+  2,578,339 
+
+76.1%
+
+421,447 
+
+622,221 
+
+263,521 
+
+216,544 
+
+1,748 
+
+740,903 
+
+61,434 
+
+339,906 
+
+310,672 
+
+(9,859)  (1)
+
+(18,312)  (1)
+
+(15,904)  (1)
+
+(216,544)  (2)
+
+(1,748)  (4)
+
+411,588 
+
+603,909 
+
+247,617 
+
+— 
+
+— 
+
+489,057 
+
+(5)
+
+  1,229,960 
+
+(61,434)  (6)
+
+— 
+
+(188,931)  (7)
+
+150,975 
+
+616,554 
+
+(8)
+
+927,226 
+
+$ 
+
+1.14 
+
+$ 
+
+2.25 
+
+(8) $ 
+
+3.39 
+
+(1) Adjustment relates to the exclusion of share-based compensation expense from our Non-GAAP-based operating expenses as this expense is 
+
+excluded from our internal analysis of operating results.
+
+(2) Adjustment relates to the exclusion of amortization expense from our Non-GAAP-based operating expenses as the timing and frequency of 
+
+amortization expense is dependent on our acquisitions and is hence excluded from our internal analysis of operating results.
+
+(3) GAAP-based and Non-GAAP-based gross profit stated in dollars and gross margin stated as a percentage of total revenue.
+(4) Adjustment relates to the exclusion of special charges (recoveries) from our Non-GAAP-based operating expenses as special charges (recoveries) 
+are generally incurred in the periods relevant to an acquisition and include certain charges or recoveries that are not indicative or related to 
+continuing operations and are therefore excluded from our internal analysis of operating results. See Note 18 “Special Charges (Recoveries)” to our 
+Consolidated Financial Statements for more details.
+
+(5) GAAP-based and Non-GAAP-based income from operations stated in dollars.
+(6) Adjustment relates to the exclusion of other income (expense) from our Non-GAAP-based operating expenses as other income (expense) generally 
+relates to the transactional impact of foreign exchange and is generally not indicative or related to continuing operations and is therefore excluded 
+from our internal analysis of operating results. Other income (expense) also includes our share of income (losses) from our holdings in investments 
+as a limited partner. We do not actively trade equity securities in these privately held companies nor do we plan our ongoing operations based 
+around any anticipated fundings or distributions from these investments. We exclude gains and losses on these investments as we do not believe they 
+are reflective of our ongoing business and operating results. 
+
+(7) Adjustment relates to differences between the GAAP-based tax provision rate of approximately 52% and a Non-GAAP-based tax rate of 
+
+approximately 14%; these rate differences are due to the income tax effects of items that are excluded for the purpose of calculating Non-GAAP-
+based net income. Such excluded items include amortization, share-based compensation, special charges (recoveries) and other income (expense), 
+net. Also excluded are tax benefits/expense items unrelated to current period income such as changes in reserves for tax uncertainties and valuation 
+allowance reserves and “book to return” adjustments for tax return filings and tax assessments. Included is the amount of net tax benefits arising 
+from the internal reorganization that occurred in Fiscal 2017 assumed to be allocable to the current period based on the forecasted utilization period. 
+In arriving at our Non-GAAP-based tax rate of approximately 14%, we analyzed the individual adjusted expenses and took into consideration the 
+impact of statutory tax rates from local jurisdictions incurring the expense. The GAAP-based tax provision rate for the year ended June 30, 2021 
+includes an income tax provision charge from IRS settlements partially offset by a tax benefit from the release of unrecognized tax benefits due to 
+the conclusion of relevant tax audits that was recognized during the second quarter of Fiscal 2021.
+
+85
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+(8) Reconciliation of GAAP-based net income to Non-GAAP-based net income:
+
+Year Ended June 30, 2021
+
+Per share diluted
+
+GAAP-based net income, attributable to OpenText
+
+$ 
+
+310,672  $ 
+
+Add:
+
+Amortization
+
+Share-based compensation
+
+Special charges (recoveries)
+
+Other (income) expense, net
+
+GAAP-based provision for income taxes
+
+Non-GAAP-based recovery of income taxes
+
+435,340 
+
+51,969 
+
+1,748 
+
+(61,434)   
+
+339,906 
+
+(150,975)   
+
+Non-GAAP-based net income, attributable to OpenText
+
+$ 
+
+927,226  $ 
+
+Reconciliation of Adjusted EBITDA
+
+GAAP-based net income, attributable to OpenText
+
+Add:
+
+Provision for income taxes
+
+Interest and other related expense, net
+
+Amortization of acquired technology-based intangible assets
+
+Amortization of acquired customer-based intangible assets
+
+Depreciation
+
+Share-based compensation
+
+Special charges (recoveries)
+
+Other (income) expense, net
+
+Adjusted EBITDA
+
+1.14 
+
+1.59 
+
+0.19 
+
+0.01 
+
+(0.22) 
+
+1.23 
+
+(0.55) 
+
+3.39 
+
+Year Ended June 30, 2021
+
+$ 
+
+$ 
+
+310,672 
+
+339,906 
+
+151,567 
+
+218,796 
+
+216,544 
+
+85,265 
+
+51,969 
+
+1,748 
+
+(61,434) 
+
+1,315,033 
+
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk
+
+We are primarily exposed to market risks associated with fluctuations in interest rates on our term loans, revolving loans 
+
+and foreign currency exchange rates.
+
+Interest rate risk
+
+Our exposure to interest rate fluctuations relates primarily to our Term Loan B, Revolver and Acquisition Term Loan. 
+
+As of June 30, 2023, we had an outstanding balance of $947.5 million on the Term Loan B. Borrowings under the Term 
+Loan B currently bear a floating rate of interest equal to Term SOFR plus the SOFR Adjustment (as defined in the Term Loan 
+B) and applicable margin of 1.75%. As of June 30, 2023, an adverse change of 100 basis points on the interest rate would have 
+the effect of increasing our annual interest payment on Term Loan B by approximately $9.5 million, assuming that the loan 
+balance as of June 30, 2023 is outstanding for the entire period (June 30, 2022—$9.6 million).
+
+As of June 30, 2023, we had an outstanding balance of $275 million under the Revolver. Borrowings under the Revolver 
+
+currently bear interest per annum at a floating rate of interest equal to Term SOFR plus the SOFR Adjustment (as defined in the 
+Revolver) and a fixed margin dependent on our consolidated net leverage ratio ranging from 1.25% to 1.75%. As of June 30, 
+2023, an adverse change of 100 basis points on the interest rate would have the effect of increasing our annual interest payment 
+on the Revolver by approximately $2.8 million, assuming the loan balance as of June 30, 2023 is outstanding for the entire 
+period (June 30, 2022—nil).
+
+86
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+As of June 30, 2023, we had an outstanding balance of $3.6 billion under the Acquisition Term Loan. Borrowings under 
+
+the Acquisition Term Loan currently bear a floating rate of interest equal to Term SOFR plus the SOFR Adjustment (as defined 
+in the Acquisition Term Loan) and applicable margin of 3.50%. As of June 30, 2023, an adverse change of 100 basis points on 
+the interest rate would have the effect of increasing our annual interest payment on the Acquisition Term Loan by 
+approximately $35.7 million, assuming that the loan balance as of June 30, 2023 is outstanding for the entire period (June 30, 
+2022—nil).
+
+Foreign currency risk
+
+Foreign currency transaction risk
+
+We transact business in various foreign currencies. Our foreign currency exposures typically arise from intercompany 
+
+fees, intercompany loans and other intercompany transactions that are expected to be cash settled in the near term and are 
+transacted in non-functional currency. We expect that we will continue to realize gains or losses with respect to our foreign 
+currency exposures. Our ultimate realized gain or loss with respect to foreign currency exposures will generally depend on the 
+size and type of cross-currency transactions that we enter into, the currency exchange rates associated with these exposures and 
+changes in those rates. We have hedged certain of our Canadian dollar foreign currency exposures relating to our payroll 
+expenses in Canada.
+
+Based on the CAD foreign exchange forward contracts outstanding as of June 30, 2023, a one cent change in the Canadian 
+dollar to U.S. dollar exchange rate would have caused a change of $0.7 million in the mark-to-market valuation on our existing 
+foreign exchange forward contracts (June 30, 2022—$0.5 million).
+
+Additionally, in connection with the Micro Focus Acquisition, in August 2022, we entered into certain derivative 
+transactions to meet certain foreign currency obligations related to the purchase price of the Micro Focus Acquisition, mitigate 
+the risk of foreign currency appreciation in the GBP denominated purchase price and mitigate the risk of foreign currency 
+appreciation in the EUR denominated existing debt held by Micro Focus. We entered into the following derivatives: (i) three 
+deal-contingent forward contracts, (ii) a non-contingent forward contract, and (iii) EUR/USD cross currency swaps. In 
+connection with the closing of the Micro Focus Acquisition the deal-contingent forward and non-deal contingent forward 
+contracts were settled and we designated the 7-year EUR/USD cross currency swaps as net investment hedges.
+
+Based on the 5-year EUR/USD cross currency swaps outstanding as of June 30, 2023, a one cent change in the Euro to 
+
+U.S. dollar forward exchange rate would have caused a change of $7.3 million in the mark-to-market valuation on our existing 
+cross currency swap (June 30, 2022—nil).
+
+Based on the 7-year EUR/USD cross currency swaps outstanding as of June 30, 2023, a one cent change in the Euro to 
+
+U.S. dollar forward exchange rate would have caused a change of $7.8 million in the mark-to-market valuation on our existing 
+cross currency swaps (June 30, 2022—nil).
+
+Foreign currency translation risk
+
+Our reporting currency is the U.S. dollar. Fluctuations in foreign currencies impact the amount of total assets and 
+liabilities that we report for our foreign subsidiaries upon the translation of these amounts into U.S. dollars. In particular, the 
+amount of cash and cash equivalents that we report in U.S. dollars for a significant portion of the cash held by these subsidiaries 
+is subject to translation variance caused by changes in foreign currency exchange rates as of the end of each respective 
+reporting period (the offset to which is recorded to accumulated other comprehensive income (loss) on our Consolidated 
+Balance Sheets). 
+
+The following table shows our cash and cash equivalents denominated in certain major foreign currencies as of June 30, 
+
+2023 (equivalent in U.S. dollar):
+
+(In thousands)
+Euro
+British Pound
+Indian Rupee
+Swiss Franc
+Other foreign currencies
+Total cash and cash equivalents denominated in foreign currencies
+U.S. Dollar
+Total cash and cash equivalents 
+
+U.S. Dollar
+ Equivalent at 
+June 30, 2023
+
+U.S. Dollar
+ Equivalent at 
+June 30, 2022
+
+$ 
+
+$ 
+
+200,282  $ 
+69,108 
+57,199 
+53,122 
+218,663 
+598,374 
+633,251 
+1,231,625  $ 
+
+254,546 
+44,020 
+38,247 
+48,674 
+103,453 
+488,940 
+1,204,801 
+1,693,741 
+
+If overall foreign currency exchange rates in comparison to the U.S. dollar uniformly weakened by 10%, the amount of 
+
+87
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+cash and cash equivalents we would report in equivalent U.S. dollars would decrease by $59.8 million (June 30, 2022—$48.9 
+million), assuming we have not entered into any derivatives discussed above under “Foreign Currency Transaction Risk.”
+
+Item 8.  Financial Statements and Supplementary Data
+
+The response to this Item 8 is submitted as a separate section of this Annual Report on Form 10-K. See Part IV, Item 15.
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+None.
+
+Item 9A.  Controls and Procedures
+
+(A) Evaluation of Disclosure Controls and Procedures 
+
+As of the end of the period covered by this Annual Report on Form 10-K, our management, with the participation of the 
+Chief Executive Officer and Chief Financial Officer, performed an evaluation of the effectiveness of the design and operation 
+of our disclosure controls and procedures as defined in Rule 13a-15(e) promulgated under the Exchange Act. Based upon that 
+evaluation, the Chief Executive Officer and Chief Financial Officer concluded that as of June 30, 2023, our disclosure controls 
+and procedures were effective to provide reasonable assurance that information required to be disclosed in our reports filed or 
+submitted under the Exchange Act were recorded, processed, summarized and reported within the time periods specified in the 
+Securities and Exchange Commission’s rules and forms, and that information required to be disclosed by us in the reports we 
+file under the Exchange Act (according to Rule 13(a)-15(e)) is accumulated and communicated to our management, including 
+the Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+
+(B) Management’s Annual Report on Internal Control over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting (ICFR), 
+
+as such term is defined in Exchange Act Rule 13a-15(f). ICFR is a process designed by, or under the supervision of, our Chief 
+Executive Officer and Chief Financial Officer and effected by our Board of Directors, management and other personnel, to 
+provide reasonable assurance regarding the reliability of our financial reporting and the preparation of our financial statements 
+for external purposes in accordance with generally accepted accounting principles. ICFR includes those policies and procedures 
+that (i) pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and 
+dispositions of assets; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of 
+financial statements in accordance with generally accepted accounting principles, and that our receipts and expenditures are 
+being made only in accordance with the authorizations of our management and our directors; and (iii) provide reasonable 
+assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of our assets that could have 
+a material effect on our financial statements.
+
+Our management assessed our ICFR as of June 30, 2023, the end of our most recent fiscal year. In making our assessment, 
+
+our management used the criteria established in Internal Control-Integrated Framework (2013) issued by the Committee of 
+Sponsoring Organizations of the Treadway Commission.
+
+Our management has excluded the ICFR of Micro Focus, which we acquired on January 31, 2023 as discussed in Note 19 
+
+“Acquisitions” to the Consolidated Financial Statements included elsewhere in this Annual Report on Form 10-K. Total 
+revenues subject to Micro Focus’ ICFR represented 21.8% of our consolidated total revenues for the fiscal year ended June 30, 
+2023. Total assets subject to Micro Focus’ ICFR represented 47.6% of our consolidated total assets as of June 30, 2023 (of 
+which $6.8 billion, or 39.6% of our consolidated total assets, represents Micro Focus’ goodwill and net intangible assets subject 
+to our internal control over financial reporting as of June 30, 2023). Under guidelines established by the SEC, companies are 
+permitted to exclude acquisitions from their assessment of ICFR for a period of up to one year following an acquisition while 
+integrating the acquired company.
+
+Based on the results of our evaluation, our management, including the Chief Executive Officer and Chief Financial 
+Officer, concluded that our ICFR was effective as of June 30, 2023. The results of our management’s assessment were reviewed 
+with our Audit Committee and the conclusion that our ICFR was effective as of June 30, 2023 has been audited by KPMG LLP, 
+our independent registered public accounting firm, as stated in their report which is included in Part IV, Item 15 of this Annual 
+Report.
+
+Our management, including the Chief Executive Officer and Chief Financial Officer, do not expect that our disclosure 
+
+controls or our ICFR will prevent or detect all error or all fraud. A control system, no matter how well designed and operated, 
+can provide only reasonable, not absolute, assurance that the control system’s objectives will be met. The design of a control 
+
+88

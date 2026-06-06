@@ -1,0 +1,5131 @@
+# Brookfield Asset Management Ltd.
+# 来源：Annual MD&A - English.pdf
+
+ITEM 5. 
+
+OPERATING AND FINANCIAL REVIEW AND PROSPECTS
+
+5.A 
+
+OPERATING RESULTS
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF 
+OPERATIONS
+
+Introduction
+
+This  management’s  discussion  and  analysis  (“MD&A”)  included  in  Item  5  of  this  Form  20-F  presents  the  financial 
+position  of  the  Manager  as  at  December  31,  2022  and  the  results  of  operations  for  the  period  from  July  4,  2022  to 
+December  31,  2022.  The  Manager  holds  a  25%  interest  in  the  Asset  Management  Company,  which  is  accounted  for 
+under  the  equity  method  of  accounting.  To  assist  our  readers  in  understanding  our  business’  financial  performance, 
+which comprises primarily of holding our equity accounted investment in the Asset Management Company, we have also 
+presented financial information of the Asset Management Company as at December 31, 2022 and 2021 and the results of 
+operations for the years then ended.  
+
+The  Asset  Management  Company  has  three  key  product  categories:  (i)  long-term  private  funds,  (ii)  permanent  capital 
+vehicles  and  perpetual  strategies  and  (iii)  liquid  strategies.  These  are  invested  across  five  principal  strategies:  (i) 
+Renewable Power and Transition, (ii) Infrastructure, (iii) Private Equity, (iv) Real Estate, and (v) Credit and other.  The 
+ultimate parent of the Asset Management Business is the Corporation.  
+
+The  information  in  this  MD&A  should  be  read  in  conjunction  with  the  following  consolidated  financial  statements 
+included elsewhere in this Form 20-F: (i) the audited consolidated financial statements of the Manager as at December 
+31,  2022  and  the  results  of  operations  for  the  period  from  July  4,  2022  to  December  31,  2022  and  (ii)  the  audited 
+consolidated and combined financial statements of the Asset Management Company.
+
+Basis of Presentation
+
+The  Manager,  a  Canadian  corporation,  through  its  ownership  interests  in  its  single  investment,  our  asset  management 
+business, is a leading global alternative asset manager. The Manager was incorporated on July 4, 2022 and does not have 
+historical  operations  or  activities.  The  Manager’s  sole  material  asset  is  its  25%  interest  in  the  Asset  Management 
+Company,  which  is  accounted  for  using  the  equity  method.  The  Manager’s  returns  are  earned  from  its  interest  in  our 
+asset  management  business,  and  therefore  this  MD&A  focuses  on  the  results  and  operations  thereof,  underlying  the 
+equity earnings of the Manager.
+
+All financial data is presented in U.S. dollars and, unless otherwise indicated, has been prepared in conformity with U.S. 
+GAAP. Non-GAAP measures used in this MD&A are reconciled to the most directly comparable GAAP measure.
+
+Business Overview
+
+The Manager was established by the Corporation to give public shareholders direct access to this pure-play alternatives 
+manager; the Manager participates in this business through its 25% ownership in the Asset Management Company. 
+
+We  are  one  of  the  world’s  leading  alternative  asset  managers,  with  approximately  $800  billion  of  AUM  as  of 
+December  31,  2022  across    renewable  power  and  transition,  infrastructure,  real  estate,  private  equity  and  credit.  We 
+invest client capital for the long-term with a focus on real assets and essential service businesses that form the backbone 
+of the global economy. We draw on our heritage as an owner and operator to invest for value and generate strong returns 
+for our clients across economic cycles.
+
+To do this, we leverage our exceptional team of over 2,500 investment and asset management professionals, our global 
+reach, deep operating expertise and access to large-scale capital to identify attractive investment opportunities and invest 
+on  a  proprietary  basis.  Our  investment  approach  and  strong  track  record  have  been  the  foundation  and  driver  of  our 
+growth.
+
+We provide a highly diversified suite of alternative investment strategies and are constantly innovating new products to 
+meet client needs. We have over 50 unique strategies across numerous product offerings, spanning a wide range of risk-
+adjusted returns, including opportunistic, value-add, core, super-core and credit. We evaluate the performance of these 
+product offerings and our investment strategies using a number of non-GAAP measures as outlined in Item 5 "Operating 
+and Financial Review and Prospects". The Manager will utilize Distributable Earnings to measure performance, while, in 
+
+66                BROOKFIELD ASSET MANAGEMENT
+
+addition to this metric, Fee Revenues and Fee-Related Earnings are closely utilized in order to assess the performance of 
+our asset management business.
+
+We have over 2,000 clients, made up of some of the world’s largest institutional investors, including sovereign wealth 
+funds, pension plans, endowments, foundations, financial institutions, insurance companies and individual investors.
+
+We are in a fortunate position to be trusted with our clients’ capital and our objective is to meet their financial goals and 
+provide  for  a  better  financial  future  while  providing  a  market  leading  experience.  Our  team  of  270  client  service 
+professionals  across  18  global  offices  are  dedicated  to  our  clients  and  ensuring  the  business  is  exceeding  their  service 
+expectations.
+
+Our  guiding  principle  is  to  operate  our  business  and  conduct  our  relationships  with  the  highest  level  of  integrity.  Our 
+emphasis on diversity and inclusion reinforces our culture of collaboration, allowing us to attract and retain top talent. 
+Strong ESG practices are embedded throughout our business, underpinning our goal of having a positive impact on the 
+communities and environment within which we operate.
+
+Value Creation
+
+We  create  shareholder  value  by  increasing  the  earnings  profile  of  our  asset  management  business.  Alternative  asset 
+management  businesses  such  as  ours  are  typically  valued  based  on  multiples  of  their  Fee-Related  Earnings  and 
+performance  income.  Accordingly,  we  create  value  by  increasing  the  amount  and  quality  of  fee-related  earnings  and 
+carried  interest,  net  of  associated  costs.  This  growth  is  achieved  primarily  by  expanding  the  amount  of  Fee-Bearing 
+Capital  we  manage,  earning  performance  income  such  as  carried  interest  through  superior  investment  results  and 
+maintaining competitive operating margins.
+
+As  at  December  31,  2022,  we  had  Fee-Bearing  Capital  of  $418  billion,  of  which  83%  is  long-dated  or  perpetual  in 
+nature,  providing  significant  stability  to  our  earnings  profile.  We  consider  Fee-Bearing  Capital  that  is  long-dated  or 
+perpetual in nature to be Fee-Bearing Capital relating to our long-term private funds, which are typically committed for 
+10 years with two one-year extension options, and Fee-Bearing Capital relating to our perpetual strategies, which include 
+the  perpetual  affiliates  as  well  as  capital  we  manage  in  our  perpetual  core  and  core  plus  private  funds.  We  seek  to 
+increase our Fee-Bearing Capital by growing the size of our existing product offering and developing new strategies that 
+cater  to  our  clients’  investment  needs.  We  also  aim  to  deepen  our  existing  institutional  relationships,  develop  new 
+institutional relationships and access new distribution channels such as high net worth individuals and retail.
+
+As of December 31, 2022, we had over 2,000 clients with a strong base in North America, Asia, the Middle East and 
+Australia and a growing proportion of third-party commitments from Europe. Our high-net-worth channel also continues 
+to grow and represents over 5% of current commitments. We have a dedicated team of over 100 people that are focused 
+on distributing and developing catered products to the private wealth channel.
+
+We  are  also  actively  progressing  new  growth  strategies,  including  secondaries,  technology,  insurance  and  transition. 
+These new initiatives, in addition to our existing strategies are expected to have a very meaningful impact on our growth 
+trajectory in the long term.
+
+As we grow our Fee-Bearing Capital, we earn incremental base management fees. In order to support this growth, we 
+have been growing our exceptional team of investment and asset management professionals. Our costs are predominantly 
+in the form of compensation for the over 2,500 professionals we employ globally.
+
+When deploying our clients’ capital, we seek to leverage our competitive advantages to acquire high-quality real assets 
+or businesses that provide essential services that form the backbone of the global economy. We use our global reach and 
+access  to  scale  capital  to  source  attractive  investment  opportunities  and  leverage  our  deep  operating  expertise  to 
+underwrite investments and create value throughout our ownership. Our goal is to deliver superior investment returns to 
+our clients and successfully doing so results in the continued growth of realized carried interest.
+
+We  generate  robust  free  cash  flows  or  Distributable  Earnings,  which  is  our  primary  financial  performance  metric. 
+Distributable  Earnings  of  the  Manager  represent  our  share  of  Distributable  Earnings  from  the  Asset  Management 
+Company less general and administrative expenses, but excluding equity-based compensation costs, of the Manager. The 
+Manager intends to pay out approximately 90% of our Distributable Earnings to shareholders quarterly and reinvest the 
+balance  back  into  the  business.  See  Item  8.A  “Consolidated  Statements  and  Other  Financial  Information  —  Dividend 
+Policy” for more information.
+
+FORM 20-F                 67
+
+We also monitor the broader markets and occasionally identify attractive, strategic investment opportunities that have the 
+potential  to  supplement  our  existing  business  and  add  to  our  organic  growth.  We  expect  acquisitions  can  allow  us  to 
+achieve immediate scale in a new asset class or grant us access to additional distribution channels. An example of such 
+growth is the partnership we formed with Oaktree Capital Group, LLC in 2019. Such acquisitions may happen from time 
+to time should they be additive to our franchise, attractive to our clients and accretive to our shareholders.
+
+Products
+
+Our  products  broadly  fall  into  one  of  three  categories:  (i)  long-term  private  funds,  (ii)  permanent  capital  vehicles  and 
+perpetual strategies and (iii) liquid strategies. These are invested across five principal strategies: (i) Renewable Power,  
+(ii) Infrastructure, (iii) Private Equity, (iv) Real Estate, and (v) Credit and other.
+
+Fee-Bearing Capital Diversification
+
+ AS AT DEC. 31, 2022 (BILLIONS)
+
+Permanent capital 
+vehicles and 
+perpetual strategies
+Long-term private 
+funds
+
+Liquid strategies
+
+■
+
+■
+
+■
+
+■
+
+Renewable Power 
+and Transition
+
+■ Infrastructure
+
+■ Private Equity
+
+■ Real Estate
+
+■ Credit and other
+
+For discussion on Fee-Bearing Capital, see “Key Financial and Operating Measures”. 
+
+Long-term Private Funds
+
+As  of  December  31,  2022,  we  managed  approximately  $219  billion  of  Fee-Bearing  Capital  across  a  diverse  range  of 
+long-term  private  funds  that  target  opportunistic  (20%+,  gross),  value-add  (15%-16%,  gross),  core  and  core  plus 
+(9%-13%,  gross)  returns.  These  funds  are  generally  closed-end  and  have  a  long  duration,  typically  committed  for  10 
+years with two one-year extension options.
+
+On these products, we earn:
+
+•
+
+•
+
+•
+
+Diversified and long-term base management fees, typically on committed capital or invested capital, depending on 
+the nature of the fund and the period that the fund is in its life,
+
+Transaction  and  advisory  fees  on  co-investment  capital  that  we  raise  and  deploy  alongside  our  long-term  private 
+funds, which vary based on transaction agreements, and
+
+Carried interest or performance fees, which entitles us to a portion of overall fund profits, provided that investors 
+receive a minimum prescribed preferred return. Carried interest is typically paid towards the end of the life of a fund 
+after  capital  has  been  returned  to  investors  and  may  be  subject  to  “clawback”  until  all  investments  have  been 
+monetized and minimum investment returns are sufficiently assured. The Corporation is entitled to receive 33.3% of 
+the  carried  interest  on  new  sponsored  funds  of  our  asset  management  business  and  will  retain  all  of  the  carried 
+interest earned on mature funds.
+
+Permanent Capital Vehicles and Perpetual Strategies
+
+As of December 31, 2022, we managed approximately $127 billion of Fee-Bearing Capital across our permanent capital 
+vehicles, perpetual core and core plus private funds.
+
+On these products, we earn:
+
+•
+
+Long-term perpetual base management fees, which are based on the market capitalization or net asset value of our 
+permanent capital vehicles and on the net asset value of our perpetual private funds.
+
+68                BROOKFIELD ASSET MANAGEMENT
+
+$127$219$72$47$86$39$103$143•
+
+•
+
+Stable  incentive  distribution  fees  from  BEP  and  BIP,  which  are  linked  to  the  growth  in  cash  distributions  paid  to 
+investors  above  a  predetermined  hurdle.  Both  BEP  and  BIP  have  a  long-standing  track  record  of  growing 
+distributions annually within a target range of 5%-9%.
+
+Performance fees from BBU are based on unit price performance above a prescribed high-water mark price, which 
+are not subject to clawback, as well as carried interest on our perpetual private funds.
+
+Liquid Strategies 
+
+As of December 31, 2022, we managed approximately $72 billion of Fee-Bearing Capital across our liquid strategies, 
+which included capital that we manage on behalf of our publicly listed funds and separately managed accounts, with a 
+focus on fixed income and equity securities across real estate and infrastructure. 
+
+On these products, we earn: 
+
+•
+
+•
+
+Base management fees, which are based on committed capital or fund net asset value, and 
+
+Performance income based on investment returns above a minimum prescribed return.
+
+Review of Consolidated Financial Results of the Manager
+
+Consolidated Statement of Comprehensive Income 
+
+The following table summarizes the financial results of the Manager for the period of July 4, 2022 to December 31, 2022:
+
+FOR THE PERIOD JULY 4, 2022 TO DECEMBER 31, 2022
+(MILLIONS)
+Expenses, net of recoveries
+
+Compensation and benefits recovery     .......................................................................................................... $ 
+General and administrative expense      ............................................................................................................
+Unrealized carried interest compensation expense     ......................................................................................
+Other expenses    .............................................................................................................................................
+Total expenses     ...............................................................................................................................................
+Share of income from equity method investments   .........................................................................................
+Net income and comprehensive income    ..................................................................................................... $ 
+
+37 
+(1) 
+(3) 
+(35) 
+(2) 
+21 
+19 
+
+During  the  period  ended  December  31,  2022,  the  Manager  recorded  net  income  to  shareholders  of $19  million.  Net  income 
+consists of the Manager’s equity interest in the earnings of the Asset Management Company less general and administrative 
+expenses,  primarily  attributable  to  executive  compensation  costs  of  the  Manager.  A  material  portion  of  these  costs  are 
+reimbursed  by  the  Corporation  and  the  Asset  Management  Business  in  accordance  with  the  Asset  Management  Services 
+Agreement  and  the  Relationship  Agreement.  Refer  to  the  following  discussion  for  details  on  the  earnings  of  the  Asset 
+Management Company. 
+
+FORM 20-F                 69
+
+ 
+ 
+ 
+ 
+ 
+The following table summarizes the statement of operations for the Asset Management Company for 2022, 2021 and 2020:
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Revenues
+Management fee revenues
+
+Base management and advisory fees    ......................................................... $ 
+Performance fees  .......................................................................................
+
+Total management fee revenues
+Investment income
+
+Carried interest allocations
+
+Realized    ...................................................................................................
+Unrealized    ...............................................................................................
+Total investment income   ..............................................................................
+Interest and dividend revenue      ......................................................................
+Other revenues   .............................................................................................
+Total revenues ..............................................................................................
+Expenses
+Compensation, operating, and general and administrative expenses
+
+Compensation and benefits      .......................................................................
+Other operating expenses     ..........................................................................
+General, administrative and other ..............................................................
+
+Total compensation, operating, and general and administrative expenses
+Carried interest allocation compensation
+
+Realized  .....................................................................................................
+Unrealized     .................................................................................................
+Total carried interest allocation compensation    ............................................
+Interest expense  ............................................................................................
+Total expenses ..............................................................................................
+Other income (expenses), net   .......................................................................
+Share of income from equity accounted investments    ..................................
+Income before taxes     .....................................................................................
+Income tax expense   ......................................................................................
+Net income    ..................................................................................................
+Net (income) attributable to redeemable non-controlling interests in 
+consolidated funds    .......................................................................................
+Net (income) attributable to preferred share redeemable non-controlling 
+interest  ..........................................................................................................
+Net (income) attributable to non-controlling interest   ..................................
+Net income attributable to common stockholders     .................................. $ 
+
+For the years ended December 31, 2022 and 2021
+
+2022
+
+2021
+
+2020
+
+2,835  $ 
+— 
+
+2,835 
+
+2,266  $ 
+157 
+
+2,423 
+
+1,892 
+— 
+1,892 
+
+241 
+249 
+
+490 
+258 
+44 
+
+49 
+299 
+
+348 
+293 
+23 
+
+3,627 
+
+3,087 
+
+(700)   
+(236)   
+(81)   
+
+(1,017)   
+
+(61)   
+(139)   
+
+(200)   
+(154)   
+
+(1,371)   
+1,090 
+146 
+
+3,492 
+(627)   
+
+2,865 
+
+(909)   
+
+(703)   
+(185)   
+(132)   
+(1,020)   
+
+(74)   
+(137)   
+(211)   
+(171)   
+(1,402)   
+1,504 
+161 
+
+3,350 
+(504)   
+2,846 
+
+(977)   
+— 
+
+(35) 
+(6)   
+1,915  $ 
+
+— 
+
+1,869  $ 
+
+32 
+(97) 
+(65) 
+287 
+40 
+2,154 
+
+(519) 
+(157) 
+(114) 
+(790) 
+
+(55) 
+(65) 
+(120) 
+(257) 
+(1,167) 
+(226) 
+38 
+799 
+(226) 
+573 
+
+(175) 
+— 
+
+— 
+
+398 
+
+Net income for the year was $2.9 billion, of which $1.9 billion was attributable to the Asset Management Company. This 
+compares to net income of $2.8 billion for the prior year, of which $1.9 billion was attributable to the Asset Management 
+Company.
+
+Revenues
+
+Revenues for the year were $3.6 billion, which represents an increase of $540 million or 17% compared to $3.1 billion in 
+2021.
+
+70                BROOKFIELD ASSET MANAGEMENT
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Base management and advisory fees, excluding incentive distributions, for the year were $2.5 billion, which represents 
+an increase of $549 million or 28% compared to the prior year. The increase was predominantly driven by incremental 
+contributions from capital raised for our latest flagship funds and capital deployed across our complementary strategies. 
+
+Incentive distributions for the year were $335 million, an increase of $20 million from the prior year, driven by growth in 
+dividends at BIP and BEP which increased by 6% and 5% respectively, partially offset by the absence of BPY incentive 
+distributions following its privatization in 2021. 
+
+The prior year benefitted from a performance fee of $157 million earned as a result of the share price of BBU exceeding 
+the previous high-watermark threshold, attributable to an increase in the volume weighted average unit price during the 
+year. In the current year, BBU did not surpass this hurdle and therefore no performance fees were recognized. The high-
+water mark threshold to earn additional performance fees as at December 31, 2022 was $31.53 per unit, reflecting the 
+adjusted high-watermark resulting from the special distribution of Brookfield Business Corporation ("BBUC").
+
+Carried interest allocations
+
+Realized  carried  interest  allocations  were  $241  million  for  the  year  ended  December  31,  2022,  which  represents  an 
+increase of $192 million compared to the year ended December 31, 2021. The higher realized carried interest allocations 
+were primarily driven by realizations within our real estate long-term and perpetual funds, as well as a realization within 
+our infrastructure business.
+
+Unrealized  carried  interest  allocations  were  $249  million  for  the  year  ended  December  31,  2022,  which  represents  a 
+decrease of $50 million compared to the year ended December 31, 2021. The lower unrealized carried interest allocations 
+were primarily related to lower growth in valuations in our real estate funds relative to prior year. 
+
+Interest and dividend revenue for the year were $258 million, which represents a decrease of $35 million compared to the 
+year ended December 31, 2021. The decrease was a result of the transfer of certain investments and loans of the asset 
+management business to the Corporation as part of the Special Distribution.
+
+Expenses
+
+Expenses for the year were $1.4 billion, a decrease of $31 million or 2% compared to 2021. 
+
+Compensation and benefits for the year ended December 31, 2022 were $700 million, which represents a decrease of $3 
+million compared to the prior year. This decrease is primarily attributable to an unrealized mark-to-market gain on the 
+value of certain employee compensation related liabilities, partially offset by an increase in compensation costs in line 
+with the growth of our business. 
+
+Other  operating  expenses  are  comprised  of  professional  fees,  facilities  and  technology,  as  well  as  travel  costs  directly 
+associated  with  our  fundraising  and  investment  functions.  Other  operating  expenses  were  $236  million  for  the  year, 
+compared to $185 million in 2021. The increase was primarily attributable to an increase in headcount and travel activity 
+during the current year.
+
+Compensation  expenses  related  to  carried  interest  allocation  compensation  were  $200  million  for  the  year,  which 
+represents a decrease of $11 million compared to the prior year. The decrease is predominantly driven by a decrease in 
+valuation gains compared to prior year across our funds. As outlined in the Relationship Agreement, the compensation 
+expense associated with these legacy funds is fully recoverable from the Corporation. 
+
+Other income 
+
+Other  income  primarily  consists  of  mark-to-market  adjustments  on  the  interest  in  Brookfield  Strategic  Real  Estate 
+Partners  III  (“BSREP  III”).  During  the  year,  we  recorded  other  income  of  $1.1  billion  primarily  driven  by  valuation 
+uplifts in this fund; in 2021 valuation gains from this fund lead to $1.5 billion of other income.
+
+Share of income (loss) from equity accounted investments
+
+Our share of income from equity accounted investments was $146 million compared to income of $161 million in the 
+prior  year.  This  line  item  primarily  consists  of  earnings  associated  with  our  64%  interest  in  Oaktree.  The  decrease  in 
+current year was a direct result of valuation decreases within certain Oaktree funds.
+
+Income tax expense 
+
+Income tax expense was $627 million for the year, which represents an increase of $123 million compared to the prior 
+year. This was predominantly driven by higher taxable net income during the current period. 
+
+FORM 20-F                 71
+
+Net income attributable to redeemable non-controlling interests in consolidated funds
+
+Net  income  attributable  to  redeemable  non-controlling  interests  in  consolidated  funds  was  $909  million  for  the  year 
+ended  December  31,  2022,  which  represents  a  $68  million  decrease  compared  to  2021.  The  decrease  was  primarily 
+attributable to higher valuation gains recognized on our interest in BSREP III U.S. investments in the prior year.
+
+Net income attributable to preferred share redeemable non-controlling interest
+
+Net  income  attributable  to  preferred  share  redeemable  non-controlling  interest  was  $35  million  for  the  year  ended 
+December 31, 2022, which represents a $35 million increase compared to 2021. The increase was primarily attributable 
+to higher valuation gains recognized on our interest in BSREP III U.S. investments after the completion of the spin-off.
+
+For the years ended December 31, 2021 and 2020
+
+Net income for the year ended December 31, 2021 was $2.8 billion, of which $1.9 billion was attributable to the Asset 
+Management Company. This compares to net income of $573 million for the year ended December 31, 2020, of which 
+$398 million was attributable to the Asset Management Company. Net income benefitted from significant growth in base 
+management  and  advisory  fees  and  performance  fees  due  to  strong  flagship  fundraising,  the  higher  average  market 
+capitalization  of  our  permanent  capital  vehicles  and  valuation  gains  related  to  our  investment  in  BSREP  III,  partially 
+offset by higher compensation costs in conjunction with the step change growth of our asset management business.
+
+Revenues
+
+Revenues for the year ended December 31, 2021 were $3.1 billion, an increase of $0.9 billion or 43% compared to $2.2 
+billion for the year ended December 31, 2020. 
+
+Base  management  and  advisory  fees,  excluding  incentive  distributions,  were  $2.0  billion  for  the  year  ended 
+December  31,  2021,  which  represents  an  increase  of  $365  million  or  23%  compared  to  the  year  ended  December  31, 
+2020.  The  increase  was  largely  driven  by  the  higher  average  market  capitalization  of  our  permanent  capital  vehicles 
+during the year. In addition, we benefitted from the contribution of fees from our latest round of flagship funds, including 
+our fourth flagship real estate fund and our global transition fund. 
+
+Incentive  distributions  were  $315  million  for  the  year  ended  December  31,  2021,  which  represents  an  increase  of  $9 
+million  compared  to  $306  million  in  the  prior  year.  The  increase  was  attributable  to  $37  million  of  incremental  fees 
+earned from BEP and BIP as a result of 5% increases in their dividends. These increases were partially offset by a $28 
+million reduction in incentive distributions related to BPY, as 2021 included two quarters of incentive distributions prior 
+to the privatization of BPY in July 2021.
+
+Performance fees were $157 million for the year ended December 31, 2021, driven by $157 million from BBU as BBU’s 
+share  price  surpassed  its  high-water  mark  threshold,  setting  a  go  forward  high-water  mark  of  $47.30  per  unit.  BBU’s 
+high-water mark threshold was not reached in 2020, thus no incentive distribution was earned in this year.
+
+Unrealized  carried  interest  allocations  were  $299  million  for  the  year  ended  December  31,  2021,  which  represents  an 
+increase  of  $396  million  compared  to  the  year  ended  December  31,  2020.  The  2021  period  includes  valuation  gains 
+across sectors within our first and second flagship real estate fund and our perpetual real estate fund. The prior year was 
+impacted by valuation losses associated with the pandemic for the aforementioned funds.
+
+Interest and dividend revenue for 2021 were $293 million, which represents an increase of $6 million compared to the 
+year ended December 31, 2020.
+
+Expenses
+
+Expenses  for  the  year  ended  December  31,  2021  were  $1.4  billion,  an  increase  of  $235  million  compared  to  the  year 
+ended December 31, 2020. 
+
+Compensation  expenses  increased  by  $184  million  to  $703  million  for  the  year  ended  December  31,  2021, 
+predominantly  driven  by  additional  headcount  to  support  new  funds  and  products  launched  in  2021,  as  well  as 
+incremental headcount to deploy capital raised across our flagship product offering. 
+
+Compensation  expenses  related  to  unrealized  carried  interest  allocations  were  $137  million  for  the  year  ended 
+December 31, 2021, compared to $65 million in the prior year. The increase is related to growth in unrealized carried 
+interest allocations during the year as valuations recovered across sectors within our real estate funds.  
+
+72                BROOKFIELD ASSET MANAGEMENT
+
+Other income and expenses, net
+
+Other  income  and  expenses,  net  totaled  $1.5  billion  for  the  year  ended  December  31,  2021,  compared  to  expenses  of 
+$226 million during the year ended December 31, 2020. The 2021 period benefitted from $1.3 billion of valuation gains 
+related  to  our  investment  in  BSREP  III,  primarily  attributable  to  capitalization  rate  compression  in  the  multi-family 
+sector. 
+
+Share of income from equity accounted investments
+
+Our share of income from equity accounted investments was $161 million, an increase of $123 million compared to $38 
+million  recognized  in  the  prior  year.  The  increase  predominantly  related  to  higher  Fee-Related  Earnings  and  carried 
+interest allocations at Oaktree as a result of strong fundraising and capital deployment activities.  
+
+Income tax expense
+
+Income  tax  expense  was  $504  million  for  the  year  ended  December  31,  2021,  which  represents  an  increase  of  $278 
+million compared to the prior year. This was predominantly driven by significantly higher taxable net income during the 
+current year. 
+
+FORM 20-F                 73
+
+Pro Forma Consolidated Statement of Operations
+
+The following unaudited pro forma consolidated statement of operations of the Asset Management Company gives pro 
+forma effect to the Special Distribution and Arrangement as though the transactions had occurred on January 1, 2021. 
+For further detail on the pro forma adjustments, see Appendix A to this Management Discussion and Analysis.
+
+Management  believes  that  presenting  the  pro  forma  statement  of  operations  provides  a  more  appropriate  view  of  our 
+business, as the financial results prior to December 9, 2022 includes financial results that will not be relevant to the asset 
+management business on a go forward basis. For analysis purposes below, only financial statement line items that have 
+changed as a result of the pro forma impact are discussed. 
+
+The following table summarizes the statement of operations on a pro forma basis for the asset management business for 
+2022 and 2021:
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS) (Unaudited)
+Revenues
+Management fee revenues
+
+Base management and advisory fees    ................................................................................. $ 
+Performance fees  ...............................................................................................................
+
+Total management fee revenues
+Investment income
+
+Carried interest allocations
+
+Realized    ...........................................................................................................................
+Unrealized    .......................................................................................................................
+Total investment income   ......................................................................................................
+Interest and dividend revenue      ..............................................................................................
+Other revenues   .....................................................................................................................
+Total revenues ......................................................................................................................
+Expenses
+Compensation, operating, and general and administrative expenses
+
+Compensation and benefits      ...............................................................................................
+Other operating expenses     ..................................................................................................
+General and administrative     ................................................................................................
+
+Total compensation, operating, and general and administrative expenses
+Carried interest allocation compensation    .............................................................................
+Total expenses ......................................................................................................................
+Other (expenses) income, net   ...............................................................................................
+Share of income from equity accounted investments    ..........................................................
+Income before taxes     .............................................................................................................
+Income tax expense   ..............................................................................................................
+Net income    ..........................................................................................................................
+Net income attributable to redeemable non-controlling interest ..........................................
+Net (income) attributable to preferred share redeemable non-controlling interest   ..............
+Net (income) attributable non-controlling interest      ..............................................................
+Net income attributable to the Asset Management Company   ....................................... $ 
+
+Pro Forma
+
+2022
+
+2021
+
+2,909  $ 
+— 
+
+2,909 
+
+2,392 
+157 
+
+2,549 
+
+241 
+249 
+
+490 
+55 
+188 
+
+49 
+299 
+
+348 
+13 
+358 
+
+3,642 
+
+3,268 
+
+(674)   
+(236)   
+(66)   
+
+(976)   
+(124)   
+(1,100)   
+162 
+146 
+
+2,850 
+(689)   
+
+2,161 
+— 
+(546)   
+(98)   
+
+1,517  $ 
+
+(830) 
+(185) 
+(63) 
+
+(1,078) 
+(211) 
+(1,289) 
+26 
+161 
+
+2,166 
+(569) 
+
+1,597 
+— 
+(488) 
+— 
+
+1,109 
+
+74                BROOKFIELD ASSET MANAGEMENT
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For the years ended December 31, 2022 and 2021
+
+Net income for the year was $2.2 billion, of which $1.5 billion was attributable to the Asset Management Company. This 
+compares to net income of $1.6 billion for the prior year, of which $1.1 billion was attributable to the Asset Management 
+Company. The increase in net income for the year was predominantly as a result of a 22% growth in base management 
+and advisory fees over prior year, which was partially offset by the absence of $157 million in performance fees. 
+
+Revenues
+
+Revenues for the year were $3.6 billion, which represents an increase of $374 million or 11% compared to $3.3 billion in 
+2021.
+
+Base management and advisory fees for the year were $2.9 billion, which represents an increase of $517 million or 22% 
+compared to the prior year. The increase was predominantly driven by incremental contributions from capital raised for 
+our latest flagship funds and contributions from complementary strategies. 
+
+Other revenues were $188 million, which represents a decrease of $170 million or 47% compared to $358 million in 2021. The 
+decrease  was  driven  by  lower  recharges  related  to  compensation  costs  to  the  Corporation  as  outlined  in  the  AMSA  and 
+Relationship Agreement. 
+
+Expenses
+
+Expenses for the year were $1.1 billion, relative to $1.3 billion in 2021. 
+
+Compensation  and  benefits  for  the  year  ended  December  31,  2022  were  $674  million,  which  represents  a  decrease  of 
+$156  million  compared  to  the  prior  year.  This  decrease  is  due  to  a  decline  in  the  mark-to-market  value  of  liabilities 
+related to certain equity-based compensation awards, partially offset by an increase in headcount commensurate with the 
+growth in our business.
+
+Compensation expenses related to carried interest allocations were $124 million for the year, a decrease of $87 million 
+compared to the prior year. The decrease is predominantly due to the impact of lower valuation uplifts on legacy funds 
+relative to the prior year. 
+
+Other income 
+
+Other income of $162 million primarily consists of mark-to-market adjustments on our interest in BSREP III, our third 
+flagship  real  estate  fund.  2021  included  transaction  costs  related  to  the  spin-out  and  public  listing  of  our  asset 
+management business.
+
+Income tax expense 
+
+Income tax expense was $689 million for the year, which represents an increase of $120 million compared to the prior 
+year. This increase was largely driven by higher taxable net income during the current period. 
+
+Net (income) attributable to redeemable non-controlling interest
+
+Net  income  attributable  to  redeemable  non-controlling  interest  was  $nil  for  the  years  ended  December  31,  2022,  and 
+December 31, 2021.
+
+Net (income) attributable to preferred share redeemable non-controlling interest 
+
+Net  income  attributable  to  preferred  share  redeemable  non-controlling  interest  was  $546  million  for  the  year  ended 
+December 31, 2022, an increase of $58 million from the prior year. The increase was primarily attributable to carried 
+interest realizations in our real estate funds and a realization within our infrastructure business. 
+
+Net income attributable to non-controlling interest 
+
+Net income attributable to non-controlling interest was $98 million for the year ended December 31, 2022. This income 
+represents 33.3% of the carried interest generated from BSREP IV and other new funds that is earned by the Corporation 
+through its holding of an affiliate of the Asset Management Company. 
+
+FORM 20-F                 75
+
+Consolidated Balance Sheet
+
+The following table summarizes the consolidated balance sheet of the Manager as at December 31, 2022:
+
+AS AT DECEMBER 31, 2022
+(MILLIONS)
+Assets
+Cash and cash equivalents     .............................................................................................................................. $ 
+Due from affiliates   .........................................................................................................................................
+Investments      ....................................................................................................................................................
+Total Assets   ................................................................................................................................................... $ 
+
+Liabilities 
+Accounts payable   ........................................................................................................................................... $ 
+Due to affiliates   ..............................................................................................................................................
+
+Total Liabilities   .............................................................................................................................................
+Common Equity     ...........................................................................................................................................
+Total Liabilities and Equity   ......................................................................................................................... $ 
+
+1 
+782 
+2,378 
+3,161 
+
+781 
+3 
+
+784 
+2,377 
+3,161 
+
+As at December 31, 2022, the Manager’s total assets were $3.2 billion, consisting primarily of the 25% interest in the 
+Asset  Management  Company  and  reimbursements  due  from  affiliates  related  to  long-term  executive  compensation 
+programs  assumed  by  the  Manager.  Liabilities  of  $784  million  primarily  consist  of  the  aforementioned  executive 
+compensation programs.
+
+76                BROOKFIELD ASSET MANAGEMENT
+
+ 
+ 
+ 
+ 
+ 
+Refer to the section below for details of the Asset Management Company’s consolidated and combined balance sheets as 
+at December 31, 2022 and 2021: 
+
+AS AT DECEMBER 31
+(MILLIONS)
+Assets
+Cash and cash equivalents   ..................................................................................................... $ 
+Accounts receivable and other    ..............................................................................................
+Due from affiliates    ................................................................................................................
+Investments   ...........................................................................................................................
+Property, plant and equipment     ..............................................................................................
+Intangible assets    ....................................................................................................................
+Goodwill       ...............................................................................................................................
+Deferred income tax assets    ...................................................................................................
+Total Assets
+
+$ 
+
+Liabilities and Shareholder’s Equity
+Accounts payable and other   .................................................................................................. $ 
+Due to affiliates   .....................................................................................................................
+Corporate borrowings       ...........................................................................................................
+Deferred income tax liabilities 
+Total Liabilities 
+
+2022
+
+2021
+
+3,545  $ 
+429 
+2,121 
+6,877 
+68 
+59 
+249 
+739 
+14,087  $ 
+
+1,842  $ 
+811 
+— 
+17 
+2,670 
+
+2,494 
+224 
+6,732 
+13,564 
+48 
+64 
+249 
+
+2,268 
+25,643 
+
+1,872 
+8,207 
+
+461 
+700 
+11,240 
+
+Redeemable non-controlling interest     ....................................................................................
+Preferred shares redeemable non-controlling interest   ...........................................................
+
+— 
+1,811 
+
+4,532 
+— 
+
+Equity
+Net Parent Investment    ...........................................................................................................
+
+— 
+
+9,715 
+
+Common stock (Common shares - unlimited authorized, 1,635,327,858 issued and 
+outstanding)   ...........................................................................................................................
+   Retained earnings   ...............................................................................................................
+   Accumulated other comprehensive income    .......................................................................
+Non-controlling interest   .......................................................................................................
+
+9,271 
+84 
+153 
+98 
+
+— 
+— 
+156 
+— 
+
+Total liabilities, redeemable non-controlling interest  and common equity  .................. $ 
+
+14,087  $ 
+
+25,643 
+
+As at December 31, 2022 and December 31, 2021 
+
+Total  assets  were  $14.1  billion  as  at  December  31,  2022,  compared  to  $25.6  billion  as  at  December  31,  2021.  The 
+decrease  in  total  assets  was  primarily  the  result  of  the  deconsolidation  of  BSREP  III  following  the  transfer  of  voting 
+interests to the Corporation, the settlement of related party loans and the utilization of deferred income tax assets during 
+the year.
+
+Cash and cash equivalents were $3.5 billion, an increase of $1.1 billion from the prior year due to the strong operating 
+cashflows generated by our asset management activities. Of this balance, $3.3 billion is on deposit with the Corporation.
+
+Accounts  receivable  and  other  of  $429  million  primarily  consist  of  fees  receivable.  The  timing  of  collection  largely 
+drove the increase from the prior year.
+
+Due from affiliates of $2.1 billion primarily relates to management fees billed but not collected from our managed funds 
+as  well  as  reimbursements  due  from  the  Corporation  for  long-term  cash  based  and  equity  compensation  awards.  The 
+decrease of $4.6 billion from the prior year was primarily the result of settlements during the year.
+
+FORM 20-F                 77
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Investments of $6.9 billion are predominantly comprised of an 18% limited partnership interest in BSREP III and a 64% 
+interest in Oaktree. The decrease from the prior period of $6.7 billion was primarily a result of the deconsolidation of 
+third-party  interests  in  BSREP  III  following  the  transfer  of  voting  rights  to  a  wholly  owned  subsidiary  of  the 
+Corporation, along with the transfer of other legacy investments to the Corporation.
+
+Total liabilities were $2.7 billion as at December 31, 2022, a decrease of $8.6 billion compared to the prior year. The 
+decrease was primarily the result of the settlement of related party borrowings under legacy agreements during the year, 
+which reduced the amounts due to affiliates by $7.4 billion. Further to this, all corporate borrowings were also settled as 
+part of the Arrangement.
+
+Redeemable  non-controlling  interest  was  $nil  as  at  December  31,  2022,  a  decrease  of  $4.5  billion  compared  to  $4.5 
+billion as at December 31, 2021. This reduction was primarily related to the deconsolidation of BSREP III during the 
+year in alignment with the Arrangement. 
+
+The Preferred shares redeemable non-controlling interest was $1.8 billion as at December 31, 2022, an increase of $1.8 
+billion compared to $nil as at December 31, 2021. The increase was primarily related to the issuance of preferred shares 
+associated with tracked assets to Brookfield US Holdings Inc. ("BUSHI") and Brookfield Manager Holdings Ltd.
+("BMHL"). 
+
+78                BROOKFIELD ASSET MANAGEMENT
+
+Review of Consolidated Statement of Cash Flows
+
+The following table summarizes the changes in the Manager’s cash during the period ended December 31, 2022:
+
+FOR THE PERIOD JULY 4, 2022 TO DECEMBER 31, 2022
+(MILLIONS)
+Operating activities
+
+Net income  ................................................................................................................................................... $ 
+
+Non-cash adjustments    ....................................................................................................................................
+Undistributed earnings of investments accounted for under the equity method    .........................................
+Other expense    ..............................................................................................................................................
+Compensation and benefits recovery    ...........................................................................................................
+Unrealized carried interest compensation expense  ......................................................................................
+Working capital movements  ........................................................................................................................
+Due from affiliates   .......................................................................................................................................
+Accounts Payable     ........................................................................................................................................
+
+Financing activities
+
+Change in amount due to affiliates
+Share subscriptions
+Purchase of treasury shares
+
+Cash and cash equivalents
+
+Change in cash and cash equivalents     ...........................................................................................................
+Balance, beginning of year    ..........................................................................................................................
+Balance, end of year      .................................................................................................................................... $ 
+
+19 
+
+(21) 
+35 
+(37) 
+3 
+
+(782) 
+781 
+(2) 
+
+281 
+52 
+(330) 
+3 
+
+1 
+— 
+1 
+
+As at December 31, 2022, the Manager’s operating activities generated $1 million of net cashflow. Refer to the following 
+table that summarizes our asset management business’ consolidated statement of cash flows for the for the years ended 
+December 31, 2022, 2021 and 2020: 
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Operating activities before net changes in working capital and other non-cash 
+operating items      ............................................................................................................ $ 
+Net changes in working capital     ...................................................................................
+Other non-cash operating items    ..................................................................................
+Operating activities      ....................................................................................................
+Investing activities    ......................................................................................................
+Financing activities     ....................................................................................................
+Change in cash and cash equivalents 
+
+$ 
+
+2022
+
+2021
+
+2020
+
+1,988  $ 
+(3,020)   
+658 
+(374)   
+1,706 
+(280)   
+1,052  $ 
+
+1,669  $ 
+(246)   
+20 
+1,443 
+(861)   
+(187)   
+395  $ 
+
+1,203 
+102 
+481 
+1,786 
+(759) 
+(576) 
+451 
+
+FORM 20-F                 79
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For the years ended December 31, 2022 and 2021 
+
+Operating Activities
+
+Net  cash  outflows  from  operating  activities  totaled  $0.4  billion,  compared  to  $1.4  billion  of  net  inflows  in  the  prior 
+period. Excluding net changes in working capital and other non-cash operating items, operating cash inflows were $2.0 
+billion, representing an increase of $319 million driven by the growth of our asset management earnings as a result of 
+flagship fundraising and the introduction of new products.
+
+Investing Activities 
+
+Net cash inflows from investing activities totaled $1.7 billion, compared to net cash outflows of $861 million in the prior 
+period. The current period includes inflows of $2.1 billion related to the sale of investments to the Corporation. These 
+inflows were partially offset by cash outflows of $279 million related to the acquisition of Primary Wave and acquiring 
+an additional interest in Oaktree. Cash outflows in 2021 were primarily related to the purchase of financial assets.
+
+Financing Activities
+
+Net  cash  outflows  from  financing  activities  totaled  $280  million,  compared  to  outflows  of  $187  million  in  the  prior 
+period. The current period primarily consists of repayments of related party loans of $324 million and distributions to the 
+Corporation  and  non-controlling  interest  of  $3.2  billion  and  $1.3  billion  respectively.  These  outflows  were  partially 
+offset by $5.2 billion of contributions from parent. The prior period outflows were primarily as a result of distributions to 
+the  Asset  Management  Company,  being  partially  offset  by  inflows  from  issuance  of  corporate  borrowings  and  related 
+party loans.
+
+For the years ended December 31, 2021 and 2020 
+
+Operating Activities
+
+Net cash inflows from operating activities were $1.4 billion for the year ended December 31, 2021, compared to $1.8 
+billion in the prior year. Excluding net changes in working capital and other non-cash operating items, operating cash 
+inflows were $1.7 billion, and benefitted from significant growth within our asset management business.  
+
+Investing Activities 
+
+Net cash outflows from investing activities totaled $861 million, compared to $759 million in the prior year. Outflows 
+for the year ended December 31, 2021 were primarily attributable to $803 million of acquisitions of investments, net of 
+dispositions. The net cash outflows in the prior year were also primarily attributable to investment acquisitions. 
+
+Financing Activities
+
+Net cash outflows from financing activities totaled $187 million, compared to net outflows of $576 million in the prior 
+year. Outflows for the year ended December 31, 2021 consisted of $1.4 billion of distributions to the Corporation and 
+were  mostly  offset  by  $736  million  of  contributions  from  redeemable  non-controlling  interests  associated  with  third-
+party capital from BSREP III capital calls and proceeds of $461 million from the issuance of corporate borrowings. The 
+prior  year  outflows  were  caused  by  distributions  to  the  Corporation  of  $1.3  billion  that  were  partially  offset  by  $551 
+million of contributions from redeemable non-controlling interests associated with third-party capital provided for capital 
+calls of BSREP III and $136 million from the issuance of related party loans.
+
+80                BROOKFIELD ASSET MANAGEMENT
+
+Key Financial and Operating Measures
+
+The Manager and the Asset Management Company prepare their financial statements in conformity with U.S. GAAP. 
+This  MD&A  discloses  a  number  of  non-GAAP  financial  and  supplemental  financial  measures  which  are  utilized  in 
+monitoring  our  asset  management  business,  including  for  performance  measurement,  capital  allocation  and  valuation 
+purposes. The Manager believes that providing these performance measures is helpful to investors in assessing overall 
+performance, as well as the performance of our asset management business. These non-GAAP financial measures should 
+not be considered as the sole measure of the Manager’s or our asset management business’ performance and should not 
+be  considered  in  isolation  from,  or  as  a  substitute  for,  similar  financial  measures  calculated  in  conformity  with  U.S. 
+GAAP  financial  measures.  These  non-GAAP  measures  are  not  standardized  financial  measures  and  may  not  be 
+comparable  to  similar  financial  measures  used  by  other  issuers.  The  asset  management  business  includes  the  asset 
+management activities of Oaktree, an equity accounted affiliate, in its key financial and operating measures for our asset 
+management business. See “Reconciliation of U.S. GAAP to Non-GAAP Measures”.
+
+Non-GAAP Measures 
+
+Distributable Earnings
+
+Distributable  Earnings  used  by  the  Manager  provides  insight  into  earnings  that  are  available  for  distribution  or  to  be 
+reinvested by the Manager. Distributable Earnings of the Manager represent its share of Distributable Earnings from our 
+asset management business less general and administrative expenses, but excluding equity-based compensation costs, of 
+the  Manager.  The  most  directly  comparable  measure  disclosed  in  our  primary  financial  statements  for  Distributable 
+Earnings of the Manager is net income.
+
+Distributable  Earnings  used  by  our  asset  management  business  provides  insight  into  earnings  that  are  available  for 
+distribution or to be reinvested by our asset management business. It is calculated as the sum of its Fee-Related Earnings, 
+realized  carried  interest,  realized  principal  investments,  interest  expense,  and  general  and  administrative  expenses; 
+excluding  equity-based  compensation  costs  and  depreciation  and  amortization.  The  most  directly  comparable  measure 
+disclosed in the primary financial statements of our asset management business for Distributable Earnings is net income.
+
+The Manager intends to pay out approximately 90% of its Distributable Earnings to shareholders quarterly and reinvest 
+the  balance  back  into  the  business.  The  asset  management  business  intends  to  pay  dividends  to  the  Manager  on  a 
+quarterly  basis  sufficient  to  ensure  that  the  Manager  can  pay  its  intended  dividend.  See  “Dividend  Policy”  for  more 
+information.
+
+Fee Revenues
+
+Fee Revenues is a key metric analyzed by management to determine the growth in recurring cash flows from our asset 
+management  business.  Fee  Revenues  include  base  management  fees,  incentive  distributions,  performance  fees  and 
+transaction fees. Fee Revenues exclude carried interest, but include Fee Revenues earned by Oaktree. The most directly 
+comparable measure of Fee Revenues disclosed in the primary financial statements is total management fee revenues.
+
+Fee-Related Earnings
+
+Fee-Related  Earnings  is  used  to  provide  additional  insight  into  the  operating  profitability  of  our  asset  management 
+activities. Fee-Related Earnings are recurring in nature and not based on future realization events. Fee-Related Earnings 
+is comprised of Fee Revenues less direct costs associated with earning those fees, which include employee expenses and 
+professional  fees  as  well  as  business  related  technology  costs,  other  shared  services  and  taxes.  The  most  directly 
+comparable measure of Fee-Related Earnings disclosed in the primary financial statements is net income.
+
+Supplemental Financial Measures Utilized by Our Asset Management Business
+
+Assets under management
+
+Assets under management (“AUM”) refers to the total fair value of assets managed, calculated as follows: 
+
+•
+
+investments  that  Brookfield,  which  includes  the  Corporation,  the  asset  management  business  or  their  affiliates, 
+either:
+
+◦
+
+consolidates  for  accounting  purposes  (generally,  investments  in  respect  of  which  Brookfield  has  a  significant 
+economic interest and unilaterally directs day-to-day operating, investing and financing activities), or
+
+FORM 20-F                 81
+
+◦
+
+◦
+
+does not consolidate for accounting purposes but over which Brookfield has significant influence by virtue of 
+one or more attributes (e.g., being the largest investor in the investment, having the largest representation on the 
+investment’s  governance  body,  being  the  primary  manager  and/or  operator  of  the  investment,  and/or  having 
+other significant influence attributes), 
+
+are calculated at 100% of the total fair value of the investment taking into account its full capital structure — 
+equity and debt — on a gross asset value basis, even if Brookfield does not own 100% of the investment, with 
+the  exception  of  investments  held  through  our  perpetual  funds,  which  are  calculated  at  its  proportionate 
+economic share of the investment’s net asset value.
+
+•
+
+all  other  investments  are  calculated  at  Brookfield’s  proportionate  economic  share  of  the  total  fair  value  of  the 
+investment taking into account its full capital structure — equity and debt — on a gross asset value basis, with the 
+exception  of  investments  held  through  our  perpetual  funds,  which  are  calculated  at  Brookfield’s  proportionate 
+economic share of the investment’s net asset value.
+
+Our  methodology  for  determining  AUM  differs  from  the  methodology  that  is  employed  by  other  alternative  asset 
+managers as well as the methodology for calculating regulatory AUM that is prescribed for certain regulatory filings 
+(e.g., Form ADV and Form PF).
+
+Fee-Bearing Capital
+
+Fee-Bearing  Capital  represents  the  capital  committed,  pledged  or  invested  in  our  permanent  capital  vehicles,  private 
+funds and liquid strategies that we manage which entitles us to earn Fee Revenues. Fee-Bearing Capital includes both 
+called (“invested”) and uncalled (“pledged” or “committed”) amounts.
+
+When reconciling period amounts, we utilize the following definitions: 
+
+•
+
+•
+
+•
+
+Inflows  include  capital  commitments  and  contributions  to  our  private  and  liquid  strategies  funds,  and  equity 
+issuances from the permanent capital vehicles.
+
+Outflows represent distributions and redemptions of capital from within the liquid strategies capital.
+
+Distributions represent quarterly distributions from the permanent capital vehicles as well as returns of committed 
+capital  (excluding  market  valuation  adjustments),  redemptions  and  expiry  of  uncalled  commitments  within  our 
+private funds.
+
+• Market  valuation  includes  gains  (losses)  on  portfolio  investments,  the  permanent  capital  vehicles  and  liquid 
+
+strategies based on market prices.
+
+•
+
+Other includes changes in net non-recourse leverage included in the determination of the permanent capital vehicle 
+capitalizations and the impact of foreign exchange fluctuations on non-U.S. dollar commitments.
+
+Uncalled Fund Commitments
+
+Total  uncalled  fund  commitments  includes  capital  callable  from  fund  investors,  including  funds  outside  of  their 
+investment period, for which capital is callable for follow-on investments.
+
+82                BROOKFIELD ASSET MANAGEMENT
+
+Analysis of Key Non-GAAP Financial and Operating Measures of Our Asset Management Business
+
+The following section contains a discussion and analysis of key financial and operating measures utilized in managing 
+our asset management business, including for performance measurement, capital allocation and valuation purposes. For 
+further detail on our non-GAAP and performance measures, please refer to “Key Financial and Operating Measures”.
+
+Distributable Earnings
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+
+2020
+Fee Revenues   ................................................................................................................ $  4,048  $  3,523  $  2,870 
+
+2022
+
+2021
+
+Fee-Related Earnings1
+  .................................................................................................
+1,376 
+Add back: equity-based compensation costs   .................................................................
+51 
+Taxes and other   .............................................................................................................
+— 
+Disposition gains from principal investments    ...............................................................
+71 
+Distributable Earnings   ................................................................................................ $  2,096  $  1,892  $  1,498 
+
+2,108 
+86 
+(98) 
+— 
+
+1,827 
+123 
+(58) 
+— 
+
+1. Fee-Related Earnings include Oaktree’s Fee-Related Earnings at our 64% share (2021 - 62%).
+
+For the years ended December 31, 2022 and 2021
+
+Distributable  Earnings  were  $2.1  billion  for  the  year  ended  December  31,  2022,  an  increase  of  $204  million  or  11% 
+compared to the prior year. The increase was driven by higher Fee-Related Earnings, primarily attributable to fundraising 
+across our flagship funds and capital deployment efforts across our complementary strategies, partially offset by lower 
+fees from our permanent capital vehicles due to a decline in their share prices compared to prior year. 
+
+For the years ended December 31, 2021 and 2020
+
+Distributable  Earnings  were  $1.9  billion  for  the  year  ended  December  31,  2021,  an  increase  of  $394  million  or  26% 
+compared to the prior year. The increase was primarily attributable to higher Fee-Related Earnings, driven by significant 
+fundraising and capital deployment efforts.
+
+Fee-Bearing Capital
+
+The following table summarizes Fee-Bearing Capital as at December 31, 2022 and December 31, 2021:
+
+AS AT
+
+(MILLIONS)
+Renewable power and transition      ............................................ $ 
+Infrastructure    ..........................................................................
+Real estate    ...............................................................................
+Private equity    ..........................................................................
+Credit and other     ......................................................................
+December 31, 2022    ................................................................ $ 
+December 31, 2021    ................................................................. $ 
+
+Long-Term 
+Private Funds
+
+Perpetual 
+Strategies
+
+Liquid 
+Strategies
+
+Total 
+
+47,218 
+26,708  $  20,510  $ 
+85,887 
+44,512 
+103,025 
+69,473 
+39,317 
+31,501 
+142,416 
+46,663 
+218,857  $  127,155  $  71,851  $  417,863 
+169,279  $  114,624  $  80,230  $  364,133 
+
+—  $ 
+— 
+— 
+— 
+71,851 
+
+41,375 
+33,552 
+7,816 
+23,902 
+
+Fee-Bearing Capital was $418 billion as at December 31, 2022 compared to $364 billion as at December 31, 2021. The 
+increase of $54 billion was primarily attributable to inflows of $108 billion resulting from capital raised across flagship 
+funds, capital inflows within credit and other funds in our insurance solutions business, and capital raised and deployed 
+across various strategies. These increases were partially offset by lower market valuations and outflows within our liquid 
+credit strategies and decreases in the market capitalizations of BEP and BIP due to a decline in share prices compared to 
+prior year.
+
+FORM 20-F                 83
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The changes are set out in the following tables:
+
+AS AT
+
+(MILLIONS)
+Balance, December 31, 
+2021     ................................... $ 
+Inflows      ..............................
+Outflows    ............................
+Distributions     ......................
+Market Valuation       ..............
+Other   ..................................
+Change      ..............................
+Balance,  December  31, 
+2022    ..................................... $ 
+
+Renewable 
+Power and 
+Transition
+
+Infrastructure Real Estate
+
+Private 
+Equity
+
+Credit and 
+Other
+
+Total 
+
+47,525  $ 
+6,823 
+— 
+(1,428)   
+(5,873)   
+171 
+(307)   
+
+67,736  $ 
+26,974 
+— 
+(3,794)   
+(5,053)   
+24 
+18,151 
+
+82,282  $ 
+18,850 
+
+(394)   
+(4,556)   
+1,645 
+5,198 
+20,743 
+
+34,395  $  132,195  $ 
+9,135 
+— 
+(810)   
+(2,534)   
+(869)   
+4,922 
+
+45,887 
+(21,648)   
+(1,573)   
+(8,432)   
+(4,013)   
+10,221 
+
+364,133 
+107,669 
+(22,042) 
+(12,161) 
+(20,247) 
+511 
+53,730 
+
+47,218  $ 
+
+85,887  $ 
+
+103,025  $ 
+
+39,317  $  142,416  $ 
+
+417,863 
+
+The following table summarizes Fee-Bearing Capital as at December 31, 2021 and 2020:
+
+AS AT
+
+(MILLIONS)
+Renewable power and transition   ................................................... $ 
+Infrastructure     .................................................................................
+Real estate   .....................................................................................
+Private equity      ................................................................................
+Credit and other     .............................................................................
+December 31, 2021      ...................................................................... $ 
+December 31, 2020   ....................................................................... $ 
+
+Long-Term 
+Private 
+Funds
+
+Perpetual 
+Strategies
+
+Liquid 
+Strategies
+
+Total
+
+—  $  47,525 
+20,682  $  26,843  $ 
+67,736 
+— 
+31,119 
+82,282 
+— 
+52,332 
+34,395 
+— 
+26,079 
+39,067 
+  132,195 
+80,230 
+169,279  $  114,624  $  80,230  $  364,133 
+135,462  $  103,361  $  72,797  $  311,620 
+
+36,617 
+29,950 
+8,316 
+12,898 
+
+As at December 31, 2021, our Fee-Bearing Capital was $364.1 billion, an increase of $52.5 billion compared to $311.6 
+billion  as  at  December  31,  2020.  The  increase  was  primarily  attributable  to  inflows  resulting  from  reinsurance 
+agreements  closed  during  the  year  by  our  insurance  solutions  business,  fundraising  for  our  fourth  flagship  real  estate 
+fund,  our  inaugural  global  transition  fund,  as  well  as  capital  deployed  across  various  investment  strategies.  These 
+increases were partially offset by outflows due to redemptions within our liquid credit strategies.
+
+AS AT
+
+(MILLIONS)
+Balance, 
+December 31, 2020  ... $ 
+Inflows  ......................
+Outflows   ...................
+Distributions    .............
+Market Valuation  ......
+Other   .........................
+Change   ......................
+Balance, 
+December 31, 2021   .. $ 
+
+Renewable 
+Power and 
+Transition
+
+Infrastructure
+
+Real Estate
+
+Private 
+Equity
+
+Credit and 
+Other
+
+45,440  $ 
+10,510 
+— 
+(1,427)   
+(6,169)   
+(829)   
+2,085 
+
+62,535  $ 
+4,619 
+— 
+(3,708)   
+5,426 
+(1,136)   
+5,201 
+
+61,519  $ 
+16,406 
+
+(385)   
+(2,943)   
+6,707 
+978 
+20,763 
+
+30,931  $ 
+2,435 
+— 
+(1,175)   
+1,922 
+282 
+3,464 
+
+111,195  $ 
+28,821 
+(8,970)   
+(1,855)   
+4,921 
+(1,917)   
+21,000 
+
+Total 
+
+311,620 
+62,791 
+(9,355) 
+(11,108) 
+12,807 
+(2,622) 
+52,513 
+
+47,525  $ 
+
+67,736  $ 
+
+82,282  $ 
+
+34,395  $ 
+
+132,195  $ 
+
+364,133 
+
+84                BROOKFIELD ASSET MANAGEMENT
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fee Revenues and Fee-Related Earnings
+
+    ............................................................................................. $ 
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Base management fees1
+Performance fees    .......................................................................................................
+Transaction and advisory fees    ...................................................................................
+Fee Revenues   ............................................................................................................
+Less: direct costs2
+      ........................................................................................................
+
+Less: Fee-Related Earnings not attributable to the Asset Management business    .......
+Fee-Related Earnings    ................................................................................................ $ 
+
+2022
+3,955  $ 
+— 
+93 
+4,048 
+(1,792)   
+2,256 
+(148)   
+2,108  $ 
+
+2021
+3,355  $ 
+157 
+11 
+3,523 
+(1,540)   
+1,983 
+(156)   
+1,827  $ 
+
+2020
+2,845 
+
+— 
+25 
+2,870 
+(1,378) 
+1,492 
+
+(116) 
+1,376 
+
+1. Base management fees and direct costs are presented on a 100% basis. Base management fees and direct costs for Oaktree totaled $1,165 million and 
+$760 million, respectively, for the year ended December 31, 2022 (2021 - $1,062 million and $656 million). Refer to note 3 - “Investments” of the 
+combined consolidated financial statements, included elsewhere in this Form 20-F for additional disclosures related to Oaktree revenues, expenses, net 
+income, assets and liabilities.
+
+2.  Direct  costs  include  compensation  expenses,  other  operating  expenses  and  general,  administrative  and  other  expenses  and  related  Oaktree  direct 
+costs at 100%. 
+
+For the year ended December 31, 2022 and 2021
+
+Fee Revenues for the year ended December 31, 2022 were $4.0 billion, an increase of $525 million or 15% compared to 
+prior year. This increase was predominantly due to higher base management fees, driven by an increase in Fee-Bearing 
+Capital,  transaction  and  advisory  fees  from  co-investment  capital,  and  growth  in  incentive  distributions  from  BIP  and 
+BEP. Base management fees increased by $600 million or 18% compared to the year ended December 31, 2021. Our real 
+estate strategy contributed $196 million to the increase, primarily attributable to capital raised for the fourth flagship real 
+estate  fund,  deployments  across  other  fund  strategies,  and  market  valuation  increases  from  perpetual  strategies.  Fee 
+Revenues  from  our  infrastructure  strategy  increased  by  $133  million,  predominantly  due  to  capital  raised  for  our  fifth 
+flagship fund and capital deployed for our super core perpetual fund, as well as incremental fees earned on the higher 
+average  market  capitalization  of  BIP.  Our  credit  and  other  strategy  increased  by  $122  million,  predominantly  due  to 
+capital deployed for our latest opportunistic credit flagship fund. Our renewable power and transition and private equity 
+investment strategies contributed $76 million and $53 million to the increase, respectively, primarily due to fundraising 
+of the latest flagship funds, partially offset by lower fees from BEP due to a lower market capitalization.
+
+Direct costs primarily consist of employee expenses and professional fees, as well as business related technology costs 
+and  other  shared  services.  Direct  costs  increased  by  $252  million  or  16%  from  prior  year  as  we  continue  to  scale  our 
+asset  management  business,  including  enhancing  our  fundraising  and  client  service  capabilities  and  developing  new 
+complementary strategies.
+
+Fee-Related Earnings increased by $281 million, primarily attributable to the aforementioned increase in Fee Revenues, 
+partially offset by increased direct costs.
+
+For the years ended December 31, 2021 and 2020
+
+Fee Revenues increased by $653 million or 23% to $3.5 billion, predominantly due to growth in base management fees 
+driven by an increase in Fee-Bearing Capital and performance fees from BBU, partially offset by lower transaction and 
+advisory  fees.  Base  management  fees  increased  by  $510  million  or  18%  from  2020  to  $3.4  billion.  Our  real  estate 
+investment  strategy  contributed  $234  million  to  the  increase,  primarily  attributable  to  higher  fees  from  BPY,  capital 
+raised  for  its  fourth  flagship  real  estate  fund  and  capital  deployed  across  various  other  funds.  Fee  Revenues  from  our 
+credit  and  other  investment  strategy  increased  by  $140  million,  predominantly  due  to  capital  deployed  for  our  latest 
+opportunistic credit flagship fund and market valuation increases from perpetual strategies. Our infrastructure, renewable 
+power and transition and private equity investment strategies contributed $85 million, $53 million and $19 million to the 
+increase, respectively, primarily attributable to increased fees earned from higher market capitalization of BIP, BEP and 
+BBU.
+
+Direct  costs  increased  by  $162  million  or  12%  from  the  prior  year  as  we  continue  to  scale  our  asset  management 
+business.
+
+FORM 20-F                 85
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fee-Related  Earnings  increased  by  $451  million  or  33%  to  $1.8  billion,  primarily  attributable  to  the  aforementioned 
+increase in Fee Revenues, partially offset by increased direct costs.
+
+Reconciliation of U.S. GAAP to Non-GAAP Measures
+
+Reconciliations  of  Distributable  Earnings,  Fee-Related  Earnings  and  Fee  Revenues  to  the  most  directly  comparable 
+financial  measures  calculated  and  presented  in  conformity  with  U.S.  GAAP  are  presented  below.  In  addition  to  net 
+income  and  revenue,  management  assesses  the  performance  of  its  business  based  on  these  non-GAAP  financial 
+measures.  These  non-GAAP  financial  measures  should  be  considered  in  addition  to,  and  not  as  a  substitute  for  or 
+superior to, net income or other financial measures presented in conformity with U.S. GAAP. 
+
+Reconciliation of Net Income to Fee-Related Earnings and Distributable Earnings
+
+The  following  presents  a  reconciliation  of  net  income  to  Fee-Related  Earnings  and  Distributable  Earnings  of  for  the 
+periods presented.
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Net income
+Add or subtract the following:     ....................................................................................
+     .................................................................................................
+
+      ....................................................................................
+     ...............................................................
+    ...................................................................................
+    ..................................................................
+  ................................................................................
+    .......................................................................................................
+     ............................................
+  ........................................................
+  ................................................................
+
+Provision for taxes(a)
+Depreciation, amortization and other(b)
+Carried interest allocations(c)
+Carried interest allocation compensation(c)
+Other income and expenses(d)
+Interest expense paid to related parties(e)
+Interest and dividend revenue(e)
+Other revenues(e)
+Share of income from equity accounted investments(f)
+Fee-Related Earnings of Oaktree at our share(f)
+Fee Revenues from BSREP III & Other(g)
+$ 
+Fee-Related Earnings
+Disposition gains from principal investments (h)   ...................................................... $ 
+Current taxes (i)
+Equity-based compensation expense and other (j)
+Distributable Earnings
+
+    ..........................................................................................................
+   .....................................................
+
+$ 
+
+2022
+2,865  $ 
+
+2021
+2,846  $ 
+
+2020
+573 
+
+$ 
+
+627 
+13 
+(490)   
+200 
+(1,090)   
+154 
+(258)   
+(44)   
+(146)   
+252 
+25 
+2,108  $ 
+—  $ 
+(98)   
+86 
+2,096  $ 
+
+504 
+11 
+(348)   
+211 
+(1,504)   
+171 
+(293)   
+(23)   
+(161)   
+250 
+163 
+1,827  $ 
+—  $ 
+(58)   
+123 
+1,892  $ 
+
+226 
+7 
+65 
+120 
+226 
+257 
+(287) 
+(40) 
+(38) 
+186 
+81 
+1,376 
+71 
+— 
+51 
+1,498 
+
+(a) This adjustment removes the impact of income tax provisions on the basis that we do not believe this item reflects the present value of the actual 
+
+tax obligations that we expect to incur over the long-term due to the substantial deferred tax assets of our asset management business.
+
+(b) This adjustment removes the depreciation and amortization on property, plant and equipment and intangible assets, which are non-cash in nature 
+
+and therefore excluded from Fee-Related Earnings.
+
+(c) These adjustments remove realized and unrealized carried interest allocations and the associated compensation expense, which are excluded from 
+
+Fee-Related Earnings as these items are non-cash in nature.
+
+(d) This adjustment removes other income and expenses associated with non-cash fair value gains and losses.
+
+(e) These adjustments remove interest and charges paid or received related to loans to related parties. These are excluded from Fee-Related Earnings 
+as these are not representative of operating cash flows generated and are associated with loans that do not exist subsequent to the execution of the 
+Arrangement.
+
+(f)
+
+These adjustments remove our share of Oaktree’s non-cash items, including items a) to e) above and include its share of Oaktree’s Fee-Related 
+Earnings.
+
+(g) This adjustment adds base management fees earned from BSREP III and other funds that are eliminated upon consolidation as we consolidate 
+both the entities which earn these base management fees and BSREP III in the combined financial statements for the year ended December 31, 
+2021 and 2020. We include the base management fees associated with BSREP III in Fee Revenues and Fee-Related Earnings since in connection 
+with the Arrangement, we will no longer consolidate BSREP III and therefore the related base management fees will no longer be eliminated.
+
+(h) This adjustment adds disposition gains from principal investments.
+
+(i) Represents the impact of cash taxes paid by the business.
+
+86                BROOKFIELD ASSET MANAGEMENT
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(j)
+
+This adjustment adds back equity-based compensation and other items related to Oaktree that are adjusted for reporting Distributable Earnings.
+
+Reconciliation of Revenues to Fee Revenues
+
+The following presents our reconciliation of management fee revenues to Fee Revenues for the periods presented.
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Total management fee revenues
+Fee Revenues from Oaktree (a)
+BSREP III Fees & Other (b)
+Fee Revenues      ........................................................................................................... $ 
+
+   .................................................................................
+     ......................................................................................
+
+$ 
+
+2022
+2,835  $ 
+1,165 
+48 
+4,048  $ 
+
+2021
+2,423  $ 
+1,062 
+38 
+3,523  $ 
+
+2020
+1,892 
+897 
+81 
+2,870 
+
+(a) This adjustment adds Oaktree’s management fees. 
+
+(b) This adjustment adds base management fees earned from BSREP III and other funds that are eliminated upon consolidation as we consolidate 
+both the entities which earn these base management fees and BSREP III in the combined financial statements prior to December 9, 2022. We 
+include  the  base  management  fees  associated  with  BSREP  III  in  Fee  Revenues  since  in  connection  with  the  Arrangement,  we  no  longer 
+consolidate BSREP III and therefore the related base management fees are no longer be eliminated.
+
+FORM 20-F                 87
+
+ 
+ 
+ 
+ 
+ 
+ 
+Investment Strategy Results 
+
+In each of our product categories, we invest globally in various investment strategies, each benefiting from strong secular 
+tailwinds that provide an expanding multi-trillion dollar investable universe. 
+
+Our investment strategies are (a) Renewable Power and Transition, (b) Infrastructure, (c) Real Estate, (d) Private Equity, 
+and (e) Credit and other. 
+
+The following tables summarize Fee Revenues and Fee-Bearing Capital by investment strategy:
+
+Fee Revenues
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Renewable power and transition   ................................................................................. $ 
+Infrastructure     ...............................................................................................................
+Real estate   ...................................................................................................................
+Private equity      ..............................................................................................................
+Credit and other     ...........................................................................................................
+Total Fee Revenues       ................................................................................................... $ 
+
+2022
+578  $ 
+
+1,067 
+937 
+436 
+1,030 
+4,048  $ 
+
+2021
+487  $ 
+870 
+769 
+538 
+859 
+3,523  $ 
+
+2020
+420 
+774 
+592 
+365 
+719 
+2,870 
+
+Fee-Bearing Capital
+
+AS AT DECEMBER 31
+2020
+(MILLIONS)
+Renewable power and transition   ................................................................................. $  47,218  $  47,525  $  45,440 
+62,535 
+Infrastructure     ...............................................................................................................
+61,519 
+Real estate   ...................................................................................................................
+Private equity      ..............................................................................................................
+30,931 
+  111,195 
+Credit and other     ...........................................................................................................
+Total Fee-Bearing Capital    ........................................................................................ $ 417,863  $ 364,133  $ 311,620 
+
+85,887 
+  103,025 
+39,317 
+  142,416 
+
+67,736 
+82,282 
+34,395 
+  132,195 
+
+2021
+
+2022
+
+FOR THE YEARS ENDED DECEMBER 31
+2020
+(MILLIONS)
+Balance, beginning of period    .................................................................................... $ 364,133  $ 311,620  $ 289,812 
+Inflows      ........................................................................................................................
+32,983 
+Outflows     ......................................................................................................................
+(9,865) 
+Distributions   ................................................................................................................
+(6,664) 
+Market Valuation    ........................................................................................................
+17,745 
+Other  ............................................................................................................................
+(12,391) 
+Change       ........................................................................................................................
+21,808 
+Balance, end of period ............................................................................................... $ 417,863  $ 364,133  $ 311,620 
+
+62,791 
+(9,355)   
+(11,108)   
+12,807 
+(2,622)   
+52,513 
+
+(22,042)   
+(12,161)   
+(20,247)   
+511 
+53,730 
+
+  107,669 
+
+2021
+
+2022
+
+We have provided additional detail to explain significant variances year-over-year by investment strategy below.
+
+88                BROOKFIELD ASSET MANAGEMENT
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Renewable Power and Transition
+
+Overview
+
+• We  are  a  leading  global  investment  manager  in  renewable  power  and  transition,  with  $72  billion  of  AUM  as  of 
+
+December 31, 2022.
+
+•
+
+Clean energy occupies a uniquely complementary position to the global goals of net-zero emissions, low-cost energy 
+and  energy  security.  We  believe  that  the  growing  global  demand  for  low-carbon  energy,  especially  amongst 
+corporate off takers, will lead to continued growth opportunities for us in the future. The investment environment for 
+renewable power and transition remains favourable and we expect to continue to advance our substantial pipeline of 
+renewable power and transition opportunities on behalf of our clients and managed assets. 
+
+• We  have  approximately  100  investment  and  asset  management  professionals  globally  that  are  focused  on  our 
+renewable power and transition strategy, supported by approximately 3,700 employees in the renewable power and 
+transition operating businesses that we manage. Our extensive experience and knowledge in this industry allows us 
+to be a leader in all major technologies with deep operating and development capabilities.
+
+Our Products
+
+Long-term Private Funds
+
+• We  manage  BGTF,  which  is  our  $15  billion  flagship  strategy  focused  on  investments  aimed  at  accelerating  the 
+global transition to a net-zero carbon economy. The mandate of this product is to assist utility, energy and industrial 
+businesses  reduce  carbon  dioxide  emissions,  expand  low-carbon  and  renewable  energy  production  levels  and 
+advance sustainable solutions.      
+
+Permanent Capital Vehicles and Perpetual Strategies
+
+• We also manage BEP, one of the world’s largest publicly traded renewable power platforms, which is listed on the 
+
+NYSE and TSX and has a market capitalization of  $16.8 billion as of December 31, 2022.
+
+Summary of Key Financial and Operating Measures
+
+The following charts provide the Fee-Bearing Capital of our renewable power and transition investment strategy as at 
+December 31, 2022, 2021 and 2020, and Fee Revenues for years then ended. 
+
+Fee-Bearing Capital 
+AS AT DEC 31. (BILLIONS)   
+
+                     Fee Revenues
+                               FOR THE PERIODS ENDED DEC 31. (MILLIONS) 
+
+■ Long-Term Private Funds
+■ Permanent Capital Vehicles and Perpetual Strategies
+
+■ Long-term Private Funds
+■ Permanent Capital Vehicles and Perpetual Strategies
+
+FORM 20-F                 89
+
+$45$48$47202020212022$420$487$578202020212022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  
+                   
+                             
+The following provides explanations of significant movements during the presented periods.
+
+Fee-Bearing Capital
+
+AS AT DECEMBER 31
+(MILLIONS)
+Long-Term Private Funds    .................................................................. $ 
+Permanent Capital Vehicles and Perpetual Strategies   ...............................  
+Total Fee-Bearing Capital   ............................................................... $ 
+
+2022
+26,708  $ 
+
+2021
+20,682  $ 
+
+20,510 
+
+26,843 
+
+2020
+10,881 
+
+34,559 
+
+47,218  $ 
+
+47,525  $ 
+
+45,440 
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Balance, beginning of period  ........................................................................ $ 
+Inflows   .............................................................................................................
+Distributions    ....................................................................................................
+Market Valuation   .............................................................................................
+Other    ................................................................................................................
+Change  .............................................................................................................
+Balance, end of period   ................................................................................... $ 
+
+2022
+47,525  $ 
+6,823 
+(1,428)   
+(5,873)   
+171 
+(307)   
+
+2021
+45,440  $ 
+10,510 
+(1,427)   
+(6,169)   
+(829)   
+2,085 
+
+2020
+33,520 
+3,841 
+(1,020) 
+14,748 
+(5,649) 
+11,920 
+
+47,218  $ 
+
+47,525  $ 
+
+45,440 
+
+During  the  year  ended  December  31,  2022,  Fee-Bearing  Capital  decreased  by  $0.3  billion  or  1%,  to  $47.2  billion 
+primarily attributable to a decrease in the market capitalization of BEP due to a decline in share price and distributions 
+paid to BEP’s unitholders. This decrease was partially offset by $6.0 billion of capital raised across our flagship funds.
+
+During the year ended December 31, 2021, Fee-Bearing Capital increased by $2.1 billion or 5%, driven by a $9.8 billion 
+increase  in  our  long-term  private  funds  as  a  result  of  inflows  from  fundraising  related  to  our  global  transition  fund, 
+partially offset by a $7.7 billion decrease in our permanent capital vehicles as a result of the lower market capitalization 
+of BEP and quarterly distributions paid to BEP’s unitholders.
+
+Fee Revenues
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Management and advisory fees
+Long-term private funds     .................................................................................................
+Flagship funds    ............................................................................................ $ 
+Co-investment and other funds      ......................................................................  
+
+Perpetual strategies
+
+BEP1
+     ........................................................................................................  
+Co-investment and other funds      ......................................................................  
+
+Catch-up fees
+Transaction and advisory fees     ........................................................................................
+Total management and advisory fees       ............................................................................
+Incentive Distributions    ....................................................................................................
+Total Fee Revenues      ....................................................................................................... $ 
+
+1. BEP Fee-Bearing Capital as at December 31, 2022 is $21 billion (2021 - $27 billion)
+
+2022
+
+2021
+
+2020
+
+206  $ 
+
+98  $ 
+
+19 
+225 
+
+16 
+114 
+
+244 
+
+288 
+
+— 
+244 
+12 
+2 
+483 
+95 
+578  $ 
+
+3 
+291 
+— 
+2 
+407 
+80 
+487  $ 
+
+97 
+
+14 
+111 
+
+211 
+
+27 
+238 
+4 
+1 
+354 
+66 
+420 
+
+Fee  Revenues  increased  by  $91  million  or  19%  for  the  year  ended  December  31,  2022  relative  to  the  year  ended 
+December 31, 2021. Fees from long-term private funds increased by $111 million, mainly due to a full year contribution 
+of  fees  and  $12  million  of  catch-up  fees  primarily  from  the  global  transition  fund.  Incentive  distributions  from  BEP 
+increased by $15 million due to a 5% increase in distributions compared to the prior year. These increases were partially 
+
+90                BROOKFIELD ASSET MANAGEMENT
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+offset by a decrease in fees from BEP of $44 million, predominantly due to the decline in BEP's share price compared to 
+prior year.
+
+Fee  Revenues  increased  by  $67  million  or  16%  for  the  year  ended  December  31,  2021  relative  to  the  year  ended 
+December 31, 2020. The increase was primarily attributable to $77 million of incremental fees earned from BEP, as its 
+average market capitalization increased year-over-year in line with appreciation in its share price. In addition, incentive 
+distributions from BEP increased by $14 million due to a 5% increase in distributions compared to the prior year. These 
+increases were partially offset by the absence of fees from TERP due to its privatization in the second half of the prior 
+year and the prior year recognition of catch-up fees of $4 million related to the renewable power allocation of the fourth 
+flagship infrastructure fund. 
+
+FORM 20-F                 91
+
+Infrastructure
+
+Overview
+
+• We  are  one  of  the  world’s  largest  investment  managers  in  infrastructure,  with  $143  billion  of  AUM  as  of 
+
+December 31, 2022. 
+
+• We  focus  on  acquiring  high-quality  businesses  on  behalf  of  our  clients  that  deliver  essential  goods  and  services, 
+diversified  across  the  utilities,  transport,  midstream  and  data  infrastructure  sectors.  We  partner  closely  with 
+management teams to enable long-term success through operational and other improvements. 
+
+• We  have  approximately  230  investment  and  asset  management  professionals  globally  that  are  focused  on  our 
+infrastructure strategy, supported by approximately 51,400 employees in the infrastructure operating businesses that 
+we manage.
+
+Our Products
+
+Long-term Private Funds
+
+•
+
+•
+
+BIF  is  our  flagship  infrastructure  fund  series.  In  this  product  offering,  we  invest  on  behalf  of  our  clients  in  high-
+quality infrastructure assets on a value basis and seek to add value through the investment life cycle by utilizing our 
+operations-oriented approach. 
+
+BID is our infrastructure debt fund series, which invests on behalf of our clients in mezzanine debt investments in 
+high-quality, core infrastructure assets. 
+
+Permanent Capital Vehicles and Perpetual Strategies
+
+• We manage BIP, one of the largest, pure play, publicly traded global infrastructure platforms, which is listed on the 
+NYSE and TSX and has a market capitalization of $24.9 billion as of December 31, 2022. In this product offering, 
+we invest on behalf of our clients in high-quality, long-life assets that provide essential products and services for the 
+global economy. 
+
+• We also manage BSIP, which is our perpetual infrastructure private fund strategy. In this product offering, we invest 
+on behalf of our clients in core infrastructure assets in developed markets, with a focus on yield, diversification and 
+inflation-protection.
+
+Summary of Key Financial and Operating Measures
+
+The following charts provide the Fee-Bearing Capital as at December 31, 2022, 2021 and 2020 and Fee Revenues for the 
+years ended December 31, 2022, 2021 and 2020 of our Infrastructure investment strategy. 
+
+Fee-Bearing Capital 
+AS AT DEC 31. (BILLIONS)   
+
+    Fee Revenues
+      FOR THE PERIODS ENDED DEC 31. (MILLIONS) 
+
+■ Long-Term Private Funds
+■ Permanent Capital Vehicles and Perpetual Strategies
+
+■ Long-term Private Funds
+■ Permanent Capital Vehicles and Perpetual Strategies
+
+92                BROOKFIELD ASSET MANAGEMENT
+
+$63$68$86202020212022$774$870$1,067202020212022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+                                              
+                             
+We have provided additional detail below to explain significant movements during the presented periods.
+
+Fee-Bearing Capital
+
+AS AT DECEMBER 31
+(MILLIONS)
+Long-Term Private Funds   ................................................................................ $ 
+Permanent Capital Vehicles and Perpetual Strategies    .....................................
+Total Fee-Bearing Capital   ................................................................................ $ 
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Balance, beginning of period    ........................................................................... $ 
+Inflows   .............................................................................................................
+Distributions      ....................................................................................................
+Market Valuation      .............................................................................................
+Other     ................................................................................................................
+Change    .............................................................................................................
+Balance, end of period     ..................................................................................... $ 
+
+2022
+44,512  $ 
+41,375 
+85,887  $ 
+
+2022
+67,736  $ 
+26,974 
+(3,794)   
+(5,053)   
+24 
+18,151 
+85,887  $ 
+
+2021
+31,119  $ 
+36,617 
+67,736  $ 
+
+2021
+62,535  $ 
+4,619 
+(3,708)   
+5,426 
+(1,136)   
+5,201 
+67,736  $ 
+
+2020
+32,749 
+29,786 
+62,535 
+
+2020
+57,623 
+3,939 
+(1,610) 
+4,586 
+(2,003) 
+4,912 
+62,535 
+
+During the year ended December 31, 2022, Fee-Bearing Capital increased by $18.2 billion or 27% to $85.9 billion, due 
+to a $13.4 billion and $4.8 billion increase in our long-term private funds and permanent capital vehicles and perpetual 
+strategies, respectively. The increase in the long-term private funds strategy was largely driven by inflows from capital 
+raised  for  the  fifth  flagship  infrastructure  fund.  Fee-Bearing  capital  on  our  permanent  capital  vehicles  and  perpetual 
+strategies increased due to capital raised for BSIP, partially offset by a decrease in the market capitalization of BIP as 
+well as quarterly distributions paid to BIP’s unitholders. 
+
+During the year ended December 31, 2021, Fee-Bearing Capital increased by $5.2 billion or 8%, due to a $6.8 billion 
+increase in our permanent capital vehicles and perpetual strategies as a result of the higher market capitalization of BIP 
+and inflows from capital deployed in BSIP, partially offset by quarterly distributions paid to BIP’s unitholders and BSIP 
+investors. Fee-Bearing Capital on our long-term private funds decreased by $1.6 billion, mainly due to distributions to 
+our investors, partially offset by inflows from capital deployed.
+
+Fee Revenues
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Management and advisory fees
+Long-term private funds     ..............................................................................................
+Flagship funds    ......................................................................................... $ 
+Co-investment and other funds      ...................................................................  
+
+Permanent capital vehicles and perpetual strategies    ...................................................
+
+BIP1
+      ......................................................................................................  
+Co-investment and other funds      ...................................................................  
+
+Catch-up fees    ...............................................................................................................
+Transaction and advisory fees     .....................................................................................
+Total management and advisory fees  ..........................................................................
+Incentive distributions     .................................................................................................
+Total Fee Revenues    ................................................................................................... $ 
+
+1.
+
+BIP Fee-Bearing Capital as at December 31, 2022 is $29 billion (2021 - $35 billion).
+
+2022
+
+2021
+
+2020
+
+279  $ 
+
+215  $ 
+
+39 
+318 
+
+33 
+248 
+
+421 
+
+394 
+
+53 
+474 
+2 
+33 
+827 
+240 
+1,067  $ 
+
+19 
+413 
+— 
+2 
+663 
+207 
+870  $ 
+
+217 
+
+36 
+253 
+
+301 
+
+9 
+310 
+13 
+14 
+590 
+184 
+774 
+
+Fee  Revenues  increased  by  $197  million  or  23%  for  the  year  ended  December  31,  2022  relative  to  the  year  ended 
+December 31, 2021. Fees from our long-term private funds increased by $70 million, primarily due to capital raised for 
+
+FORM 20-F                 93
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+our  fifth  infrastructure  flagship  fund.  Fee  Revenues  from  our  permanent  capital  vehicles  and  perpetual  strategies 
+increased  by  $61  million,  primarily  due  to  an  increase  in  the  average  annual  market  capitalization  of  BIP  and  capital 
+raised  for  BSIP.  In  addition,  incentive  distributions  from  BIP  increased  by  $33  million,  due  to  higher  dividends  paid 
+compared to prior year.
+
+Fee  Revenues  increased  by  $96  million  or  12%  for  the  year  ended  December  31,  2021  relative  to  the  year  ended 
+December  31,  2020.  The  increase  was  primarily  attributable  to  $93  million  of  incremental  fees  earned  from  BIP  as  a 
+result of a $6.2 billion increase in Fee-Bearing Capital, as well as a $23 million increase in incentive distributions due to 
+higher  BIP  per  unit  distributions  compared  to  the  prior  year.  In  addition,  fees  from  co-investment  and  other  perpetual 
+strategy  funds  increased  by  $10  million,  primarily  due  to  third-party  commitments  raised  within  our  perpetual 
+infrastructure private fund. These increases were partially offset by the prior year recognition of $13 million of catch-up 
+fees related to our fourth flagship infrastructure fund and a $12 million decrease in transaction and advisory fees due to a 
+reduction in co-investment capital deployed during the year. Fees earned from our long-term private fund decreased by 
+$5 million, primarily attributable to our third flagship infrastructure fund’s investment period coming to an end, resulting 
+in its fee base reducing from committed capital to invested capital.
+
+94                BROOKFIELD ASSET MANAGEMENT
+
+Private Equity
+
+Overview
+
+• We are a leading private equity investment manager with $133 billion of AUM as of December 31, 2022. 
+
+• We  focus  on  high-quality  businesses  that  provide  essential  products  and  services,  diversified  across  the  industrial 
+operations  and  business  services  sectors.  We  partner  closely  with  management  teams  to  enable  long-term  success 
+through operational and other improvements. 
+
+• We have approximately 280 investment and asset management professionals globally that are focused on our private 
+equity strategy, supported by approximately 105,400 employees in the private equity operating businesses that we 
+manage.
+
+Our Products
+
+Long-term Private Funds
+
+•
+
+•
+
+•
+
+Our  global  opportunistic  flagship  fund  series,  BCP,  is  our  leading  private  equity  product  offering.  This  series  of 
+funds focuses on cash-flowing essential service businesses. We seek investments that benefit from high barriers to 
+entry and enhance their cash flow capabilities by improving strategy and execution.
+
+Our special investments strategy, BSI, is focused on large-scale, non-control investments. This product capitalizes 
+on  potential  transactions  that  do  not  fit  our  traditional  control-oriented  flagship  private  equity  fund  series.  These 
+include recapitalizations to strategic growth capital, where we expect to generate equity-like returns while ensuring 
+downside protection through structured investments. 
+
+Our  growth  equity  strategy,  BTG,  was  launched  in  2016  and  has  developed  into  a  meaningful  business  that  we 
+expect  to  continue  to  scale  over  time.  This  strategy  focuses  on  investing  in  technology-related  growth  stage 
+companies that surround our broader ecosystem of managed assets.
+
+Permanent Capital Vehicles and Perpetual Strategies
+
+• We manage BBU, which is a publicly traded global business services and industrial company focused on owning 
+and operating high-quality providers of essential products and services. BBU is listed on the NYSE and TSX and 
+had a market capitalization of $3.8 billion as of December 31, 2022. 
+
+Summary of Key Financial and Operating Measures
+
+The following charts provide the Fee-Bearing Capital of our Private Equity investment strategy as at December 31, 2022, 
+2021 and 2020 and Fee Revenues for the years then ended. 
+
+Fee-Bearing Capital 
+AS AT DEC 31. (BILLIONS)   
+
+ Fee Revenues
+  FOR THE PERIODS ENDED DEC 31. (MILLIONS) 
+
+■ Long-Term Private Funds
+■ Permanent Capital Vehicles and Perpetual Strategies
+
+■ Long-term Private Funds
+■ Permanent Capital Vehicles and Perpetual Strategies
+
+FORM 20-F                 95
+
+$31$34$39202020212022$365$538$436202020212022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+             
+                                              
+                             
+We have provided additional detail below to explain significant movements during the presented periods. 
+
+Fee-Bearing Capital
+
+AS AT DECEMBER 31
+(MILLIONS)
+Long-Term Private Funds    .................................................................. $ 
+Permanent Capital Vehicles and Perpetual Strategies   ...............................  
+Total Fee-Bearing Capital     ................................................................ $ 
+
+2022
+31,501  $ 
+
+2021
+26,079  $ 
+
+7,816 
+
+8,316 
+
+2020
+25,668 
+
+5,263 
+
+39,317  $ 
+
+34,395  $ 
+
+30,931 
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Balance, beginning of period      ........................................................................ $ 
+Inflows   .............................................................................................................
+Distributions      ....................................................................................................
+Market Valuation      .............................................................................................
+Other     ................................................................................................................
+Change    .............................................................................................................
+Balance, end of period     ................................................................................... $ 
+
+2022
+34,395  $ 
+9,135 
+(810)   
+(2,534)   
+(869)   
+4,922 
+
+2021
+30,931  $ 
+2,435 
+(1,175)   
+1,922 
+282 
+3,464 
+
+2020
+29,921 
+3,263 
+(1,042) 
+(714) 
+(497) 
+1,010 
+
+39,317  $ 
+
+34,395  $ 
+
+30,931 
+
+During the year ended December 31, 2022, Fee-Bearing capital increased by $4.9 billion or 14% to $39.3 billion. Our 
+long-term  private  funds  contributed  an  increase  of  $5.4  billion,  largely  driven  by  capital  raised  for  our  sixth  flagship 
+private equity fund and capital raised and deployed in other complementary strategies. This increase was partially offset 
+by a $0.5 billion decrease in our permanent capital vehicles due to a decrease in the market capitalization of BBU.
+
+During the year ended December 31, 2021, Fee-Bearing Capital increased by $3.5 billion or 11%, predominantly due to 
+a  $3.1  billion  increase  in  our  permanent  capital  vehicles  and  perpetual  strategies  as  a  result  of  the  higher  market 
+capitalization  of  BBU,  partially  offset  by  quarterly  distributions  paid  to  BBU's  unitholders.  In  addition,  our  long-term 
+private funds increased by $0.4 billion as a result of inflows from capital deployed, partially offset by distributions to our 
+investors.
+
+Fee Revenues
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Management and advisory fees
+Long-term private funds     ..............................................................................................
+Flagship funds    ......................................................................................... $ 
+Co-investment and other funds      ...................................................................  
+
+Perpetual strategies  ......................................................................................................
+
+BBU1
+   .....................................................................................................  
+Co-investment and other funds      ...................................................................  
+
+Catch-up fees    ...............................................................................................................
+Transaction and advisory fees     .....................................................................................
+Total management and advisory fees  ..........................................................................
+Performance fees     .........................................................................................................
+Total Fee Revenues    ................................................................................................... $ 
+
+1.
+
+BBU Fee-Bearing Capital as at December 31, 2022 is $8 billion (2021 - $8 billion).
+
+2022
+
+2021
+
+2020
+
+137  $ 
+
+103  $ 
+
+195 
+332 
+
+175 
+278 
+
+95 
+
+93 
+
+— 
+95 
+— 
+9 
+436 
+— 
+436  $ 
+
+— 
+93 
+3 
+7 
+381 
+157 
+538  $ 
+
+121 
+
+164 
+285 
+
+63 
+
+2 
+65 
+5 
+10 
+365 
+— 
+365 
+
+Fee  Revenues  decreased  by  $102  million  or  19%  for  the  year  ended  December  31,  2022  relative  to  the  year  ended 
+December 31, 2021.  This decrease is primarily due to the absence of performance fees from BBU in 2022; the prior year 
+
+96                BROOKFIELD ASSET MANAGEMENT
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+benefited from a performance fee of $157 million as BBU’s share price surpassed its high-water mark performance fee 
+threshold, setting a go forward high-water mark of $31.53 per unit, reflecting the adjusted high-watermark resulting from 
+the special distribution of BBUC. This new high-water mark was not achieved in 2022, thus no performance fees were 
+earned during the year. This decrease was partially offset by a $54 million increase in Fee Revenues from our private 
+funds, primarily attributable to the launch of our sixth flagship private equity fund.
+
+Fee  Revenues  increased  by  $173  million  or  47%  for  the  year  ended  December  31,  2021  relative  to  the  year  ended 
+December 31, 2020. The increase was predominantly related to $157 million of performance fees as BBU surpassed its 
+high-water  mark  in  both  the  second  and  fourth  quarter  of  2021,  resulting  from  an  increase  in  unit  price  during  those 
+periods.  The  high-water  mark  threshold  to  earn  additional  performance  fees  as  at  December  31,  2021  was  $47.30  per 
+unit, above the previous threshold of $44.64 per unit. In addition, management fees from BBU increased by $30 million, 
+primarily attributable to a higher market capitalization compared to the prior year. These increases were partially offset 
+by a $7 million decrease in fees from long-term private funds, primarily attributable to our third flagship private equity 
+fund’s investment period coming to an end, which lowered its fee base from committed capital to invested capital. 
+
+FORM 20-F                 97
+
+Real Estate
+
+Overview
+
+• We  are  one  of  the  world’s  largest  investment  managers  in  real  estate,  with  over  $263  billion  of  AUM  as  of 
+
+December 31, 2022. 
+
+• We have invested, on behalf of clients, in iconic properties in the world’s most dynamic markets with the goal of 
+
+generating stable and growing distributions for our investors while protecting them against downside risk. 
+
+• We have approximately 660 investment and asset management professionals that are focused on generating superior 
+returns across our real estate strategies, supported by approximately 29,600 operating employees in the real estate 
+operating businesses that we manage.
+
+Our Products
+
+Long-term Private Funds
+
+•
+
+•
+
+Our opportunistic real estate flagship fund series is BSREP. Through this product, we invest globally across various 
+sectors and geographies on behalf of our clients in high-quality real estate with a focus on large, complex, distressed 
+assets, turnarounds and recapitalizations. The latest vintage, our fourth flagship strategy, has raised $17 billion as of 
+December 31, 2022.
+
+Our commercial real estate debt fund series, BREF, targets investments in transactions, predominantly in the U.S., 
+that are senior to traditional equity and subordinate to first mortgages or investment-grade corporate debt. 
+
+• We also recently launched our real estate secondaries strategy, Brookfield Real Estate Secondaries (“BRES”), with a 
+
+focus on providing liquidity solutions for other real estate general partners. 
+
+Permanent Capital Vehicles and Perpetual Strategies
+
+• We manage $21 billion of Fee-Bearing Capital in BPG as of December 31, 2022, which we invest, on behalf of the 
+Corporation, directly in real estate assets or through our real estate private fund offerings. BPG owns, operates and 
+develops iconic properties in the world’s most dynamic markets with a global portfolio of office, retail, multifamily, 
+logistics,  hospitality,  land  and  housing,  triple  net  lease,  manufactured  housing  and  student  housing  assets  on  five 
+continents. 
+
+• We also manage capital in our perpetual private fund real estate strategy, BPREP. This is a core plus strategy that 
+invests in high-quality, stabilized real assets located primarily in the U.S. with a focus on office, retail, multifamily 
+and  logistics  real  estate  assets.  We  also  have  two  regional  BPREP  strategies  that  are  dedicated  specifically  to 
+investments in Australia and Europe.
+
+• We manage capital across our perpetual real estate debt strategy, BSREF. We seek to originate, acquire and actively 
+
+manage investments in U.S. senior commercial real estate debt for this strategy.
+
+• We  also  recently  launched  our  non-traded  REIT,  Brookfield  REIT,  which  is  a  semi-liquid  strategy  catering 
+specifically  to  the  private  wealth  channel.  This  product  invests  in  high  quality  income-producing  opportunities 
+globally through equity or real-estate related debt. 
+
+98                BROOKFIELD ASSET MANAGEMENT
+
+Summary of Key Financial and Operating Measures
+
+The  following  charts  provide  the  Fee-Bearing  Capital  of  our  Real  Estate  strategy  as  at  December  31,  2022,  2021  and  
+2020 and Fee Revenues for the years then ended. 
+
+Fee-Bearing Capital 
+
+AS AT DEC 31. (BILLIONS)   
+
+     Fee Revenues
+
+                             FOR THE PERIODS ENDED DEC 31. (MILLIONS) 
+
+■ Long-Term Private Funds
+■ Permanent Capital Vehicles and Perpetual Strategies
+
+■ Long-term Private Funds
+■ Permanent Capital Vehicles and Perpetual Strategies
+
+We have provided additional detail, where referenced, to explain significant movements from the prior year. 
+
+Fee-Bearing Capital
+
+AS AT DECEMBER 31
+(MILLIONS)
+Long-Term Private Funds    .................................................................. $ 
+Permanent Capital Vehicles and Perpetual Strategies   ...............................  
+Total Fee-Bearing Capital     ................................................................ $  103,025  $ 
+
+2022
+69,473  $ 
+
+33,552 
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Balance, beginning of period  ........................................................................ $ 
+Inflows   .............................................................................................................
+Outflows    ..........................................................................................................
+Distributions    ....................................................................................................
+Market Valuation   .............................................................................................
+Other    ................................................................................................................
+Change  .............................................................................................................
+Balance, end of period   ................................................................................... $  103,025  $ 
+
+(394)   
+(4,556)   
+1,645 
+5,198 
+20,743 
+
+2022
+82,282  $ 
+18,850 
+
+2021
+52,332  $ 
+
+29,950 
+
+2020
+35,857 
+
+25,662 
+
+82,282  $ 
+
+61,519 
+
+2021
+61,519  $ 
+16,406 
+
+(385)   
+(2,943)   
+6,707 
+978 
+20,763 
+
+2020
+62,272 
+5,143 
+(263) 
+(2,192) 
+(1,842) 
+(1,599) 
+(753) 
+
+82,282  $ 
+
+61,519 
+
+During the year ended December 31, 2022, Fee-Bearing Capital increased by $20.7 billion, or 25%, to $103.0 billion. 
+Our  long-term  private  funds  increased  by  $17.1  billion  to  $69.5  billion,  primarily  due  to  capital  raised  for  our  fourth 
+flagship  real  estate  fund  and  capital  deployed  across  various  other  private  funds.  Our  permanent  capital  vehicles  and 
+perpetual strategies increased by $3.6 billion to $33.6 billion, primarily due to capital deployed and an increase in market 
+value for BPREP, partially offset by distributions.
+
+During the year ended December 31, 2021, Fee-Bearing Capital increased by $21 billion or 34%. Our long-term private 
+funds  increased  by  $16  billion,  primarily  due  to  capital  raised  for  our  fourth  flagship  real  estate  fund  and  capital 
+deployed across various other private funds. Our permanent capital vehicles and perpetual strategies increased by $4.3 
+billion  as  a  result  of  capital  deployed  across  our  perpetual  private  funds,  most  notably  BPREP,  partially  offset  by 
+distributions.
+
+FORM 20-F                 99
+
+$62$82$103202020212022$592$769$937202020212022 
+ 
+ 
+  
+      
+ 
+ 
+ 
+ 
+                                              
+                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fee Revenues
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Management and advisory fees
+Long-term private funds     ..............................................................................................
+
+Flagship funds   ........................................................................................................... $ 
+Co-investment and other funds    .................................................................................
+
+Permanent capital vehicles and perpetual strategies    ...................................................
+BPG1
+     .........................................................................................................................
+Co-investment and other funds    .................................................................................
+
+Catch-up fees    ...............................................................................................................
+Total management and advisory fees   .........................................................................
+Incentive distributions     .................................................................................................
+Total Fee Revenues    ................................................................................................... $ 
+
+1.
+
+BPG Fee-Bearing Capital as at December 31, 2022 is $21 billion (2021 - $20 billion).
+
+2022
+
+2021
+
+2020
+
+354  $ 
+217 
+571 
+
+225 
+107 
+332 
+34 
+937 
+— 
+937  $ 
+
+264  $ 
+183 
+447 
+
+224 
+65 
+289 
+5 
+741 
+28 
+769  $ 
+
+224 
+142 
+366 
+
+114 
+56 
+170 
+— 
+536 
+56 
+592 
+
+Fee  Revenues  increased  by  $168  million  or  22%  for  the  year  ended  December  31,  2022  relative  to  the  year  ended 
+December  31,  2021.  Our  long-term  private  funds  contributed  $124  million  to  this  increase  primarily  due  to  increased 
+commitments  in  our  fourth  flagship  real  estate  fund  and  increases  in  value  of  other  fund  strategies.  Additionally,  we 
+earned $34 million of catch-up fees for our fourth flagship real estate fund. Fees from our permanent capital vehicles and 
+perpetual strategies increased by $43 million primarily attributable to deployments from BPREP. These increases were 
+partially offset by the privatization of BPY, which generated $28 million of incentive distributions in the prior year. 
+
+Fee Revenues increased by $177 million or 30% for the year ended December 31, 2021 relative to December 31, 2020.  
+Fees  from  BPG  increased  by  $110  million,  primarily  attributable  to  a  higher  market  capitalization  as  a  result  of 
+announcing the privatization of BPY and an increase in underlying asset values post-privatization. Fees from our long-
+term private funds were $81 million higher than the prior year due to capital raised for our fourth flagship real estate fund 
+and capital deployed across various other private funds. BPY incentive distributions were $28 million compared to $56 
+million  in  the  prior  year,  primarily  attributable  to  the  2021  year  only  including  two  quarters  of  incentive  distributions 
+following the privatization of BPY in July. Fees from co-investment and other permanent capital and perpetual strategy 
+funds increased by $9 million as a result of capital deployed across various perpetual private funds. The current period 
+benefitted from catch-up fees of $5 million related to our fourth flagship real estate fund. 
+
+100                BROOKFIELD ASSET MANAGEMENT
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Credit and Other
+
+Overview
+
+•
+
+As a result of our 61% investment in Oaktree in 2019, we established ourselves as a leader among global investment 
+managers  specializing  in  alternative  credit  investments;  as  of  December  31,  2022,  our  interest  in  Oaktree  is  64%. 
+Oaktree  is  one  of  the  premier  credit  franchises  globally,  with  $142  billion  of  Fee-Bearing  Capital  as  of 
+December 31, 2022 and an expertise in investing across the capital structure with an emphasis on an opportunistic, 
+value-oriented and risk-controlled investments. 
+
+• We  offer  one  of  the  most  comprehensive  alternative  credit  offerings  available  today  and  have  a  global  presence 
+
+through our experienced team of investment professionals. 
+
+Our Products
+
+•
+
+•
+
+•
+
+Our credit strategies invest in both liquid and illiquid instruments, sourced directly from borrowers and via public 
+markets. We focus primarily on rated and non-rated debt of sub-investment grade issuers in developed and emerging 
+markets, and offer investments in an array of private credit, high yield bonds, convertible securities, leveraged loans, 
+structured credit instruments and opportunistic credit.
+
+Our flagship credit strategy, the Opportunistic Credit series, focuses on protecting against loss by buying claims on 
+assets at attractive or distressed prices. We aim to achieve substantial gains by actively participating in restructurings 
+to restore companies to financial viability, while creating value. The latest vintage of this series of funds was raised 
+over 2021 and 2022 with a total fund size of $16 billion and is the largest fund in the series to date.
+
+Also  included  amongst  our  strategies  is  PSG,  which  manages  the  Fee-Bearing  Capital  associated  with  our  liquid 
+strategies. PSG serves institutions and individuals seeking the investment advantages of real assets through actively 
+managed listed equity and debt strategies.
+
+Summary of Key Financial and Operating Measures
+
+The  following  charts  provide  the  Fee-Bearing  Capital  of  our  credit  and  other  investment  strategy  as  at  December  31, 
+2022, 2021 and  2020 and Fee Revenues for the years then ended. 
+
+Fee-Bearing Capital 
+AS AT DEC 31. (BILLIONS)   
+
+   Fee Revenues
+    FOR THE PERIODS ENDED DEC 31. (MILLIONS) 
+
+■ Long-Term Private Funds
+■ Perpetual Strategies
+■ Liquid Strategies
+
+■ Long-term Private Funds
+■ Perpetual Strategies
+■ Liquid Strategies
+
+FORM 20-F                 101
+
+$111$132$142202020212022$719$859$1,030202020212022 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+         
+                                              
+                             
+We have provided additional detail below to explain significant movements during the presented periods.
+
+Fee-Bearing Capital
+
+AS AT DECEMBER 31
+(MILLIONS)
+Long-Term Private Funds    .................................................................. $ 
+Perpetual Strategies   ..........................................................................  
+Liquid Strategies    ..............................................................................  
+72,797 
+Total Fee-Bearing Capital     ................................................................ $  142,416  $  132,195  $  111,195 
+
+2021
+39,067  $ 
+
+2022
+46,663  $ 
+
+2020
+30,307 
+
+80,230 
+
+71,851 
+
+23,902 
+
+12,898 
+
+8,091 
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Balance, beginning of period  ........................................................................ $  132,195  $ 
+Inflows   .............................................................................................................
+Outflows    ..........................................................................................................
+Distributions    ....................................................................................................
+Market Valuation   .............................................................................................
+Other    ................................................................................................................
+Change  .............................................................................................................
+Balance, end of period   ................................................................................... $  142,416  $ 
+
+45,887 
+(21,648)   
+(1,573)   
+(8,432)   
+(4,013)   
+10,221 
+
+2022
+
+2021
+
+2020
+111,195  $  106,476 
+16,797 
+28,821 
+(9,602) 
+(8,970)   
+(799) 
+(1,855)   
+968 
+4,921 
+(2,645) 
+(1,917)   
+4,719 
+21,000 
+
+132,195  $  111,195 
+
+During  the  year  ended  December  31,  2022,  Fee-Bearing  Capital  increased  by  $10.2  billion  or  8%  to  $142.4  billion, 
+attributable mainly to a growth of $11 billion in perpetual strategies and $7.6 billion in Long-term private funds. These 
+benefited from capital deployment, in particular inflows resulting from our 11th flagship opportunistic credit fund. This 
+was partially offset by a decrease of $8.4 billion in liquid strategies due to redemptions. Lower market valuations also 
+adversely impacted liquid strategies.
+
+During the year ended December 31, 2021, Fee-Bearing Capital increased by $21 billion or 19%, due to an $8.8 billion 
+increase  in  our  long-term  private  funds  as  a  result  of  capital  deployed,  notably  in  our  latest  opportunistic  credit  fund, 
+partially offset by distributions and capital returned to investors. Liquid and perpetual strategies increased by $7.4 billion 
+and $4.8 billion, respectively, as a result of strong net inflows and higher valuations.
+
+Fee Revenues
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+Management and advisory fees
+Long-term private funds     .............................................................................................. $ 
+Perpetual Strategies    ....................................................................................  
+Liquid Strategies1
+  .......................................................................................  
+Transaction and advisory fees     .....................................................................................
+Total Fee Revenues    ................................................................................................... $ 
+
+2022
+
+2021
+
+2020
+
+529  $ 
+
+414  $ 
+
+184 
+
+144 
+
+268 
+49 
+1,030  $ 
+
+301 
+— 
+859  $ 
+
+325 
+
+118 
+
+276 
+— 
+719 
+
+1.
+
+Represent open-end funds within our credit strategies, and Oaktree's investment in a fixed income manager, as well as in publicly listed securities.
+
+Fee  Revenues  increased  by  $171  million  or  20%  for  the  year  ended  December  31,  2022  relative  to  the  year  ended 
+December 31, 2021. The increase was predominately attributable to incremental fees earned from our long-term private 
+funds as a result of capital deployed across various private funds, primarily within our 11th flagship opportunistic credit 
+fund. In addition, fees from perpetual strategies increased by $40 million as a result of higher Fee-Bearing Capital due to 
+valuation increases and capital deployed across these strategies. These increases were offset by a $33 million decrease in 
+our liquid strategies as a result of reduced valuations and increased outflows.
+
+Fee  Revenues  increased  by  $140  million  or  19%  for  the  year  ended  December  31,  2021  relative  to  the  year  ended 
+December 31, 2020. The increase was primarily attributable to $89 million of incremental fees earned from long-term 
+private  funds,  driven  by  $6.5  billion  of  capital  deployed  for  our  latest  opportunistic  credit  flagship  fund.  Fees  from 
+
+102                BROOKFIELD ASSET MANAGEMENT
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+perpetual strategies increased by $26 million as a result of market valuation increases and the benefit of capital from two 
+reinsurance  transactions  during  the  year.  Fees  from  liquid  strategies  increased  by  $25  million  as  a  result  of  capital 
+deployed and valuation increases.
+
+Liquidity and Capital Resources
+
+Liquidity
+
+The  Manager  undertakes  limited  activities,  primarily  receiving  dividends  from  our  asset  management  business  as  the 
+primary  source  of  income  and,  in  turn,  distributing  to  shareholders  of  the  Manager  in  accordance  with  its  dividend 
+policy. The Manager employs a limited number of resources who provide services to our asset management business and 
+for whom associated costs are largely reimbursed. Additional liquidity is availed through a credit facility that is provided 
+to the Manager by our asset management business.
+
+Manager Credit Facility with the Asset Management Business
+
+On November 8, 2022,  the Asset Management Company, as lender, established a five-year revolving credit facility in 
+favour of the Manager for the amount of $500 million. This is available in U.S. and Canadian dollars, where U.S. dollar 
+borrowings  are  subject  to  the  U.S.  Base  Rate  or  SOFR,  and  Canadian  Dollar  borrowings  are  subject  to  the  Canadian 
+Prime Rate or Canadian dollar bankers' acceptance rate (“CDOR").
+
+Our Asset Management Business Liquidity
+
+Our  asset  management  business  attempts  to  maintain  sufficient  liquidity  at  all  times  so  that  it  is  able  to  participate  in 
+opportunities  as  they  arise,  better  withstand  sudden  adverse  changes  in  economic  circumstances,  as  well  as  maintain 
+distributions to the Manager and the Corporation. Our primary sources of liquidity, which we refer to as core liquidity, 
+consist of cash and financial assets, and a credit facility with the Corporation. 
+
+As at December 31, 2022 core liquidity for our asset management business was $3.5 billion, consisting of $3.3 billion of 
+cash on deposit with the Corporation. Additionally the asset management business has a $300 million revolving credit 
+facility established on November 8, 2022, with the Corporation, as lender. The facility is available in U.S. and Canadian 
+dollars, where U.S. dollar borrowings are subject to the U.S. Base Rate or SOFR, while Canadian Dollar borrowings are 
+subject  to  the  Canadian  Prime  Rate  or  CDOR.  This  liquidity  is  readily  available  for  use  without  any  material  tax 
+consequences and can be deployed to support our asset management business in funding strategic transactions as well as 
+seeding new investment products.
+
+As  of  December  31,  2021,  the  asset  management  business  had  core  liquidity  of  $2.8  billion,  comprised  of  cash  and 
+financial assets. 
+
+The following table presents core liquidity of our asset management business:
+
+  .............................................................. $ 
+
+AS AT DECEMBER 31
+(MILLIONS)
+Cash and financial assets1
+Undrawn committed credit facility     ................................................
+Core liquidity     ...............................................................................
+Uncalled private fund commitments   .............................................
+Total liquidity      .............................................................................. $ 
+
+2022
+3,222  $ 
+300 
+3,522 
+87,364 
+90,886  $ 
+
+2021
+2,797  $ 
+— 
+2,797 
+77,079 
+79,876  $ 
+
+2020
+2,477 
+— 
+2,477 
+60,594 
+63,071 
+
+1.
+
+Net of amounts owing to the Corporation.
+
+FORM 20-F                 103
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Uncalled Fund Commitments
+
+The following presents our uncalled fund commitments as of December 31, of each year and December 31, 2022:
+
+AS AT DECEMBER 31
+(MILLIONS)
+Renewable power and 
+transition      ......................... $ 
+Infrastructure    ...................
+Private equity   ..................
+Real estate     .......................
+Credit and other    ...............
+
+$ 
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026 +
+
+Total 
+2022 Dec. 2021
+
+—  $ 
+394 
+66 
+— 
+7 
+467  $ 
+
+64  $ 
+763 
+— 
+49 
+1,132 
+2,008  $ 
+
+126  $ 
+244 
+923 
+257 
+448 
+1,998  $ 
+
+—  $  14,645  $  14,835  $  12,278 
+11,643 
+9,863 
+25,831 
+17,464 
+4,029  $  78,862  $  87,364  $  77,079 
+
+17,277 
+10,014 
+21,589 
+15,337 
+
+21,981 
+11,003 
+21,895 
+17,650 
+
+3,303 
+— 
+— 
+726 
+
+Approximately $46 billion of the uncalled fund commitments are currently earning fees. The remainder will become fee-
+bearing once the capital is invested. 
+
+Dividends
+
+Please refer to “Dividend Policy” for details on our dividends.  
+
+Capital Resources
+
+Contractual Obligations
+
+On January 31, 2019, a subsidiary of the Corporation committed $2.8 billion to our third flagship real estate fund and has 
+funded $1.8 billion of the total commitment as of December 31, 2022 (December 31, 2021 - $1.9 billion).
+
+Clawback Obligations
+
+Performance  allocations  are  subject  to  clawback  to  the  extent  that  the  performance  allocations  received  to  date  with 
+respect to a fund exceed the amount due to our asset management business based on cumulative results of that fund. The 
+amounts  and  nature  of  our  clawback  obligations  are  described  in  Note  16  “Commitments  and  Contingencies”  of  the 
+consolidated and combined financial statements of the Asset Management Company as at and for the years ended 2022 
+and 2021.
+
+Capital Requirements 
+
+Certain U.S. and non-U.S. entities of our asset management business are subject to various investment adviser and other 
+financial regulatory rules and requirements that may include minimum net capital requirements. 
+
+Off-Balance Sheet Arrangements
+
+Neither the Manager nor our asset management business is currently a party to any off-balance sheet arrangements.
+
+Related Party Transactions 
+
+The  Manager  and  our  asset  management  business  entered  into  a  number  of  related  party  transactions  with  the 
+Corporation. See “Relationship Arrangements”.
+
+Summary of Significant Accounting Policies of the Manager
+
+The  Manager  prepares  consolidated  financial  statements  in  conformity  with  U.S.  GAAP.  The  preparation  of  the 
+consolidated financial statements in conformity with U.S. GAAP requires management to make estimates that affect the 
+amounts reported. Management believes that estimates utilized in the preparation of the consolidated financial statements 
+are reasonable. Such estimates include those used in the valuation of investments and the measurement of deferred tax 
+balances (including valuation allowances). Actual results could differ from those estimates and such differences could be 
+material. The Manager believes the following critical accounting policies could potentially produce materially different 
+results of the Manager, if underlying assumptions, estimates and/or judgments were to be changed. For a full description 
+of  accounting  policies,  see  Note  2.  “Summary  of  Significant  Accounting  Policies”  of  the  consolidated  financial 
+statements of the Manager as at December 31, 2022 and for the period from July 4 to December 31, 2022.
+
+104                BROOKFIELD ASSET MANAGEMENT
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Investments
+
+The Manager accounts for its interests in the Asset Management Company using the equity method of accounting as it is 
+able  to  exert  significant  influence.  The  carrying  value  of  equity  method  investments  is  determined  based  on  amounts 
+invested  by  the  company,  adjusted  for  the  equity  in  earnings  or  losses  of  the  investee  (including  unrealized  carried 
+interest) allocated based on the respective partnership agreement, less distributions received. The Manager evaluates its 
+equity  method  investments  for  impairment  whenever  events  or  changes  in  circumstances  indicate  that  the  carrying 
+amounts of such investments may not be recoverable.
+
+Business Environment and Quantitative and Qualitative Risk Disclosures
+
+Business Environment
+
+The global economy experienced a broad-based slow-down in 2022 with real GDP falling to 3.4% from 6.0% in 2021, as 
+the  rise  in  interest  rates,  lockdowns  in  China,  and  geopolitical  risks  weighed  on  economic  activity.  Lingering  supply 
+chain disruptions and Russia’s invasion of Ukraine exacerbated inflationary pressure. As a result, monetary tightening 
+and weaker global activity ensued throughout much of the world. The final quarter of 2022 saw an improvement in the 
+global growth outlook as China ended its zero Covid policy and Europe avoided recession as gas prices moderated.
+
+In the U.S., which accounts for around a quarter of global GDP, real GDP growth declined sharply to 2.1% in 2022 from 
+a strong rebound of 5.9% in 2021. The main economic driver has been persistent price pressures and its implications for 
+monetary  policy.  As  demand  outstripped  supply  with  disruptions  arising  from  the  pandemic  and  the  Russia-Ukraine 
+conflict, year-on-year consumer price inflation climbed to 9.1% in June, its highest level since 1981, before declining for 
+six  straight  months  to  end  the  year  at  6.5%.  The  tight  job  market  also  exacerbated  the  inflation  picture,  with  the 
+unemployment rate falling to 3.6% year on year, a fraction lower than it averaged in 2019, before the health crisis struck. 
+
+To  temper  inflation  pressure,  the  Fed  started  its  policy  tightening  in  March  with  a  25bps  hike  and  an  end  to  its 
+quantitative easing program. Thereafter it quickly upped the pace to an increase of 50bps in May, four successive 75bp 
+hikes from June, and a last 50bps move higher in December, bringing the policy rate to 4.25-4.50% by the end of 2022. 
+The terminal rate for this U.S. rate cycle has also continually moved higher over the course of the year, triggered by the 
+acceleration in price increases. As a result, the yield curve has reached new levels of inversion with the yield differential 
+between the 2 and 10 year treasury touching -84bps in December. 
+
+In  addition  to  the  Fed,  policy  normalization  has  also  started  in  other  parts  of  the  developed  economies.  The  Bank  of 
+Canada  raised  rates  at  a  record  pace  of  400bp  in  2022.  The  ECB  started  with  a  50bp  rate  hike  in  July,  and  75bp  in 
+September and October. The BoE had already started to raise rates in December 2021, but progressively became more 
+aggressive over the year. Monetary tightening was also felt throughout parts of the emerging markets, with some central 
+banks starting policy normalization pre-emptively in 2021.
+
+Against  that  backdrop  equity  markets  posted  significant  losses  during  the  year,  with  the  MSCI  World  Index  down  by 
+19.0%. The S&P 500, Nasdaq and Stoxx 600 declined 19.4%, 33.1% and 12.8%, respectively for the year. The final few 
+months of the year saw equity markets pare back some of the loss, as markets started to price in a Fed pivot post the 
+October inflation data, which surprised to the downside. The distinction between developed and developing markets was 
+minimal with both indices down by a similar magnitude. Globally, all sectors posted losses with the exception of energy. 
+Technology and consumer discretionary fared the worst. 
+
+Debt  markets  in  the  U.S.  and  Europe  experienced  a  widening  in  corporate  credit  spreads  and  a  contraction  in  supply, 
+with new U.S. corporate issuance declining by 31% year-on-year to $1.4 trillion. Government yields rose in the largest 
+sovereign  markets  during  2022  as  central  banks  embarked  on  an  aggressive  rate  hiking  cycle.  This  saw  10-year  US 
+treasury  yields  rise  by  240bps  from  1.5%  to  3.9%  over  the  year.  In  the  final  months  of  the  year,  yields  across  core 
+markets  did  fall  from  their  early  October  peak,  as  investors  contemplated  slowing  rate  hikes  from  the  Fed  along  with 
+signs of easing in inflation data. 
+
+Weaker capital markets and equity volatility led to a slowdown in M&A activity, with global volumes decreasing 37% to 
+$3.7 trillion 2022, after hitting an all-time high of $5.9 trillion in 2021. The global IPO market was also affected, with 
+the total amount offered down by 71% year-on-year, the worst annual drop since 2008, albeit from a high volume year in 
+2021.
+
+Commodity  prices  increased  over  the  course  of  the  year  due  to  supply  uncertainty  and  resilient  demand,  but  began  to 
+weaken in H2 2022 as growth slowed and financial conditions tightened. Brent crude oil saw significant gains of 40% in 
+Q1 as demand outstripped supply after Russia’s invasion of Ukraine. After rising as high as $128 per barrel in June, oil 
+
+FORM 20-F                 105
+
+prices declined steadily in the second half of the year to $86 per barrel in December, as the prospect of a global economic 
+slowdown weighed heavily on demand.
+
+Quantitative and Qualitative Risk Disclosures
+
+The Manager has limited activities and operations. The Manager’s exposure to market, foreign currency, interest rate and 
+credit risk is driven by its equity interest in our asset management business.
+
+Market Risk
+
+The primary market risk exposure of our asset management business relates to its role as an asset manager of the publicly 
+listed  permanent  capital  vehicles  and  the  sensitivity  of  base  management  fees  earned  from  these  affiliates  due  to 
+movements  in  their  underlying  trading  price.  Specifically,  with  respect  to  the  market  risk  related  to  base  management 
+fees earned based on the market capitalization of BEP, BIP and BBU and prior to its privatization in July 2021, BPY. 
+
+The table below outlines the impact to base management and advisory fee revenues if there was a 10% decline in the 
+market capitalization of the aforementioned permanent capital vehicles:
+
+FOR THE YEARS ENDED DECEMBER 31
+(MILLIONS)
+BEP  ............................................................................................................ $ 
+BIP      .............................................................................................................
+BBU     ...........................................................................................................
+BPY1
+  ...........................................................................................................
+Revenues   .................................................................................................... $ 
+
+2022
+
+2021
+
+19  $ 
+33 
+7 
+— 
+59  $ 
+
+29  $ 
+39 
+9 
+11 
+88  $ 
+
+2020
+21 
+30 
+6 
+11 
+68 
+
+1.
+
+As BPY was privatized in July 2021, only two quarters of fees in 2021 were exposed to the movement in market prices.
+
+Foreign Currency Risk
+
+We have very limited exposure to foreign currency risk as a majority of our private funds are denominated in USD. This 
+means that a majority of the base management fees and carried interest that we earn are paid in USD, irrespective of the 
+local currency of our underlying investor base.
+
+Interest Rate Risk
+
+We are not exposed to interest rate risk as we currently do not have any debt outstanding and in turn do not pay interest.
+
+Credit Risk
+
+Investors in our private funds make capital commitments to these vehicles via subscription agreements. When a private 
+fund  makes  an  investment,  these  capital  commitments  are  then  satisfied  by  our  investors  via  capital  contributions  as 
+prescribed under these subscription agreements. Investors in our private funds may default on their capital commitment 
+obligations,  which  could  have  an  adverse  impact  on  our  earnings  or  result  in  other  negative  implications  to  our 
+businesses such as the requirement to deploy our own capital to cover such obligations. This impact would be magnified 
+if  the  investor  that  does  so  is  in  multiple  funds.  Given  the  diversity  and  creditworthiness  of  our  over  2,000  clients, 
+including  some  of  the  world’s  largest  institutional  investors,  sovereign  wealth  funds  and  pension  plans,  we  are  of  the 
+view that there is not a material credit risk present in our asset management business.
+
+106                BROOKFIELD ASSET MANAGEMENT
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX A - BROOKFIELD ASSET MANAGEMENT ULC PRO FORMA FINANCIAL INFORMATION
+
+The  Asset  Management  Company  is  a  newly  incorporated  Canadian  unlimited  liability  company,  incorporated  for  the 
+purpose of holding our asset management business. The Corporation entered into the Arrangement which resulted in the 
+creation  of  a  pure  play  asset  manager  group.  As  part  of  the  Arrangement,  the  Corporation  contributed  certain  indirect 
+wholly owned asset management subsidiaries to the asset management business. The contribution of these entities was 
+considered a common control transaction and was measured at historical cost. 
+
+In addition, the asset management business entered into several agreements and arrangements which are reflected in the 
+Unaudited Pro Forma Financial Statements, among which include:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+The  Asset  Management  Services  Agreement  under  which  the  Manager  will  provide  the  services  of  its  employees 
+and  its  Chief  Executive  Officer  to  the  asset  management  business  on  a  cost  recovery  basis  who  in  turn  pays  the 
+Manager for the services of these individuals on a cost recovery basis such that neither party receives financial gain 
+nor suffers financial loss. Most of the Manager's employees/executives spend their time discharging their duties as 
+officers  and  employees  of  the  Manager  and  towards  responsibilities  related  to  the  Company  which  include 
+investment,  corporate  and  other  services.  In  addition,  at  the  request  of  the  Company,  the  Manager  may  provide 
+options and long term incentive awards to its employees, which will be reimbursed under this agreement;
+The Transitional Services Agreement (the "TSA") pursuant to which (i) the Company provides the Corporation and 
+the Manager, on a transitional basis, certain services to support day-to-day corporate activities (including services 
+relating  to  finance,  treasury,  accounting,  legal  and  regulatory,  marketing,  communications,  human  resources, 
+internal audit, information technology), and (ii) the Corporation provides, on a transitional basis, certain services to 
+the Company to facilitate the orderly transfer of the asset management business;
+The Relationship Agreement under which certain employee share-based and performance-based compensation costs 
+are recovered from the Corporation;
+Certain  deposit  arrangements  with  the  Corporation  under  which  cash  held  by  the  asset  management  business  has 
+been placed on deposit with the Corporation at market terms;
+The  issuance  of  preferred  tracking  shares  by  a  subsidiary  of  the  asset  management  business  to  the  Corporation, 
+entitling the Corporation to receive all carried interest distributions received by the asset management business in 
+respect  of  existing  funds  that  have  already  been  largely  deployed  (such  as  BSREP  I,  BSREP  II,  BSREP  III  and 
+Oaktree Cap II L.P.), net of associated costs, distributions received in respect of the Corporation’s limited partner 
+interest in BSREP III U.S. investments (i.e., its invested capital), as well as 33.3% of the gross carried interest or 
+similar distributions generated by the Asset Management Company's managed assets into certain perpetual funds;
+Upon  completion  of  the  Arrangement,  the  asset  management  business  issued  various  classes  of  equity  interest  of  the 
+Company's subsidiaries to the Corporation which have rights to priority distributions;
+The transfer of the voting rights associated with the general partner of BSREP III to a wholly owned subsidiary of 
+the Corporation, giving the Corporation all the relevant rights over the general partner of BSREP III; and
+The settlement of historical due to affiliates and due from affiliates balances in the form of cash or other financial 
+assets and transfer of certain investments historically held in the asset management business into subsidiaries of the 
+Corporation.
+
+The  information  in  the  Unaudited  Pro  Forma  Statements  of  Income  gives  effect  to  the  Arrangement  as  if  it  had  been 
+consummated  on  January  1,  2021.  All  financial  data  in  the  Unaudited  Pro  Forma  Financial  Statements  is  presented  in 
+U.S. dollars and has been prepared using accounting policies that are consistent with U.S. GAAP. The Unaudited Pro 
+Forma  Financial  Statements  have  been  derived  by  the  application  of  pro  forma  adjustments  to  the  historical  audited 
+combined consolidated carve-out financial statements of the asset management business for the year ended December 31, 
+2021,  as  reported  in  the  Manager's  Form  F-1  dated  November  15,  2022,  and  historical  audited  consolidated  financial 
+statements  of  the  asset  management  business  as  at  and  for  the  year  ended  December  31,  2022,  to  give  effect  to  the 
+Arrangement. Given the transaction was completed on December 9, 2022 there is no additional pro forma impact to the 
+balance sheet. 
+
+These Unaudited Pro Forma Financial Statements reflect the following:
+
+•
+
+•
+
+•
+
+•
+
+Asset Management Services Agreement;
+
+Transitional Services Agreement;
+
+Relationship Agreement;
+
+Deposit arrangement with the Corporation;
+
+FORM 20-F                 107
+
+•
+
+•
+
+•
+
+Assignment of general partner rights in BSREP III to a wholly owned subsidiary of the Corporation;
+
+Settlement of historical due to and due from affiliates in the form of cash or other financial assets and transfer of 
+certain investments to the Corporation; and
+
+Issuance of preferred tracking shares from two wholly owned subsidiaries of the Asset Management Company to the 
+Corporation.
+
+The  Unaudited  Pro  Forma  Financial  Statements  are  based  on  estimates,  accounting  judgments  and  currently  available 
+information and assumptions that management believes are reasonable. The notes to the Unaudited Pro Forma Financial 
+Statements provide a detailed discussion of how such adjustments were derived and presented. The Unaudited Pro Forma 
+Financial  Statements  should  be  read  in  conjunction  with  the  audited  combined  consolidated  carve-out  financial 
+statements of the asset management business for the years ended December 31, 2021 and 2020, and historical audited 
+combined and consolidated financial statements of the asset management business as at and for the year ended December 
+31, 2022, and the accompanying notes to such financial statements. The Unaudited Pro Forma Financial Statements have 
+been  prepared  for  illustrative  purposes  only  and  are  not  necessarily  indicative  of  the  asset  management  business’ 
+financial  position  or  results  of  operations  had  the  transactions  for  which  the  asset  management  business  is  giving  pro 
+forma effect occurred on the dates or for the periods indicated, nor is such pro forma financial information necessarily 
+indicative of the results to be expected for any future period. A number of factors may affect our results. 
+
+108                BROOKFIELD ASSET MANAGEMENT
+
+Brookfield Asset Management ULC Balance Sheet Adjustments – as at December 31, 2022
+
+There  are  no  pro  forma  balance  sheet  adjustments  for  the  year  ended  December  31,  2022  as  the  Arrangement  was 
+completed on December 9, 2022 and all impacts of the Arrangement have been appropriately reflected in the year-end 
+balance sheet.
+
+YEAR ENDED DECEMBER  31, 2022
+(MILLIONS)
+Revenues
+
+Management fee revenues
+
+Historical 
+Brookfield 
+Asset 
+Management 
+ULC
+
+Autonomous 
+Entity 
+Adjustments
+
+Transaction 
+Accounting 
+Adjustments
+
+Notes
+
+Brookfield 
+Asset 
+Management 
+ULC 
+(pro forma)
+
+Base management and advisory fees
+Performance Fees
+
+$ 
+
+Total management fee revenues
+Investment income
+
+Carried interest allocations
+
+Realized
+Unrealized
+
+Total investment income
+Interest and dividend revenue
+Other revenues
+Total revenues
+
+Expenses
+
+Compensation, operating, and general and 
+administrative expenses
+Compensation and benefits
+Other operating expenses
+General and administrative
+Total compensation, operating and 
+general and administrative expenses
+Carried interest allocation compensation
+Interest expense paid to related parties
+Total expenses
+
+Other income (expenses), net
+Share of income from equity accounted 
+investments
+Income before taxes
+Income tax (expense) benefit
+Net income
+Net (income) attributable to redeemable 
+non-controlling interests in consolidated 
+funds
+Net (income) attributable to preferred share 
+redeemable non-controlling interest
+Net (income) attributable non-controlling 
+interest
+Net income attributable to common 
+shareholders
+
+2,835  $ 
+—   
+2,835   
+
+—  $ 
+—   
+—   
+
+241   
+249   
+490   
+258   
+44   
+3,627   
+
+(700)  
+(236)  
+(81)  
+
+(1,017)  
+(200)  
+(154)  
+(1,371)  
+
+1,090   
+
+146   
+3,492   
+(627)  
+2,865   
+
+(909)  
+
+(35)  
+
+(6)  
+
+—   
+—   
+—   
+—   
+144   
+144   
+
+26   
+—   
+—   
+
+26   
+76   
+—   
+102   
+
+—   
+
+—   
+246   
+(62)  
+184   
+
+—   
+
+—   
+
+—   
+
+(iii)
+
+$ 
+
+74 
+— 
+74 
+
+— 
+— 
+— 
+
+(203)  (i), (iii)
+
+(v)
+
+— 
+(129) 
+
+(v)
+
+(iii)
+
+(v)
+(i)
+
+— 
+— 
+15 
+
+15 
+— 
+154 
+169 
+
+(i), (iii),
+(iv), (vii)
+
+(928) 
+
+— 
+(888) 
+— 
+(888) 
+
+(vi)
+
+909 
+
+(iii)
+
+(511)  (ii), (iii)
+
+(92) 
+
+(iv)
+
+2,909 
+— 
+2,909 
+
+241 
+249 
+490 
+55 
+188 
+3,642 
+
+(674) 
+(236) 
+(66) 
+
+(976) 
+(124) 
+— 
+(1,100) 
+
+162 
+
+146 
+2,850 
+(689) 
+2,161 
+
+— 
+
+(546) 
+
+(98) 
+
+$ 
+
+1,915  $ 
+
+184  $ 
+
+(582) 
+
+$ 
+
+1,517 
+
+FORM 20-F                 109
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brookfield Asset Management ULC Transaction Accounting Adjustments – For the year ended December 31, 2022
+
+i.
+
+Related Party Transactions
+
+$2.9 billion of cash has been placed on deposit with the Corporation and bears interest annually at a market rate, subject 
+to market adjustments. As a result, the Unaudited Pro Forma Statements of Income reflect interest income of $55 million 
+for the year ended December 31, 2022 remaining after the following adjustments.
+
+Interest  and  dividend  revenue  and  expenses  associated  with  the  due  to  affiliates  balances,  due  from  affiliates  balances 
+and  investments  which  have  been  repaid  or  transferred  have  been  adjusted  in  the  Unaudited  Pro  Forma  Statements  of 
+Income  as  follows  (excluding  $22  million  of  interest  and  dividend  revenue  which  was  derecognized  as  a  result  of  the 
+deconsolidation of BSREP III; see footnote (iii)):
+
+(millions)
+Interest and dividend revenue
+Interest expense paid to related parties
+
+Year ended
+December 31, 2022
+
+$ 
+
+(181) 
+154 
+
+For the purposes of the Unaudited Pro Forma Statements of Income, other income (expenses), net income has been 
+adjusted for the fair value movements recognized on the investments transferred to the Corporation, resulting in a 
+decrease of $5 million for the year ended December 31, 2022.
+
+ii. Preferred tracking shares
+
+In  connection  with  the  Arrangement,  subsidiaries  of  the  asset  management  business  issued  preferred  tracking  shares 
+(“Tracking  Shares”)  to  the  Corporation,  entitling  the  Corporation  to  retain  the  right  to  receive  all  carried  interest 
+distributions on mature funds which already have been largely deployed (such as BSREP I, BSREP II, BSREP III and 
+Oaktree  Cap  II  L.P.)  as  well  in  the  case  of  BSREP  III  U.S.  investments,  any  distributions  received  in  respect  of  the 
+limited  partner  interest  and  33.3%  of  the  gross  carried  interest  or  similar  distributions  generated  by  the  Asset 
+Management  Company's  managed  assets  into  perpetual  funds.  The  Tracking  Shares  provide  the  holder  thereof  with  a 
+redemption right equal to the fair value of carried interest receivable, net of any compensation related costs by the asset 
+management business, as well as future LP distributions from BSREP III U.S. investments. These interests are presented 
+as  preferred  share  redeemable  non-controlling  interest  within  the  Unaudited  Pro  Forma  Balance  Sheet,  outside  of 
+permanent equity and measured at their redemption value.
+
+All  of  the  BSREP  III  U.S.  investments  limited  partner  distributions  and  the  mature  fund  carried  interest  distributions 
+have  been  allocated  to  the  redeemable  non-controlling  interest  as  a  result  of  their  Tracking  Shares  which  takes  into 
+consideration  the  contractual  arrangements  that  govern  allocation  of  income  or  loss.  Net  income  attributable  to  the 
+preferred shares held by the Corporation for the year ended December 31, 2022 amounted to $546 million.
+
+As  a  result  of  this  arrangement,  the  Corporation  effectively  retains  100%  of  the  carried  interest  earned  in  the  mature 
+funds and their associated long-term incentive costs, whereas ongoing compensation costs of employees excluding the 
+long-term incentive compensation associated with these funds will reside within the asset management business (subject 
+to any rebalancing through the cost sharing agreements — see footnote (v) under “Brookfield Asset Management ULC 
+Autonomous Entity Adjustments — For the year ended December 31, 2022”).
+
+iii. Assignment of BSREP III General Partner Rights to the Corporation
+
+As a result of the Arrangement, the voting rights associated with the general partner of BSREP III were transferred to a 
+wholly owned subsidiary of the Corporation, giving the Corporation all of the relevant rights over the general partner of 
+BSREP III. The asset management business no longer controls or influences BSREP III. As a result, BSREP III has been 
+deconsolidated and accounted for as a financial asset by the asset management business.
+
+This adjustment represents the deconsolidation of BSREP III from the asset management business, removing the impact 
+of  the  consolidated  results  of  operations  and  adding  back  management  and  advisory  fees  which  were  previously 
+eliminated on consolidation as a result of intercompany arrangements.
+
+110                BROOKFIELD ASSET MANAGEMENT
+
+ 
+The adjustments to the Unaudited Pro Forma Statements of Income are as follows: 
+
+(millions)
+Management and advisory fees
+Interest and dividend revenue
+General and administrative
+Other income (expenses), net
+Net income attributable to redeemable non-controlling interest
+
+Year ended
+December 31, 2022
+
+$ 
+
+74 
+(22) 
+15 
+(976) 
+909
+
+iv. Escrow Share Plan Adjustments
+
+In connection with the Arrangement, the Corporation accelerated the vesting of the Escrow Shares and issued new shares 
+in the Corporation to select employees. As a result, the $3 million expense recognized in relation to the Escrow Shares 
+by the asset management business as a result of the acceleration of the vesting terms of the old awards has been removed 
+from the 2022 Unaudited Pro Forma Statement of Income and included in the 2021 Unaudited Pro Forma Statement of 
+Income in order to reflect the impact of the transaction in the earliest period presented.
+
+Brookfield Asset Management ULC Autonomous Entity Adjustments – For the year ended December 31, 2022
+
+v. Asset Management Services Agreement and Relationship Agreement
+
+The  adjustment  to  the  Unaudited  Pro  Forma  Statements  of  Income  related  to  employee  costs  and  the  impact  of  the 
+AMSA and Relationship Agreement reflects the following adjustments:
+
+•
+
+•
+
+•
+
+The  movement  of  employees  from  the  asset  management  business  to  the  Manager,  resulting  in  a  reduction  in 
+unrealized carried interest allocation of $76 million and a reduction in unrealized carried interest allocation of 
+
+Under the AMSA, the asset management business reimburses certain employee costs associated with the Manager 
+employees  providing  services  to  the  asset  management  business.  As  a  result,  the  impact  to  Compensation  and 
+benefits is a decrease of $26 million. Expenses incurred under the AMSA are offset by the impact of certain share-
+based cash settled awards which are required to be revalued at each balance sheet date. For the year ended December 
+31, 2022, the revaluation resulted in a decrease in the equity award liability and as a result the asset management 
+business is responsible for reimbursing the difference to the Corporation.
+
+As part of the AMSA and the Relationship Agreement, the cost associated with the historical long term incentive 
+plans for employees of the asset management business will be recharged back to the Corporation who is responsible 
+for ultimately settling the instruments at the time of exercise. As a result, the impact to Other revenue is an increase 
+of $144 million for the year ended December 31, 2022 to represent the recharge to the Corporation.
+
+vi. Tax Impact
+
+The adjustment to reflect the tax effects of the pro forma adjustments is calculated at the average statutory rates in effect 
+in each relevant jurisdiction for the periods presented. The impact of pro forma adjustments has the effect of increasing 
+deductible temporary differences for which no deferred income tax recoveries have been recognized.
+
+The Unaudited Pro Forma Statements of Income for the periods below have been adjusted for the tax impact of the asset 
+management business’ pro forma adjustments are as follows:
+
+(millions)
+Benefit for taxes
+
+vii. Transaction costs
+
+Year ended
+December 31, 2022
+
+$ 
+
+(62) 
+
+This adjustment reflects the legal, professional and other fees incurred in relation to the execution of the Arrangement. 
+These costs have been removed from the 2022 Unaudited Pro Forma Statement of Income and included in the 2021 
+Unaudited Pro Forma Statement of Income in order to reflect the impact of the transaction in the earliest period 
+presented.
+
+FORM 20-F                 111
+
+ 
+ 
+ 
+viii. Net income attributable to non-controlling interest
+
+Upon completion of the Arrangement, the Company issued various classes of equity interests of the Company’s 
+subsidiaries to the Corporation which have rights to priority distributions. As a result of the Arrangement, the 
+Corporation effectively retains 33.3% of the carried interest in new and more recent funds. Net income (loss) and other 
+comprehensive income, if applicable, generated by the respective subsidiaries is allocated to non-controlling interest in 
+consolidated entities based on the substantive contractual terms of the subsidiaries’ governing agreements that specify 
+the allocation of income or loss.  For the year ended December 31, 2022, net income attributable to non-controlling 
+interests was $98 million. 
+
+112                BROOKFIELD ASSET MANAGEMENT
+
+Historical 
+Brookfield 
+Asset 
+Management 
+ULC
+
+Autonomous 
+Entity 
+Adjustments
+
+Transaction 
+Accounting 
+Adjustments
+
+Notes
+
+Brookfield Asset 
+Management 
+ULC 
+(pro forma)
+
+YEAR ENDED DECEMBER  31, 2021
+(MILLIONS)
+Revenues
+
+Management fee revenues
+
+Base management and advisory fees
+
+$ 
+
+Performance fees
+Total management fee revenues
+Investment income
+
+Carried interest allocations
+
+Realized
+Unrealized
+
+Total investment income
+Interest and dividend revenue
+Other revenues
+Total revenues
+
+Expenses
+
+Compensation, operating, and general 
+and administrative expenses
+Compensation and benefits
+Other operating expenses
+General and administrative
+Total compensation, operating and 
+general and administrative expenses
+Carried interest allocation compensation
+Interest expense paid to related parties
+Total expenses
+
+Other income (expenses) net
+Share of income from equity accounted 
+investments
+Income before taxes
+Income tax (expense) benefit
+Net income
+Net (income) loss attributable to 
+redeemable non-controlling interest in 
+consolidated funds
+Net (income) loss attributable to 
+preferred share redeemable non-
+controlling interest
+Net income attributable to common 
+shareholders
+
+2,266  $ 
+157   
+2,423   
+
+—  $ 
+—   
+—   
+
+49   
+299   
+348   
+293   
+23   
+3,087   
+
+(703)  
+(185)  
+(132)  
+
+(1,020)  
+(211)  
+(171)  
+(1,402)  
+
+1,504   
+
+161   
+3,350   
+(504)  
+2,846   
+
+—   
+—   
+—   
+—   
+335   
+335   
+
+(72)  
+—   
+—   
+
+(72)  
+—   
+—   
+(72)  
+
+—   
+
+—   
+263   
+(65)  
+198   
+
+(977)  
+
+977 
+
+(iii)
+
+$ 
+
+126 
+— 
+126 
+
+— 
+— 
+— 
+
+(280)  (i), (iii)
+
+(v)
+
+— 
+(154) 
+
+(v)
+
+(iii), (v)
+
+(i)
+
+(55) 
+— 
+69 
+
+14 
+— 
+171 
+185 
+
+(1,478) 
+
+(i), (iii), 
+(iv), (vii)
+
+— 
+(1,447) 
+— 
+(1,447) 
+
+(vi)
+
+(iii)
+
+2,392 
+157 
+2,549 
+
+49 
+299 
+348 
+13 
+358 
+3,268 
+
+(830) 
+(185) 
+(63) 
+
+(1,078) 
+(211) 
+— 
+(1,289) 
+
+26 
+
+161 
+2,166 
+(569) 
+1,597 
+
+— 
+
+—   
+
+—   
+
+(488) 
+
+(ii) 
+
+(488) 
+
+$ 
+
+1,869  $ 
+
+1,175  $ 
+
+(1,935) 
+
+$ 
+
+1,109 
+
+FORM 20-F                 113
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brookfield Asset Management ULC Transaction Accounting Adjustments – For the year ended December 31, 2021
+
+i. Related Party Transactions
+
+$2.9 billion of cash has been placed on deposit with the Corporation and bears interest annually at a market rate. As a 
+result,  the  Unaudited  Pro  Forma  Statements  of  Income  reflect  interest  income  of  $13  million  for  the  year  ended 
+December 31, 2021.
+
+In addition, interest and dividend revenue and expenses associated with the due to affiliates balance, due from affiliates 
+balance and equity instruments which have been repaid have been adjusted in the Unaudited Pro Forma Statements of 
+Income  as  follows  (excluding  $16  million  of  interest  and  dividend  revenue  which  was  derecognized  as  a  result  of  the 
+deconsolidation of BSREP III; see footnote (iv)):
+
+(millions)
+Interest and dividend revenue
+Interest expense paid to related parties
+
+Year ended
+December 31, 2021
+
+$ 
+
+(277) 
+171
+
+For the purposes of the Unaudited Pro Forma Statements of Income, other income (expenses), net has been adjusted for 
+the fair value movements recognized on the investments transferred to the Corporation, resulting in a decrease of $333 
+million for the year ended December 31, 2021.
+
+ii. Preferred Tracking Shares
+
+BSREP III U.S. investments limited partner distributions, mature and open-ended fund carried interest distributions, net 
+of costs, have been allocated to the redeemable non-controlling interest as a result of their Tracking Shares which takes 
+into  consideration  the  contractual  arrangements  that  govern  allocation  of  income  or  loss.  Net  income  attributable  to 
+preferred share redeemable non-controlling interest for the year ended December 31, 2021 amounted to $488 million.
+
+iii. Transfer of BSREP III General Partner Rights to Brookfield Corporation
+
+This adjustment represents the deconsolidation of BSREP III from the asset management business, removing the impact 
+of  the  consolidated  results  of  operations  and  adding  back  management  and  advisory  fees  which  were  previously 
+eliminated on consolidation as a result of intercompany arrangements.
+
+The adjustments to the Unaudited Pro Forma Statements of Income are as follows:
+
+(millions)
+Management and advisory fees
+Interest and dividend revenue
+General and administrative
+Other income (expenses), net
+Net income attributable to redeemable non-controlling interest
+
+Year ended
+December 31, 2021
+
+$ 
+
+126 
+(16)
+14
+(1,101)
+977
+
+iv. Escrow Share Plan Adjustments
+
+In  connection  with  the  Arrangement,  the  Corporation  accelerated  the  vesting  of  its  share  awards  issued  to  employees 
+under  the  escrow  share  plan  (“Escrow  Shares”)  and  issued  new  shares  in  the  Corporation  to  select  employees.  As  a 
+result, the $3 million expense recognized in relation to the Escrow Shares by the asset management business as a result 
+of  the  acceleration  of  the  vesting  terms  of  the  old  awards  has  been  removed  from  the  2022  Unaudited  Pro  Forma 
+Statement of Income and included in the 2021 Unaudited Pro Forma Statement of Income in order to reflect the impact 
+of the transaction in the earliest period presented.
+
+Brookfield Asset Management ULC Autonomous Entity Adjustments - For the year ended December 31, 2021
+
+v. Asset Management Services Agreement and Relationship Agreement
+
+The  adjustment  to  the  Unaudited  Pro  Forma  Statements  of  Income  related  to  employee  costs  and  the  impact  of  the 
+AMSA and Relationship Agreement reflects the following adjustments:
+
+114                BROOKFIELD ASSET MANAGEMENT
+
+•
+
+•
+
+•
+
+Reallocation of certain Corporate employee costs to align with the 2022 presentation from General administrative 
+and other to the Compensation and benefits line of $55 million.
+
+Under  the  AMSA,  the  asset  management  business  reimburses  the  employee  costs  associated  with  the  Manager 
+employees  providing  services  to  the  asset  management  business.  As  a  result,  the  impact  to  Compensation  and 
+benefits is an increase of $72 million for the year ended December 31, 2021.
+
+As part of the AMSA and the Relationship Agreement, the cost associated with the historical long term incentive 
+plans for employees of the asset management business will be recharged back to the Corporation who is responsible 
+for ultimately settling the instruments at the time of exercise. As a result, the impact to Other revenue is an increase 
+of  $335  million  for  the  year  ended  December  31,  2021  to  represent  the  recharge  to  the  Corporation.    Expenses 
+incurred under the AMSA are offset by the impact of certain share-based cash settled awards which are required to 
+be  revalued  at  each  balance  sheet  date.  For  the  year  ended  December  31,  2021,  the  revaluation  resulted  in  an 
+increase in the equity award liability and as a result the Corporation is responsible for reimbursing the difference to 
+the asset management business.
+
+vi. Tax Impact
+
+The adjustment to reflect the tax effects of the pro forma adjustments is calculated at the average statutory rates in effect 
+in each relevant jurisdiction for the periods presented. The impact of pro forma adjustments has the effect of increasing 
+deductible temporary differences for which no deferred income tax recoveries have been recognized.
+
+The  Unaudited  Pro  Forma  Statements  of  Income  for  the  periods  below  have  been  adjusted  for  the  tax  impact  of  asset 
+management business’ pro forma adjustments are as follows:
+
+(millions)
+Income tax expense
+
+vii. Transaction costs
+
+Year ended
+December 31, 2021
+
+$ 
+
+(65) 
+
+This adjustment reflects the legal, professional and other fees incurred in relation to the execution of the Arrangement. 
+These costs have been removed from the 2022 Unaudited Pro Forma Statement of Income and included in the 2021 
+Unaudited Pro Forma Statement of Income in order to reflect the impact of the transaction in the earliest period 
+presented.
+
+5.B 
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+See Item 5.A “Operating Results – Liquidity and Capital Resources”.
+
+5.C 
+
+RESEARCH AND DEVELOPMENT, PATENTS AND LICENSES, ETC.
+
+None.
+
+5.D 
+
+TREND INFORMATION
+
+See Item 5.A “Operating Results — Business Environment and Quantitative and Qualitative Risk Disclosures”.
+
+5.E 
+
+CRITICAL ACCOUNTING ESTIMATES
+
+See Item 5.A “Operating Results — Summary of Significant Accounting Policies”.
+
+FORM 20-F                 115

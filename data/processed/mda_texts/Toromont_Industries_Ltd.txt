@@ -1,0 +1,3523 @@
+# Toromont Industries Ltd.
+# 来源：Annual MD&A - English.pdf (6b4ffa5f96805855)
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+This  Management's  Discussion  and Analysis  ("MD&A")  of  the  financial  position  and  results  of  operations  of 
+Toromont Industries Ltd. ("Toromont" or the "Company") as at and for the year ended December 31, 2022 is 
+prepared  as  at February 14,  2023,  and  should be read in conjunction with the audited consolidated financial 
+statements and related notes for the year ended December 31, 2022. 
+
+The  consolidated  financial  statements  reported  herein  have  been  prepared  in  accordance  with  International 
+Financial  Reporting  Standards  ("IFRS").  The  MD&A  is  presented  in  thousands  of  Canadian  dollars  unless 
+otherwise noted.
+
+Additional  information  about  Toromont  is  available  online  at  www.sedar.com  and  Toromont's  website 
+www.toromont.com.
+
+Use of Non-IFRS Financial Measures
+
+The MD&A presents certain financial and operating performance measures that management believes provide 
+meaningful  information  in  assessing  Toromont's  underlying  performance.  Readers  are  cautioned  that  these 
+measures may not have a standardized meaning prescribed by IFRS and therefore may not be comparable to 
+similar  measures  presented  by  other  issuers.  Accordingly,  non-IFRS  or  non-Generally  Accepted  Accounting 
+Principles  ("GAAP")  measures  should  not  be  considered  in  isolation  or  as  a  substitute  for  measures  of 
+performance prepared in accordance with IFRS. Definitions and a reconciliations of the Company's non-IFRS 
+or  non-GAAP  measures  are  included  in  the  "Additional  GAAP  Measures",  "Non-GAAP  Measures"  and  "Key 
+Performance Indicators" sections of this report.
+
+Forward-Looking Information
+
+Information  in  this  MD&A that  is  not  a  historical  fact  is  "forward-looking  information".  Words  such  as  "plans", 
+"intends", "outlook", "expects", "anticipates", "estimates", "believes", "likely", "should", "could", "will", "may" and 
+similar expressions are intended to identify statements containing forward-looking information. Forward-looking 
+information in this MD&A reflects current estimates, beliefs, and assumptions, which are based on Toromont’s 
+perception of historical trends, current conditions and expected future developments, as well as other factors 
+management  believes  are  appropriate  in  the  circumstances.  Toromont’s  estimates,  beliefs  and  assumptions 
+are inherently subject to significant business, economic, competitive and other uncertainties and contingencies 
+regarding  future  events  and  as  such,  are  subject  to  change.  Toromont  can  give  no  assurance  that  such 
+estimates,  beliefs  and  assumptions  will  prove  to  be  correct.  This  MD&A  also  contains  forward-looking 
+statements about the recently acquired businesses.
+
+Numerous risks and uncertainties could cause the actual results to differ materially from the estimates, beliefs 
+and assumptions expressed or implied in the forward-looking statements, including, but not limited to: business 
+cycles,  including  general  economic  conditions  in  the  countries  in  which Toromont  operates;  commodity  price 
+changes, including changes in the price of precious and base metals; inflationary pressures; potential risks and 
+uncertainties  relating  to  the  novel  COVID-19  global  pandemic,  including  an  economic  downturn,  reduction  or 
+disruption  in  supply  or  demand  for  our  products  and  services,  or  adverse  impacts  on  our  workforce,  capital 
+resources, or share trading price or liquidity; increased regulation of or restrictions placed on our businesses as 
+a  result  of  COVID-19;  changes  in  foreign  exchange  rates,  including  the  Cdn$/US$  exchange  rate;  the 
+termination of distribution or original equipment manufacturer agreements; equipment product acceptance and 
+availability of supply; increased competition; credit of third parties; additional costs associated with warranties 
+and  maintenance  contracts;  changes  in  interest  rates;  the  availability  of  financing;  potential  environmental 
+liabilities  and  changes  to  environmental  regulation;  information  technology  failures,  including  data  or  cyber 
+
+1
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+security breaches; failure to attract and retain key employees; damage to the reputation of Caterpillar, product 
+quality and product safety risks which could expose Toromont to product liability claims and negative publicity; 
+new,  or  changes  to  current,  federal  and  provincial  laws,  rules  and  regulations  including  changes  in 
+infrastructure  spending;  any  requirement  to  make  contributions  or  other  payments  in  respect  of    registered 
+defined benefit pension plans or postemployment benefit plans in excess of those currently contemplated; and 
+increased insurance premiums. Readers are cautioned that the foregoing list of factors is not exhaustive.
+
+Any  of  the  above  mentioned  risks  and  uncertainties  could  cause  or  contribute  to  actual  results  that  are 
+materially different from those expressed or implied in the forward-looking information and statements included 
+in this MD&A. For a further description of certain risks and uncertainties and other factors that could cause or 
+contribute to actual results that are materially different, see the risks and uncertainties set out in the "Risks and 
+Risk  Management"  and  "Outlook"  sections  of  Toromont’s  most  recent  annual  Management  Discussion  and 
+Analysis, as filed with Canadian securities regulators at www.sedar.com or at our website www.toromont.com 
+Other factors, risks and uncertainties not presently known to Toromont or that Toromont currently believes are 
+not material could also cause actual results or events to differ materially from those expressed or implied by 
+statements containing forward-looking information.
+
+Readers  are  cautioned  not  to  place  undue  reliance  on  statements  containing  forward-looking  information, 
+which  reflect Toromont’s  expectations  only  as  of  the  date  of  this MD&A,  and  not  to  use  such  information  for 
+anything  other  than  their  intended  purpose.  Toromont  disclaims  any  obligation  to  update  or  revise  any 
+forward-looking  information,  whether  as  a  result  of  new  information,  future  events  or  otherwise,  except  as 
+required by law. 
+
+CORPORATE PROFILE AND BUSINESS SEGMENTATION
+
+As at December 31, 2022, Toromont employed over 6,800 people in more than 160 locations across Canada 
+and the United States. Toromont is listed on the Toronto Stock Exchange under the symbol TIH. 
+
+Toromont has two reportable operating segments: the Equipment Group and CIMCO. 
+
+The  Equipment  Group  includes  Toromont  Cat,  one  of  the  world’s  larger  Caterpillar  dealerships,  Battlefield  – 
+The  Cat  Rental  Store,  an  industry-leading  rental  operation,  SITECH,  providing  Trimble  technology  products 
+and services, Toromont Material Handling, representing MCFA, Kalmar and other manufacturers' products, and 
+AgWest, an agricultural equipment and solutions dealer representing AGCO, CLAAS and other manufacturers' 
+products. The  Company  is  the  exclusive  Caterpillar  dealer  for  a  contiguous  geographical  territory  in  Canada 
+that  covers  Manitoba,  Ontario,  Québec,  Newfoundland,  New  Brunswick,  Nova  Scotia,  Prince  Edward  Island 
+and  most  of  Nunavut. Additionally,  the  Company  is  the  MaK  engine  dealer  for  the  Eastern  Seaboard  of  the 
+United  States,  from  Maine  to  Virginia.  Performance  in  the  Equipment  Group  is  driven  by  activity  in  several 
+industries:  road  building  and  other  infrastructure-related  activities;  mining;  residential  and  commercial 
+construction;  power  generation;  aggregates;  waste  management;  steel;  forestry;  and  agriculture.  Significant 
+activities include the sale, rental and service of mobile equipment for Caterpillar and other manufacturers; sale, 
+rental  and  service  of  engines  used  in  a  variety  of  applications  including  industrial,  commercial,  marine, 
+on-highway trucks and power generation; and sale of complementary and related products, parts and service. 
+
+CIMCO  is  a  market  leader  in  the  design,  engineering,  fabrication,  installation  and  after-sale  support  of 
+refrigeration systems in industrial and recreational markets. Results of CIMCO are influenced by conditions in 
+the  primary  market  segments  served:  beverage  and  food  processing;  cold  storage;  food  distribution;  mining; 
+and  recreational  ice  rinks.  CIMCO  offers  systems  designed  to  optimize  energy  usage  through  proprietary 
+
+2
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+products such as ECO CHILL®. CIMCO has manufacturing facilities in Canada and the United States and sells 
+its products and services globally.
+
+PRIMARY OBJECTIVE AND MAJOR STRATEGIES 
+
+The primary objective of the Company is to build shareholder value through sustainable and profitable growth, 
+supported  by  a  strong  financial  foundation. To  guide  its  activities  in  pursuit  of  this  objective, Toromont  works 
+toward  specific,  long-term  financial  goals  (see  section  heading  "Key  Performance  Measures"  in  this  MD&A) 
+and each of its operating groups consistently employs the following broad strategies: 
+
+Expand Markets 
+
+Toromont serves diverse markets that offer long-term potential for profitable expansion. Each operating group 
+strives  to  achieve  or  maintain  leading  positions  in  markets  served.  Incremental  revenue  is  derived  from 
+improved  coverage,  market  share  gains  and  geographic  expansion.  Expansion  of  the  installed  base  of 
+equipment  provides  the  foundation  for  product  support  growth  and  leverages  the  fixed  costs  associated  with 
+the Company’s infrastructure. 
+
+Strengthen Product Support 
+
+Toromont's parts and service business is a significant contributor to overall profitability and serves to stabilize 
+results through economic downturns. Product support activities also represent opportunities to develop closer 
+relationships with customers and differentiate our product and service offering. The ability to consistently meet 
+or  exceed  customers'  expectations  for  service  efficiency  and  quality  is  critical,  as  after-market  support  is  an 
+integral part of the customer’s decision-making process when purchasing equipment. 
+
+Broaden Product Offerings 
+
+Toromont delivers specialized capital equipment to a diverse range of customers and industries. Collectively, 
+hundreds  of  thousands  of  different  parts  are  offered  through  the  Company's  distribution  channels.  The 
+Company expands its customer base through selectively extending product lines and capabilities. In support of 
+this  strategy, Toromont  represents  product  lines  that  are  considered  leading  and  generally  best-in-class  from 
+suppliers and business partners who continually expand and develop their offerings. Strong relationships with 
+suppliers and business partners are critical in achieving growth objectives. 
+
+Invest in Resources 
+
+The  combined  knowledge  and  experience  of  Toromont's  people  is  a  key  competitive  advantage.  Growth  is 
+dependent on attracting, retaining and developing employees with values that are consistent with Toromont's. A 
+highly principled culture, share ownership and profitability-based incentive programs result in a close alignment 
+of  employee  and  shareholder  interests.  By  investing  in  employee  training  and  development,  the  capabilities 
+and  productivity  of  employees  continually  improve  to  better  serve  shareholders,  customers  and  business 
+partners. 
+
+Toromont's  information  technology  represents  another  competitive  differentiator  in  the  marketplace.  The 
+Company's  selective  investments  in  technology,  inclusive  of  e-commerce  and  other  digital  initiatives, 
+strengthen customer service capabilities, generate new opportunities for growth, drive efficiency and increase 
+returns to shareholders. 
+
+3
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Maintain a Strong Financial Position 
+
+A  strong,  well-capitalized  balance  sheet  creates  stability  and  financial  flexibility,  and  has  contributed  to  the 
+Company’s long-term track record of profitable growth. It is also fundamental to the Company’s future success. 
+
+CONSOLIDATED ANNUAL OPERATING RESULTS
+
+($ thousands, except per share amounts)
+REVENUE
+Cost of goods sold
+Gross profit (1)
+Selling and administrative expenses
+OPERATING INCOME (1)
+Interest expense
+Interest and investment income
+Income before income taxes
+Income taxes
+NET EARNINGS
+BASIC EARNINGS PER SHARE
+
+KEY RATIOS:
+Gross profit margin (1)
+Selling and administrative expenses as a % of revenue
+Operating income margin (1)
+Income taxes as a % of income before income taxes
+Return on capital employed (1)
+Return on equity (1)
+
+$ 
+
+$ 
+$ 
+
+2022
+4,230,736  $ 
+3,097,150   
+1,133,586   
+509,417   
+624,169   
+27,338   
+(22,232)  
+619,063   
+164,865   
+454,198  $ 
+5.52  $ 
+
+ 26.8 %
+ 12.0 %
+ 14.8 %
+ 26.6 %
+ 32.3 %
+ 23.5 %
+
+2021
+3,886,537  $ 
+2,916,769   
+969,768   
+493,831   
+475,937   
+28,161   
+(9,027)  
+456,803   
+124,093   
+332,710  $ 
+4.03  $ 
+
+$ change
+344,199 
+180,381 
+163,818 
+15,586 
+148,232 
+(823) 
+(13,205) 
+162,260 
+40,772 
+121,488 
+1.49 
+
+% change
+ 9 %
+ 6 %
+ 17 %
+ 3 %
+ 31 %
+ (3) %
+nm
+ 36 %
+ 33 %
+ 37 %
+ 37 %
+
+ 25.0 %
+ 12.7 %
+ 12.2 %
+ 27.2 %
+ 26.6 %
+ 19.6 %
+
+(1) Described in the sections titled "Additional GAAP Measures", "Non-GAAP Measures" and "Key Performance Measures".
+
+The Company delivered strong bottom line results in 2022, reflecting a favourable sales mix (higher rentals and 
+product  support  revenue  to  total  revenue),  improved  gross  margins  and  higher  interest  income  on  cash 
+balances.  Rental  and  product  support  revenue  increased  on  good  market  activity.  Equipment  revenue 
+increased  after  a  slow  start  to  the  year  caused  by  delays  in  product  delivery.  Supply  chain  constraints  and 
+general macro-economic factors such as inflation, higher interest rates, and lingering pandemic concerns have 
+challenged  the  business  in  2022,  as  well  as  disrupted  historical  trends  and  seasonality  patterns,  and  are 
+expected to continue to do so for the near to mid-term as we progress into 2023.
+
+Revenue for the year increased 9% from prior year to $4.2 billion. Equipment Group revenue increased 10% 
+compared  to  last  year  on  higher  product  support,  rental  activity  and  equipment  sales.  CIMCO  revenue 
+decreased  3%  versus  last  year,  on  lower  package  revenue  partially  offset  by  higher  product  support  activity 
+levels.  Supply  chain  challenges  continued  to  dampen  revenue  in  2022  in  both  operating  groups  and  have 
+delayed some deliveries and project completion into 2023.
+
+Gross profit margin increased 180 basis points ("bps") to 26.8% versus 25.0% last year. The Equipment Group 
+reported  higher  margins  mainly  on  tight  equipment  supply,  improved  rental  fleet  utilization,  higher  product 
+support  activity  levels  and  operating  leverage.  CIMCO  margins  increased  on  higher  package  margins, 
+reflecting  good  execution  and  mix  of  projects  in  process.  Sales  mix  was  also  favourable  in  both  Groups, 
+contributing 80 bps to margin, with a higher proportion of product support revenue to total revenue. 
+
+4
+
+Toromont Industries Ltd.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Selling  and  administrative  expenses  for  the  year  increased  $15.6  million  or  3%  compared  to  the  prior  year. 
+Three items affect the comparability of expenses year over year. First, property dispositions resulted in pre-tax 
+gains in both periods, $17.7 million in 2022 and $3.8 million in 2021. Secondly, a lower share price gave rise to 
+a mark-to-market pickup on DSUs in the current year of $2.9 million, compared to an expense of $7.0 million in 
+2021  (which  saw  a  higher  share  price  year  over  year),  a  swing  of  $9.9  million.  Finally,  2021  included  a 
+$5.0 million charge related to the settlement of certain defined pension benefit obligations for certain retirees, 
+completed  through  an  annuity  purchase.  Excluding  these  three  items,  selling  and  administrative  expenses 
+increased  $44.4  million  or  9%.  Compensation  costs  increased  approximately  $24.0  million,  reflecting  higher 
+staffing  levels,  regular  salary  increases,  and  increased  profit  sharing  accruals  on  the  higher  income.  Other 
+expenses such as training, travel and occupancy costs have increased as a result of higher activity levels and 
+inflationary pressures.  Allowance for doubtful accounts increased $4.5 million compared to last year on higher 
+aged receivables and heightened concern over the current economic environment. Selling and administrative 
+expenses were 70 basis points lower as a percentage of revenue (12.0% versus 12.7% last year).
+
+Operating income increased $148.2 million or 31% in the year. Operating income margin increased 260 bps to 
+14.8%, reflecting the higher revenue, higher gross margins, favourable sales mix and lower relative expense 
+levels.
+
+Interest expense decreased $0.8 million on lower cost borrowings, inclusive of fees on stand-by credit facilities.
+
+Interest and investment income increased $13.2 million or 146% in the year on higher average cash balances, 
+higher  interest  rates,  as  well  as,  higher  interest  income  earned  on  conversion  of  equipment  on  rent  with  a 
+purchase option ("RPO").
+
+The effective income tax rate for the year was 26.6% compared to 27.2% last year, reflecting the lower capital 
+gains rate on the property disposition in the current year.
+
+Net  earnings  for  the  year  increased  $121.5  million  or  37%  to  $454.2  million  from  2021.  Basic  earnings  per 
+share ("EPS") increased $1.49 or 37% to $5.52 in line with growth in earnings.
+
+Other  comprehensive  income  of  $67.4  million  in  the  year  (2021  –  comprehensive  income  of  $56.1  million) 
+included an actuarial gain on defined benefit pension and other post-employment benefit plans of $58.8 million 
+(2021  –  actuarial  gain  of  $49.9  million). These  gains  reflect  changes  in  the  weighted  average  discount  rates 
+used in the valuation, which are reflective of underlying financial markets, as well as changes in the fair value 
+of pension plan assets. Other comprehensive income also included a favourable net change in the fair value of 
+cash flow hedges of $7.5 million (2021 – favourable net change of $6.2 million). These changes reflect mark to 
+market differences in the value of foreign exchange derivative contracts designated as cash flow hedges and 
+are largely a function of the underlying USD/CAD exchange rates at period end compared to the contract date.
+
+BUSINESS SEGMENT ANNUAL OPERATING RESULTS 
+
+The  accounting  policies  of  the  segments  are  the  same  as  those  of  the  consolidated  entity.  Management 
+evaluates  overall  business  segment  performance  based  on  revenue  growth,  operating  income  relative  to 
+revenue and return on capital employed. Corporate expenses are allocated based on each segment’s revenue. 
+Interest expense and interest and investment income are not allocated. 
+
+5
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Equipment Group 
+
+($ thousands)
+Equipment sales and rentals
+
+New
+Used
+Rentals
+
+Total equipment sales and rentals
+Product support 
+Power generation
+Total revenue
+Operating income
+
+KEY RATIOS:
+Product support revenue as a % of total revenue
+Operating income margin 
+Group total revenue as a % of consolidated revenue
+Return on capital employed
+
+2022
+
+2021
+
+$ change
+
+% change
+
+$ 
+
+$ 
+$ 
+
+1,433,779  $ 
+361,476   
+452,140   
+2,247,395   
+1,621,948   
+10,410   
+3,879,753  $ 
+597,677  $ 
+
+ 41.8 %
+ 15.4 %
+ 91.7 %
+ 29.7 %
+
+1,366,681  $ 
+354,701   
+387,755   
+2,109,137   
+1,405,128   
+11,019   
+3,525,284  $ 
+450,950  $ 
+
+67,098 
+6,775 
+64,385 
+138,258 
+216,820 
+(609) 
+354,469 
+146,727 
+
+ 5 %
+ 2 %
+ 17 %
+ 7 %
+ 15 %
+ (6) %
+ 10 %
+ 33 %
+
+ 39.9 %
+ 12.8 %
+ 90.7 %
+ 23.8 %
+
+The Equipment Group delivered solid results in the year with strong market activity driving higher rentals and 
+product support services. New equipment and parts supply chains remained challenging through most of the 
+year, affecting product availability, delaying deliveries and slowing work-in-process. Gross margin improvement 
+and  favourable  sales  mix  (higher  rental  and  product  support  revenue  to  total  revenue),  coupled  with  lower 
+expense levels on two one-time items, drove improvements in operating income.
+
+Total  equipment  revenue  (new  and  used)  increased  $73.9  million  or  4%  compared  to  2021,  a  tough 
+comparable. New equipment sales increased 5% in the year, as inventory supply constraints continue to delay 
+deliveries to customers. Used equipment sales increased 2% year over year, dampened on lower rental fleet 
+dispositions.  Used  equipment  sales  vary  based  on  availability,  either  from  rental  fleet,  trades  or  purchases. 
+Overall, revenue by market segments was as follows for the year: construction markets lower -5%, mining up 
++53%, power systems up +9%, material handling lower -12%, and agriculture up 15%.
+
+Rental  revenue  increased  $64.4  million  or  17%  versus  last  year.  All  markets  and  most  segments  were  up, 
+reflecting  continued  improvement  utilization  on  higher  market  activity,  as  well  as  continued  investment  in  the 
+heavy  and  light  equipment  fleet.  Year-over-year  revenue  changes  in  each  market  were  as  follows:  Light 
+equipment rentals +17%, power systems +15%, heavy equipment rentals +20% and material handling +10%. 
+As at December 31, 2022, the RPO fleet (rent with a purchase option) was $44.7 million versus $46.1 million a 
+year ago, which continues to trend below pre-pandemic levels. 
+
+Product support revenue increased $216.8 million or 15%, with increases in both parts (up 16%) and service 
+(up 14%). Activity was higher across all markets and in most regions as follows: construction markets +16%; 
+mining +17%; power systems +8%; material handling +9%; and agriculture +12%.
+
+Gross  profit  margin  increased  180  bps  to  27.1%  from  25.3%  in  2021.  Margins  increased  across  all  revenue 
+streams  coupled  with  a  favourable  sales  mix  (higher  product  support  and  rental  revenue  to  total  revenue). 
+Equipment margins were up 40 bps reflecting strong demand, sales mix and tight supply. Rental margins were 
+up 60 bps on higher fleet utilization, as well as fleet optimization over the last year. Product support margins 
+increased 20 bps on continued focus on efficiency as well as higher activity levels. Sales mix increased margin 
+by 60 bps.
+
+6
+
+Toromont Industries Ltd.
+
+ 
+ 
+ 
+ 
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Selling  and  administrative  expenses  increased  $12.9  million  or  3%  in  2022.  In  2022,  a  property  disposition  
+reduced expenses by $17.7 million (2021 – property related gains of $3.8 million). Expenses in 2021 included a 
+$5.0 million charge for the settlement of defined benefit pension obligations for certain retirees. Excluding these 
+two  items,  expenses  increased  $31.8  million  or  7%  year  over  year,  reflecting  the  higher  activity  levels. 
+Compensation costs increased on higher headcount, annual salary increases and higher profit sharing on the 
+increased  earnings,  partially  offset  by  the  mark-to-market  adjustment  on  DSUs.  Certain  expenses  such  as 
+travel and training have increased compared to the prior year which experienced tighter restrictions. Allowance 
+for  doubtful  accounts  increased  $5.6  million  on  a  larger  balance  of  aged  receivables.  As  a  percentage  of 
+revenue, selling and administrative expenses were lower at 11.7% in 2022 versus 12.5% last year, reflecting 
+the higher revenue and the two noted items in the current period.
+
+Operating  income  increased  $146.7  million  or  33%  and  was  260  bps  higher  as  a  percentage  of  revenue 
+(15.4%  versus  12.8%  last  year)  reflecting  the  higher  revenue  and  gross  margins,  gain  on  property  disposal, 
+and lower relative expense levels.
+
+Capital expenditures
+
+($ millions)
+Rental equipment
+
+Capital expenditures
+Proceeds on disposals
+
+Net expenditure
+
+Property, plant and equipment
+
+Capital expenditures
+
+2022
+
+2021
+
+$ change
+
+% change
+
+214,693  $ 
+34,206   
+180,487  $ 
+
+117,759  $ 
+50,840   
+66,919  $ 
+
+96,934 
+(16,634) 
+113,568 
+
+ 82 %
+ (33) %
+nm
+
+61,869  $ 
+
+50,201  $ 
+
+11,668 
+
+ 23 %
+
+$ 
+
+$ 
+
+$ 
+
+Rental  fleet  additions  increased  in  2022,  in  both  the  heavy  and  light  equipment  rental  fleets  across  Eastern 
+Canada after two years of deliberate reduced investment, reflective of market conditions. Fleet dispositions, as 
+measured by proceeds, have been curtailed in light of tight equipment supply.
+
+Property, plant and equipment additions increased in 2022, as business activity improved. Capital expenditures 
+in 2022 included:
+
+•
+•
+•
+•
+
+$19.6 million for land and buildings associated with facilities and new rental locations;
+$32.0 million for new and replacement service and delivery vehicles;
+$2.7 million for information technology infrastructure improvements and developments; and
+$7.6 million for other machinery and equipment for general operations.
+
+Bookings and Backlog
+
+($ millions)
+Bookings – years ended December 31
+Backlog – as at December 31
+
+$ 
+$ 
+
+2022
+1,752.2  $ 
+1,087.3  $ 
+
+2021
+2,478.8  $ 
+1,130.4  $ 
+
+$ change
+(726.6) 
+(43.1) 
+
+% change
+ (29) %
+ (4) %
+
+Bookings  and  backlog  can  vary  significantly  from  period  to  period  on  large  project  activities,  especially  in 
+mining and power systems, the timing of orders and deliveries with customers, which are in turn reflective of 
+economic  factors  and  general  activity  levels,  and  the  availability  of  equipment  from  either  inventory  or 
+suppliers.
+
+New bookings decreased in 2022 by $726.6 million or 29%, reflecting the tough comparable, as several large 
+mining  and  construction  orders  were  received  in  the  prior  year,  which  was  also  elevated  by  higher  orders 
+
+7
+
+Toromont Industries Ltd.
+
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+following the downturn in 2020 during the height of the pandemic. Bookings in the following sectors were lower: 
+construction  (-34%),  power  systems  (-11%),  and  mining  (-41%),  partially  offset  by  higher  orders  in  material 
+handling (+28%) and agriculture (+10%). Bookings have increased 6% on a cumulative average annual growth 
+rate since 2019, the pre-pandemic comparator. 
+
+Backlog of $1.1 billion was down by $43.1 million or 4%, reflecting slightly improved equipment delivery from 
+manufacturers later in the year. At December 31, 2022, the breakdown of backlog by market was as follows: 
+construction 39%; mining 30%; power systems 22%; agriculture 5%; and material handling 4%. Approximately 
+90% of the backlog is expected to be delivered in 2023, however this is subject to timing of vendor supply and 
+customer delivery schedules.
+
+CIMCO
+
+($ thousands)
+Package sales
+Product support
+Total revenue
+Operating income
+
+KEY RATIOS:
+Product support revenue as a % of total revenue
+Operating income margin 
+Group total revenue as a % of consolidated revenue
+Return on capital employed
+
+$ 
+
+$ 
+$ 
+
+2022
+173,273  $ 
+177,710   
+350,983  $ 
+26,492  $ 
+
+ 50.6 %
+ 7.5 %
+ 8.3 %
+ 41.9 %
+
+2021
+208,854  $ 
+152,399   
+361,253  $ 
+24,987  $ 
+
+$ change
+(35,581) 
+25,311 
+(10,270) 
+1,505 
+
+% change
+ (17) %
+ 17 %
+ (3) %
+ 6 %
+
+ 42.2 %
+ 6.9 %
+ 9.3 %
+ 61.7 %
+
+CIMCO  had  a  slow  start  to  the  year  with  delays  in  construction  schedules  dampening  package  sales,  and  
+against  a  tough  comparable,  which  included  several  large  projects  in  the  prior  year.  Product  support  activity 
+continued to increase with a larger technician workforce, and improving activity particularly in the recreational 
+market. Operating income increased on higher gross margins and favourable sales mix of total product support 
+revenue to total revenue, partially offset by higher expenses.
+
+Package sales decreased $35.6 million or 17% versus 2021. Industrial market revenue was down 25% against 
+a  tough  comparable  that  included  several  large  projects  in  Canada  in  the  prior  year.  Recreational  market 
+revenue remained relatively flat (up 3%) as an increase in the US (up 27%) was largely offset by a decrease in 
+Canada  (down  12%).  Package  revenue  reflects  the  progress  of  project  construction  applying  the 
+percentage-of-completion method of accounting. This introduces a degree of variability as the timing of projects 
+and construction schedules are largely under the control of third parties (contractors and end-customers). 
+
+Product support revenue increased $25.3 million or 17% versus 2021 on higher activity levels in both Canada 
+(up 19%) and the US (up 9%). Activity levels increased with the continued easing of pandemic restrictions, and 
+a reopening of recreational centres after prolonged pandemic closure. Increased labour capacity including the 
+increased technician base continues to support activity levels.
+
+Gross profit margin increased 180 basis points versus last year to 23.8%. Package margins were up 120 bps, 
+on improved execution and the nature of projects in process. Product support margins decreased 50 bps on  
+execution  and  supply  chain  constraints. A  favourable  sales  mix,  with  a  higher  proportion  of  product  support 
+revenue to total revenue, accounted for 110 bps of the increase.
+
+Selling  and  administrative  expenses  increased  $2.7  million  or  5%  versus  last  year.  Allowance  for  doubtful 
+accounts decreased $1.1 million reflecting focused collection activity. Travel and training expenses increased 
+
+8
+
+Toromont Industries Ltd.
+
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+to support activity and staffing levels. Expenditure control measures on discretionary spend remained in effect. 
+Occupancy  costs  increased  during  the  year  as  a  result  of  the  relocation  of  the  Canadian  head  office  to 
+Burlington  along  with  other  related  branch  changes. As  a  percentage  of  revenue,  selling  and  administrative 
+expenses were unchanged at 15.9% in 2022 and 2021.
+
+Operating income increased by $1.5 million or 6% in 2022, reflecting improved gross margins, in part due to 
+sales  mix,  partially  offset  by  lower  package  revenue.  Operating  income  as  percentage  of  revenue increased 
+60 bps to 7.5% compared to last year.
+
+Capital expenditures
+
+($ millions)
+
+2022
+
+2021
+
+$ change
+
+% change
+
+Property, plant and equipment
+
+$ 
+
+9,206  $ 
+
+21,729  $ 
+
+(12,523) 
+
+ (58) %
+
+Capital  expenditures  in  2022  included  final  renovations  of  property  for  the  new  head  office  facility  in 
+Canada ($3.4 million). Other expenditures included new and replacement service vehicles ($3.8 million), other 
+machinery and equipment for general operations ($0.8 million) and information technology enhancements and 
+upgrades ($1.2 million). Investment in 2021 included $16.8 million for acquisition of the head office facility.
+
+Bookings and Backlog
+
+($ millions)
+Bookings – years ended December 31
+Backlog – as at December 31
+
+$ 
+$ 
+
+2022
+206.9  $ 
+198.4  $ 
+
+2021
+188.4  $ 
+161.1  $ 
+
+$ change
+18.5 
+37.3 
+
+% change
+ 10 %
+ 23 %
+
+Bookings  increased  $18.5  million  or  10%  to  $206.9  million  in  2022.  Industrial  bookings  were  up  10%  with 
+increases  in  both  Canada  (+9%)  and  the  US  (+18%),  as  overall  activity  continued  to  improve,  following  a 
+slower start to the year, and with the ongoing easing of pandemic restrictions and stronger capital investment 
+levels in some markets. Recreational bookings were up 9%, mainly on stronger bookings in the US, up 37%, 
+which offset weaker bookings in Canada, down 9%, where investment is focused on return to operations after 
+a period of prolonged closures. 
+
+Backlog  of  $198.4  million  increased  $37.3  million  or  23%  compared  to  2021.  Both  the  recreational  and 
+industrial  backlog  increased,  in  part  reflecting  the  deferral  or  delay  in  construction  schedules  resulting  from 
+supply  chain  constraints.  Recreational  backlog  increased  in  both  Canada  (up  30%)  and  the  US  (up  58%). 
+Industrial backlog also increased in both Canada (up 5%) and the US (up 39%). Substantially all of the backlog 
+is expected to be realized as revenue in 2023, however this is subject to construction schedules and potential 
+changes stemming from supply chain constraints.
+
+CONSOLIDATED FINANCIAL CONDITION 
+
+The  Company's  strong  financial  position  continued.  At  December  31,  2022,  the  ratio  of  net  debt  to  total 
+capitalization  decreased  to  -14%  (cash  and  cash  equivalents  exceeded  debt)  compared  to  -16%  at 
+December 31, 2021. 
+
+9
+
+Toromont Industries Ltd.
+
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Non-cash Working Capital 
+
+The Company's investment in non-cash working capital was $584.7 million at December 31, 2022. The major 
+components, along with the changes from prior year, are identified in the following table. 
+
+($ thousands)
+Accounts receivable
+Inventories
+Other current assets
+Accounts payable and accrued liabilities
+Provisions
+Income tax payable
+Derivative financial instruments
+Dividends payable
+Deferred revenue and contract liabilities
+Total non-cash working capital
+
+2022
+579,682  $ 
+
+1,025,759   
+17,444   
+(658,980)  
+(27,653)  
+(28,653)  
+18,530   
+(32,104)  
+(309,349)  
+584,676  $ 
+
+$ 
+
+$ 
+
+2021
+451,944  $ 
+720,421   
+13,994   
+(544,512)  
+(25,404)  
+(15,239)  
+5,252   
+(28,851)  
+(199,696)  
+377,909  $ 
+
+Change
+
+$
+127,738 
+305,338 
+3,450 
+(114,468) 
+(2,249) 
+(13,414) 
+13,278 
+(3,253) 
+(109,653) 
+206,767 
+
+%
+
+ 28 %
+ 42 %
+ 25 %
+ 21 %
+ 9 %
+ 88 %
+nm
+ 11 %
+ 55 %
+ 55 %
+
+Accounts  receivable  increased  28%  from  December  31,  2021,  largely  reflecting  the  higher  trailing  revenue 
+(Q4  2022  was  20%  higher  than  Q4  2021  revenue)  and  slightly  slower  collection  activity.  Days  sales 
+outstanding ("DSOs") increased 6 days to 42 days, with an increase in both the Equipment Group (up 7 days) 
+and  CIMCO  (up  5  days).  Collection  activity  and  credit  metrics  are  closely  monitored,  with  added  focus 
+considering the current economic environment.
+
+Inventories at December 31, 2022 were 42% higher compared to December 31, 2021, with increases in both 
+Groups:
+
+• Equipment  Group  inventories  were  up  $290.6  million  or  42%  higher  with  increases  in  equipment 
+(up  $162.0  million  or  40%),  service  work-in-progress  (up  $18.9  million  or  27%),  and  parts  inventories 
+(up  $109.8  million  or  49%).  Inventory  levels  are  typically  lowest  at  the  end  of  a  fiscal  year  due  to 
+seasonality,  with  inventories  building  during  the  year  in  advance  of  the  typically  busy  selling  period, 
+however  pandemic  and  economic  factors  have  influenced  customer  buying  patterns  and  overridden 
+normal  seasonality. Additionally,  supply  chain  constraints  have  impacted  the  normal  sales  timeline  as 
+delays of equipment, parts and components delay final delivery to end customers. Increased orders in 
+light of demand signals, as well as recent input price increases also serve to increase inventories.
+
+• CIMCO inventories were up $14.7 million or 70% predominantly driven by higher work-in-process levels 
+(up $12.8 million or 75%), along with parts inventories (up $1.9 million or 48%) reflecting higher service 
+and project activity levels as well as delays in construction schedules.
+
+Other current assets are comprised mainly of prepaid expenses, and vary over time based on timing of receipt 
+of invoice and payment.   
+
+Accounts payable and accrued liabilities at December 31, 2022, were 21% higher than at December 31, 2021, 
+reflecting  higher  activity  levels  and  higher  profit  sharing  accruals  on  higher  earnings,  partially  offset  by  the 
+lower DSU liability (lower number of units and lower share price).
+
+Income tax payable reflects the difference between tax installments and current income tax expense.
+
+Derivative financial instruments represent the fair value of foreign exchange contracts. Fluctuations in the value 
+of the Canadian dollar have led to a cumulative net gain of $18.5 million as at December 31, 2022. This is not 
+
+10
+
+Toromont Industries Ltd.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+expected to affect net earnings as the unrealized gains will offset future losses on the related hedged items, 
+either current accounts payable or future transactions. 
+
+Dividends  payable  increased  year  over  year  reflecting  the  increased  dividend  rate.  Effective  with  the 
+April  4,  2022  payment,  the  quarterly  dividend  rate  was  increased  11.4%  from  $0.35  per  share  to  $0.39  per 
+share.
+
+Deferred revenue and contract liabilities represent billings to customers in excess of revenue recognized.
+
+•
+
+In  the  Equipment  Group,  these  balances  arise  due  to:  progress  billings  from  the  sale  of  power  and 
+energy systems and long-term product support maintenance contracts; sales of equipment with residual 
+value guarantees; and, customer deposits for equipment to be delivered in the future. These balances 
+increased  $98.2  million  or  55.3%,  in  2022,  generally  on  timing  of  progress  billings  under  long-term 
+contracts, as well as customer deposits for future equipment deliveries.
+
+• At CIMCO, these balances arise on progress billings from the sale of refrigeration packages and vary 
+depending  on  timing  of  billings  compared  to  customer’s  construction  schedules.  These  balances  
+increased $11.4 million or 51.7%, reflecting the timing of billings compared to revenue recognized under 
+the percentage-of-completion method.  
+
+Goodwill and Intangibles
+
+The Company performs impairment tests on its goodwill and intangibles with indefinite lives on an annual basis 
+or as warranted by events or circumstances. The assessment entails estimating the fair value of operations to 
+which  the  goodwill  and  intangibles  relate  using  the  fair  value  less  cost  to  sell  valuation  method.  This 
+assessment  affirmed  goodwill  and  intangibles  values  as  at  December  31, 2022,  as  outlined  in  note  8  of  the 
+notes to the annual consolidated financial statements.
+
+Employee Share Ownership 
+
+The  Company  employs  a  variety  of  share-based  compensation  plans  to  align  employees'  interests  with 
+corporate  objectives.  Certain  programs  are  offered  to  to  all  employees,  while  other  programs  are  offered 
+selectively to executives, senior managers and directors.
+
+Executive Stock Option Plan
+
+Stock options have a 10-year life, vest 20% per year on each anniversary date of the grant and are exercisable 
+at  the  designated  common  share  price,  which  is  fixed  at  prevailing  market  prices  at  the  date  the  option  is 
+granted. As at December 31, 2022, 2.0 million options to purchase common shares were outstanding, of which 
+0.9 million were exercisable. Directors do not participate in the option program.
+
+Long-Term Incentive Program 
+
+On April 28, 2022, shareholders approved the adoption of certain changes to the Company's LTIP. There was 
+no change to the Company's existing share option and cash-settled DSU plans, both of which remain in place. 
+Under  the  LTIP,  the  Company  introduced  performance  share  units  ("PSUs"),  restricted  share  units  ("RSUs"), 
+executive  deferred  share  units  ("EDSUs")  and  equity-settled  DSUs.  The  Company  has  the  ability  to  grant 
+options and awards under all of these respective plans.  The Company intends that total incentive award grants 
+will be based on historical share option grant levels at approximately a 50/50 split between share options and 
+grants under the LTIP.    
+
+11
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Details of each grant will be determined at the date of grant, including performance requirements, vesting and 
+settlement method. PSUs and RSUs will settle upon vesting, while EDSUs and equity-settled DSUs will settle 
+upon cessation of service to the Company. PSU vesting will be based upon the achievement of performance 
+objectives established at the time of grant by the Board of Directors. The maximum number of common shares 
+reserved  for  issuance,  in  aggregate,  under  the  LTIP,  will  be  750,000,  representing  0.9%  of  the  issued  and 
+outstanding shares at February 26, 2022.
+
+During  the  year,  7,134  RSUs  and  28,024  PSUs  were  granted  under  the  LTIP.  Expense  of  $557  thousand  is 
+included in selling and administrative expenses with a credit to contributed surplus. 
+
+Employee Share Purchase Plan
+
+Employees may purchase shares by way of payroll deductions. The Company matches employee contributions 
+at  a  rate  of  $1  for  every  $3  contributed,  to  a  maximum  of  2.5%  of  an  employee's  base  salary  per  annum. 
+Company contributions prior to 2019 vested to the employee immediately, while contributions in 2019 onwards 
+vest  five  years  from  date  of  contribution.  Company  contributions  amounting  to  $3.8  million  in  2022  (2021  – 
+$3.3 million) were charged to selling and administrative expense when paid. Approximately 49% of employees 
+participate in the plan (2021 – 41%), which is administered by an independent third party. 
+
+Deferred Share Units ("DSU") 
+
+A DSU is a notional unit that reflects the market value of a single Toromont common share and generally vests 
+immediately. DSUs may be redeemed only on cessation of employment or directorship. DSUs have dividend 
+equivalent  rights,  which  are  expensed  as  earned.  Executives  and  senior  managers  may  elect,  on  an  annual 
+basis,  to  receive  all  or  a  portion  of  their  performance  incentive  bonus  in  DSUs.  Non-employee  directors 
+received 55% of their annual compensation in the form of DSUs and may also elect to receive some or all of 
+their  remainder  compensation  in  DSUs.  The  Company  records  the  cost  of  the  DSU  plan  as  compensation 
+expense  in  selling  and  administrative  expenses.  Units  credited  prior  to  September  2022  will  be  cash-settled 
+while  units  elected  or  granted  after  that  date  will  be  share-settled.  As  at  December  31,  2022,  190,128 
+cash-settled  DSUs  were  outstanding  with  a  total  value  of  $18.5  million  (2021  –  202,969  units  at  a  value  of 
+$23.1 million). The liability for cash-settled DSUs is included in accounts payable and accrued liabilities on the 
+consolidated  statements  of  financial  position.  As  at  December  31,  2022,  7,534  share-settled  DSUs  were 
+outstanding. Share-settled DSUs are credited to contributed surplus at time of grant.
+
+Employee Future Benefits 
+
+The Company sponsors pension arrangements for substantially all of its employees. These include:
+
+• Defined contribution plans, including 401(k) matched savings plans for employees in the US, covering 
+
+the largest segment of employees, including all new hires; 
+
+• Defined benefit pension plans; and,
+• Other post-employment benefit plans for certain grandfathered employees. 
+
+Certain unionized employees do not participate in Company-sponsored plans, and contributions are made to 
+their retirement programs in accordance with the respective collective bargaining agreements.
+
+Defined Contribution Plans
+
+In the case of defined contribution plans, regular contributions are made to the individual employee accounts, 
+which are administered by a plan trustee in accordance with the plan documents. As at December 31, 2022, 
+approximately 4,425 employees participated in Company-sponsored defined contribution plans. 
+
+12
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Defined Benefit Pension Plans
+
+The Company sponsors defined benefit plans, which provide pension benefits for approximately 1,300 active 
+employees. All Plans are administered by a separate Fund that is legally separate from the Company, with the 
+exception of the Executive Plan described below. 
+
+The  funded  status  of  these  plans  improved  by  $73.3  million  during  2022  (a  reduction  in  post  employment 
+obligations). Actuarial gains, largely related to a higher discount rate reduced the defined benefit obligation by 
+$111.7  million.  Declines  in  capital  markets  resulted  in  a  negative  return  on  plan  assets,  reducing  the  funded 
+position by $42.8 million, net of the interest expense on the obligation. 
+
+The Executive Plan is a supplemental plan and is solely the obligation of the Company. All members of the plan 
+are retired. The Company is not obligated to fund the plan but is obligated to pay benefits under the terms of 
+the plan as they come due. At December 31, 2022, the Company has posted letters of credit in the amount of 
+$13.6 million to secure the obligations under this plan. 
+
+A  key  assumption  in  pension  accounting  is  the  discount  rate.  This  rate  is  set  with  regard  to  the  yield  on 
+high-quality  corporate  bonds  of  similar  average  duration  to  the  cash  flow  liabilities  of  the  Plans.  Yields  are 
+volatile and can deviate significantly from period to period. 
+
+Post-employment Benefit Plans
+
+The Company sponsors defined benefit plans, which provide supplementary post-employment health and life 
+insurance coverage to certain employees. The Company is not obligated to fund the plans but is obligated to 
+pay benefits as they come due. The plan is closed to new entrants. 
+
+See notes 2, 3 and 20 to the audited consolidated financial statements for further information 
+
+Legal and Other Contingencies 
+
+Due  to  the  size,  complexity  and  nature  of  the  Company's  operations,  various  legal  matters  are  pending. 
+Exposure  to  these  claims  is  mitigated  through  levels  of  insurance  coverage  considered  appropriate  by 
+management  and  by  active  management  of  these  matters.  In  the  opinion  of  management,  none  of  these 
+matters will have a material effect on the Company's financial position or results of operations. 
+
+Normal Course Issuer Bid ("NCIB") 
+
+The  Company's  NCIB  program  was  renewed  on  September  19,  2022.  The  current  issuer  bid  allows  the 
+Company  to  purchase  up  to  approximately  8.2  million  of  its  common  shares  in  the  12-month  period  ending 
+September  18,  2023,  representing  10%  of  common  shares  in  the  public  float,  as  estimated  at  the  time  of 
+renewal. All shares purchased under the bid will be cancelled.
+
+The Company entered into an Automatic Share Purchase Plan ("ASPP") with a broker to enable the purchase 
+of  common  shares  under  the  NCIB,  during  regular  trading  blackout  periods. The  volume  of  the  purchases  is 
+determined by the broker based on share price and maximum volume parameters established by the Company 
+under  the ASPP  prior  to  the  commencement  of  each  blackout  period. As  at  December  31,  2022  and  2021, 
+there was no obligation for the repurchase of shares under the ASPP.
+
+13
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+The  Company  purchased  and  cancelled  473,100  common  shares  for  $48.5  million  (average  cost  of 
+$102.52  per  share,  including  transaction  costs)  under  the  previous  NCIB  program  during  the  year  ended 
+December 31, 2022.
+
+The  Company  purchased  and  cancelled  470,600  common  shares  for  $50.0  million  (average  cost  of 
+$106.25  per  share,  including  transaction  costs)  under  the  previous  NCIB  program  during  the  year  ended 
+December 31, 2021.
+
+Shareholder Rights Plan ("SRP")
+
+The  SRP  is  a  'new  generation'  shareholder  rights  plan,  designed  to  encourage  the  fair  treatment  of 
+shareholders  in  connection  with  any  takeover  offer  for  the  Company.  The  SRP  was  renewed  at  the  annual 
+meeting of shareholders in 2021 and expires at the end of the annual meeting of shareholders in 2024.
+
+Outstanding Share Data 
+
+As  at  the  date  of  this  MD&A,  the  Company  had  82,318,159  common  shares  and  1,967,892  share  options 
+outstanding.
+
+Dividends
+
+Toromont pays a quarterly dividend on its outstanding common shares and has historically targeted a dividend 
+rate of approximately 30 - 40% of trailing earnings from continuing operations. 
+
+In  February  2022,  the  quarterly  dividend  was  increased  by  11.4%  or  4  cents  per  share,  to  39  cents  per 
+common  share,  effective  with  the  April  payment.  In  2022,  the  Company  declared  dividends  of  $1.56  per 
+common share (2021 – $1.36 per common share). 
+
+Considering  the  Company's  strong  financial  position  and  positive  long-term  outlook,  the  Board  of  Directors 
+increased the quarterly dividend by 10.3% to 43 cents per share effective with the dividend payable on April 4, 
+2023, to shareholders on record on March 9, 2023. Toromont has paid dividends every year since 1968 and 
+this is the 34rd consecutive year of dividend increases.
+
+LIQUIDITY AND CAPITAL RESOURCES 
+
+Sources of Liquidity 
+
+Toromont's  liquidity  requirements  can  be  met  through  a  variety  of  sources,  including  cash  on  hand,  cash 
+generated from operations, long and short-term borrowings and the issuance of common shares. Borrowings 
+are obtained through a variety of senior debentures, notes payable and committed credit facilities. 
+
+Toromont's debt portfolio is unsecured, unsubordinated and ranks pari passu. 
+
+The  Company  has  a  $500.0  million  committed  revolving  credit  facility,  maturing  in  November  2026,  with  a 
+syndicate  of  financial  institutions.  Debt  under  this  facility  is  unsecured  and  ranks  pari  passu  with  debt 
+outstanding  under  Toromont’s  existing  debentures.  Interest  is  based  on  a  floating  rate,  primarily  bankers' 
+acceptances and prime, plus applicable margins and fees based on the terms of the credit facility.
+
+14
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+No amounts were drawn on this revolving credit facility as at December 31, 2022 or 2021. Standby letters of 
+credit issued utilized $28.9 million of the facility as at December 31, 2022 (2021 – $28.8 million).
+
+The  Company's  credit  arrangements  include  covenants,  restrictions  and  events  of  default  usually  present  in 
+arrangements of this nature, including requirements to meet certain financial tests periodically and restrictions 
+on  additional  indebtedness  and  encumbrances.  The  Company  was  in  compliance  with  all  covenants  at 
+December 31, 2022 and 2021.
+
+The  Company  expects  that  continued  cash  flows  from  operations  in  2023,  together  with  cash  and  cash 
+equivalents on hand (2022 – $927.8 million) and currently available credit facilities will be more than sufficient 
+to fund requirements for investments in working capital, capital assets and dividend payments through the next 
+12  months. The  Company's  credit  ratings  will  also  continue  to  provide  access  to  capital  markets  to  facilitate 
+future debt issuance. The Company also has a certain degree of flexibility in its operating and investing plans 
+to mitigate fluctuations.
+
+Principal Components of Cash Flow
+
+Cash  from  operating,  investing  and  financing  activities,  as  reflected  in  the Consolidated  Statements  of  Cash 
+Flows, are summarized in the following table: 
+
+($ thousands)
+Cash and cash equivalents, beginning of year
+Cash, provided by (used in):
+Operating activities
+
+Operations
+Change in non-cash working capital and other
+Net rental fleet additions
+
+Investing activities
+
+Financing activities
+
+2022
+916,830  $ 
+
+2021
+591,128 
+
+$ 
+
+601,927   
+(213,760)  
+(171,214)  
+216,953   
+
+480,745 
+129,322 
+(67,343) 
+542,724 
+
+(44,333)  
+
+(68,869) 
+
+(162,159)  
+
+(148,143) 
+
+Effect of foreign exchange on cash and cash equivalents balances
+
+489   
+
+(10) 
+
+Increase in cash and cash equivalents during the year
+Cash and cash equivalents, end of year
+
+10,950   
+927,780  $ 
+
+325,702 
+916,830 
+
+$ 
+
+Cash Flows from Operating Activities 
+
+Operating activities provided cash in both 2022 and 2021.
+
+Cash generated from operations increased 25% from 2021 primarily on the higher net earnings.  
+
+Non-cash working capital and other used cash in 2022, as higher inventory and account receivables, were only 
+partially offset by higher account payables and customer deposits. The remaining working capital accounts had 
+a  more  modest  overall  impact,  with  lower  income  tax  installments  and  higher  derivative  contracts.  Inventory 
+levels have increased on market activity, customer demand signals and supply chain constraints, while higher 
+account receivables reflect the higher sales volume and slower collections experienced.
+
+15
+
+Toromont Industries Ltd.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Non-cash working capital provided cash in 2021, largely on a reduction of inventory levels due to supply chain 
+constraint limitations, lower account receivables on lower trailing sales coupled with good collection activity and 
+higher deferred revenue including customer deposits.
+
+Net  rental  fleet  additions  (purchases  less  proceeds  of  dispositions)  increased  by  $103.9  million  in  2022 
+compared  to  2021.  The  Company  increased  investment  in  both  the  heavy  and  light  equipment  rental  fleets 
+across  Eastern  Canada  after  two  years  of  deliberate  reduced  investment,  reflective  of  market  and  supply 
+conditions. 
+
+The components and changes in non-cash working capital are discussed in more detail in this MD&A under the 
+heading "Consolidated Financial Condition". 
+
+Cash Flows from Investing Activities 
+
+Investing activities used $44.3 million in 2022 compared to $68.9 million in 2021.
+
+Toromont invested $69.3 million in 2022 in property, plant and equipment (2021 – $71.2 million), as follows:
+
+•
+
+•
+•
+
+•
+
+$22.8  million  additions  for  land,  buildings  and  construction  in  process  for  new  and  upgraded  facilities 
+across the business (2021 – $37.4 million);
+$34.8 million for normal replacement of service and delivery vehicles (2021 – $24.7 million);
+$3.6 million for upgrades and enhancements to information technology infrastructure and office furniture 
+(2021 – $4.0 million); and
+$8.1 million for machinery and equipment replacements and upgrades (2021 – $5.1 million).
+
+In 2022, the Company sold a property for proceeds of $24.0 million resulting in a capital gain of $17.7 million  
+or  $15.4  million  after-tax.  Total  disposition  proceeds  for  2022  were  $25.2  million.  Dispositions  in  2021 
+generated $2.5 million in proceeds.
+
+Cash Flows from Financing Activities 
+
+For the year ended December 31, 2022, financing activities used $162.2 million (2021 – used $148.1 million) in 
+cash, major uses and sources of cash during the year included:
+
+• Dividends paid to common shareholders of $125.2 million or $1.52 per share (2021 – $109.1 million or 
+
+$1.32 per share);
+
+• Cash received on exercise of share options of $20.6 million (2021 – $21.8 million); 
+• Purchase of shares under the NCIB program used $48.5 million (2021 – $50.0 million); and
+•
+
+Lease liability payments of $9.1 million (2021 – $9.9 million). 
+
+OUTLOOK
+
+The health and safety of our employees and customers continues to be our top priority. We continue to monitor 
+closely  the  developments  and  potential  impacts  related  to  the  pandemic  and  follow  closely  public  health 
+authority recommendations.
+
+16
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+We  are  also  closely  monitoring  global  economic  factors,  in  particular,  inflationary  pressures  from  price  and 
+wage increases, including increases from our key suppliers. We strive to continuously improve our operations 
+efficiency and learn from our experience over the last several years by leveraging the use of technology and 
+innovative ways to engage with customers, employees and other partners with reduced discretionary spending.
+
+The  challenges  in  the  global  supply  chain  resulted  in  delivery  date  delays  for  equipment,  components  and 
+parts. There has been improvement in specific model deliveries. and this is expected to continue. We continue 
+to actively manage supply chain constraints by taking appropriate mitigation steps in collaboration with our key 
+suppliers  and  our  customers,  such  as  actively  sourcing  used  equipment,  optimizing  preparation  time  on 
+equipment, and offering rebuilds and rental options. We expect a tight supply environment on certain models  
+to persist for the near to mid term. 
+
+The  Equipment  Group's  parts  and  service  business  provides  stability  supported  by  a  large  and  diversified 
+installed base of equipment. The long-term outlook for infrastructure projects and other construction activity is 
+positive across most territories although tied somewhat to the general economic climate which is increasingly 
+uncertain.  Mining  customers  and  our  operations  that  support  them  continue  to  evaluate  appropriate  activity 
+levels  on  a  daily/weekly  basis.  Longer  term,  mine  expansion  will  remain  dependent  on  global  economic  and 
+financial conditions.
+
+Investment continues in broadening product lines and service offerings, expanding and enhancing the branch 
+network,  optimizing  rental  fleets,  and  using  technologies  to  create  efficiency  and  effectiveness  across  the 
+organization.  Integration  and  alignment  of  operating  processes  and  systems,  best  practices  and  culture, 
+continues across our territory. Product support technologies, such as remote diagnostics, telematics and digital 
+information models support and expand our strategic platform.  
+
+CIMCO's installed base supports current and future operations and growth trends. CIMCO has a wide product 
+offering  using  natural  refrigerants  including  innovative  CO2  solutions,  which  remains  a  differentiator  in 
+recreational  markets.  In  industrial  markets,  CIMCO's  proven  track  record  and  strong  geographical  coverage 
+provides growth opportunities. Current backlog is supportive of future activity. Inflationary costs and competitive 
+market conditions continue to challenge package revenue growth opportunities.
+
+The  diversity  of  the  markets  served,  expanding  product  offering  and  services,  strong  financial  position  and 
+disciplined operating culture position the Company well for continued positive results in the long term.
+
+CONTRACTUAL OBLIGATIONS 
+
+Contractual obligations are set out in the following table. Management believes that these obligations will be 
+met  comfortably  through  cash  and  cash  equivalents  on  hand,  cash  generated  from  operations  and  existing 
+long-term financing facilities. 
+
+Payments due by year
+
+($ thousands)
+Long-term debt
+Principal
+Interest
+
+Accounts payable and accrued liabilities
+Lease liabilities
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027 Thereafter
+
+Total
+
+$ 
+
+—  $ 
+
+—  $  150,000  $ 
+
+—  $  500,000  $ 
+
+24,765   
+691,084   
+7,721   
+
+24,765   
+—   
+5,949   
+
+23,374   
+—   
+3,161   
+
+19,200   
+—   
+2,192   
+
+16,000   
+—   
+1,374   
+
+$  723,570  $ 
+
+30,714  $  176,535  $ 
+
+21,392  $  517,374  $ 
+
+—  $  650,000 
+108,104 
+—   
+691,084 
+—   
+3,484   
+23,881 
+3,484  $ 1,473,069 
+
+17
+
+Toromont Industries Ltd.
+
+ 
+ 
+ 
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+The  above  table  does  not  include  obligations  related  to  defined  benefit  pension  plans.  Regular  contributions 
+are  made  to  registered  defined  benefit  pension  plans  in  order  to  fund  the  pension  obligations  as  required. 
+Funding  levels  are  monitored  regularly  and  reset  with  new  actuarial  funding  valuations  at  least  every  three 
+years.  Contributions  in 2022  totaled  $10.8  million,  including  certain  defined  benefit  pension  payments,  which 
+are made directly by the Company. Based on the most recent valuations completed, funding contributions and 
+pension payments are expected to be approximately $12.3 million in 2023. 
+
+KEY PERFORMANCE MEASURES 
+
+Management  reviews  and  monitors  its  activities  and  the  performance  indicators  it  believes  are  critical  to 
+measuring success. Some of the key financial performance measures are summarized in the following table. 
+Others include, but are not limited to, measures such as market share, fleet utilization, customer and employee 
+satisfaction, and employee health and safety. 
+
+Years ended December 31
+EXPANDING MARKETS AND BROADENING PRODUCT 
+OFFERINGS
+
+Revenue growth
+Revenue per employee (thousands)
+
+STRENGTHENING PRODUCT SUPPORT
+
+Product support revenue growth
+
+INVESTING IN OUR RESOURCES
+
+Investment in information technology (millions)
+Return on capital employed (1)
+
+STRONG FINANCIAL POSITION
+
+Non-cash working capital (millions) (1)
+Net debt to total capitalization (1)
+Book value (shareholders' equity) per share
+
+BUILD SHAREHOLDER VALUE
+
+Basic earnings per share growth
+Growth in dividends declared per share
+Return on equity (1)
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+ 8.9 %
+637 
+
+$ 
+
+ 11.7 %
+625 
+
+$ 
+
+ (5.4) %
+554 
+
+$ 
+
+ 5.0 %
+575 
+
+$ 
+
+ 49.1 %
+573 
+
+ 15.5 %
+
+ 5.3 %
+
+ (4.4) %
+
+ 10.1 %
+
+ 60.4 %
+
+$ 
+
+36.0 
+ 32.3 %
+
+$ 
+
+35.2 
+ 26.6 %
+
+$ 
+
+37.7 
+ 20.4 %
+
+$ 
+
+34.8 
+ 22.9 %
+
+27.4 
+ 21.7 %
+
+584.7 
+
+$ 
+
+377.9 
+
+$ 
+
+486.8 
+
+$ 
+
+463.7 
+
+$ 
+
+309.5 
+
+ (14) %
+
+ (16) %
+
+ 3 %
+
+ 15 %
+
+ 18 %
+
+28.25 
+
+$ 
+
+23.69 
+
+$ 
+
+20.60 
+
+$ 
+
+18.70 
+
+$ 
+
+16.35 
+
+ 37.0 %
+ 14.7 %
+ 23.5 %
+
+ 30.0 %
+ 9.7 %
+ 19.6 %
+
+ (11.9) %
+ 14.8 %
+ 16.6 %
+
+ 13.5 %
+ 17.4 %
+ 21.4 %
+
+ 39.4 %
+ 21.1 %
+ 22.3 %
+
+(1) 
+
+Defined in the sections title "Additional GAAP Measures and Non-GAAP Measures."
+
+Measuring Toromont's results against these strategies over the past five years illustrates that the Company has 
+delivered  steady  growth. Activity  and  results  in  2022  and  2021  have  seen  a  gradual  improvement  from  the 
+height  of  the  pandemic.  The  Company  delivered  good  operating  performance,  financial  results,  cash 
+generation and financial position through a challenging and changing business environment. Results in 2020 
+reflect the pandemic which resulted in lower economic activity levels in our markets, negatively impacting many 
+of  the  key  performance  measures.  Through  the  pandemic,  Toromont  remained  focused  on  three  priorities, 
+namely,  safeguarding  our  employees,  servicing  our  customers'  needs  and  protecting  our  business  for  the 
+future.
+
+18
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+The addition of the Québec and Maritimes territories in October 2017, provided a larger platform for continued 
+growth. The 2018 amounts shown above include one full year of operations in the acquired territories, and are 
+fully comparable from 2018 to 2022.
+
+Since  2018,  revenue  increased  at  an  average  annual  rate  of  13.9%,  with  product  support  growing  at  17.4% 
+annually. Over this period, growth in revenue has resulted from: 
+
+• Optimizing acquired territories operations and go-to-market strategies to increase market share; 
+•
+Increased customer demand in certain market segments, most notably construction and mining;
+• Organic growth through increased rental fleet size and additional branches; 
+•
+• Additional product offerings over the years from Caterpillar and other suppliers; and
+• Governmental funding programs that provide support for infrastructure spending.
+
+Increased customer demand for formal product support agreements; 
+
+Over  the  same  five-year  period,  revenue  growth  has  been  constrained  at  times  by  a  number  of  factors 
+including: 
+•
+
+The COVID-19 pandemic, declared in March 2020, which resulted in a significant downturn in economic 
+activity  and  disruption  of  normal  operations.  Site  restrictions  and  closures  impacted  the  timing  of 
+construction and delivery schedules, as well as product supply and demand, 
+Inability to source equipment and parts from suppliers to meet customer demand or delivery schedules, 
+as a result of specific supplier issues or more recently due to global supply chain disruption caused by 
+the pandemic;
+
+•
+
+• Economic weakness and uncertainty, both generally and in specific markets or sectors; 
+• Volatility in commodity prices;
+• Competitive conditions; 
+•
+•
+
+Inflationary pressures and rising interest rates; and
+Inability to hire necessary skilled technicians to service market demand.
+
+Changes  in  the  Canadian/US  exchange  rate  also  affect  reported  revenue  as  the  exchange  rate  impacts  the 
+purchase  price  of  equipment  that,  in  turn,  is  reflected  in  selling  prices.  Since  2018,  the  average  annual 
+exchange  rate  of  the  Canadian  dollar  against  the  US  dollar  has  varied  from  $0.75  to  $0.80,  however,  there 
+have been periods of higher volatility, with the dollar ranging from a low of $0.69 to a high of $0.83.
+
+Toromont  continues  to  invest  in  its  resources,  including  investment  in  information  technology,  in  part  to 
+increase productivity levels, as well as to maintain our systems to be relevant and secure in the ever-changing 
+technological environment in which we operate. 
+
+Toromont continues to maintain a strong balance sheet. Leverage, as represented by the ratio of net debt to 
+total  capitalization,  was  -14%  at  the  end  of  2022  compared  to  -16%  at  the  end  of  2021.  Since  2018,  strong 
+cash generation has allowed the Company to invest in the business while reducing debt levels.
+
+Toromont  has  paid  dividends  consistently  since  1968  and  has  increased  the  dividend  in  each  of  the  last  34 
+years.  The  Company  declared  dividends  of  $1.56  per  common  share  in  2022,  or  $0.39  per  quarter  (2021  –
+$1.36 per common share (increase of 14.7%). 
+
+19
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+CONSOLIDATED FOURTH QUARTER OPERATING RESULTS
+
+($ thousands, except per share amounts)
+REVENUE
+Cost of goods sold
+Gross profit
+Selling and administrative expenses
+OPERATING INCOME
+Interest expense
+Interest and investment income
+Income before income taxes
+Income taxes
+NET EARNINGS
+BASIC EARNINGS PER SHARE
+
+$ 
+
+Three months ended December 31
+2021
+956,035  $ 
+686,785   
+269,250   
+120,480   
+148,770   
+6,889   
+(2,827)  
+144,708   
+39,118   
+105,590  $ 
+1.28  $ 
+
+2022
+1,150,097  $ 
+826,025   
+324,072   
+111,590   
+212,482   
+6,786   
+(8,799)  
+214,495   
+54,633   
+159,862  $ 
+1.94  $ 
+
+$ 
+$ 
+
+$ change
+194,062 
+139,240 
+54,822 
+(8,890) 
+63,712 
+(103) 
+(5,972) 
+69,787 
+15,515 
+54,272 
+0.66 
+
+% change
+ 20 %
+ 20 %
+ 20 %
+ (7) %
+ 43 %
+ (1) %
+nm
+ 48 %
+ 40 %
+ 51 %
+ 52 %
+
+KEY RATIOS:
+Gross profit margin
+Selling and administrative expenses as a % of revenue
+Operating income margin
+Income taxes as a % of income before income taxes
+
+ 28.2 %
+ 9.7 %
+ 18.5 %
+ 25.5 %
+
+ 28.2 %
+ 12.6 %
+ 15.6 %
+ 27.0 %
+
+The  Company  ended  the  year  with  solid  fourth  quarter  results  on  strong  execution  from  our  teams.  Net 
+earnings  in  the  fourth  quarter  of  2022  included  a  $15.4  million  gain  related  to  a  property  disposition.  Higher 
+revenue  and  good  expense  control  drove  positive  results  in  the  Equipment  Group.  Results  at  CIMCO  were 
+unchanged from the similar period last year as higher revenue was largely offset by higher expenses.
+
+Revenue  increased  20%  to  $1.2  billion,  with  the  Equipment  Group  up  22%  and  CIMCO  up  7%.  Rental  and 
+product  support  revenue  continued  to  increase  on  good  market  activity.  Equipment  sales  delivery  improved 
+slightly  as  equipment  and  parts  were  received  from  suppliers,  however  supply  constraints  remain  in  effect. 
+Package sales increased in the fourth quarter as project schedules progressed.
+
+Gross profit margin was unchanged at 28.2% in the quarter, with higher gross margins in the Equipment Group 
+being  offset  by  lower  gross  margins  at  CIMCO.  Overall  sales  mix  was  unfavourable  down  30  bps  with  lower 
+product support and rental revenue to total.
+
+Selling and administrative expenses decreased $8.9 million or 7% in the fourth quarter compared to the prior 
+year.  In  2022,  a  property  disposition  reduced  expenses  by  $17.7  million.  Expenses  in  2021  include  a 
+$5.0 million charge for the settlement of defined benefit pension obligations for certain retirees. Excluding these 
+items,  expenses  were  up  $13.9  million  or  12%  in  the  quarter.  Compensation  costs  were  higher  reflecting 
+increased staffing levels and increased profit sharing accruals on the higher income. Other expenses such as 
+training,  travel  and  occupancy  costs  have  increased  in  light  of  activity  levels  and  inflationary  pressures. 
+Allowance  for  doubtful  accounts  increased  $0.5  million  in  the  quarter,  reflecting  a  larger  balance  of  aged 
+receivables.  Selling  and  administrative  expenses  were  290  basis  points  lower  as  a  percentage  of  revenue 
+(9.7% versus 12.6% last year) largely due to the impact of the two aforementioned items.
+
+Operating income increased $63.7 million or 43% reflecting the higher revenue and property disposition gain. 
+Operating income margin increased 290 bps to 18.5%.
+
+Interest expense decreased $0.1 million in the quarter due to lower financing costs related to credit facilities.
+
+20
+
+Toromont Industries Ltd.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Interest  income  increased  $6.0  million  resulting  from  higher  interest  earned  on  average  cash  and  cash 
+equivalents balances, reflective of market interest rates and on higher interest from conversions of RPOs.
+
+The effective income tax rate for the fourth quarter was 25.5% compared to 27.0% in 2021, mainly as a result 
+of the lower capital gains rate on the property disposition.
+
+Net  earnings  in  the  quarter  increased  $54.3  million  or  51%  to  $159.9  million.  Basic  EPS  increased  $0.66  or 
+52% to $1.94 versus $1.28 in 2021. 
+
+BUSINESS SEGMENT FOURTH QUARTER OPERATING RESULTS
+
+Equipment Group
+
+($ thousands, except as noted)
+Equipment sales and rentals
+
+New
+Used
+Rentals
+
+Total equipment sales and rentals
+Product support
+Power generation
+Total revenue
+Operating income
+
+Bookings ($ millions)
+
+Three months ended December 31
+2021
+
+2022
+
+$ change
+
+% change
+
+$ 
+
+$ 
+$ 
+
+$ 
+
+413,731  $ 
+85,497   
+124,538   
+623,766   
+428,164   
+2,489   
+
+1,054,419  $ 
+198,563  $ 
+
+313,232  $ 
+78,878   
+112,742   
+504,852   
+359,403   
+2,715   
+866,970  $ 
+135,302  $ 
+
+100,499 
+6,619 
+11,796 
+118,914 
+68,761 
+(226) 
+187,449 
+63,261 
+
+ 32 %
+ 8 %
+ 10 %
+ 24 %
+ 19 %
+ (8) %
+ 22 %
+ 47 %
+
+405.5  $ 
+
+618.9  $ 
+
+(213.4) 
+
+ (34) %
+
+KEY RATIOS:
+Product support revenue as a % of total revenue
+Operating income margin
+Group total revenue as a % of consolidated revenue
+
+ 40.6 %
+ 18.8 %
+ 91.7 %
+
+ 41.5 %
+ 15.6 %
+ 90.7 %
+
+The Equipment Group delivered solid results in the quarter, as equipment deliveries from suppliers allowed for 
+the  delivery  against  backlog  orders.  Rental  and  product  support  activity  also  increased.  Higher  revenue 
+coupled with lower expense ratios drove improvements in operating income.
+
+Total equipment sales (new and used) increased $107.1 million or 27%. New equipment sales increased 32% 
+on  good  deliveries  in  the  mining,  power  systems,  material  handling  and  agriculture  markets,  while  on-going 
+inventory supply constraints continued to dampen deliveries in the construction market. Used equipment sales 
+were up 8%, dampened slightly by lower rental fleet dispositions. Overall, revenue change by market segment 
+was  as  follows  for  the  quarter:  mining  +275%,  power  systems  +27%,  material  handling  +38%,  agricultural 
++24%, and construction -2%. 
+
+Rental revenue increased $11.8 million or 10%. Most markets and segments were higher reflecting improved 
+utilization  on  higher  market  activity.  The  following  markets  resulted  in  revenue  growth  in  the  quarter:  Light 
+equipment  rentals  +13%,  heavy  rental  in  the  construction  market  +41%,  and  material  handling  +6%.  Power 
+rentals  were  down  11%  while  rental  revenue  from  RPO  equipment  was  down  31%,  both  against  a  tough 
+comparable last year.
+
+21
+
+Toromont Industries Ltd.
+
+ 
+ 
+ 
+ 
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Product  support  revenue  increased  $68.8  million  or  19%  on  higher  parts  and  service  both  up  19%. Activity 
+levels  were  good  across  most  market  segments  and  regions. Activity  was  higher  across  all  markets  and  in 
+most  regions  as  follows:  construction  markets  +14%;  mining  +24%;  power  systems  +28%;  material  handling 
++11%; and agriculture +44%.
+
+Gross margins increased 10 bps in the quarter versus last year, across all revenue streams, largely offset by 
+sales mix. Equipment margins were up 30 bps, mainly reflecting mix of equipment product lines sold. Product 
+support  margins  increased  20  bps,  reflecting  improved  efficiency  on  higher  volumes.  Rental  gross  margins 
+were  up  10  bps,  reflecting  improved  activity  and  fleet  utilization. Sales  mix  was  unfavourable  (down  50  bps) 
+with a higher proportion of equipment sales to total revenue.
+
+Selling and administrative expenses decreased $9.9 million or 9%. During the quarter a property was disposed 
+leading to a gain of $17.7 million. Expenses in 2021 included a $5.0 million charge for the settlement of defined 
+benefit pension obligations for certain retirees. Excluding these two items, expenses increased $16.6 million or 
+15%  in  the  quarter,  reflecting  the  higher  activity  levels.  Compensation  costs  were  higher  reflecting  increased 
+staffing  levels  and  increased  profit  sharing  accruals  on  the  higher  income.  Other  expenses  such  as  training, 
+travel and occupancy costs have increased in light of activity levels and inflationary pressures. Allowance for 
+doubtful accounts increased $2.5 million in the quarter, reflecting a larger balance of aged receivables.
+
+Operating income increased $63.3 million or 47% in the quarter. Operating income was 18.8% as a percentage 
+of revenue, an increase of 320 bps versus the comparable period last year, mainly reflecting the lower related 
+expenses inclusive of the property gain. 
+
+Bookings  decreased  $213.4  million  or  34%  to  $405.5  million  reflecting  a  strong  prior  year  comparable  that 
+included  several  large  mining  and  construction  orders.  Bookings  in  the  prior  year  also  reflected  a  general 
+customer  order  preference  given  the  supply  constraints  and  economic  environment  expected  at  that  time. 
+Bookings  for  the  fourth  quarter  were  down  in  the  construction  (-60%)  and  power  systems  (-25%)  sectors,  
+partially offset by higher orders in mining (+45%), agriculture (+17%) and material handling (+6%).
+
+CIMCO 
+
+($ thousands, except as noted)
+Package sales
+Product support
+Total revenue
+Operating income
+
+Three months ended December 31
+2021
+48,103  $ 
+40,962   
+89,065  $ 
+13,468  $ 
+
+2022
+48,889  $ 
+46,789   
+95,678  $ 
+13,919  $ 
+
+$ 
+
+$ 
+$ 
+
+$ change
+786 
+5,827 
+6,613 
+451 
+
+% change
+ 2 %
+ 14 %
+ 7 %
+ 3 %
+
+Bookings ($ millions)
+
+$ 
+
+45.5  $ 
+
+55.9  $ 
+
+(10.4) 
+
+ (19) %
+
+KEY RATIOS:
+Product support revenue as a % of total revenue
+Operating income margin
+Group total revenue as a % of consolidated revenue
+
+ 48.9 %
+ 14.5 %
+ 8.3 %
+
+ 46.0 %
+ 15.1 %
+ 9.3 %
+
+Revenue  in  the  fourth  quarter  increased  on  the  continued  stronger  product  support  activity  levels.  Package 
+sales picked up slightly as project schedules progressed with good execution. Operating income increased due 
+to the higher revenue, which was dampened by weaker gross margins and higher expenses.
+
+22
+
+Toromont Industries Ltd.
+
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Package  revenue  increased  $0.8  million  or  2%  in  the  quarter  compared  to  last  year,  on  the  progression  of 
+construction  schedules.  In  Canada  revenue  was  down  10%,  in  both  the  industrial  (-9%)  and  recreational 
+markets  (-14%).  Equipment  supply  issues  and  customer  delays  have  deferred  some  projects  to  2023.  In  the 
+US,  package  sales  were  up  53%  on  strong  market  activity,  in  both  the  recreational  (+45%)  and  industrial 
+markets (+67%). 
+
+Product  support  revenue  increased  $5.8  million  or  14%  from  last  year  in  both  Canada  (+15%)  and  the  US 
+(+12%).  Activity  levels  continued  to  improve  with  the  easing  of  pandemic  restrictions,  and  a  reopening  of 
+recreational  centres  resuming  winter  activities  after  prolonged  pandemic  closure.  The  increased  technician 
+base continues to support activity levels.
+
+Gross margins decreased 70 bps in the quarter, on inflationary factors and supply chain constraints. Product 
+support margins were 50 bps lower while package margins were 40 bps lower, slightly offset by a favourable 
+sales mix of a higher proportion of product support revenue to total revenue (up 20 bps).
+
+Selling and administrative expenses increased $1.0 million or 7%. Allowance for doubtful accounts decreased 
+$2.0  million  from  the  similar  period  last  year  reflecting  focused  efforts  on  collections.  All  other  expenses, 
+including  compensation,  travel  and  training,  on  higher  staffing  levels  and  normal  annual  salary  increases. 
+Expenses in the fourth quarter of 2021 were lower reflecting accrual adjustments following the implementation 
+of the new payroll and HRIS system last year, not repeated in the current year. 
+
+Operating income increased $0.5 million in the quarter versus a year ago, as higher revenue was dampened 
+by lower gross margins and higher selling and administrative expenses. As a percentage of revenue, operating 
+income decreased to 14.5% in 2022, from 15.1% in 2021.
+
+Bookings decreased $10.4 million or 19% to $45.5 million on lower orders in both Canada and the US. Timing 
+of decisions by customers and receipt of orders can vary from period to period. Bookings were down 12% in 
+Canada and 31% in the US, however were up in both markets on a full year basis.
+
+QUARTERLY RESULTS 
+
+The  following  table  summarizes  quarterly  consolidated  financial  data  for  the  eight  most  recently  completed 
+quarters. This quarterly information is unaudited but has been prepared on the same basis as the 2022 annual 
+audited consolidated financial statements. 
+
+23
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+($ thousands, except per share amounts)
+REVENUE
+
+Equipment Group
+CIMCO
+Total revenue
+
+Q4 2022
+
+Q3 2022
+
+Q2 2022
+
+Q1 2022
+
+Q4 2021
+
+Q3 2021
+
+Q2 2021
+
+Q1 2021
+
+$ 1,054,419  $ 1,045,493  $  993,214  $  786,627  $  866,970  $  914,386  $ 1,016,545  $  727,383 
+78,855 
+$ 1,150,097  $ 1,139,599  $ 1,080,897  $  860,143  $  956,035  $  997,198  $ 1,127,066  $  806,238 
+
+82,812    110,521   
+
+95,678   
+
+94,106   
+
+73,516   
+
+87,683   
+
+89,065   
+
+NET EARNINGS
+
+$  159,862  $  123,123  $  111,681  $  59,532  $  105,590  $  93,764  $  85,400  $  47,956 
+
+PER SHARE INFORMATION:
+Basic earnings per share
+Diluted earnings per share
+Dividends paid per share
+
+Weighted average common 
+
+shares outstanding – basic      
+(in thousands)
+
+$ 
+$ 
+$ 
+
+1.94  $ 
+1.93  $ 
+0.39  $ 
+
+1.50  $ 
+1.49  $ 
+0.39  $ 
+
+1.35  $ 
+1.34  $ 
+0.39  $ 
+
+0.72  $ 
+0.72  $ 
+0.35  $ 
+
+1.28  $ 
+1.27  $ 
+0.35  $ 
+
+1.13  $ 
+1.12  $ 
+0.35  $ 
+
+1.03  $ 
+1.02  $ 
+0.31  $ 
+
+0.58 
+0.58 
+0.31 
+
+82,279   
+
+82,183   
+
+82,433   
+
+82,467   
+
+82,401   
+
+82,705   
+
+82,587   
+
+82,499 
+
+Interim  period  revenue  and  earnings  historically  reflect  variability  from  quarter  to  quarter  due  to  seasonality. 
+The  pandemic  and  resulting  impact  on  the  economy,  including  global  supply  chains,  has  affected  seasonal 
+trends in recent periods shown and may result in continued variations to historically experienced trends.
+
+The  Equipment  Group  has  historically  had  a  distinct  seasonal  trend  in  activity  levels.  Lower  revenue  is 
+recorded during the first quarter due to winter shutdowns in the construction industry. The fourth quarter had 
+typically  been  the  strongest  due  in  part  to  the  timing  of  customers'  capital  investment  decisions,  delivery  of 
+equipment from suppliers for customer-specific orders and conversions of equipment on rent with a purchase 
+option. This pattern is impacted by the timing of significant sales to mining and other customers, resulting from 
+the  timing  of  mine  site  development  and  access,  and  construction  project  schedules. This  trend  can  also  be 
+impacted during periods of equipment supply constraints from suppliers.
+
+CIMCO  has  also  had  a  distinct  seasonal  trend  in  results  historically,  as  the  timing  of  construction  activity 
+impacts revenue recognition under percentage-of-completion accounting. Revenue is typically lower during the 
+first quarter as winter weather slows down construction schedules. Revenue increases in subsequent quarters 
+as  construction  schedules  ramp  up.  This  trend  can  be  impacted  by  governmental  funding  initiatives,  supply 
+constraints  and  the  customer's  timing  of  significant  industrial  projects.  Sequential  comparisons  are  also 
+impacted by CIMCO's relatively high fixed cost structure.
+
+Historically, inventories have increased through the year to meet the expected demand for higher deliveries in 
+the third and fourth  quarter. This trend can be impacted by equipment and parts availability. These seasonal 
+sales trends also typically lead to accounts receivable to be at their highest level at year-end.
+
+In  2020  and  2021,  these  patterns  were  disrupted  by  the  governmental  and  market  response  and  reaction  to 
+COVID-19. In 2021, demand for equipment was stronger through the first nine months of the year, reflecting 
+both delayed purchasing from 2020, as well as stronger order flow in light of global supply chain disruptions, 
+thus impacting revenue in the fourth quarter. In 2022, patterns have been disrupted by supply chain pressures 
+impacting the timing of receipt and delivery of products and services to final customers.
+
+Net earnings have generally followed the trend in revenue. Cost reduction and containment strategies continue 
+to be a focus, however, have a delayed effect on net earnings. 
+
+24
+
+Toromont Industries Ltd.
+
+ 
+ 
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Market and economic factors including the COVID-19 pandemic, local and global economic factors, and supply 
+chain  issues  have  affected  and  may  continue  to  impact  these  trends.  There  can  be  no  certainty  that  this 
+historical seasonal pattern will recur in the future.
+
+SELECTED ANNUAL INFORMATION 
+
+($ thousands, except per share amounts)
+Revenue
+Net earnings
+Earnings per share ("EPS")
+
+Basic
+Diluted
+
+Dividends declared per share
+Total assets
+Total long-term debt
+Weighted average common shares outstanding - basic (in millions)
+
+$ 
+$ 
+
+$ 
+$ 
+$ 
+$ 
+$ 
+
+2022
+4,230,736  $ 
+454,198  $ 
+
+2021
+3,886,537  $ 
+332,710  $ 
+
+5.52  $ 
+5.47  $ 
+1.56  $ 
+4,182,125  $ 
+647,060  $ 
+
+4.03  $ 
+4.00  $ 
+1.36  $ 
+3,583,796  $ 
+646,337  $ 
+
+82.3   
+
+82.5   
+
+2020
+3,478,897 
+254,915 
+
+3.10 
+3.09 
+1.24 
+3,346,792 
+646,299 
+82.2 
+
+Revenue increased 9% in 2022 versus the prior year. Equipment Group revenue increased 10% on growth in 
+equipment sales, rental revenue and product support activity, reflecting the increase in demand as pandemic 
+restrictions  eased  compared  to  2021.  CIMCO  revenue  decreased  3%  versus  a  tough  comparable,  which 
+included several large industrial construction projects, while product support activity increased year over year 
+with the higher technician workforce. Supply chain challenges continued to constrain revenue in 2022 in both 
+operating groups.
+
+Revenue  increased  12%  in  2021  compared  to  2020.  Equipment  Group  revenue  increased  11%  on  strong 
+equipment  sales,  higher  rental  revenue  and  product  support  reflecting  the  improvement  in  demand  as 
+pandemic restrictions eased compared to 2020. CIMCO revenue increased 15% on execution of several large 
+industrial construction projects while product support activity was unchanged year over year.
+
+Net  earnings  increased  37%  in  2022,  mainly  reflecting  the  9%  increase  in  revenue  and  improved  gross 
+margins  in  both  the  Equipment  Group  and  CIMCO,  partially  offset  by  higher  selling  and  administrative 
+expenses. Net financing costs were lower on higher interest earned on cash balances year over year.  
+
+Net  earnings  increased  31%  in  2021  compared  to  2020,  largely  reflecting  the  12%  increase  in  revenue, 
+improved  gross  margins  in  the  Equipment  Group,  and  a  lower  relative  level  of  selling  and  administrative 
+expenses  to  sales  reflecting  cost  reductions  implemented  as  a  result  of  the  pandemic.  Financing  costs  were 
+lower on a lower total value of committed credit facilities year over year.
+
+Dividends  have  generally  increased  in  proportion  to  trailing  earnings  growth.  The  quarterly  dividend  rate 
+increased: in 2020 by 14.8% to $0.31 per share; in 2021 by 12.9% to $0.35; and in 2022 by 11.4% to $0.39 per 
+share. The Company has paid dividends every year since 1968. 
+
+Total assets increased 17% in 2022, reflecting higher working capital and other investment levels in support of 
+elevated activity levels. Inventory levels increased due to demand signals, a tight supply environment, as well 
+as recent input price increases. Accounts receivable increased on the higher trailing revenue, and an increase 
+in  DSO.  Investments  in  capital  assets  have  been  made  to  support  growth  initiatives  and  expand  the  rental 
+fleets.  In  2021,  total  assets  increased  7%  compared  to  2020,  largely  on  higher  cash  balances  coupled  with 
+investments in capital assets to support growth, while focused collections on account receivables reduced DSO 
+and inventory levels were constrained due to strong demand and supply chain delays.
+
+25
+
+Toromont Industries Ltd.
+
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Long-term debt was largely unchanged over the three year period noted. During 2021, the Company renewed 
+and extended the $500 million revolving credit facility to mature in November 2026. A $250 million credit facility  
+taken out in early 2020 at the start of the pandemic, was not renewed.
+
+RISKS AND RISK MANAGEMENT
+
+In the normal course of business, Toromont is exposed to risks that may potentially impact its business, results 
+of  operations  and  financial  condition.  The  Company  and  each  operating  segment  employ  risk  management 
+strategies with a view to identifying, mitigating, and reporting on these risks.
+
+We maintain a strong risk management culture to protect and enhance shareholder value. The Board reviews 
+all material risks in detail on an annual basis. The Audit Committee and Board also reviews the adequacy of 
+disclosures of key risks on a quarterly and annual basis.
+
+Business Cycle
+
+Expenditures  on  capital  goods  have  historically  been  cyclical,  reflecting  a  variety  of  factors  including  interest 
+rates,  foreign  exchange  rates,  consumer  and  business  confidence,  commodity  prices,  corporate  profits, 
+inflation, geo-political factors impacting the economy, credit conditions and the availability of capital to finance 
+purchases, and the level of government infrastructure spending. Toromont's customers are typically affected, to 
+varying degrees, by these factors and trends in the general business cycle as well as within their respective 
+markets on both a global and local level. As a result, Toromont's financial performance is affected by the impact 
+of such business cycles on the Company’s customer base.
+
+Commodity  prices,  and,  in  particular,  changes  in  the  view  on  long-term  trends,  affect  demand  for  the 
+Company's products and services in the Equipment Group. Commodity price movements in base and precious 
+metals  sectors  in  particular  can  have  an  impact  on  customers'  demands  for  equipment  and  services.  Lower 
+commodity  prices  reduces  short  term  demand  as  development  of  new  and  existing  projects,  along  with 
+production  levels,  may  be  curtailed  or  deferred,  leading  to  less  demand  for  heavy  equipment,  parts  and 
+service.
+
+We  rely  on  Caterpillar  to  supply  financing  to  our  customers.  In  periods  of  global  credit  market  disruption, 
+Caterpillar may tighten sources or terms of financing for our customers. In the current economic climate, our 
+customers  may  have  limited  access  to  financing  from  Caterpillar  or  alternate  sources  such  as  financial 
+institutions. Disruption in Caterpillar's or our customers' access to liquidity, due to the effects of the pandemic 
+or  otherwise,  could  have  a  material  adverse  impact  on  our  business,  results  of  operations  and  financial 
+condition.
+
+The  business  of  the  Company  is  diversified  across  a  wide  range  of  industry  market  segments,  serving  to 
+temper  the  effects  of  business  cycles  on  consolidated  results.  Continued  diversification  strategies  such  as 
+expanding  the  Company's  customer  base,  broadening  product  offerings  and  geographic  diversification  are 
+designed  to  moderate  business  cycle  impacts.  Product  support  activity  has  been,  and  will  continue  to  be, 
+fundamental to the mitigation of downturns in the business cycle as it is typically subject to less volatility than 
+equipment  supply  activities.  We  mitigate  the  economic  risks  associated  with  lower  business  volumes  at  a 
+regional  level  through  cost  reduction  initiatives  and  through  constant  evaluation  of  efficiency  and  process 
+improvements. No assurances can be given that our mitigating steps will offset the impact of these economic 
+risks.
+
+26
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Product and Supply
+
+The  Equipment  Group  purchases  most  of  its  equipment  inventories  and  parts  from  Caterpillar  Inc. 
+("Caterpillar")  under  a  dealership  agreement  that  dates  back  to  1993.  As  is  customary  in  distribution 
+arrangements  of  this  type,  the  agreement  with  Caterpillar  can  be  terminated  by  either  party  upon  90  days' 
+notice.  In  the  event  Caterpillar  terminates,  it  must  repurchase  substantially  all  inventories  of  new  equipment 
+and  parts  at  cost.  Toromont  has  maintained  an  excellent  relationship  with  Caterpillar  since  inception  and 
+management expects this will continue going forward.
+
+Toromont  is  dependent  on  the  continued  market  acceptance  of  Caterpillar's  products.  It  is  believed  that 
+Caterpillar  has  a  solid  reputation  as  a  quality  manufacturer,  with  excellent  brand  recognition  and  customer 
+support as well as strong market shares in many of the markets it serves. However, there can be no assurance 
+that  Caterpillar  will  be  able  to  maintain  its  reputation  and  market  position  in  the  future.  If  Caterpillar  is 
+unsuccessful in developing and enhancing its product lines to meet evolving customer needs, including no/low 
+carbon alternatives to support customer energy transition and net zero goals, is unable to maintain the quality 
+of  its  products,  or  is  unable  to  provide  its  products  at  competitive  prices,  market  acceptance  for  Caterpillar 
+products may deteriorate over time. Any resulting decrease in the demand for Caterpillar products could have a 
+material adverse impact on the Company's business, results of operations and future prospects.
+
+Toromont  is  also  dependent  on  Caterpillar  for  timely  supply  of  equipment  and  parts  to  meet  our  customers' 
+demand  for  equipment  deliveries  and  product  support  services.  From  time  to  time  during  periods  of  intense 
+demand  and/or  supply  chain  disruptions,  Caterpillar  may  find  it  necessary  to  allocate  its  supply  of  particular 
+products  among  its  dealers.  Such  allocations  of  supply  have  not  in  the  past  proven  to  be  a  significant 
+impediment in the conduct of business. When supply constraints have occurred in the past, we have been able 
+to  lessen  the  impact  by  utilizing  our  rental  assets,  used  equipment,  remanufacturing  capabilities,  and  other 
+sources (such as the dealer network) to meet demand, but there can be no assurance of continued success in 
+this  area.  We  continue  to  monitor  these  issues  as  they  could  adversely  affect  our  business,  results  of 
+operations, and financial condition. 
+
+The  general  supply  chain  is  also  affected  by  other  factors,  including  global  demand  and  economic  factors, 
+more  recently  resulting  in  key  component  and  parts  shortages  and  longer  order  and  shipment  times  for 
+equipment and parts. We continue to monitor these issues as they could adversely affect our business, results 
+of operations, and financial condition.
+
+In  addition,  new  digital  and  other  technologies  and  advancements  to  equipment  in  the  market,  such  as 
+equipment electrification, can become disruptive to our operations, market share and business model. We scan 
+continuously  for  emerging  digital  and  other  technologies  and  equipment  advancements  and  their  potential 
+impacts.  In  order  to  face  this  disruption  risk,  our  digital  and  technology  solutions  initiatives  are  focused  on 
+investigating emerging digital technologies to determine how they can impact customers and our core business 
+opportunities, improving the customer experience, and identifying and pursuing new opportunities for revenue 
+generation in the digitally enabled value-added services area. While execution performance to date has been 
+strong, our failure to meet these objectives could have an adverse impact on our business.
+
+Competition
+
+The Company competes with a large number of international, national, regional and local suppliers in each of 
+its markets. Although price competition can be strong, there are a number of factors that have enhanced the 
+Company's  ability  to  compete  throughout  its  market  areas  including  the  range  and  quality  of  products  and 
+services  including  digital  performance  solutions,  ability  to  meet  sophisticated  customer  requirements, 
+
+27
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+distribution  capabilities  including  number  and  proximity  of  locations,  financing  offered  by  Caterpillar  Finance, 
+e-commerce solutions, reputation and financial strength. 
+
+We may encounter increased competition in the future through new entrants in the market and the expansion 
+of suppliers' e-commerce channels for parts and equipment sales, which may also put pressure on prices. We 
+may also encounter competition through the introduction of digitally enabled or digitally enhanced value-added 
+services from third parties, including potential new non-traditional entrants into the market. In addition, pressure 
+on  prices  may  occur  as  a  result  of  increased  data  in  the  marketplace,  increasing  price  transparency  and 
+customers'  pursuit  of  value-added  services,  which  would  put  commoditization  pressure  on  equipment,  core 
+physical parts and service sales.
+
+Increased competitive pressures or the inability of the Company to maintain the factors that have enhanced its 
+competitive position to date could adversely affect the Company’s business, results of operations or financial 
+condition.
+
+Health and Safety
+
+Certain hazards and risks are inherent in the Company's operations, with the potential for serious injury, loss of 
+life and damage to property, which could result in negative financial and/or reputational impacts. 
+
+To  mitigate  these  risks,  a  comprehensive  and  standardized  health  and  safety  program  is  in  place,  which 
+includes leadership walkthroughs, training, inspections, supervisory observations, safety standards for critical 
+operations, safe work procedures, job hazard assessments, incident investigations, emergency preparedness, 
+industrial  hygiene  assessments  and  other  measures  focused  on  maintaining  a  safe  and  healthy  work 
+environment. To make the application of the different safety processes easier for employees and enable data 
+analysis, some of the key processes are supported by digital tools such as electronic job hazard assessments 
+and  vehicle  monitoring  systems.  No  assurance  can  be  given  that  these  mitigating  steps  will  eliminate  these 
+risks and the potential for negative financial and/or reputational impacts. 
+
+Further  information  on  the  Company's  health  and  safety  practices  and  programs  can  be  found  in  the 
+Sustainability Report on our website at www.toromont.com.
+
+Key Personnel  
+
+Our  success  in  achieving  our  goals  is  largely  dependent  on  the  abilities  and  experience  of  our  senior 
+management team and other key personnel. Our future performance will also depend on our ability to attract, 
+develop, motivate and retain highly qualified diverse and inclusive talent in all areas of our business and, as 
+applicable,  to  successfully  integrate  employees  transitioning  to  us  from  acquisitions.  Competition  for  highly 
+skilled management, sales and technical personnel is intense, particularly in certain geographic areas where 
+we operate. Demographic trends are reducing the number of individuals entering the trades, making access to 
+skilled  individuals  more  difficult.  The  Company  has  several  remote  locations,  which  make  attracting  and 
+retaining skilled individuals more difficult. To help mitigate this risk, we have implemented a number of human 
+resources  initiatives,  including  training  and  career  development  programs,  succession  plans,  employee 
+experience surveys, performance management systems, compensation programs and recruiting strategies.
+
+Although we actively manage our human resources risks, there can be no assurance we will be successful in 
+our efforts. The loss of certain key employees, or failure to attract, retain and engage talent as needed, may 
+have an adverse impact on our business, results of operations and future prospects.
+
+28
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Certain  of  our  employees  are  represented  by  unions  and  we  are  party  to  a  number  of  collective  bargaining 
+agreements,  covering  approximately  1,200  employees.  Of  the  23  agreements  in  place,  3  are  scheduled  for 
+negotiation during 2023.  
+
+While we are committed to the collective bargaining process and to concluding a fair contract for us and for our 
+employees, the renegotiation process could result in future work stoppages or higher wages and benefits paid 
+to  union  members.  Generally, Toromont  believes  its  labour  relations  are  satisfactory  and  does  not  anticipate 
+any difficulties in respect of upcoming negotiations. The failure to renew collective agreements with satisfactory 
+terms  and  in  a  timely  manner  could  have  an  adverse  impact  on  our  business,  results  of  operations,  and 
+financial condition.
+
+Credit Risk
+
+Credit risk is the risk of financial loss to us if a customer or counterparty to a financial instrument fails to meet 
+its contractual obligations and  arise principally in respect  of cash and cash equivalents, accounts receivable 
+and derivative financial instruments. The carrying amounts on the statement of financial position represent the 
+maximum expected credit exposure.
+
+When  the  Company  has  cash  on  hand  it  may  be  invested  in  short-term  instruments,  such  as  money-market 
+deposits.  The  Company  has  deposited  cash  with  reputable  financial  institutions,  from  which  management 
+believes the risk of loss to be remote.
+
+The Company has accounts receivable from a large diversified customer base, and is not dependent on any 
+single  customer  or  industry.  The  Company's  customers  are  engaged  in  various  industries  including 
+construction,  mining,  food  and  beverage,  and  governmental  agencies,  predominately  based  in  Canada. 
+Toromont  also  maintains  policies  to  manage  credit  risk,  including  establishing  and  reviewing  credit  limits  for 
+customers  taking  into  account  factors  such  as  projected  purchase  values,  credit  worthiness  of  the  customer, 
+and payment performance.
+
+The credit risk associated with derivative financial instruments arises from the possibility that the counterparties 
+may default on their obligations. In order to minimize this risk, the Company enters into derivative transactions 
+only with highly rated financial institutions.
+
+Contract Execution, Including Product Warranty 
+
+We enter into refrigeration and power systems contracts, which are engineered solutions involving the design, 
+assembly  and  installation  of  large,  complex  systems.  The  length  of  these  contracts  varies  but  typically 
+construction  is  completed  in  under  two  years. The  contracts  are  generally  at  a  fixed  price  over  the  term  and 
+provide for penalties payable by us if contractual milestones are not met. 
+
+We have developed processes and have controls in place to ensure contracts are bid appropriately, but due to 
+the nature and complexity of these contracts, there is a risk that significant cost overruns may be incurred. If 
+we miscalculate the extent of work required, or if costs increase beyond those anticipated, contract profitability 
+may  be  adversely  affected.  We  closely  monitor  these  contracts  for  early  warning  signs  of  cost  overruns, 
+however, there can be no assurance that cost overruns will be avoided.
+
+The Company also enters into long-term maintenance and repair contracts, whereby it is obligated to maintain 
+equipment  for  its  customers.  The  length  of  these  contracts  varies  generally  from  two  to  five  years.  The 
+contracts  are  typically  fixed  price  on  machine  hours,  with  provisions  for  inflationary  and  foreign  exchange 
+adjustments. Due to the long-term nature of these contracts, there is a risk that maintenance costs may exceed 
+
+29
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+the estimate, thereby resulting in a loss on the contract. Preventative measures such as condition monitoring 
+and scheduled fluid sampling help identify problems in equipment early on and help reduce the risk of costly 
+repair  work.  These  contracts  are  closely  monitored  for  early  warning  signs  of  cost  overruns.  In  addition,  the 
+manufacturer  may,  in  certain  circumstances,  share  in  the  cost  overruns  if  profitability  falls  below  a  certain 
+threshold. There is no assurance that such measures will always address such risks. Our failure to effectively 
+price and manage these contracts could have a material adverse impact on our business, results of operations 
+and financial position.
+
+Standard  and  extended  warranties  are  provided  for  most  of  the  equipment,  parts  and  services  sold.  The 
+warranty claim risk is generally shared jointly with the equipment manufacturer. Accordingly, liability is generally 
+limited to the service component of the warranty claim, while the manufacturer is responsible for providing the 
+required parts. There is a risk that product quality erosion or lack of skilled labor could increase warranty claims 
+in the future, or that future warranty claims may be greater than we anticipate. If our liability in respect of such 
+claims is greater than anticipated, it may have a material adverse impact on our business, results of operations 
+and financial condition. To mitigate this risk, we regularly review our warranty offering to assess the experience 
+with  the  product  and  endeavour  to  adequately  manage  the  costs  to  service  the  product  over  its  warranty 
+period. Additionally, we work closely with Caterpillar on all product quality issues and have extensive product 
+improvement, product support and pre-delivery inspection programs in place. No assurance can be given that 
+these steps will fully mitigate these risks.
+
+Foreign Exchange
+
+Toromont's  operating  results  are  reported  in  Canadian  dollars.  While  the  majority  of  Toromont's  sales  are 
+transacted in Canadian dollars, significant portions of its purchases are made in U.S. dollars. Changes in the 
+U.S.  dollar  exchange  rate  can  have  a  negative  or  positive  impact  on  revenue,  margins  and  working  capital 
+balances.
+
+Foreign  exchange  contracts  reduce  volatility  by  fixing  landed  costs  related  to  specific  customer  orders  and 
+establishing a level of price stability for high-volume goods such as spare parts. The Company does not enter 
+into  foreign  exchange  forward  contracts  for  speculative  purposes.  The  gains  and  losses  on  the  foreign 
+exchange forward contracts designated as cash flow hedges are intended to offset the translation losses and 
+gains on the hedged foreign currency transactions when they occur. As a result, the foreign exchange impact 
+on earnings with respect to transactional activity is not significant.
+
+The  rate  of  exchange  between  the  Canadian  and  US  dollar  can  have  an  impact  on  revenue  trends. 
+Substantially  all  of  the  equipment  and  parts  sold  in  the  Equipment  Group  are  sourced  in  US  dollars,  and 
+Canadian  dollar.  Sales  prices  generally  reflect  changes  in  the  rate  of  exchange.  As  a  result,  a  stronger 
+Canadian dollar can adversely affect revenue, while a weaker Canadian dollar can increase reported revenue. 
+The impact is not readily estimable as it is largely dependent on when customers order the equipment versus 
+when  it  was  sold.  Bookings  in  a  given  period  would  more  closely  follow  period-over-period  changes  in 
+exchange  rates.  Sales  of  parts  come  from  inventories  maintained  to  service  customer  requirements.  As  a 
+result,  constant  parts  replenishment  means  that  there  is  a  lagging  impact  of  changes  in  exchange  rates.  In 
+CIMCO,  sales  are  largely  affected  by  the  same  factors.  In  addition,  revenue  from  CIMCO's  US  subsidiary 
+reflect changes in exchange rates on the translation of results, although this is not significant. The Canadian 
+dollar averaged US$0.77 in 2022 and US$0.80 in 2021.
+
+As well, many of Toromont's customers export products to the U.S., or sell products based on the US dollar.  A 
+strengthening  Canadian  dollar  can  negatively  impact  their  overall  competitiveness  and  demand  for  their 
+products, which in turn may reduce product purchases from Toromont.
+
+30
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Interest Rate
+
+Changes  in  market  interest  rates  can  cause  fluctuations  in  the  fair  value  or  future  cash  flows  of  financial 
+instruments. 
+
+The Company has exposure to changes in interest rates on interest-bearing financial liabilities, primarily from 
+long-term  debt.  The  Company  has  fixed-rate  debt  obligations  outstanding  with  maturities  in  2025  and  2027. 
+Fixed-rate debt exposes the Company to future interest rate movements upon refinancing the debt at maturity. 
+The fair value of fixed-rate debt obligations fluctuates with changes in interest rates, exposing the Company to 
+potential losses on early settlements or refinancing. The Company does not intend to settle or refinance any 
+existing fixed-rate debt before maturity.
+
+The  Company's  revolving  credit  facilities  bear  interest  at  floating-rates  and  exposes  the  Company  to 
+fluctuations in short-term interest rates by causing related interest payments and finance expense to vary. 
+
+The Company minimizes its interest rate risk by managing its portfolio of floating-and fixed-rate debt, as well as 
+managing the term to maturity.
+
+The Company is exposed to changes in interest rates on interest bearing financial assets, primarily cash and 
+cash equivalents. Due to the short-term nature of cash and cash equivalents, the impact of fluctuations in fair 
+value is limited but interest income earned can be impacted.   
+
+Liquidity Risk
+
+Liquidity  risk  is  the  risk  that  we  will  not  be  able  to  meet  our  financial  obligations  as  they  become  due.  The 
+Company follows an active cash management program including continuous monitoring of actual and forecast 
+cash flows. The Company also maintains syndicated credit facilities, and holds cash balances to provide added 
+liquidity. Based on cash balances on hand, the availability of credit facilities, expected cash flow generation of 
+operations, and the discretionary nature of some cash outflows, such as rental and capital expenditures, the 
+Company expects to continue to have sufficient liquidity to meet operational needs.
+
+The Company will also require capital to finance future growth and to refinance outstanding debt obligations as 
+they  come  due  for  repayment.  If  the  cash  generated  from  the  Company's  business,  together  with  the  credit 
+available under existing bank facilities, are not sufficient to fund future capital requirements, the Company will 
+require  additional  debt  or  equity  financing  in  the  capital  markets.  The  Company's  ability  to  access  capital 
+markets, on terms that are acceptable, will be dependent upon prevailing financial market conditions, as well 
+as the Company's current and expected future financial condition. Further, the Company's ability to increase its 
+debt  financing  may  be  limited  by  existing  financial  covenants  or  credit  rating  objectives.  The  Company 
+maintains  a  conservative  leverage  structure  and  although  it  does  not  anticipate  difficulties,  there  can  be  no 
+assurance  that  capital  will  be  available  on  suitable  terms  and  conditions,  or  that  borrowing  costs  and  credit 
+ratings will not be adversely affected.
+
+Growth Initiatives
+
+The  Company's  Strategic  Plan  establishes  priorities  for  growth,  including  organic  growth  and  strategic 
+acquisitions. 
+
+We have strategic initiatives underway, designed to improve our market competitiveness, and our operational 
+and financial performance. These initiatives include enhancing our customers' experience including expanding 
+our  product  offering;  operational  excellence  and  sharing  of  best  practices  across  our  decentralized 
+
+31
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+organization; continuous investment and improvement in systems and processes to reduce cost-to-serve and 
+provide  value-added  information;  and,  improving  employee  relations  and  engagement.  Failure  to  effectively 
+execute  on these initiatives may result in the inability to obtain desired business results and could adversely 
+affect our business, results of operations and financial condition. 
+
+Climate Change
+
+Toromont  is  committed  to  monitoring,  reporting  and  reducing  greenhouse  gas  ("GHG")  emissions  of  our 
+operations. Further, we see ourselves as valuable partners to our customers to help them reduce their carbon 
+emissions and build resilience into their own operations. 
+
+Our service facilities and fleets of vehicles, generate direct GHG emissions (Scope 1) from fuel combustion in 
+our fleet, natural gas use for heating facilities, and diesel use for engine and transmission diagnostics. We also 
+generate  indirect  GHG  emissions  (Scope  2)  from  purchased  electricity.  Our  strategy  to  address  the  climate 
+change challenge is to focus on monitoring and reducing our emissions and to offer and develop products and 
+services that help our customers further decarbonize their operations. Focus in this area is viewed as a shared 
+responsibility among our employees and is an important part of our corporate culture.
+
+Our principal climate-related risks are categorized into risks related to the transition to a lower carbon economy 
+(transition  risks)  and  physical  risks  resulting  from  climate  change  (physical  risks)  which  may  impact  our 
+operations and facilities. 
+
+Government and Other Regulation
+
+Our  business  and  customers  are  subject  to  evolving  law,  regulation,  and  intervention  by  governments  at  the 
+federal,  provincial,  state,  and  municipal  levels  in  the  countries  where  we  and  they  conduct  operations.  The 
+nature  and  magnitude  of  regulatory  risks  has  the  potential  to  change  over  time,  and  have  the  potential  to 
+impact  our  existing  and  planned  projects  as  well  as  impose  costs  of  compliance  and  increase  capital 
+expenditures and operating expenses. In addition, changes to laws and regulations may impact our customers 
+in ways that affect their demand for our products. Amendments to, or more stringent implementation of current 
+laws  and  regulations  governing  our  operations,  or  the  operations  of  our  customers  could  have  a  material 
+adverse effect on our business, operating results or financial position. In addition, noncompliance with laws and 
+regulations could significantly damage, and require us to spend substantial amounts of money to rebuild, our 
+reputation and negatively impact our business.
+
+Our operations expose Toromont to liability for environmental contamination, which may render the Company 
+liable  for  remediation  costs,  natural  resource  damages  and  other  damages  as  a  result  of  conduct  that  was 
+lawful at the time it occurred or the conduct of, or conditions caused by, prior owners, operators or other third 
+parties.  In  addition,  where  contamination  may  be  present,  it  is  not  uncommon  for  neighbouring  land  owners 
+and  other  third  parties  to  file  claims  for  personal  injury,  property  damage  and  recovery  of  response  costs. 
+Toromont  maintains  an  environmental  management  program  that  includes  robust  policies  and  procedures, 
+training and audit and compliance processes. We retain environmental engineering consultants to conduct the 
+following activities: environmental site assessments prior to the acquisition or occupation; ongoing monitoring 
+of soil and groundwater contamination; and remediation of contaminated sites. There can be no assurance that 
+any  future  incidents,  emissions  or  spills  will  not  result  in  a  material  adverse  effect  on  Toromont’s  results  of 
+operations  or  cash  flows.  Management  is  not  aware  of  any  material  environmental  concerns  for  which  a 
+provision has not been recorded.
+
+We  have  in  place,  in  each  of  our  business  units,  programs  for  monitoring  and  compliance  to  ensure  that  we 
+meet  or  exceed  applicable  laws  and  regulatory  requirements.  In  addition,  our  Board  has  established  and 
+
+32
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+maintains the Human Resources and Health and Safety Committee, the Environment, Social and Governance 
+Committee, and the Audit Committee to oversee, monitor, and report to the Board on compliance matters. More 
+information  about  the  mandates  of  these  committees  may  be  found  in  our  most  recent  Management  Proxy 
+Circular,  which  can  be  found  on  our  website  www.toromont.com  or  under  our  profile  on  SEDAR  at 
+www.sedar.com. No assurance can be given that these steps will be successful in completely mitigating these 
+risks and ensuring we meet all applicable laws and regulatory requirements.
+
+Information Technology 
+
+The Company depends on information technology infrastructure and systems, hosted internally or outsourced, 
+to  conduct  day-to-day  operations  and  for  the  effective  operation  of  our  business.  Our  business  also  requires 
+the appropriate and secure utilization of sensitive and confidential information belonging to third parties such as 
+our  customers  and  suppliers.  While  we  strive  to  leverage  technology  to  meet  the  growing  needs  of  our 
+customers and enhance the efficiency of our operations, it nevertheless comes with information risks.
+
+The integrity, reliability and availability of technology and the data processed by that technology is an integral 
+part of our business processes, including marketing of equipment and support services, inventory and logistics 
+optimization, business intelligence and finance. Some of these systems are integrated with our suppliers and 
+other partners’ core processes and systems. 
+
+Toromont  continues  to  invest  in  information  systems  to  improve  business  performance  through  our  internal 
+transactional  systems  and  install  or  upgrade  various  business  process  enablement  and  decision  support 
+systems  as  appropriate  on  a  continuous  basis.  These  system  implementations  often  drive  business  process 
+changes as well as technology changes.
+
+Information  systems,  technology  and  business  process  changes,  and  related  organizational  change,  often 
+carry a risk of business disruption, failure to achieve expected business benefits, cost overruns and ineffective 
+design  and  operation  of  systems  of  internal  control  over  financial  reporting  and  disclosure  controls  and 
+procedures.  Benefits  assessment,  change  management,  risk  and  impact  assessments,  solution  validation, 
+strong project governance, communication and training have been identified as critical success factors in the 
+successful implementation of new systems. Any disruptions to these systems or the failure of these systems to 
+operate  as  expected,  or  any  failure  to  appropriately  adapt  to  business  process  changes,  could  adversely 
+impact our operating results by limiting our ability to effectively monitor and control our operations. 
+
+In  addition,  new  digital  and  other  technologies  and  advancements  to  equipment  in  the  market,  such  as 
+equipment electrification, can become disruptive to our operations, market share and business model. We scan 
+continuously  for  emerging  digital  and  other  technologies  and  equipment  advancements  and  their  potential 
+impacts.  In  order  to  face  this  disruption  risk,  our  digital  and  technology  solutions  initiatives  are  focused  on 
+investigating emerging digital technologies to determine how they can impact customers and our core business 
+opportunities, improving the customer experience, and identifying and pursuing new opportunities for revenue 
+generation in the digitally enabled value-added services area. While execution performance to date has been 
+strong, our failure to meet these objectives could have an adverse impact on our business. 
+
+A rigorous management process is followed to manage these risks and a great deal of the business processes 
+and  systems  transformation  program  focus  is  on  developing  capabilities  to  reduce  and  mitigate  these  risks, 
+however, there is no certainty that these risks can be sufficiently reduced or mitigated.
+
+33
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Cybersecurity
+
+Cybersecurity  incidents  related  to  our  information  technology  systems  are  a  threat  to  the  integrity,  reliability, 
+and  availability  of  technology  and  data.  Cybersecurity  incidents  may  take  the  form  of  malware,  computer 
+viruses, cyber threats, cyber extortion, employee error, malfeasance, system errors and other types of security 
+and  data  breaches  and  may  arise  from  inside  and  outside  of  our  organization.  Cybersecurity  incidents  could 
+also  target  customer  data  or  the  security,  integrity  and/or  reliability  of  the  hardware  and  software  installed  in 
+products we sell or service. We rely heavily on information technology systems, some of which are managed 
+by  third  parties,  to  process,  transmit  and  store  electronic  information,  including  personally  identifiable 
+information, credit card payment data and other sensitive customer and employee information, and to manage 
+or support a variety of critical business processes and activities.
+
+The Company continues to monitor and enhance its defenses and procedures to prevent, detect, respond to 
+and  manage  these  threats,  which  are  constantly  evolving,  however  there  can  be  no  assurance  these  efforts 
+and measures will be able to prevent all cybersecurity incidents. Disruption to information systems or breaches 
+of  security  could  result  in  a  negative  impact  on  the  Company's  financial  results  or  result  in  reputational 
+damage, including the following: disruption of our business operations and lost revenue; unauthorized access 
+to, or destruction, loss, theft, misappropriation or release of, our proprietary, confidential, sensitive or otherwise 
+valuable  information  or  that  of  our  customers,  suppliers  or  employees,  which  could  be  used  for  disruptive  or 
+otherwise  harmful  purposes;  disruptions  in  the  functioning  or  operation  of  equipment,  which  could  lead  to 
+property loss or damage or personal injury or death; damage to our reputation with our customers, partners, 
+suppliers, investors and the general public; a disruption to the proper functioning of our information technology 
+systems;  potential  significant  expenditures  related  to  remediation;  investigations  by  regulatory  agencies  or 
+litigation, claims and liability for breach of contract, damages or other penalties; inability to process customer 
+transactions or service customers; and/or disruptions to inventory management. 
+
+To  mitigate  information  security  risks,  the  Company,  through  a  dedicated,  full-time  team  of  cybersecurity 
+professionals, undertakes preventative measures, including controlling access to its network and applications 
+using  secure  firewalls  and  limiting  access  to  an  "as-needed"  basis. To  identify  information  security  risks,  the 
+company uses various detection methods, including monitoring event logs for firewalls, server, mail systems, 
+and applications. Third-party experts are utilized to perform testing and assessments. The Company provides 
+regular and mandatory information security training to employees as applicable and appropriate. The Company 
+maintains an insurance policy with coverage for information security risk. 
+
+The  security  of  the  Company's  data  and  other  information  is  one  of  the  operational  risks  overseen  by  the 
+Board.  Three  members  of  the  Board  have  knowledge  and  experience  in  technology,  including  cyber  risk. 
+Management reports to the Board regularly on information technology and security matters. 
+
+Risk  and  exposure  to  these  matters  cannot  be  fully  mitigated  because  of,  among  other  things,  the  evolving 
+nature  of  these  threats.  As  a  result,  cybersecurity  and  the  continued  development  and  enhancement  of 
+controls,  processes,  practices  and  training  designed  to  protect  systems,  computers,  software,  data  and 
+networks  from  attack,  damage  or  unauthorized  access  remain  a  priority.  To  date,  the  Company  has  not 
+experienced  any  material  losses  relating  to  cyber-attacks  or  other  information  security  breaches;  however, 
+there can be no assurance that we will not incur such losses in the future.
+
+Business Continuity Risks
+
+The  occurrence  of  one  or  more  natural  or  man-made  disasters,  such  as  earthquakes,  floods,  hurricanes, 
+unusually  adverse  weather,  health  pandemic  outbreaks,  boycotts,  security  breach,  power 
+loss, 
+telecommunications  failure,  and  geo-political  events  in  countries  in  which  we  supply  or  sell  goods,  could 
+
+34
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+materially adversely affect our business, people, customers and financial results. We maintain and continue to 
+enhance our business continuity program to address and mitigate, to the extent possible, the impact of these 
+risks.  Our  decentralized  operations  provides  certain  coverage  in  the  case  of  localized  issues.  However,  no 
+such  plan  can  eliminate  the  risks  associated  with  events  of  this  nature,  which  could  still  have  a  material 
+adverse impact on our business, results of operations and financial condition.
+
+Pandemic Risk (Coronavirus COVID-19)
+
+A pandemic, including the COVID-19 pandemic, can create significant volatility and uncertainty and economic 
+disruption. 
+
+COVID-19 is a persisting risk, the duration and impact of which remains uncertain at this time. Any estimate of 
+the  extent  to  which  the  COVID-19  pandemic  may,  directly  or  indirectly,  materially  and  adversely  affect  the 
+Company’s  operations,  financial  results  and  condition  in  future  periods  are  also  subject  to  significant 
+uncertainty.
+
+A pandemic has and could exacerbate or amplify other risks and uncertainties facing the Company. Such risks 
+include, but are not limited to:
+
+•
+
+•
+•
+•
+
+•
+
+•
+
+•
+
+•
+
+uncertainty associated with the costs and ability of resources, including technicians, required to provide 
+the appropriate/required levels of service to our customers on site;
+a material reduction in demand for, or profitability of, our products or services; 
+an increase in accounts receivable delinquencies from financial hardship for our customers;
+issues  delivering  the  Company’s  products  and  services  due  to  illness,  Company  or  government 
+imposed  isolation  programs,  restrictions  on  the  movement  of  personnel  and  other  supply  chain 
+disruptions;
+increase  in  exposure  to  and  reliance  on  networked  systems  and  the  internet  increasing  risk  and 
+frequency of cybersecurity incidents;
+the  impact  of  additional  legislation,  regulation  and  other  government  interventions  in  response  to  the 
+COVID-19 pandemic;
+the  negative  impact  on  global  debt  and  equity  capital  markets,  including  the  trading  price  of  the 
+Company’s securities; and
+the ability to access capital markets at a reasonable cost.
+
+Any  of  these  risks,  and  others,  could  have  a  material  adverse  effect  on  our  business,  operations,  capital 
+resources and/or financial results of operations.
+
+The Company continues to focus on ensuring the continued safety of our employees, while continuing to serve 
+our customers' needs as an essential service, and protecting the business and organization for the long-term. 
+The  Critical  Incident  Executive  Response  Team  remains  in  effect  and  focuses  on  monitoring  and  assessing 
+developments  in  our  markets  and  operations,  and  developing  appropriate  plans  in  response.  Updates  are 
+provided to employees on a frequent basis, including general information as well as specific safety protocols in 
+place.  The  Company  continues  to  have  an  open  dialogue  with  public  safety  and  government  officials  at  all 
+levels, as well as customers, key suppliers and other partners.
+
+SIGNIFICANT ACCOUNTING POLICIES AND ESTIMATES 
+
+The  preparation  of  the  Company's  consolidated  financial  statements  in  conformity  with  IFRS  requires 
+management  to  make  judgments,  estimates  and  assumptions  that  affect  the  reported  amounts  of  revenue, 
+
+35
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+expenses, assets and liabilities, and the disclosure of contingent liabilities, at the end of the reporting period. 
+However, uncertainty about these assumptions and estimates could result in outcomes that require a material 
+adjustment to the carrying amount of the asset or liability affected in future periods. 
+
+In making judgments, estimates and assumptions, management relies on external information and observable 
+conditions where possible, supplemented by internal analysis as required. Management reviews its estimates 
+and judgments on an ongoing basis. The Company has discussed the development, selection, and application 
+of  its  key  accounting  policies,  and  the  critical  accounting  estimates  and  assumptions  they  involve,  with  the 
+Audit Committee.
+
+Toromont's  significant  accounting  policies  and  significant  accounting  estimates,  assumptions  and  judgments 
+are  described  in  the  consolidated  financial  statements.  Refer  to  notes  2  and  3  of  the  audited  consolidated 
+financial statements. 
+
+Changes in Accounting Policies  
+
+The  Company  has  not  early-adopted  any  standard,  interpretation  or  amendment  that  has  been  issued  but  is 
+not yet effective. The following standard amendment has been adopted by the Company on January 1, 2022:
+
+IAS 37, Provisions, Contingent Liabilities and Contingent Assets – The IASB issued amendments to IAS 37 to 
+clarify  costs  to  be  included  when  determining  if  a  contract  is  onerous.  Costs  that  relate  directly  to  a  contract 
+can  either  be  incremental  costs  of  fulfilling  that  contract  or  an  allocation  of  other  costs  that  relate  directly  to 
+fulfilling contracts.
+
+The  implementation  of  this  standard  amendment  did  not  have  a  significant  impact  on  the  Company's 
+consolidated financial statements.
+
+Amendments Issued but Not Effective 
+
+A number of amendments to standards have been issued but are not yet effective for the financial year ended 
+December  31,  2022,  and  accordingly,  have  not  been  applied  in  preparing  these  consolidated  financial 
+statements. Information on new standards, amendments and interpretations that are expected to  be  relevant  
+to    the    Company's    consolidated  financial    statements    is    provided    below.  Certain    other    new    standards,  
+amendments and interpretations to existing standards may have been issued but are not expected to have a 
+material  impact  to  the  Company's  consolidated  financial  statements.  The  Company  is  in  the  process  of 
+reviewing  these  amendments  to  determine  the  impact  on  the  consolidated  financial  statements.  Based  upon 
+our current facts and circumstances, we do not expect our financial performance or disclosure to be materially 
+affected by the application of the amended standards.
+
+IFRS  1,  Presentation  of  Financial  Statements  –  Effective  for  annual  periods  beginning  on  or  after 
+January 1, 2023, the IASB issued amendments to IFRS 1 to allow a more general approach in classification of 
+liabilities as current and non-current. 
+
+IAS  8,  Accounting  Policies,  Changes  in  Accounting  Estimates  and  Errors  –  Effective  for  annual  periods 
+beginning on or after January 1, 2023, these amendments introduce a definition of 'accounting estimates' and 
+clarify  the  difference  between  changes  in  accounting  policies  and  changes  in  accounting  estimates.  These 
+amendments will impact changes in accounting policies and changes in accounting estimates made after these 
+amendments are adopted by the Company.
+
+36
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+IAS 12, Income Taxes – Effective for annual periods beginning on or after January 1, 2023, these amendments 
+clarify  how  companies  should  account  for  deferred  tax  related  to  assets  and  liabilities  arising  from  a  single 
+transaction, such as leases and decommissioning obligations. The amendments narrow the scope of the initial 
+recognition exemption so that it does not apply to transactions that give rise to equal and offsetting temporary 
+differences. As a result, companies will need to recognize a deferred tax asset and a deferred tax liability for 
+temporary differences arising on initial recognition of the related asset and liability. 
+
+CONTROLS AND PROCEDURES 
+
+Disclosure Controls and Procedures
+
+Management, under the supervision of the President and Chief Executive Officer ("CEO") and Executive Vice 
+President  and  Chief  Financial  Officer  ("CFO"),  is  responsible  for  establishing  and  maintaining  disclosure 
+controls  and  procedures,  as  defined  in  National  Instrument  52-109  –  Certification  of  Disclosure  in  Issuers' 
+Annual and Interim Filings, and have designed such disclosure controls and procedures, or have caused it to 
+be designed under their supervision, to provide reasonable assurance that material information with respect to 
+Toromont is made known to them.
+
+The CEO and the CFO, together with other members of management, have evaluated the effectiveness of the 
+Company’s disclosure controls and procedures. Based on that evaluation, the CEO and CFO concluded that 
+the Company's disclosure controls and procedures were effective as at December 31, 2022.
+
+Internal Control over Financial Reporting
+
+Management,  under  the  supervision  of  the  CEO  and  CFO,  is  responsible  for  establishing  and  maintaining 
+adequate internal control over financial reporting, as defined by National Instrument 52-109 – Certification of 
+Disclosure  in  Issuers'  Annual  and  Interim  Filings,  and  have  designed  such  internal  control  over  financial 
+reporting, or caused it to be designed under their supervision, to provide reasonable assurance regarding the 
+reliability of financial reporting and the preparation of financial statements in accordance with IFRS. 
+
+The CEO and the CFO, together with other members of management, have evaluated the effectiveness of the 
+Company's  internal  control  over  financial  reporting  as  at  December  31,  2022,  using  the  criteria  set  forth  in 
+Internal Control – Integrated Framework (2013 edition) issued by the Committee of Sponsoring Organizations 
+of  the  Treadway  Commission.  Based  on  that  evaluation,  the  CEO  and  CFO  concluded  that  the  Company's 
+internal control over financial reporting was effective as at December 31, 2022.
+
+There  have  been  no  changes  in  the  design  of  the  Company's  internal  control  over  financial  reporting  during 
+2022  that  would  materially  affect,  or  are  reasonably  likely  to  materially  affect,  the  Company's  internal  control 
+over financial reporting. 
+
+Due to its inherent limitations, internal control over financial reporting may not prevent or detect misstatements 
+on  a  timely  basis.  Also,  a  projection  of  the  evaluation  of  the  effectiveness  of  internal  control  over  financial 
+reporting to future periods is subject to the risk that the controls may become inadequate because of changes 
+in conditions, or that the degree of compliance with the policies or procedures may deteriorate. Therefore, even 
+those systems determined to be effective can provide only reasonable assurance with respect to the financial 
+statement preparation and presentation. Internal controls over financial reporting may not prevent all errors and 
+fraud. A control system, no matter how well conceived or operated, can only provide reasonable, not absolute, 
+assurance that the objectives of the control system are met. 
+
+37
+
+Toromont Industries Ltd.
+
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+ADDITIONAL GAAP MEASURES
+
+IFRS mandates certain minimum line items for financial statements and also requires presentation of additional 
+line items, headings and subtotals when such presentation is relevant to an understanding of the Company's 
+financial  position  or  performance.  IFRS  also  requires  the  notes  to  the  financial  statements  to  provide 
+information that is not presented elsewhere in the financial statements, but is relevant to understanding them. 
+Such measures outside of the minimum mandated line items are considered additional GAAP measures. The 
+Company's  consolidated  financial  statements  and  notes  thereto  include  certain  additional  GAAP  measures 
+where management considers such information to be useful to the understanding of the Company's results.
+
+Gross Profit
+
+Gross Profit is defined as total revenue less cost of goods sold. 
+
+Operating Income
+
+Operating  income  is  defined  as  net  earnings  before  interest  expense,  interest  and  investment  income  and 
+income taxes and is used by management to assess and evaluate the financial performance of its operating 
+segments. Financing and related interest charges cannot be attributed to business segments on a meaningful 
+basis that is comparable to other companies. Business segments do not correspond to income tax jurisdictions 
+and it is believed that the allocation of income taxes distorts the historical comparability of the performance of 
+the business segments.
+
+($ thousands)
+Net earnings
+
+plus:  Interest expense
+less:  Interest and investment income
+plus:  Income taxes
+
+Operating income
+
+Three months ended
+December 31
+2021
+
+2022
+
+$ 
+
+$ 
+
+159,862 
+6,786 
+(8,799) 
+54,633 
+212,482 
+
+$ 
+
+$ 
+
+105,590 
+6,889 
+(2,827) 
+39,118 
+148,770 
+
+$ 
+
+$ 
+
+Years ended
+December 31
+2021
+
+332,710 
+28,161 
+(9,027) 
+124,093 
+475,937 
+
+2022
+
+454,198 
+27,338 
+(22,232) 
+164,865 
+624,169 
+
+$ 
+
+$ 
+
+Total revenue
+Operating income margin
+
+$  1,150,097 
+
+$ 
+
+956,035 
+
+$  4,230,736 
+
+$  3,886,537 
+
+ 18.5 %
+
+ 15.6 %
+
+ 14.8 %
+
+ 12.2 %
+
+Net Debt to Total Capitalization/Equity
+
+Net debt to total capitalization/equity are calculated as net debt divided by total capitalization and shareholders' 
+equity, respectively, as defined below, and are used by management as measures of the Company’s financial 
+leverage. 
+
+Net debt is calculated as long-term debt plus current portion of long-term debt less cash and cash equivalents. 
+Total capitalization is calculated as shareholders' equity plus net debt. 
+
+38
+
+Toromont Industries Ltd.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+The calculations are as follows: 
+
+($ thousands)
+Long-term debt
+
+less:  Cash and cash equivalents
+
+Net debt
+
+Shareholders' equity
+Total capitalization
+
+Net debt to total capitalization
+Net debt to equity
+
+NON-GAAP MEASURES
+
+$ 
+
+2022
+
+2021
+
+$ 
+
+647,060 
+927,780 
+(280,720) 
+
+646,337 
+916,830 
+(270,493) 
+
+2,325,359 
+2,044,639 
+
+$ 
+
+1,953,329 
+1,682,836 
+
+ (14) %
+(0.12) :1  
+
+ (16) %
+(0.14) :1
+
+Management  believes  that  providing  certain  non-GAAP  measures  provides  users  of  the  Company's  audited 
+consolidated financial statements with important information regarding the operational performance and related 
+trends of the Company's business. By considering these measures in combination with the comparable IFRS 
+measures set out below, management believes that users are provided a better overall understanding of the 
+Company's business and its financial performance during the relevant period than if they simply considered the 
+IFRS measures alone.
+
+The  non-GAAP  measures  used  by  management  do  not  have  any  standardized  meaning  prescribed  by  IFRS 
+and are therefore unlikely to be comparable to similar measures presented by other issuers. Accordingly, these 
+measures should not be considered as a substitute or alternative for net income or cash flow, in each case as 
+determined in accordance with IFRS.
+
+Working Capital
+
+Working  capital  is  defined  as  total  current  assets  less  total  current  liabilities.  Management  views  working 
+capital as a measure for assessing overall liquidity. 
+
+($ thousands)
+Total current assets
+
+less:  Total current liabilities
+
+Working capital
+
+2022
+2,569,195  $ 
+1,056,739   
+1,512,456  $ 
+
+2021
+2,108,441 
+813,702 
+1,294,739 
+
+$ 
+
+$ 
+
+39
+
+Toromont Industries Ltd.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Non-Cash Working Capital 
+
+Non-cash  working  capital  is  defined  as  total  current  assets,  excluding  cash  and  cash  equivalents,  less  total 
+current liabilities, excluding current portion of long-term debt, if applicable. 
+
+($ thousands)
+Total current assets
+
+less:  Cash and cash equivalents
+
+Total current liabilities
+
+Non-cash working capital
+
+$ 
+
+2022
+2,569,195  $ 
+927,780   
+1,641,415   
+
+2021
+2,108,441 
+916,830 
+1,191,611 
+
+1,056,739   
+
+813,702 
+
+$ 
+
+584,676  $ 
+
+377,909 
+
+Market Capitalization & Total Enterprise Value
+
+Market capitalization represents the total market value of the Company's equity. It is calculated by multiplying 
+the closing share price of the Company's common shares by the total number of common shares outstanding. 
+
+Total enterprise value represents the total value of the Company and is often used as a more comprehensive 
+alternative  to  market  capitalization.  It  is  calculated  by  adding  debt/net  debt  (defined  above)  to  market 
+capitalization. 
+
+The calculations are as follows:
+
+($ thousands, except for shares and share price)
+Outstanding common shares
+times:  Ending share price
+
+Market capitalization
+
+Long-term debt
+
+less:  Cash and cash equivalents
+
+Net debt
+
+Total enterprise value
+
+2022
+
+82,318,159   
+
+97.71  $ 
+8,043,307  $ 
+
+2021
+82,443,968 
+114.36 
+9,428,292 
+
+647,060  $ 
+927,780   
+(280,720) $ 
+
+646,337 
+916,830 
+(270,493) 
+
+7,762,587  $ 
+
+9,157,799 
+
+$ 
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+KEY PERFORMANCE INDICATORS ("KPIs")
+
+Management uses key performance indicators to enable consistent measurement of performance across the 
+organization. These KPIs are non-GAAP financial measures, do not have a standardized meaning under IFRS 
+and may not be comparable to similar measures presented by other issuers. 
+
+Gross Profit Margin
+
+This measure is defined as gross profit (defined above) divided by total revenue.
+
+Operating Income Margin
+
+This measure is defined as operating income (defined above) divided by total revenue. 
+
+40
+
+Toromont Industries Ltd.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOROMONT INDUSTRIES LTD.  
+Management Discussion and Analysis – 2022  
+
+Order Bookings and Backlog
+
+Order bookings represent the retail value of firm equipment or project orders received during a period. Backlog 
+is defined as the retail value of equipment units ordered by customers with future delivery, and the remaining 
+retail  value  of  package/project  orders  remaining  to  be  recognized  in  revenue  under  the  percentage  of 
+completion method. Management uses order backlog as a measure of projecting future equipment and project 
+deliveries. There are no directly comparable IFRS measures for order bookings or backlog. 
+
+Return on Capital Employed ("ROCE")
+
+ROCE  is  utilized  to  assess  both  current  operating  performance  and  prospective  investments.  The  adjusted 
+earnings  numerator  used  for  the  calculation  is  income  before  income  taxes,  interest  expense  and  interest 
+income (excluding interest on rental conversions). The denominator in the calculation is the monthly average 
+capital employed, which is defined as net debt plus shareholders' equity, also referred to as total capitalization. 
+
+($ thousands)
+Net earnings
+
+plus:  Interest expense
+less:  Interest and investment income
+plus:  Interest income – rental conversions
+plus:  Income taxes
+Adjusted net earnings
+
+Average capital employed
+
+Return on capital employed
+
+Return on Equity ("ROE")
+
+2022
+
+2021
+
+$ 
+
+$ 
+
+454,198 
+27,338 
+(22,232) 
+4,760 
+164,865 
+628,929 
+
+$ 
+
+$ 
+
+332,710 
+28,161 
+(9,027) 
+2,635 
+124,093 
+478,572 
+
+$ 
+
+1,944,501 
+
+$ 
+
+1,796,703 
+
+ 32.3 %
+
+ 26.6 %
+
+ROE  is  monitored  to  assess  profitability  and  is  calculated  by  dividing  net  earnings  by  opening  shareholders' 
+equity (adjusted for shares issued and shares repurchased and cancelled during the year).
+
+($ thousands)
+Net earnings
+
+2022
+
+2021
+
+$ 
+
+454,198 
+
+$ 
+
+332,710 
+
+Opening shareholder's equity (net of adjustments)
+
+$ 
+
+1,935,365 
+
+$ 
+
+1,695,008 
+
+Return on equity
+
+ 23.5 %
+
+ 19.6 %
+
+41
+
+Toromont Industries Ltd.
