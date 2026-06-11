@@ -1,6 +1,6 @@
-yfinance==0.2.54
-pandas==2.2.2
-numpy==1.26.4
+yfinance>=0.2.54
+pandas>=2.2.2
+numpy>=1.26.4
 pdfminer.six==20231228
 langchain==0.3.0
 langchain-community==0.3.0
