@@ -16,7 +16,7 @@ st.subheader("Do corporate disclosures predict Canada's macroeconomic trends?")
 # ── Key metrics row ───────────────────────────────────────────────────────────
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("TSX Companies", "50", help="Annual financials from yfinance")
-c2.metric("Sectors", "11", help="GICS sector classification")
+c2.metric("Sectors", "8", help="GICS sector classification")
 c3.metric("MD&A Documents", "36", help="English annual reports from SEDAR+")
 c4.metric("Years Covered", "2022 – 2024", help="Financial + macro data")
 
